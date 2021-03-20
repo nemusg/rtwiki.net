@@ -1,0 +1,269 @@
+* イベントエリア/炎氷の狭間 [#zd9c1526]
+// #contents
+
+** 炎氷の狭間 [#gb6f123a]
+ 炎氷の狭間 - 6ユニットPTクエストエリア
+ 
+ エリア説明文:
+ 火の山と氷の山を臨むとある村の出来事。神話の中で存在した憎悪が、今解き放たれる。
+ 
+ イベント説明文:
+ 荒れ狂う獄炎竜と氷晶竜、その先に現れし者とは……！？
+ 
+ エリア目標:
+ 12:虹色水晶
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''炎氷の神アポロン'''>#za2491f0]]''|14|27|700|18000|-|BGCOLOR(#a6f1f1):属性:水 種族:神&br;攻撃:72700/2T&br;&color(red){※1};防御力高め&br;&color(red){※2};特性持ち&br;|超悪いよりしろ&br;|-&br;|金:残りソウル20以上&br;銀:ノーコン&br;銅:ボス撃破&br;|初期Soul値:14&br;[exp/sta]:25.9&br;|
+|''[['''氷晶竜、再臨'''>#j29d7543]]''|13|25|550|15000|-|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:75780/2T&br;&color(red){※1};防御力高め&br;&color(red){※2};特性持ち&br;|清濁のよりしろ&br;|清濁のよりしろ&br;|金:残りソウル25以上&br;銀:[炎精霊]ジン(★6)を入れて&br;銅:ボス撃破&br;|初期Soul値:14&br;[exp/sta]:22.0&br;|
+|''[['''獄炎竜、再来'''>#b43ccc5b]]''|13|25|550|15000|-|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:53040/2T&br;&color(red){※1};防御力少し高め&br;&color(red){※2};特性持ち&br;|炎火のよりしろ&br;|炎火のよりしろ&br;|金:ノーダメ&br;銀:[氷精霊]シヴァ(★6)を入れて&br;銅:ボス撃破&br;|初期Soul値:14&br;[exp/sta]:22.0&br;|
+|''[['''神話ノ中デ叶エシモノ'''>#g2fb5d6d]]''|24|21|300|12000|火水|BGCOLOR(#f1bba6):属性:火 種族:神&br;攻撃:32710/2T&br;;&color(red){※1};防御力少し高め&br;&color(red){※2};特性持ち&br;|炎火のよりしろ&br;|悪いよりしろ&br;炎火のよりしろ&br;|金:AS使用5回以下&br;銀:エネミー10体以上撃破&br;銅:ボス撃破&br;|初期Soul値:14&br;[exp/sta]:14.3&br;|
+
+- [[開放履歴(炎氷の狭間)>#gd88dbaf]]
+- [[コメント(炎氷の狭間)>#uf819d3a]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+
+** クエスト詳細 [#b6936456]
+----
+*** 炎氷の神アポロン [#za2491f0]
+&color(black,#eeeeee){基本情報};
+:|
+距離:14 スタミナ:27 獲得EXP:700 獲得金額:18,000
+クリアボーナス:[望神]アポロン (Lv.1)
+:|チャレンジ目標:
+-- 金:残りSoulが''20以上''でクリア！
+-- 銀:''コンティニューなし''でクリア！
+-- 銅:''ボスを撃破！''
+:|解放条件:
+-- 「[['''氷晶竜、再臨'''>#j29d7543]]」をクリア
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[希神]アポロン''
+属性:&color(black,#a6f1f1){水}; 種族:神
+攻撃:72700/2T HP:約5,630,000 獲得Soul:10 獲得Gold:0
+特性:1以上のダメージを与えてきたとき、味方側のSoulを減少させる。(効果値: Soul -3)
+有効特効:対水属性 &color(red){※};防御力高め
+ドロップ:超悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};
+:|-
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:25.9
+獲得覚醒pt:?pt/1体
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/炎氷の狭間 > 炎氷の神アポロン'' - 簡易Map|
+|~(x,y)|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||11|10|09|08|07|06|05|04|03|02|01|B|
+|~+3|||||||||||||||B|
+|~+2|||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|B|
+|~+1||||→|BGCOLOR(#f1bba6):→|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):→|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~±0||||''Sta''|BGCOLOR(#f1bba6):→|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):→|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~-1||||→|BGCOLOR(#f1bba6):→|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):→|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~-2|||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|B|
+|~-3|||||||||||||||B|
+|~-4||||11|10|09|08|07|06|05|04|03|02|01|B|
+ -マップの見方-
+ Sta:スタート地点(Start) →:強制移動パネル
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 氷晶竜、再臨 [#j29d7543]
+&color(black,#eeeeee){基本情報};
+:|
+距離:13 スタミナ:25 獲得EXP:550 獲得金額:15,000
+クリアボーナス:なし
+:|チャレンジ目標:
+-- 金:残りSoulが''25以上''でクリア！
+-- 銀:''[炎精霊]ジン(★6)''をパーティーに入れてクリア！
+-- 銅:''ボスを撃破！''
+:|解放条件:
+-- 「[['''獄炎竜、再来'''>#b43ccc5b]]」をクリア
+
+&color(black,#eeeeee){ボスエネミー};
+:|''氷晶竜:セーレ lank.2''
+属性:&color(black,#a6f1f1){水}; 種族:ドラゴン
+攻撃:75780/2T HP:約5,380,000 獲得Soul:10 獲得Gold:0
+特性:1以上のダメージを与えてきたとき、味方側のSoulを減少させる。(効果値: Soul -4)
+有効特効:対龍 , 対水属性 &color(red){※};防御力高め
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:10210/3T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:15,000
+座標:(あと09マス,-2),(あと7マス,-4),(あと03マス,+3),(あと01マス,±0)
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|-
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:14
+[exp/sta]:22.0
+獲得覚醒pt:?pt/1体
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/炎氷の狭間 > 氷晶竜、再臨'' - 簡易Map|
+|~(x,y)|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~+3||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):金4|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+|~+2||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|B|
+|~+1||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+|~±0||||''Sta''|箱S|箱S|箱S|箱S|箱S|箱S|箱S|箱S|金4|B|
+|~-1||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+|~-2||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):金4|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|B|
+|~-3||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+|~-4||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):金4|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱P:Power箱 箱S:Soul箱
+ 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 獄炎竜、再来 [#b43ccc5b]
+&color(black,#eeeeee){基本情報};
+:|
+距離:13 スタミナ:25 獲得EXP:550 獲得金額:15,000
+クリアボーナス:なし
+:|チャレンジ目標:
+-- 金:''ノーダメージ''でクリア！
+-- 銀:''[氷精霊]シヴァ(★6)''をパーティーに入れてクリア！
+-- 銅:''ボスを撃破！''
+:|解放条件:
+-- 「[['''炎の大地'''>イベントエリア/炎の大地]]」と「[['''氷の大地'''>イベントエリア/氷の大地]]」の全クエストをクリア?
+
+&color(black,#eeeeee){ボスエネミー};
+:|''獄炎竜:フェニクス lank.2''
+属性:&color(black,#f1bba6){火}; 種族:ドラゴン
+攻撃:53040/2T HP:約3,970,000 獲得Soul:10 獲得Gold:0
+特性:攻撃後、たまに 70130/3T , 103560/4T , 137110/6T , 190850/8T の攻撃パターンで行動。
+有効特効:対龍 , 対火属性 &color(red){※};防御力少し高め
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:10270/2T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:15,000
+座標:(あと08マス,+2),(あと05マス,+3),(あと03マス,-3),(あと01マス,±0)
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){エネミー};
+:|-
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:14
+[exp/sta]:22.0
+獲得覚醒pt:?pt/1体
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:あり Soul:あり Unit:-
+:|簡易Map:
+&color(red){※};箱に情報抜けの可能性あり。
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/炎氷の狭間 > 獄炎竜、再来'' - 簡易Map|
+|~(x,y)|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+|~+3||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):金4|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱P|B|
+|~+2||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):金4|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~+1||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱S|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~±0||||''Sta''|箱S|箱S|箱S|箱S|箱S|箱S|箱S|箱S|金4|B|
+|~-1||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱S|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~-2||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~-3||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):箱S|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):金4|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~-4||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱P:Power箱 箱S:Soul箱
+ 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 神話ノ中デ叶エシモノ [#g2fb5d6d]
+&color(black,#eeeeee){基本情報};
+:|
+距離:24 スタミナ:21 獲得EXP:300 獲得金額:12,000
+クリアボーナス:なし
+:|チャレンジ目標:
+-- 金:アクティブスキルの使用を''5回以下''に抑えてクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:''ボスを撃破！''
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[望神]アポロン''
+属性:&color(black,#f1bba6){火}; 種族:神
+攻撃:32710/2T HP:約2,527,000 獲得Soul:10 獲得Gold:0
+特性:攻撃後、たまに 42750/3T , 54440/4T , 62420/5T いずれかの攻撃パターンで行動。
+有効特効:対火属性 &color(red){※};防御力少し高め
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:?/2T HP:?(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:15,000
+座標:(あと17マス,-2),(あと13マス,±0),(あと07マス,-2)
+ドロップ:炎火のよりしろ , 悪いよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};
+
+:|''牙獣 lank.1''(仮)
+攻撃:?/2T HP:?() 獲得Soul:2 獲得Gold:600
+ドロップ:?
+
+:|''亀 lank.1''(仮)
+攻撃:?/4T HP:?() 獲得Soul:2 獲得Gold:800
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:14
+[exp/sta]:14.3
+獲得覚醒pt:?pt/1体
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+
+----
+*** 開放履歴(炎氷の狭間) [#gd88dbaf]
+:2014/01/30(10:00)〜2014/02/03(10:00)|
+
+----
+* コメント(炎氷の狭間) [#uf819d3a]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

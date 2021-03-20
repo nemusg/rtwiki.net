@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2017/06/08 12:00:00,2017/06/18 23:59:59);[[モンスター育成スペシャル！（前半）:http://pad.gungho.jp/member/event/170608_monster_training.html]]

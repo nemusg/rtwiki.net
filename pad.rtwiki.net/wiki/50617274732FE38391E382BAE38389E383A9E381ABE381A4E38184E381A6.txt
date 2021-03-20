@@ -1,0 +1,24 @@
+** パズドラについて [#h5606e32]
+
+- 公式サイト [[（PC）:http://pad.gungho.jp/]] [[（SMT）:http://mobile.gungho.jp/details/pad.html]] [[パズドレ:http://padr.gungho.jp/]]
+- 運営サイト [[（PC＆SMT）:http://pad.gungho.jp/member/index.html]] [[パズドラW:http://pad.gungho.jp/wmember/index.html]]
+- iOS版ダウンロード [[（AppStore）:http://itunes.apple.com/jp/app/pazuru-doragonzu/id493470467]]
+- Android版ダウンロード [[（GooglePlay）:https://play.google.com/store/apps/details?id=jp.gungho.pad&hl=ja]][[Android版について>Tips/Android]]
+- KindleFire版ダウンロード [[（AmazonApps）:http://www.amazon.co.jp/gp/product/B00ANI9PIW/ref=mas_pm_puzzdra]]
+//- アプリ価格 無料
+- 公式Twitter [[pad_sexy:https://twitter.com/pad_sexy]] [[DaikeYamamoto:https://twitter.com/DaikeYamamoto]]
+- 公式Instagram [[puzzleanddragons_official:https://www.instagram.com/puzzleanddragons_official/]]
+- 販売業者 GungHo Online Entertainment, Inc.
+
+
+#div(start,cfx)
+#div(start,dvBox)
+#style(class=topList2){{
+- [[よくある質問>Tips/よくある質問]]
+- [[ツール]]
+- [[下書き]]
+}}
+#div(end)
+#div(end)
+
+RIGHT:&edit(Parts/パズドラについて,noicon){編集};

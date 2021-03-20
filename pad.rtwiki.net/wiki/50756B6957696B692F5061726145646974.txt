@@ -1,0 +1,103 @@
+#topicpath
+* PukiWiki における見出しブロック指向編集のためのパッチ。 [#td334cde]
+#contents
+
+* 概要 [#g4a8ab22]
+paraedit.inc.php と類似の機能である fixed_heading_anchor_edit の有効化パッチ。
+1.4.7_notb 対応版です。
+
+* 詳細 [#z6ce0961]
+paraedit.inc.php は PukiWiki でパラグラフ指向、
+正確には見出しブロック単位での編集を有効にするパッチです。
+
+類似機能の本体への取り込み作業が fixed_heading_anchor_edit というキーワードで
+1.4.5 近辺で行われていたようですが、現在、進行が保留となっているようです。
+このパッチは PukiWiki_1.4.7_notb に実装されかけている、
+fixed_heading_anchor_edit をとりあえず動作させるもので、
+PukiWiki-dev official site にある 
+[[para_edit.diff>http://pukiwiki.sourceforge.jp/dev/?PukiWiki%2F1.4%2F%A4%C1%A4%E7%A4%C3%A4%C8%CA%D8%CD%F8%A4%CB%2F%B8%AB%BD%D0%A4%B7%A4%B4%A4%C8%A4%CE%CA%D4%BD%B8%28fixed_anchor%C8%C7%29]]
+を、オフィシャルリリース最新の 1.4.7_notb に対応させたものです。（製造物というのはちょっとおこがましい気もしますが、配布管理、パッケージング、テスト、ドキュメンテーションなど、手間はそれなりにかけています。）
+
+知る限り、および、コードを読んでざっと試験した限り、実用上の深刻な問題はありません。
+
+なお、これらブロック単位での編集機能は 3-6 年ほど前に活発に議論されていたりしたようですが、
+最近はあまり動きが無いようです。興味があれば、後述する関連 URL で本家の議論などを漁ってみてください。
+
+* 主な仕様 [#c9ee1a1f]
+まず、patch コマンドを利用してパッチを当てるか、ファイルをパッチ済みのを置き換えます。
+パッチ適用後 pukiwiki.ini.php 中の $fixed_heading_anchor_edit を 1 （デフォルト）にすることで、
+見出しの右上に鉛筆アイコンが現れます。これをクリックすることで、その見出し部分のみの編集が可能となります。
+
+** 追加の仕様 [#f7f7d756]
+（多分？）ベースとした para_edit.diff に、以下の仕様を追加しました。
+- menubar に icon, anchor を表示しない
+
+** パッチによって編集されるファイル [#s731a1cf]
+- pukiwiki/pukiwiki.ini.php
+- pukiwiki/plugin/edit.inc.php
+- pukiwiki/plugin/menu.inc.php
+- pukiwiki/lib/convert_html.php
+- pukiwiki/lib/html.php
+- wiki の PukiWiki/ParaEdit ページ
+** パッチのあてかた [#l0ae2413]
+*** パッチファイルを利用する場合 [#y378eeef]
+ pukiwiki-1.4.7_notb_paraedit_enable_diff_...txt
+を取得。（既存の環境で無いならば）pukiwiki を展開
+ $ tar zxvf pukiwiki-1.4.7_notb.tar.gz
+パッチあて
+ $ cd pukiwiki-1.4.7_notb
+ $ patch -p0 < pukiwiki-1.4.7_notb_paraedit_enable_diff_...txt
+
+*** パッチ済みファイルを利用する場合 [#rf03501b]
+ pukiwiki-1.4.7_notb_paraedit_enable_diff_...zip
+を取得。
+ $ zip  pukiwiki-1.4.7_notb_paraedit_enable_diff_...zip
+で展開。ツリー状に展開されたファイルをそれぞれの場所に上書きし、
+pukiwiki.ini.php の任意の場所に、
+ $fixed_heading_anchor_edit = 1
+を追加。
+
+なお、pukiwiki.ini.php も同梱されているが、
+変更箇所は上記の一点のみなので上書きせずに手動編集することを推奨。
+
+** 既知の問題点 [#sda4b508]
+同一の anchor を持つ見出しがあると、先頭のものが選択されてしまいます。
+ * 見出し１ [#anchor1]
+  hogefuga
+ * 見出し２ [#anchor1]
+  hogefuga
+ * 見出し３ [#anchor1]
+  hogefuga
+この場合に、見出し２の鉛筆アイコンをクリックしても、
+見出し１が編集対象として選択されます。
+
+見出し１が編集された場合に見出し２、見出し３が削除されるようなことは無いですが、
+この一見不可思議で不便な挙動をとめるには、ソース中のアンカーを削除、
+または手動変更するなど、運用で対処する必要があります。
+* 配布ポイント [#o128caec]
+http://infobsession.net/wiki/index.php?PukiWiki%2F%C0%BD%C2%A4%CA%AA%2FParaEdit
+
+* 関連 URL [#tca582bd]
+質問などはこちらへ (下記の参考 URL に質問されても多分私は気がつきません。)
+- [[namazuTamer/実家用コメントページ - Debian GNU/Linux スレッドテンプレ>http://debian.fam.cx/experimental/index.php?namazuTamer%2F%BC%C2%B2%C8%CD%D1%A5%B3%A5%E1%A5%F3%A5%C8%A5%DA%A1%BC%A5%B8#t2eab71a]]
+
+参考URL
+- http://pukiwiki.sourceforge.jp/
+- [[PukiWiki/1.3/自作プラグイン/ParaEdit - PukiWiki-dev>http://pukiwiki.sourceforge.jp/dev/?PukiWiki%2F1.3%2F%BC%AB%BA%EE%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3%2FParaEdit]] (パラグラフ単位の編集をできるようにするプラグイン by tmk)
+- [[BugTrack/585 - PukiWiki-dev>http://pukiwiki.sourceforge.jp/dev/?BugTrack%2F585#u0ca4899]] (見だし編集機能を本体に組み込んで欲しい)
+
+* 謝辞および周知 [#ncbffadd]
+非常に便利なこのパッチ、
+[[para_edit.diff>http://pukiwiki.sourceforge.jp/dev/?PukiWiki%2F1.4%2F%A4%C1%A4%E7%A4%C3%A4%C8%CA%D8%CD%F8%A4%CB%2F%B8%AB%BD%D0%A4%B7%A4%B4%A4%C8%A4%CE%CA%D4%BD%B8%28fixed_anchor%C8%C7%29]]
+を作成してくださった方、および、PukiWiki Developer Team の皆様に感謝します。
+
+私の作業は、pukiwiki-1.4.7_notb への para_edit.diff のアダプテーション、追加のドキュメンテーション、
+および、配布用パッケージングがほとんどです。（これはこれで結構面倒ですけれど。）
+
+* ライセンスおよび免責 / License and Disclaimer of liability [#u5871736]
+Copyright: Related to enabling fixed_heading_anchor_edit; ryu1k ( ryu1kkb_ATMARK_gmail_DOT_com )~
+License: [[GPL v2 or (at your option) any later version>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html]]
+
+厳密には GPLv2 原文を参照していただく必要がありますが、要は GPL v2 またはそれ以降です
+( [[参考日本語訳>http://www.opensource.jp/gpl/gpl.ja.html.euc-jp]] ) 。
+なお、詳細は GPL v2 にも含まれますが、このパッチを利用することにおいて、提供者は何ら保障・義務を提供しません。

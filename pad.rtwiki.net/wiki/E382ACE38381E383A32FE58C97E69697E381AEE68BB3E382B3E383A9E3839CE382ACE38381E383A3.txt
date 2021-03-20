@@ -1,0 +1,32 @@
+* 北斗の拳コラボガチャ  [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+特別優秀はモンスターは居ないが、コラボガチャではよくあること。
+}}
+
+** 北斗の拳 コラボガチャ2  [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/11/02～2015/11/08:http://pad.gungho.jp/member/collabo/151030_hokuto2_lineup.html]]|
+|★6|&mons2446;|
+|★5|&mons1858; &mons1860; &mons1862;|
+|★4|&mons1864; &mons1866; &mons1868; &mons1870; &mons1872; &mons1874; &mons2448; &mons2450; &mons2452;|
+
+- 南斗最後の将、ジュウザ、フドウ、リハクが追加
+
+** 北斗の拳 コラボガチャ  [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/02/04～2015/02/18:http://pad.gungho.jp/member/hokuto_gacya_list.html]]|
+|★5|&mons1858; &mons1860; &mons1862;|
+|★4|&mons1864; &mons1866; &mons1868; &mons1870; &mons1872; &mons1874;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,1564 @@
+* イベントエリア/The Lost Keys [#y888c7e0]
+
+** The Lost Keys [#ta1f31d3]
+ The Lost Keys - 4ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 禁書館への襲撃者たち。最奥で待つものは果たして……。
+ 
+ エリア目標:
+ -
+ 
+ 開放条件:
+ 1.「EA/禁じられた戦い > 到達」をクリア?
+
+|~''クエスト名''|~''距離''|~''スタミナ''|~''獲得EXP''|~''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''うしなわれた、おと'''>#rd914a69]]''|47|16|400|15,000|-|BGCOLOR(#a6f1f1):属性:水 種族:人類?&br;攻撃:17000/3T&br;&color(red){※};特性持ち&br;|フルト&br;天のよりしろ&br;空のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:35&br;[exp/sta]:25.0&br;|
+|''[['''哀しみのデュエット'''>#u27fd7c4]]''|46|16|400|15,000|-|BGCOLOR(#ffffff):属性:無 種族:?&br;攻撃:880/10T&br;|空のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:35&br;[exp/sta]:25.0&br;|
+|''[['''最深の間'''>#d696224c]]''|27|14|400|15,000|-|BGCOLOR(#ffffff):属性:無 種族:死神&br;攻撃:21480/6T&br;&color(red){※};防御力少し高め&br;|癒しのよりしろ&br;空のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:20&br;[exp/sta]:28.6&br;|
+|''[['''闇の間'''>#z6de1d1f]]''&br;　(二次クエスト)&br;|(32)|-|300|10,000|闇|BGCOLOR(#bba6f1):属性:闇 種族:?&br;攻撃:7460/5T&br;&color(red){※};特性持ち&br;|クラリネ&br;奈落のよりしろ&br;闇のよりしろ|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:-&br;|
+|''[['''光の間'''>#u777866c]]''&br;　(二次クエスト)&br;|(32)|-|300|10,000|光|BGCOLOR(#f1f1a6):属性:光 種族:?&br;攻撃:8080/2T&br;&color(red){※};特性持ち&br;|フォルン&br;光輝のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:-&br;|
+|''[['''水の間'''>#u991af2f]]''&br;　(二次クエスト)&br;|(32)|-|300|10,000|水|BGCOLOR(#a6f1f1):属性:水 種族:?&br;攻撃:11360/3T&br;&color(red){※};特性持ち&br;|清濁のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:-&br;|
+|''[['''火の間'''>#jbaecf01]]''&br;　(二次クエスト)&br;|(32)|-|300|10,000|火|BGCOLOR(#f1bba6):属性:火 種族:?&br;攻撃:9290/3T&br;&color(red){※};特性持ち&br;|ファーゴ&br;炎火のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:-&br;|
+|''[['''？？？'''>#u767424a]]''&br;　(二次クエスト)&br;|(22)|-|300|10,000|-|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:54430/5T&br;|?&br;|超古代のよりしろ&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:05&br;[exp/sta]:-&br;|
+|''[['''牢'''>#kfb123fc]]''&br;　(二次クエスト)&br;|(22)|-|300|10,000|-|BGCOLOR(#ffffff):属性:無 種族:死神&br;攻撃:9160/9T&br;|?&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:20&br;[exp/sta]:-&br;|
+|''[['''ワノクニ-零山-'''>#l2862e23]]''&br;　(二次クエスト)&br;|(27)|-|300|10,000|火水|BGCOLOR(#f1bba6):属性:火 種族:神&br;攻撃:29010/3T&br;|ヤマト&br;火のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:12&br;[exp/sta]:-&br;|
+|''[['''帝国-第三施設-'''>#uf998e42]]''&br;　(二次クエスト)&br;|(27)|-|300|10,000|水光闇|BGCOLOR(#a6f1f1):属性:水 種族:人類&br;攻撃:41860/4T&br;|[攻王]ヴェスパ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:12&br;[exp/sta]:-&br;|
+|''[['''どこかの畑'''>#h5a5ab13]]''&br;　(二次クエスト)&br;|(27)|-|300|10,000|闇|BGCOLOR(#a6f1f1):属性:水 種族:亜人&br;攻撃:8460/2T&br;|[えいゆうおう]ぜっと&br;清濁のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:-&br;|
+|''[['''東の大地-城外-'''>#hf283a32]]''&br;　(二次クエスト)&br;|?|-|300|10,000|火|BGCOLOR(#f1bba6):属性:火 種族:亜人&br;攻撃:22290/3T&br;|[騎士長]リリア&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:14&br;[exp/sta]:-&br;|
+|''[['''東の大地-？？？-'''>#k5dfab0e]]''&br;　(二次クエスト)&br;|(32)|-|300|10,000|闇|BGCOLOR(#bba6f1):属性:闇 種族:亜人&br;攻撃:33500/5T&br;|奈落のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:14&br;[exp/sta]:-&br;|
+|''[['''SA真社-社員寮-'''>#pf31f782]]''&br;　(二次クエスト)&br;|(27)|-|300|10,000|水|BGCOLOR(#a6f1f1):属性:水 種族:亜人&br;攻撃:5480/3T&br;|ザメリ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:13&br;[exp/sta]:-&br;|
+|''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''|37|5|300|10,000|-|BGCOLOR(#ffffff):属性:無 種族:軟性&br;攻撃:3010/5T&br;|銀のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:14&br;[exp/sta]:60.0&br;|
+|''[['''続・禁書館の危機'''>#u12f30b9]]''|37|12|300|8,000|火水光闇無|BGCOLOR(#bba6f1):属性:闇 種族:龍&br;攻撃:15520/6T&br;&color(red){※};特性持ち&br;|奈落のよりしろ&br;|?&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:25.0&br;|
+|''[['''不用心'''>#ddf89a31]]''|41|12|300|8,000|-|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:14260/3T&br;&color(red){※};特性持ち&br;|炎火のよりしろ&br;|-&br;|金:-&br;銀:-&br;銅:-&br;|助っ人枠:自由&br;初期Soul値:24&br;[exp/sta]:25.0&br;|
+- イベント系統: 「'''''禁書館をめぐる戦い'''''」
+-- 3.「''[['''EA/終わりと始まり'''>イベントエリア/終わりと始まり]]''」
+-- 2. >「EA/The Lost Keys」
+-- 1.「''[['''EA/禁じられた戦い'''>イベントエリア/禁じられた戦い]]''」
+
+- [[配信履歴(The Lost Keys)>#wc61d8d8]]
+- [[コメント(The Lost Keys)>#q4cf8980]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#pd1b5d0b]
+----
+*** うしなわれた、おと [#rd914a69]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:47 スタミナ:16 獲得EXP:400 獲得金額:15,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+:|開放条件:
+-- 「''[['''哀しみのデュエット'''>#u27fd7c4]]''」をクリア。
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[?]?'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0016.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#a6f1f1){水属性}; 種族:人類?
+攻撃:17400/3T HP:約1,300,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:たまに ''43900/6T'' の攻撃パターンで行動。さらにこの時、攻撃までの残りターン数を ''不可視化'' させる。
+有効特効:対ユニット , 対水属性
+ドロップ:&color(#006600){フルト}; (無杖銀書) , 天のよりしろ , 空のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:35
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- 自力で移動する必要のあるボス直行型クエスト。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > うしなわれた、おと - 特別ガイド台詞
+ 
+ 話者: ? (黒髪眼鏡の人物) , [執事王]ランスロット , (第五奏者フルト)
+ 
+ 1. ?:
+ はぁはぁ……
+ 
+ 2. フルト:
+ ………………………………
+ 
+ 3. ?:
+ はぁはぁ……フフフ…… フフフフフフッ…… なぁ、見えるかい、君？
+ 
+ 4. ?:
+ この顔…… この腕…… この足…… この肌…… この爪…… この……血…… この肉…… この骨…… このはらわた…… この瞳…… …………全て 全て僕が創ったものだ …………そして、だから 今、壊した……フフフ
+ 
+ 5. ?:
+ 全く見事に面白いものだ…… 元は一冊の書だというのに ……今こうして 「分解」……してみれば フルトの中身は人間そのものじゃないか！ フフフフフフッ！！
+ 
+ 6. ランスロット:
+ …………おぞましき者め
+ 
+ 7. ?:
+ おぞましい……？ この僕が？ どこが、どういう風にだい？ 僕はただ…… 自分で書いた本を…… バラバラにしただけじゃ無いか？ フフフ…… どうせ元々、偽の体と魂だ…… それに第一、彼女が死んで 哀しむものなど居はしないさ だって…… 元はただの本なわけだからねぇ！？ 他人の本が裂けて、壊れて それで哀しむ奴なんていないさ！！ ……フフフ……まぁ、でも…… 僕だって本当は…… こんなことしたく無かったよぉ 君たちが僕の本に…… いろいろちょっかいを出すから…… こんな事になったわけでさ……
+ 
+ 8.?:
+ だから……その責任は……
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 9. ?:
+ 君たちに取ってもらうよォ！！
+ 
+ 〜(ボス撃破後)〜
+ 
+ 10. ?:
+ ん……？ これ……は僕の…… ……兄……さん……の …………血？ あ……あ…… ああアああ………… よくも……よくも…… よくもよくもよくもよくもよくもッ！！ 兄さんを兄さんを兄さんを兄さんを！！ 許さない許さない許さない許さない！！ 殺す殺す殺す殺す殺す殺す殺すッ！！ …………絶対に 許さないッ！！
+
+次のクエスト:-
+
+----
+*** 哀しみのデュエット [#u27fd7c4]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:46 スタミナ:16 獲得EXP:400 獲得金額:15,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+:|開放条件:
+-- 「''[['''最深の間'''>#d696224c]]''」をクリア。
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''第五奏者フルト'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0015.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#ffffff){無属性}; 種族:?
+攻撃:880/10T HP:約380,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対ユニット , 対無属性
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:35
+[exp/sta]:25.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:あり
+-- ユニット箱情報:
+--- 座標:必ず取得するので省略。
+--- 中身:銀のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- ほぼ自力で移動する必要のあるボス直行型クエスト。
+(あと10~07マス,y)間のみ強制移動。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 哀しみのデュエット - 特別ガイド台詞
+ 
+ 話者: ? (黒髪眼鏡の人物) , 第三奏者フォルン , 第五奏者フルト
+ 
+ 1. ?:
+ …………また またしくじったんだね、フォルン 何度……言えば…… 何度言ったら……分かるんだいッ！？ ゴミはッ！　不要だとッ！！
+ 
+ 2. フォルン:
+ あ……が…… 申し……わげ……ありませ…… …………ぁ……ぎ……！
+ 
+ 3. ?:
+ ……………………謝れ 謝ってくれよ、この僕に！ もっと強く！命を！掛けてッ！！ ほら！謝ってみせてくれよ！！ 二度と失敗しないようにさァッ！！
+ 
+ 4. フォルン:
+ あ゛……え゛……ぁ……
+ 
+ 5. フルト:
+ おやめくださいマスター！ お手を……お放しください！！ このままでは……フォルンが…… …………フォルンがッ！！
+ 
+ 6. ?:
+ うるさい、黙ってろ！！ 出来損ないの本の始末は…… 親である僕の役目だッ！！ はぁはぁ……フフフ……… ……苦しいだろ、フォルン？ 今、楽にしてやるからな……
+ 
+ 7. フルト:
+ おやめ……くだ…… …………やめ…… やめて…… ……フォルンが……ッ！
+ 
+ 8. フォルン:
+ が……ッ……！ ……ッ……！！ ………………ッ…… ………………………… ………………………………
+ 
+ 9. フルト:
+ フォ……ルン……？ い……や…… フォルン……フ…… ……いや…… いやぁああああああああ！！
+ 
+ 10. ?:
+ はぁはぁ……………… 実に……良い…… 実に良いデュエットだったよ…… フォルン……そしてフルト
+ 
+ 11. ?:
+ それじゃあフルト……次は君の ……ソロパートだ 客人たちを、君がもてなしたまえ ……フフフ
+ 
+ 12. ?:
+ ……さぁ、奏でよう
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 13. ?:
+ フォルンに捧げるレクイエムをッ！！
+ 
+ 14. ?:
+ ん？どうしたフルト？ フルト…… それじゃあゴミも同然だ
+ 
+ 〜(ボス撃破後)〜
+ 
+ 15. ?:
+ ……そうかフルト 君だけは………… 僕が初めて産み落とした…… 君だけは決して裏切らないと…… ……そう 思っていたのに……
+ 
+ ※台詞14はボス攻撃時のもの。
+
+次のクエスト:「''[['''うしなわれた、おと'''>#rd914a69]]''」
+
+----
+*** 最深の間 [#d696224c]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:27 スタミナ:14 獲得EXP:400 獲得金額:15,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+:|開放条件:
+-- 「''[['''火の間'''>#jbaecf01]]''」「''[['''水の間'''>#u991af2f]]''」「''[['''光の間'''>#u777866c]]''」「''[['''闇の間'''>#z6de1d1f]]''」をすべてクリア。
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''シャドー・ハデス'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0017-5H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#ffffff){無属性}; 種族:死神
+攻撃:21480/6T HP:約810,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対無属性 &color(red){※};防御力少し高め
+ドロップ:癒しのよりしろ , 空のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:20
+[exp/sta]:28.6
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- 自力で移動する必要のあるボス直行型クエスト。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 最深の間 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ ご苦労様でございました 間もなく最深の間へと到着いたします
+ 
+ 2. ランスロット:
+ この道の先…… 扉を抜けたその向こうにて 最後のクインテットが待ち受けておりますゆえ 油断せぬようお進みくださいませ
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 3. ランスロット:
+ あ……しかし…… ここにも門番が居ることを すっかり忘れておりました
+ 
+ 〜(ボス撃破後)〜
+ 
+ 4. ランスロット:
+ オー　ブラヴォー……でございます …… ………… ……………… …………………… ……………………？ 特にかける言葉はございません さぁ、早く先へ進みましょう
+ 
+次のクエスト:「''[['''哀しみのデュエット'''>#u27fd7c4]]''」
+
+----
+*** 闇の間 [#z6de1d1f]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(32) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''第4奏者クラリネ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0014.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#bba6f1){闇属性}; 種族:?
+攻撃:7460/5T HP:約740,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:戦闘開始直後から ''毎ターン'' プレイヤー側に ''5,000'' のダメージを与える。(カーズ状態付与)
+有効特効:対ユニット , 対闇属性
+ドロップ:&color(#006600){クラリネ}; (闇杖銀書) , 奈落のよりしろ , 闇のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''シャドー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q4-0001-5D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9870/3T HP:80,357(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q4-0002-5D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:4100/1T HP:61,164(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q4-0003-5D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9090/2T HP:61,229(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q4-0004-5D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:8710/3T HP:74,864(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q4-0005-5D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:8640/4T HP:86,993(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:600 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q4-0006-5D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:7950/3T HP:49,787(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:あり
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 闇の間 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ ここは…… 「闇の間」でございますね 即ちズバリ正解でございます
+ 
+ 2. ランスロット:
+ 奥で待つクインテットを撃退し…… 結壊の魔術を打ち消しましょう
+ 
+ 〜(ボス撃破後)〜
+ 
+ 3. ランスロット:
+ グッジョブ……でございます では、先へと進みましょう
+ 
+ ※「火の間」「水の間」「光の間」「闇の間」での台詞はほぼ同じ。
+ 
+次のクエスト:「''[['''最深の間'''>#d696224c]]''」
+
+----
+*** 光の間 [#u777866c]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(32) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''第3奏者フォルン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=list&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#f1f1a6){光属性}; 種族:?
+攻撃:8080/2T HP:約710,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:たまに次の攻撃までの被ダメージを ''0'' にし、その状態の間に受けるはずだったダメージ量の ''約80%'' を攻撃力に変換する。(攻撃力は0から蓄積し、敵が行動するとリセット)
+有効特効:対ユニット , 対光属性
+ドロップ:&color(#006600){フォルン}; (光杖銀書) , 光輝のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''シャドー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q3-0001-5P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:10910/3T HP:92,751(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q3-0002-5P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:4070/1T HP:58,936(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q3-0003-5P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:6550/2T HP:51,919(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q3-0004-5P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:10700/3T HP:84,759(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q3-0005-5P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:8870/4T HP:95,471(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:600 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q3-0006-5P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:10040/3T HP:53,591(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 光の間 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ ここは…… 「光の間」でございますね 即ちズバリ正解でございます
+ 
+ 2. ランスロット:
+ 奥で待つクインテットを撃退し…… 結壊の魔術を打ち消しましょう
+ 
+ 〜(ボス撃破後)〜
+ 
+ 3. ランスロット:
+ グッジョブ……でございます では、先へと進みましょう
+ 
+ ※「火の間」「水の間」「光の間」「闇の間」での台詞はほぼ同じ。
+
+次のクエスト:「''[['''最深の間'''>#d696224c]]''」
+
+----
+*** 水の間 [#u991af2f]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(32) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''第二奏者オーヴォ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0012.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#a6f1f1){水属性}; 種族:?
+攻撃:11360/3T HP:約770,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:行動開始時、たまに次の攻撃までの残りターン数が ''1~2T'' になる。(攻撃間隔短縮)
+有効特効:対ユニット , 対水属性
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''シャドー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q2-0001-5A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:10240/3T HP:84,871(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q2-0002-5A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:4220/1T HP:60,775(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q2-0003-5A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:8950/2T HP:60,839(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q2-0004-5A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:8540/3T HP:77,759(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q2-0005-5A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:8060/4T HP:82,363(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:600 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q2-0006-5A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9140/3T HP:51,295(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:- 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 水の間 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ ここは…… 「水の間」でございますね 即ちズバリ正解でございます
+ 
+ 2. ランスロット:
+ 奥で待つクインテットを撃退し…… 結壊の魔術を打ち消しましょう
+ 
+ 〜(ボス撃破後)〜
+ 
+ 3. ランスロット:
+ グッジョブ……でございます では、先へと進みましょう
+ 
+ ※「火の間」「水の間」「光の間」「闇の間」での台詞はほぼ同じ。
+
+次のクエスト:「''[['''最深の間'''>#d696224c]]''」
+
+----
+*** 火の間 [#jbaecf01]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(32) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''第1奏者ファーゴ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0011.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#f1bba6){火属性}; 種族:?
+攻撃:9290/3T HP:約750,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:たまに ''13630/4T'' ''20120/5T'' のうちいずれかの攻撃パターンで行動。
+有効特効:対ユニット , 対火属性
+ドロップ:&color(#006600){ファーゴ}; (火杖銀書) , 炎火のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''シャドー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q1-0001-5R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:11110/3T HP:88,399(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q1-0002-5R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:3590/1T HP:56,339(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q1-0003-5R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:8870/2T HP:56,399(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q1-0004-5R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:10100/3T HP:81,249(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q1-0005-5R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9200/4T HP:82,599(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:600 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_q1-0006-5R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9260/3T HP:51,507(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 火の間 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ ここは…… 「火の間」でございますね 即ちズバリ正解でございます
+ 
+ 2. ランスロット:
+ 奥で待つクインテットを撃退し…… 結壊の魔術を打ち消しましょう
+ 
+ 〜(ボス撃破後)〜
+ 
+ 3. ランスロット:
+ グッジョブ……でございます では、先へと進みましょう
+ 
+ ※「火の間」「水の間」「光の間」「闇の間」での台詞はほぼ同じ。
+
+次のクエスト:「''[['''最深の間'''>#d696224c]]''」
+
+----
+*** ？？？ [#u767424a]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(22) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''?'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0010.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:? 種族:ドラゴン
+攻撃:54430/5T HP:約1,200,000 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性: ''1~7combo目'' の被ダメージを ''0'' にする。
+有効特効:対ドラゴン , 対無属性
+ドロップ:?
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_rare-0001-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:?/3T HP:?(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:8 獲得覚醒pt:?
+座標:数が多いので省略。
+ドロップ:超古代のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:05
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > ？？？ - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ ここは…… まさか……ここに到達するとは…… どうかお気をつけくださいませ……
+ 
+次のクエスト:-
+
+----
+*** 牢 [#kfb123fc]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(22) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''ハデス'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0017-1H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#ffffff){無属性}; 種族:死神
+攻撃:9160/9T HP:約50,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:?
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:20
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 牢 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット , ?
+ 
+ 1. ランスロット:
+ おやおやここは…… 先ほどの侵入者を囚えた牢…… ……でございますね
+ 
+ 2. ?:
+ ……はい 侵入に成功致しました このまま奴が事を進めれば 恐らくこちらの計画は とどこおりなく進められるかと……
+ 
+ 3. ?:
+ ……はい、分かっております 必ずや…… 全ての魔導を焼き払ってみせます
+ 
+ 4. ランスロット:
+ むむ…… なにやら不穏な気配でございますね しかし今は構っている暇などございません
+ 
+ 5. ランスロット:
+ ここを抜けクインテットたちに繋がる 正解の階段を早く見つけましょう
+ 
+ 〜(ボス撃破後)〜
+ 
+ 6. ランスロット:
+ あやつの企みも気になりますが…… 所詮は牢の中の囚人、籠の中の鳥です どうせ何も行動には移すことは出来ません
+ 
+次のクエスト:-
+
+----
+*** ワノクニ-零山- [#l2862e23]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(27) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[烈神]ヤマト'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0008.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#f1bba6){火属性}; 種族:神
+攻撃:29010/3T HP:約670,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対ユニット , 対火属性
+ドロップ:&color(#006600){ヤマト}; (火剣銀書) , 火のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};
+
+:|''カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0001-4R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:6010/3T HP:41,295(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:火のよりしろ
+
+:|''カイザー・ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0014-4A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:10120/2T HP:36,847(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:銀のよりしろ
+
+:|''シェルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0003-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:11070/3T HP:48,139(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:火のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:12
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:- 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > ワノクニ-零山- - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット , [烈神]ヤマト
+ 
+ 1. ランスロット:
+ こは…… どうやら「ワノクニ」……でございますね 「零山」と呼ばれるワノクニ一の山です つまり、残念ながら外れでございます
+ 
+ 2. ヤマト?:
+ ……ん？ お客人たぁ、珍しいねぇ……
+ 
+ 3. ランスロット:
+ おっと……これはこれは…… まさかワノクニの「神」とご対面とは 戦い、何かをつかんだのちに 禁書館へと戻りましょう
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 4. ヤマト:
+ ちょいと遊んでいかねぇかい？
+ 
+ 5. ヤマト:
+ なかなかやるねぇ…… 受けてみなって、俺の太刀ッ 俺の腕も鈍ったなぁ……
+ 
+ 〜(ボス撃破後)〜
+  
+ 6. ランスロット:
+ ショーブアリ……でございます なかなか見応えのある勝負でした 興奮冷めやらぬ内に禁書館へ戻り…… 正解の階段を見つけましょう！
+ 
+ ※台詞5はボス攻撃時のもの。
+
+次のクエスト:-
+
+----
+*** 帝国-第三施設- [#uf998e42]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(27) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[攻王]ヴェスパ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0007.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#a6f1f1){水属性}; 種族:人類
+攻撃:41860/4T HP:約680,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対ユニット , 対水属性
+ドロップ:&color(#006600){[攻王]ヴェスパ}; (水槍金書)
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};
+
+:|''カイザー・ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0014-4A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9150/2T HP:29,703(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''サイボーグ・スコーピオン''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0011-6P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:4400/3T HP:80,999(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・シェルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0003-2P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:14720/3T HP:76,387(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''ガイチュウ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0007-A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9160/2T HP:42,047(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:12
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:あり Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:あり 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 帝国-第三施設- - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット , [攻王]ヴェスパ
+ 
+ 1. ランスロット:
+ ここは…… どうやら「帝国」……でございますね 残念ながら外れでございます
+ 
+ 2. ヴェスパ?:
+ ッ！？ 貴様、何処から入った！？
+ 
+ 3. ランスロット:
+ むむッ！！ まさかご入浴中とは…… 仕方がありません 急ぎ堪能し…… 禁書館へと戻りましょう
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 4. ヴェスパ:
+ 不届き者め、逃がさんッ！
+ 
+ 5. ヴェスパ:
+ その目をそこに置いていけ！！ 這いずり、詫びろ！！ 私の体を見たものは……許さん！！
+ 
+ 〜(ボス撃破後)〜
+ 
+ 6. ランスロット:
+ なんとビューティフルな……お方…… あ、いえ……なんでもございません それでは心も晴れやかに禁書館へ戻り…… 正解の階段を見つけましょう！
+ 
+ ※台詞5はボス攻撃時のもの。
+
+次のクエスト:-
+
+----
+*** どこかの畑 [#h5a5ab13]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(27) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[えいゆうおう]ぜっと'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0009.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#a6f1f1){水属性}; 種族:亜人
+攻撃:8460/2T HP:約500,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対ユニット , 対水属性
+ドロップ:&color(#006600){[えいゆうおう]ぜっと}; (水槍金書) , 清濁のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0001-4D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:5150/3T HP:37,995(&color(black,#bba6f1){闇};) 獲得Soul:?2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:闇のよりしろ
+
+:|''カイザー・ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0014-4D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9530/2T HP:31,151(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0015-4D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9630/4T HP:55,943(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0004-D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:5940/3T HP:67,449(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:600 獲得覚醒pt:?
+ドロップ:銀のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:? Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:あり
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > どこかの畑 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット , [えいゆうおう]ぜっと
+ 
+ 1. ランスロット:
+ ここは…… どうやらどこかの畑……でございますね 残念ながら外れでございます
+ 
+ 2. ぜっと?:
+ ぬッ！！ 畑をあらすんじゃないッ！
+ 
+ 3. ランスロット:
+ 何やら小さな正義の味方が…… こちらに猛突進してきます 軽やかにいなし、禁書館へと戻りましょう
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 4. ぜっと:
+ せいぎのヒーローゼットさんじょう！！
+ 
+ 5. ぜっと:
+ ゼットぱーんちッ！ ゼットきーッく！ ゼットらりあっとー！
+ 
+ 〜(ボス撃破後)〜
+ 
+ 6. ランスロット:
+ ナイスふぁいとー……でございます いい汗かきましたね さて、それでは急ぎ禁書館へ戻り…… 正解の階段を見つけましょう！
+ 
+ ※台詞5はボス攻撃時のもの。
+ 
+次のクエスト:-
+
+----
+*** 東の大地-城外- [#hf283a32]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:? スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[騎士長]リリア'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0006.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#f1bba6){火属性}; 種族:亜人
+攻撃:22290/3T HP:約540,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対ユニット , 対火属性
+ドロップ:&color(#006600){[騎士長]リリア}; (火槍虹書)
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''牙獣 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0012-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:3730/2T HP:73,539(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''亀 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0009-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:5720/4T HP:44,639(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+:|''子竜 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0013-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:7720/3T HP:87,719(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+:|''牙獣 lank.2''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0012-2R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9200/3T HP:184,679(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''亀 lank.2''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0009-2R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:5770/3T HP:37,199(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+:|''子竜 lank.2''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0013-2R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:7860/3T HP:109,999(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:14
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 東の大地-城外- - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット , [騎士長]リリア
+ 
+ 1. ランスロット:
+ ここは…… どうやら「東の大地」……でございますね 残念ながら外れでございます
+ 
+ 2. リリア?:
+ あッ！あなたたちはッ！ わたしと、ひと勝負しませんか！？
+ 
+ 3. ランスロット:
+ む、見つかってしまいました…… しかし勇ましい方でございますね 適度にお相手差し上げたのち 禁書館へと戻りましょう
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 4. リリア:
+ さぁ、勝負です！
+ 
+ 5. リリア:
+ えいっ！ やぁっ！ とうっ！
+ 
+ 〜(ボス撃破後)〜
+ 
+ 6. ランスロット:
+ ソー　キュート……でございます あの方の将来には期待できそうですね さて、では我々も未来の為に禁書館へ戻り…… 正解の階段を見つけましょう！ 
+ 
+※台詞5はボス攻撃時のもの。
+
+次のクエスト:-
+
+----
+*** 東の大地-？？？- [#k5dfab0e]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(32) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[ものしり]グルル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0005.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#bba6f1){闇属性}; 種族:亜人
+攻撃:33500/5T HP:約480,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対ユニット , 対闇属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''牙獣 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0012-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:3780/2T HP:60,031(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''亀 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0009-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:6480/4T HP:52,359(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+:|''子竜 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0013-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:7710/3T HP:93,309(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+:|''牙獣 lank.2''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0012-2D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:6490/3T HP:133,924(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''亀 lank.2''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0009-2D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:6220/3T HP:42,075(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+:|''子竜 lank.2''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0013-2D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9740/3T HP:109,999(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:14
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:あり Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:あり
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 東の大地-？？？- - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット , [ものしり]グルル
+ 
+ 1. ランスロット:
+ ここは…… どうやら「東の大地」……でございますね 「空の塔」と呼ばれる研究所です 言わずもがな、残念ながら外れでございます
+ 
+ 2. グルル?:
+ おい！お前たち！！ 勝手にラボに入るんじゃないッ！！
+ 
+ 3. ランスロット:
+ む、何やら懐かしい怒鳴り声が…… まともに相手をすると厄介でございます よくよく上手に受け流し その後は無視して禁書館へと戻りましょう
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 4. グルル:
+ このラボは神聖なラボなんだぞッ！！
+ 
+ 5. グルル:
+ ラボの備品に触るんじゃないぞッ！ ラボから出て行けッ！ ラボが汚染されるッ！
+ 
+ 〜(ボス撃破後)〜
+ 
+ 6.ランスロット:
+ ラボラボヤカマシ……でございます しかしさて、博士はノビてしまいましたね 目を覚まし怒られぬ内に禁書館へ戻り…… 正解の階段を見つけましょう
+ 
+ ※台詞5はボス攻撃時のもの。
+
+次のクエスト:-
+
+----
+*** SA真社-社員寮- [#pf31f782]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:(27) スタミナ:- 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''ザメリ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0004.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#a6f1f1){水属性}; 種族:亜人
+攻撃:5480/3T HP:約145,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対ユニット , 対火属性
+ドロップ:ザメリ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''キラー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0001-3A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:4660/3T HP:36,503(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''キラー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0010-3A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:6570/3T HP:41,107(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+:|''キラー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0011-3A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:6910/3T HP:18,079(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:銀のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:13
+[exp/sta]:-
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:- 闇:-
+:|注意点:
+-- 「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」階段から挑戦。
+
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > SA真社-社員寮- - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット , ザメリ
+ 
+ 1. ランスロット:
+ ここは…… 一体何処……でございましょうか いえしかし……兎にも角にも 残念ながら外れであることは確かでございます
+  
+ 2. ザメリ?:
+ ういー……ヒック…… ……ういー…… てやんでぇ……べらぼうめぇ！！ …………んん？ ぁあ！？なんだァ、テメェはァ！？
+ 
+ 3. ランスロット:
+ う……酒……いや魚の匂い…… ……仕方がありません 急いで三枚におろし…… 禁書館へと戻りましょう
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 4. ザメリ:
+ 俺だって……俺だってなぁッ！
+ 
+ 5. ザメリ:
+ 見てろよ……父ちゃんだって…… ド畜生！！ zzz……
+ 
+ 〜(ボス撃破後)〜
+ 
+ 6. ランスロット:
+ バッドスメル……でございます それになんだか……ヌメヌメしますね さて、それでは気を取り直し禁書館へ戻り…… 正解の階段を見つけましょう……
+ 
+ ※台詞5はボス攻撃時のもの。
+
+次のクエスト:-
+
+----
+*** ロード・トゥ・ワールド [#m7d578d8]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:37 スタミナ:5 獲得EXP:300 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+:|開放条件:
+-- 「''[['''続・禁書館の危機'''>#u12f30b9]]''」をクリア。
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''銀飛行ポイム''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0003.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性: 種族:軟性
+攻撃:3010/3T HP:約80,000以下 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:銀のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:14
+[exp/sta]:25.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|階段:
+-- 「''[['''火の間'''>#jbaecf01]]'' (難易度:★)」へ。
+--- 座標:(あと26マス,+1)など。(周囲に火属性パネル)
+-- 「''[['''水の間'''>#u991af2f]]'' (難易度:★)」へ。
+--- 座標:(あと28マス,±0)など。(周囲に水属性パネル)
+-- 「''[['''光の間'''>#u777866c]]'' (難易度:★)」へ。
+--- 座標:(あと28マス,-3)など。(周囲に光属性パネル)
+-- 「''[['''闇の間'''>#z6de1d1f]]'' (難易度:★)」へ。
+--- 座標:(あと24マス,-2)など。(周囲に闇属性パネル)
+-- 「''[['''SA真社-社員寮-'''>#pf31f782]]'' (難易度:★2)」へ。
+--- 座標:(あと21マス,+2) , (あと23マス,+1)など。
+-- 「''[['''東の大地-？？？-'''>#k5dfab0e]]'' (難易度:★3)」へ。
+--- 座標:(あと29マス,-2) , (あと26マス,-1)など。
+-- 「''[['''東の大地-城外-'''>#hf283a32]]'' (難易度:★3)」へ。
+--- 座標:(あと29マス,+1) , (あと24マス,±0)など。
+-- 「''[['''どこかの畑'''>#h5a5ab13]]'' (難易度:★3)」へ。
+--- 座標:(あと27マス,-1)など。
+-- 「''[['''帝国-第三施設-'''>#uf998e42]]'' (難易度:★4)」へ。
+--- 座標:(あと25マス,±0) , (あと23マス,±0)など。
+-- 「''[['''ワノクニ-零山-'''>#l2862e23]]'' (難易度:★4)」へ。
+--- 座標:(あと22マス,+1)など。
+-- 「''[['''牢'''>#kfb123fc]]'' (難易度:★5)」へ。
+--- 座標:(あと14マス,±2)など。
+-- 「''[['''？？？'''>#u767424a]]'' (難易度:★5)」へ。
+--- 座標:(あと15マス,±0)((一定の確率で出現。))
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > ロード・トゥ・ワールド - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ 到着致しました ここが「世界の間」でございます 階段いっぱいでございます
+ 
+ 2. ランスロット:
+ この中に…… それぞれの属性に囲まれた階段があり 即ちそれが、正解の階段でございます
+ 
+ 3. ランスロット:
+ 正解の階段は4つでございます 火、水、光、闇…… それぞれの部屋にて待ち受ける クインテットのメンバーを全て倒せば 「最深の間」への扉が開かれます
+ 
+ 4. ランスロット:
+ 外れの階段は…… 果たして何処に繋がっているのか それは私にも分かりかねますゆえ…… あまりご無茶はしないことを おすすめさせて頂きます
+ 
+ 5. ランスロット:
+ それにしても…… 禁書館のなんと広いこと…… 外から見るとそこまで大きくありませんが それは魔術による見せかけで 実は一大陸ほどの広さがあるのでございます 私、ランスロット…… 迷ったことも一度や二度ではございません！
+ 
+ 6. ランスロット:
+ えぇと…… 正解の階段はっと……
+ 
+ 7. ランスロット:
+ おや……？
+ 
+ 〜(ボス撃破後)〜
+ 
+ 8. ランスロット:
+ どうやら端まで来てしまったようですね 引き返し、再び正解の階段を探しましょう ……あ、そうそう 正解の階段は全て「上り」であり…… それ以外は全て「下り」でございました うっかり忘れておりましたが 次は「上り」の階段を目印にして 進んで頂けますと、幸いでございます
+ 
+次のクエスト:「''[['''火の間'''>#jbaecf01]]''」「''[['''水の間'''>#u991af2f]]''」「''[['''光の間'''>#u777866c]]''」「''[['''闇の間'''>#z6de1d1f]]''」(正規ルートのみ記載。)
+
+----
+*** 続・禁書館の危機 [#u12f30b9]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:37 スタミナ:12 獲得EXP:300 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+:|開放条件:
+-- 「''[['''不用心'''>#ddf89a31]]''」をクリア。
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''タコ lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0002.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#bba6f1){闇属性}; 種族:ドラゴン
+攻撃:15520/6T HP:約1,100,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:戦闘開始直後にプレイヤー側の残りHPを ''1'' にする。
+有効特効:対ドラゴン , 対闇属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};/&color(black,#ffffff){無};
+
+:|''キラー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0001-3A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:3790/3T HP:22,679(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''キラー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0002-3P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:3790/2T HP:23,953(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:銀のよりしろ
+
+:|''シェルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0003-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:9410/3T HP:47,559(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0004-H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:5870/3T HP:62,999(&color(black,#ffffff){無};) 獲得Soul:5 獲得Gold:650 獲得覚醒pt:?
+ドロップ:?
+
+:|''針魚 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0005-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:11370/3T HP:84,447(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:200 獲得覚醒pt:?
+ドロップ:?
+
+:|''タツノオトシゴ lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0006-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:10940/3T HP:166,659(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:250 獲得覚醒pt:?
+ドロップ:?
+
+:|''ガイチュウ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0007-A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:4220/3T HP:24,527(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''飛行頭角種 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0008-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:2720/2T HP:48,775(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:300 獲得覚醒pt:?
+ドロップ:光のよりしろ
+
+:|''亀 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys-0009-1H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+攻撃:5620/4T HP:45,172(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:25.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:あり Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 続・禁書館の危機 - 特別ガイド台詞
+ 
+ 話者: [執事王]ランスロット
+ 
+ 1. ランスロット:
+ おっほん！ さて、それでは向かいましょう クインテットたちの元へ！
+ 
+ 2. ランスロット:
+ 結壊師たち…… 通称クインテットは5人存在いたします 禁書館へ侵入したクインテットは それぞれ、館の要となる部屋を 占拠したようでございます
+ 
+ 3. ランスロット:
+ 禁書館は広大であり…… クインテットたちが居る部屋を探し出すのは 非常に難儀なことではありますが 禁書館が備え持つ 特殊な性質さえ利用すれば 恐らくそれぞれの部屋へ到達することも 容易くなるでしょう
+ 
+ 4. ランスロット:
+ 禁書館が備え持つ性質…… それは、この世界のあらゆる場所へと 通じることか出来る、ということです どんなに離れ、どこに隠れていようとも この禁書館に到達出来ぬ場所など ございません…… ……あ……しかし…………反転の …………………………いえ なんでもございません
+ 
+ 5. ランスロット:
+ ともかく…… 広大な禁書館の中を自由に移動する為 そのような仕組みに なっているのでございます
+ 
+ 6. ランスロット:
+ ゆえに、あなた様には 膨大な階段の中から、クインテットに繋がる 4つの階段を…… 見つけ出して頂きたいのでございます それだけ結壊師を撃退出来れば 恐らく最後の1人が待つ「最深の間」へと 入ることが可能になるはず…… おっと！ そうこうしている内に 「世界の間」に到着いたします！
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 7. ランスロット:
+ この門番を倒さねばなりません レッツ・ファイト！　でございます
+ 
+ 〜(ボス撃破後)〜
+ 
+ 8. ランスロット:
+ エクセレンツ……でございます ……ではゆきましょう あらゆる世界へつながる場所へ
+ 
+次のクエスト:「''[['''ロード・トゥ・ワールド'''>#m7d578d8]]''」
+
+----
+*** 不用心 [#ddf89a31]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:41 スタミナ:12 獲得EXP:300 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:-
+-- 銀:-
+-- 銅:-
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[?]?'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_thelostkeys_boss-0001.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2FThe%20Lost%20Keys]])
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:142560/3T HP:約700,000 獲得Soul:5 獲得Gold:1,000 獲得覚醒pt:?
+特性:プレイヤー側に ''1'' 以上のダメージを与えてきた時、残りSoulを ''6'' だけ減少させる。
+有効特効:対ドラゴン , 対ユニット? , 対火属性
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:24
+[exp/sta]:25.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- 自力で移動する必要のあるボス直行型クエスト。
+:|特別ガイド台詞:
+ イベントエリア/The Lost Keys > 不用心 - 特別ガイド台詞
+ 
+ 話者: ? (貴族風の人物) , [書王]ユーリカ , [執事王]ランスロット
+ 
+ 1. ?:
+ …………む！？ 見つけましたよ、ゴミども！！
+ 
+ 2. ユーリカ:
+ あら……？ 他にもここへ立ち入った者が？
+ 
+ 3. ?:
+ ここで私が…… 全ての魔導を…… 焼き払ってさしあげましょう！
+ 
+ 4. ランスロット:
+ ………… ……えーっと…… ……あー…… ふむふむ…… …………なるほど
+ 
+ 5. ユーリカ:
+ どうかしたの、ランスロット？ 随分とそわそわして…… ……あ もしかして…………
+ 
+ 6. ?:
+ フッ……それにしても…… こうもすんなり 禁書館への道か開かれるとは 不用心にもほどがありますね！
+ 
+ 7. ランスロット:
+ …………
+ 
+ 8. ユーリカ:
+ あれほど鍵は失くさないよう…… きちんと言っておいたのに やっぱり鍵番は…… ガウェインに戻した方がいいかしら
+ 
+ 9. ?:
+ ふんッ！何をごちゃごちゃと！ 命乞いなら聞きはしませんよ！！
+ 
+ 10. ?:
+ いざ尋常に……
+ 
+ 〜(ボスと戦闘開始)〜
+ 
+ 11. ?:
+ 勝負ッ！！
+ 
+ 12. ?:
+ セイッ！ はッ！ 隙ありッ！！
+ 
+ 〜(ボス撃破後)〜
+ 
+ 13. ユーリカ:
+ 捕獲完了……と この方は私にお任せください…… 恐らくクインテットたちも既に ここに侵入しているはずです…… あの子たちを…… なんとか止めてあげないと……
+ 
+ ※台詞12はボス攻撃時のもの。
+
+次のクエスト:「''[['''続・禁書館の危機'''>#u12f30b9]]''」
+
+----
+*** 配信履歴(The Lost Keys)((時刻が書かれていない場合、その日付の間は開放。)) [#wc61d8d8]
+:2014/07/18(10:00)〜2014/08/01(10:00)|
+
+----
+* コメント(The Lost Keys) [#q4cf8980]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

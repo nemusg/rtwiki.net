@@ -1,0 +1,113 @@
+* 2019/08/02 v0.88.7 [#k9b02c78]
+
+#style(class=panelInfo){{
+完全なパッチノートはSteamで読んでください。
+[[Super Animal Royale :: Squid up with the official launch of Squads (+ new breeds, revamped mountains and more)!:https://steamcommunity.com/games/843380/announcements/detail/1610519172269257017]]
+}}
+
+ついに、ソロとデュオモードと並んで恒久的なモードとしてスクワッドを正式にデビューさせる時が来ました！ 
+月曜日からSquidを起動することを要求しているDiscordのスーパーアニマルたち、私達はあなたがたの声を聞き、そしてすべての中で最も重要な特徴を実行した：squid hats（イカ帽子）。 メインメニューのクーポンコード欄にコード「SquidUp」を入力するだけで、フレンドと一緒にイカ帽子をかぶることができます。どういたしまして。
+
+** Squidsとボットのチームワーク [#y5879e25]
+
+SARコミュニティは3つのサーバーすべてで急成長していますが、2モードから3モードへの移行を可能な限りシームレスに支援するために、デュオと分隊モードのボットも大幅にアップグレードしました。 彼らはそれぞれ2つと4つのチームでローミングし、あなたを追い詰めるために一緒に働きます（それは少し恐ろしいことですが、決して恐れることはありません。）。
+
+また、デュオやスクワッドモードの要望が高い「fill/no fill」オプションが追加されたため、フルチーム未満でプレイするときに追加でチームメイトを加入させるかを選択することができます。
+
+** スーパーサマーロイヤルの最終週 [#gd21cf28]
+
+スーパーサマーロイヤルイベントの最終週です（イベントは8月9日に終了します）。 あなたが取得したフルーツバスケットがあなたのチームの間で共有されることを忘れないでください、あなたのデュオとスクワッドチームメイトと一緒にそれらを探すことは特に効率がよいです。
+
+** 島全体の山々や洞窟を刷新 [#zf1259e3]
+
+https://www.youtube.com/watch?v=bsnUAMGpw-w
+
+Superite Mountainのアップデートで確立された新しいスタイルに合わせて、地図上のすべての山を改良して置き換えました。それらの多くには、探索するための新しい洞窟が含まれています。 舞台裏でスーパーアニマルアイランドの編集がどのように行われるかについては、上のYouTubeのビデオをチェックしてください。
+
+** 22の新しいスーパーアニマルの品種 [#idfb45e5]
+
+私たちはあなたのお気に入りの既存のスーパーアニマルのために新しい品種のこの更新をいっぱい詰め込んでいるのであなたのDNAを上手に使うことができます！ このアップデートには、以下が追加されています。
+
+- Super Emerald Fox
+- Super Twilight Fox
+- Super Bubblegum Skullcat
+- Super Persian Cat
+- Super Scottish Fold
+- Super Westie
+- Super Banana Deer
+- Super Pink Raccoon
+- Super Woodland Raccoon
+- Super Iced Sloth
+- Super Two-toed Sloth
+- Super Ram
+- Super Berry Blue Owl (created for our Super Mod, Lyze!)
+- Super Blue Wolf
+- Super Desert Wolf
+- Super Flaming Wolf
+- Super Enchanted Boar
+- Super Boarlet
+- Super Lime Red Panda
+- Super Licorice Red Panda
+- Super Grape Red Panda
+- Super Blue Steel Hyena
+
+** Super Animal Royale Tonight Episode 5 が来ています [#kde9fc87]
+
+https://www.youtube.com/watch?v=0UDBMRt6uIc
+
+来週はSuper Animal Royaleの今夜のエピソード5のためにクリップの提出を開始するので、あなたのsuperestとblooperestクリップを集め始めて、そしてすぐに私達の[[Discord:https://steamcommunity.com/linkfilter/?url=https://discord.gg/animalroyale]]、[[Twitter:https://twitter.com/animalroyale]]と[[Subreddit:https://www.reddit.com/r/animalroyale]]のリンクを探しなさい。もしあなたがそれらを見たことがないなら、あなたは上記のシリーズをチェックすることができます！ 各エピソードはストーリーを継続しているので順番によく見ることができますが、ストーリー3はエピソード3の中で最もよく取り上げられているので、ここから始めるのも良いでしょう。
+
+** v0.88.7フルパッチノート [#taf403ed]
+
+主なアップデートに加えて、生活の質の向上をさらに追加しました。 これがv0.88.7のフルパッチノートです。
+
+*** ハイライト [#b0a2e0a3]
+
+- スクワッドモードはデュオとソロモードと一緒に24時間365日正式に利用可能です！ これに対応するために、ボット同士がチームを組むでしょう。
+- 新しいイカ帽子をつかむためにコード「SquidUp」を使ってください！
+- 「fill/no fill」オプションがDuosモードとSquadsモードに追加されました。
+- すべての山が更新され、島の周りに探索するための複数の新しい洞窟があります。
+- スーパーアニマル22種を追加しました。
+
+*** 新しいアイテム [#kcad525f]
+
+11個の新しいモデレータアイテムが、通常のドロッププールで利用可能になりました。これは、最初の10個の素晴らしいスーパーモッズをテーマにしています。
+
+- Mango Umbrella
+- Fish Pajamas (Slofin)
+- Chartreaux Beanie (Catler’s cat)
+- Leftstickdown Beanie
+- Steampunk Goggles (Foxy Songbird)
+- Pro Gamer Hoodie and Hat (TeTo)
+- Security Guard Outfit (Foxinter)
+- Harlecorn (Harle’s horn)
+- Duck Newspaper (Duck’s favourite bapping tool)
+- Lyze’s Key
+
+スーパーコンテンツクリエーター、シーア派の4アイテムは、通常のドロッププールでも入手可能です。
+
+- Shia’s Headband
+- Carrot (melee weapon)
+- Carrot Gravestone
+- Carrot Onesie
+
+*** より多くのスーパーアップデート [#xb866abd]
+
+- 地図の足跡マーカーは、明確にするために再設計および拡大されています。 これを提案してくれたNorthernlion Live Super Showに感謝します！
+- ボットはどんな調査可能な動物にもなり得ます。
+- ボットは今、すべての基本的な傘を使用することができます。
+- より多くのボット名を追加しました。 あなたは今度からAKでKindnessに殺されるか、またはショットガンでLoveに殺されることができます。
+- 特定のスーパーアニマルブリードティアを調整して、新しいブリード用のスペースを確保しました（コストとレアリティティアを若干下げました）。
+- いくつかのスーパーアニマルの名前が調整されました（例：LabradorはLabに短縮されました）。
+
+*** 修正 [#u08dd0fb]
+
+- ボットが動けなくなる可能性がある状況を修正しました。
+- サイレントピストルの弾丸はもう少し内側に出現します。
+- キルフィードのRebellion Swordのテキストを修正しました。
+- ロシア語の翻訳修正。
+
+
+* コメント [#w522c726]
+
+#pcomment

@@ -1,0 +1,470 @@
+* ノーマルエリア/絶園の地ヴァザール [#hcf00dbe]
+
+** 絶園の地ヴァザール [#h2a3957f]
+ 絶園の地ヴァザール - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ 全ては無からはじまり、やがて無になる。 あらゆる物質の始点であり終着点、それが絶園。
+ 
+ エリア目標:
+ 1:生命のよりしろ 3:癒しのよりしろ 6:力のよりしろ 9:生命のよりしろ 12:癒しのよりしろ 15:力のよりしろ 18:超悪いよりしろ
+ 
+ 解放条件
+ 1.「ノーマルエリア/空白の時代」をクリア。
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''絶なる園の支配者'''>#yefea8cd]]''|46|16|950|25,000|火|BGCOLOR(#f1bba6):属性:火 種族:亜人&br;攻撃:68590/2T&br;|[絶園王]アルプトラウム&br;炎火のよりしろ&br;悪いよりしろ&br;超悪いよりしろ&br;|-|金:AS不使用&br;銀:ノーコンティニュー&br;銅:ボス撃破&br;|初期Soul値:20&br;[exp/sta]:59.4&br;|
+|''[['''獄闇の破片たち'''>#oc6bc6ac]]''|42|15|950|25,000|闇|BGCOLOR(#bba6f1):属性:闇 種族:龍&br;攻撃:28950/2T&br;&color(red){※};防御力少し高め&br;|奈落のよりしろ&br;|癒しのよりしろ&br;奈落のよりしろ&br;|金:AS使用3回以下&br;銀:エネミー30体以上撃破&br;銅:ノーコンティニュー&br;|初期Soul値:20&br;[exp/sta]:63.3&br;|
+|''[['''獄明の破片たち'''>#x9800bd5]]''|42|15|900|25,000|光|BGCOLOR(#f1f1a6):属性:光 種族:龍&br;攻撃:27000/2T&br;&color(red){※};防御力少し高め&br;|光輝のよりしろ&br;|生命のよりしろ&br;|金:AS使用3回以下&br;銀:エネミー30体以上撃破&br;銅:ノーコンティニュー&br;|初期Soul値:20&br;[exp/sta]:60.0&br;|
+|''[['''獄流の破片たち'''>#h20981b2]]''|42|15|900|25,000|水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:27560/2T&br;&color(red){※};防御力少し高め&br;|水のよりしろ&br;|生命のよりしろ&br;清濁のよりしろ&br;|金:AS使用3回以下&br;銀:エネミー30体以上撃破&br;銅:ノーコンティニュー&br;|初期Soul値:20&br;[exp/sta]:60.0&br;|
+|''[['''獄炎の破片たち'''>#j23cb7af]]''|42|15|900|25,000|火|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:27470/2T&br;&color(red){※};防御力少し高め&br;|生命のよりしろ&br;火のよりしろ&br;|生命のよりしろ&br;癒やしのよりしろ&br;炎火のよりしろ&br;|金:AS使用3回以下&br;銀:エネミー30体以上撃破&br;銅:ノーコンティニュー&br;|初期Soul値:20&br;[exp/sta]:60.0&br;|
+|''[['''新たなる地'''>#yf4a16b9]]''|14|15|900|25,000|-|BGCOLOR(#f1bba6):属性:火 種族:亜人&br;攻撃:28000/2T&br;|炎火のよりしろ&br;|-|金:AS使用3回以下&br;銀:残りSoul20以上&br;銅:ノーコンティニュー&br;|初期Soul値:30&br;[exp/sta]:60.0&br;|
+- 前:''[['''NA/空白の時代'''>ノーマルエリア/空白の時代]]''　次:''[['''NA/獄の陣門カミヤシロ'''>ノーマルエリア/獄の陣門カミヤシロ]]''
+
+- [[配信履歴(絶園の地ヴァザール)>#k0ed5193]]
+- [[コメント(絶園の地ヴァザール)>#n7710249]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+*** クエスト詳細 [#vb3d5cf3]
+----
+*** 絶なる園の支配者 [#yefea8cd]
+&color(black,#eeeeee){基本情報};
+:|
+距離:46 スタミナ:16 獲得EXP:950 獲得金額:25,000
+クリアボーナス:虹色水晶 (1個)
+チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:''コンティニューなし''でクリア！
+-- 銅:''ボスを撃破''！
+:|開放条件:
+-- 「''[['''獄闇の破片たち'''>#oc6bc6ac]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[呪絶王]アルプトラウム''
+属性:&color(black,#f1bba6){火}; 種族:亜人
+攻撃:68590/2T HP:約4,643,000 獲得Soul:10 獲得Gold:0
+有効特効:対火属性
+ドロップ:&color(#006600){[絶園王]アルプトラウム}; (火杖金本) , 炎火のよりしろ , 悪いよりしろ , 超悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''水晶カイザー・ポイム''(仮)((一定の確率で出現。))
+攻撃:1020/3T HP:?(&color(black,#ffffff){無};) 獲得Soul:30 獲得Gold:10,000 獲得覚醒pt:?
+座標((確認できた座標のみを記載。)):(あと13マス,-3)
+ドロップ:?
+
+&color(black,#eeeeee){エネミー};
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''火杖金魔導書([絶園王]アルプトラウム)''
+攻撃:14000/2T HP:604,498(&color(black,#f1bba6){火};) 獲得Soul:5 獲得Gold:0
+ドロップ:炎火のよりしろ , 火のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:59.4
+よりしろ経験値(残りSoul99):?
+各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|特別ガイド台詞:
+ イベントエリア/絶園の地ヴァザール > 絶なる園の支配者 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|''ノーマルエリア/絶園の地ヴァザール > 絶なる園の支配者'' - 簡易Map|h
+|~y\x|~46　|~45　|~44　|~43　|~42　|~41　|~40　|~39　|~38　|~37　|~36　|~35　|~34　|~33　|~32　|~31　|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~+4|||||||40|39|38|37||||BGCOLOR(#a6f1f1):|32|31|30|29|28|27|26|25|24|23|22|21|20|19|18|17|16|15||||BGCOLOR(#a6f1f1):|10|09|08|07|06|05|04|03|02|01|B|
+|~+3|||||||||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|||||BGCOLOR(#f1bba6):||18|17||||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|03|02|01|B|
+|~+2||||||||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||01|B|
+|~+1|||||||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|||||BGCOLOR(#f1bba6):|||||||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):|||01|B|
+|~±0||||''Sta''||||BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):||B|
+|~-1|||||||||||||BGCOLOR(#a6f1f1):||||||||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||||||||BGCOLOR(#a6f1f1):||||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):|B|
+|~-2||||||||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):||B|
+|~-3|||||||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):|||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|''晶4H''|BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|魔R|BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):|B|
+|~-4|||||||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):||||BGCOLOR(#a6f1f1):|BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):|28||||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 魔:魔導書型シンボル 晶:水晶ポイム系(仮)
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 獄闇の破片たち [#oc6bc6ac]
+&color(black,#eeeeee){基本情報};
+:|
+距離:42 スタミナ:15 獲得EXP:950 獲得金額:25,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:アクティブスキルの使用を''3回以下''に抑えてクリア
+-- 銀:エネミーを''30体以上''撃破してクリア
+-- 銅:''コンティニューなし''でクリア
+:|開放条件:
+-- 「''[['''獄明の破片たち'''>#x9800bd5]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''ダーク・ヴィーヴィル''
+属性:&color(black,#bba6f1){闇}; 種族:ドラゴン
+攻撃:28950/2T HP:約? 獲得Soul:8 獲得Gold:0
+有効特効:対龍 , 対闇属性 &color(red){※};防御力少し高め&br;
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:10280/2T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400
+座標:(あと29マス,-3),(あと03マス,±?)
+ドロップ:癒しのよりしろ , 奈落のよりしろ
+
+&color(black,#eeeeee){エネミー};((個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''シャドー・ポイム''
+攻撃:25890/3T HP:227,454(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:800
+ドロップ:[黒槍使]アーヴィング
+
+:|''シャドー・スクィレル''
+攻撃:?/1T HP:138,797(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:900
+ドロップ:?
+
+:|''シャドー・ウルフ''
+攻撃:?/2T HP:138,945(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:?
+
+:|''シャドー・ドラン''
+攻撃:23160/3T HP:192,045(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:[黒魔術師]ジグムント
+
+:|''シャドー・グリズリー''
+攻撃:?/4T HP:234,133(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,200
+ドロップ:?
+
+:|''シャドー・スコーピオン''
+攻撃:17160/3T HP:118,015(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,100
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:63.3
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:あり
+-- ユニット箱情報:
+--- 座標:?
+--- 中身:?
+:|特別ガイド台詞:
+ イベントエリア/絶園の地ヴァザール > 獄闇の破片たち - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 獄明の破片たち [#x9800bd5]
+&color(black,#eeeeee){基本情報};
+:|
+距離:42 スタミナ:15 獲得EXP:900 獲得金額:25,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:アクティブスキルの使用を''3回以下''に抑えてクリア！
+-- 銀:エネミーを''30体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+:|開放条件:
+-- 「''[['''獄流の破片たち'''>#h20981b2]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''ピュア・ヴィーヴィル''
+属性:&color(black,#f1f1a6){光}; 種族:ドラゴン
+攻撃:27000/2T HP:約720,000 獲得Soul:8 獲得Gold:0
+有効特効:対龍 , 対光属性 &color(red){※};防御力少し高め&br;
+ドロップ:光輝のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:?/2T HP:?(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400
+座標:(あと29マス,-2),(あと14マス,±?)
+ドロップ:生命のよりしろ
+
+&color(black,#eeeeee){エネミー};((個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''シャドー・ポイム''
+攻撃:24930/3T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:800
+ドロップ:?
+
+:|''シャドー・スクィレル''
+攻撃:8020/1T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:900
+ドロップ:?
+
+:|''シャドー・ウルフ''
+攻撃:22570/2T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:?
+
+:|''シャドー・ドラン''
+攻撃:?/3T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:?
+
+:|''シャドー・グリズリー''
+攻撃:24750/4T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:1,200
+ドロップ:?
+
+:|''シャドー・スコーピオン''
+攻撃:20000/3T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:1,100
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:60.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:あり
+-- ユニット箱情報:
+--- 座標:?
+--- 中身:光輝のよりしろ
+:|特別ガイド台詞:
+ イベントエリア/絶園の地ヴァザール > 獄明の破片たち - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 獄流の破片たち [#h20981b2]
+&color(black,#eeeeee){基本情報};
+:|
+距離:42 スタミナ:15 獲得EXP:900 獲得金額:25,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:アクティブスキルの使用を''3回以下''に抑えてクリア！
+-- 銀:エネミーを''30体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+:|解放条件:
+-- 「''[['''獄炎の破片たち'''>#j23cb7af]]''」をクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''アクア・ヴィーヴィル''
+属性:&color(black,#a6f1f1){水}; 種族:ドラゴン
+攻撃:27560/2T HP:約720,000 獲得Soul:8 獲得Gold:0
+有効特効:対龍 , 対水属性 &color(red){※};防御力少し高め&br;
+ドロップ:水のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:?/2T HP:?(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400
+座標:(あと27マス,+4?),(あと04マス,?)
+ドロップ:生命のよりしろ , 清濁のよりしろ
+
+&color(black,#eeeeee){エネミー};((個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''シャドー・ポイム''
+攻撃:22000/3T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:800
+ドロップ:?
+
+:|''シャドー・スクィレル''
+攻撃:8060/1T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:900
+ドロップ:?
+
+:|''シャドー・ウルフ''
+攻撃:21520/2T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:?
+
+:|''シャドー・ドラン''
+攻撃:24020/3T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:?
+
+:|''シャドー・グリズリー''
+攻撃:27500/4T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,200
+ドロップ:?
+
+:|''シャドー・スコーピオン''
+攻撃:18780/3T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,100
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:60.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:あり
+-- ユニット箱について:
+--- 座標:?
+--- 中身:清濁のよりしろ
+:|特別ガイド台詞:
+ イベントエリア/絶園の地ヴァザール > 獄流の破片たち - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 獄炎の破片たち [#j23cb7af]
+&color(black,#eeeeee){基本情報};
+:|
+距離:42 スタミナ:15 獲得EXP:900 獲得金額:25,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:アクティブスキルの使用を''3回以下''に抑えてクリア！
+-- 銀:エネミーを''30体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+:|開放条件:
+-- 「''[['''新たなる地'''>#yf4a16b9]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''レッド・ヴィーヴィル''
+属性:&color(black,#f1bba6){火}; 種族:ドラゴン
+攻撃:28890/2T HP:約701,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:28
+有効特効:対龍 , 対火属性 &color(red){※};防御力少し高め&br;
+ドロップ:生命のよりしろ , 火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''水晶カイザー・ポイム''((一定の確率で出現。))
+攻撃:1070/2T HP:?(&color(black,#ffffff){無};) 獲得Soul:30 獲得Gold:10,000 獲得覚醒pt:1,000
+座標:(あと21マス,+1)((確認できた座標のみを記載。))
+ドロップ:?
+
+:|''金カイザー・ポイム''
+攻撃:11450/2T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400 獲得覚醒pt:48
+座標:(あと30マス,-2),(あと13マス,±0)
+ドロップ:生命のよりしろ , 癒やしのよりしろ , 炎火のよりしろ
+
+&color(black,#eeeeee){エネミー};((個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''シャドー・ポイム''
+攻撃:25500/3T HP:227,107(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:800 獲得覚醒pt:28
+ドロップ:[朱魔術師]カロル
+
+:|''シャドー・スクィレル''
+攻撃:8020/1T HP:139,493(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:900 獲得覚醒pt:28
+ドロップ:?
+
+:|''シャドー・ウルフ''
+攻撃:20080/2T HP:138,649(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000 獲得覚醒pt:28
+ドロップ:[朱槍使]アーロン , [朱魔術師]カロル
+
+:|''シャドー・ドラン''
+攻撃:23650/3T HP:191,749(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000 獲得覚醒pt:28
+ドロップ:[朱槍使]アーロン , [朱魔術師]カロル
+
+:|''シャドー・グリズリー''
+攻撃:25690/4T HP:233,799(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,200 獲得覚醒pt:28
+ドロップ:[朱騎士]ラビ
+
+:|''シャドー・スコーピオン''
+攻撃:20280/3T HP:117,759(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,100 獲得覚醒pt:28
+ドロップ:[朱槍使]アーロン , [朱弓]アナスタシア
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:60.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:あり
+-- ユニット箱情報:
+--- 座標((一定の確率で出現。)):(あと27マス,±0),(あと18マス,-2),(あと15マス,+1),(あと11マス,-2),(あと09マス,+2),(あと05マス,-4)
+--- 中身:炎火のよりしろ
+:|特別ガイド台詞:
+ イベントエリア/絶園の地ヴァザール > 獄炎の破片たち - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''ノーマルエリア/獄炎の破片たち > '' - 簡易Map|
+|~(x,y)|~42　|~41　|~40　|~39　|~38　|~37　|~36　|~35　|~34　|~33　|~32　|~31　|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:40|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:35|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||||||||BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):卵5R|||BGCOLOR(#f1bba6):狼5R|||BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):卵5R|||BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):鋏5R|||BGCOLOR(#f1bba6):鋏5R|||BGCOLOR(#f1bba6):爪5R|||BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):|B|
+|~+3|||||||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):狼5R|||BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):狼5R|||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):爪5R|||BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):|B|
+|~+2||||||||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):鋏5R|BGCOLOR(#f1bba6):狼5R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):鋏5R|||BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):爪5R|箱U|BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):鋏5R|||BGCOLOR(#f1bba6):角5R|B|
+|~+1|||||||||BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):狼5R||箱||''晶4H''|BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):角5R||箱|箱U|BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):狼5R|||箱|BGCOLOR(#f1bba6):角5R|BGCOLOR(#f1bba6):鋏5R|||BGCOLOR(#f1bba6):卵5R|BGCOLOR(#f1bba6):鋏5R|||B|
+|~±0||||''Sta''|||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):狼5R|箱U|BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):軟5R||''金4H''||BGCOLOR(#f1bba6):卵5R|BGCOLOR(#f1bba6):鋏5R|||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):爪5R|B|
+|~-1|||||||BGCOLOR(#f1bba6):鋏5R|||BGCOLOR(#f1bba6):卵5R|BGCOLOR(#f1bba6):鋏5R|箱||BGCOLOR(#f1bba6):軟5R||箱|BGCOLOR(#f1bba6):角5R|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪5R||箱|||BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):鋏5R|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪5R||||B|
+|~-2||||||||BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):狼5R|''金4H''||BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):|箱U|BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):角5R||箱U|||BGCOLOR(#f1bba6):卵5R|箱|BGCOLOR(#f1bba6):角5R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):角5R||B|
+|~-3|||||||BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):狼5R|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪5R||箱|BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼5R|箱|BGCOLOR(#f1bba6):角5R||箱|BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):卵5R||BGCOLOR(#f1bba6):爪5R|B|
+|~-4||||||||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):卵5R|||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):狼5R|||BGCOLOR(#f1bba6):角5R||BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):角5R|||BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):爪5R|||BGCOLOR(#f1bba6):|箱U|BGCOLOR(#f1bba6):鋏5R||BGCOLOR(#f1bba6):鋏5R||B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱 箱U:Unit箱
+ 軟:軟性種(ポイム系) 角:頭角種(スクィレル系) 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 爪:大爪種(グリズリー系) 鋏:鋏角種(スコーピオン系)
+ 金:金ポイム系 晶:水晶ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 新たなる地 [#yf4a16b9]
+&color(black,#eeeeee){基本情報};
+:|
+距離:14 スタミナ:15 獲得EXP:900 獲得金額:25,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:アクティブスキルの使用を''3回以下''に抑えてクリア！
+-- 銀:残りSoulが''20以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[絶園王]アルプトラウム''
+属性:&color(black,#f1bba6){火}; 種族:亜人
+攻撃:28020/2T HP:約1,547,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:28
+有効特効:対火属性
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};
+:|-
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:30
+[exp/sta]:60.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|注意点
+-- Moveパネルによるボス直行型クエスト。
+:|特別ガイド台詞:
+ イベントエリア/絶園の地ヴァザール > 新たなる地 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 配信履歴(絶園の地ヴァザール) [#k0ed5193]
+:2015/01/01〜|
+-- 火曜日限定エリアへ移行。
+:2014/02/28(10:00)〜2014/12/31(23:59)|
+-- 水晶ポイム系(仮)が実装。
+:2013/11/23(10:00)〜|
+----
+
+* コメント(絶園の地ヴァザール) [#n7710249]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

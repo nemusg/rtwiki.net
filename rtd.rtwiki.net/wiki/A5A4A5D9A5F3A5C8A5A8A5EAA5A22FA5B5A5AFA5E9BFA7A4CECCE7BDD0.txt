@@ -1,0 +1,288 @@
+* イベントエリア/サクラ色の門出 [#xe6c514d]
+
+** サクラ色の門出 [#w5a06908]
+ サクラ色の門出 - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ 新たな出会いの季節。“ウキウキ”してしまいます。
+ 
+ お知らせの文章:
+ 「サクラ色の門出」では全てのクエストのボスから朗らかなあのこゲットのチャンス！？
+ 
+ エリア目標:
+ 9:虹色水晶
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''サクラ色の門出・上級'''>#k5f26e4f]]''|22|22|350|12,000|火闇無|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:?/2T&br;|超悪いよりしろ&br;|空のよりしろ&br;|金:ノーダメージ&br;銀:残りSoul25以上&br;銅:ボス撃破&br;|初期Soul値:15&br;[exp/sta]:15.9&br;|
+|''[['''サクラ色の門出・中級'''>#i6f53547]]''|22|15|300|8,000|火闇|BGCOLOR(#ffffff):属性:無 種族:軟性&br;攻撃:7120/2T&br;|天のよりしろ&br;|空のよりしろ&br;|金:ノーコンティニュー&br;銀:残りSoul30以上&br;銅:ボス撃破&br;|初期Soul値:15&br;[exp/sta]:20.0&br;|
+|''[['''サクラ色の門出・初級'''>#x1dc6388]]''|22|8|180|4,000|火闇|BGCOLOR(#ffffff):属性:無 種族:軟性&br;攻撃:2580/2T&br;|春のよりしろ&br;|金のよりしろ&br;|金:AS不使用&br;銀:残りSoul25以上&br;銅:ボス撃破&br;|初期Soul値:15&br;[exp/sta]:22.5&br;|
+
+
+- [[開放履歴(サクラ色の門出)>#ya5c0c73]]
+- [[コメント(サクラ色の門出)>#i3bb9c72]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#e479a155]
+----
+*** サクラ色の門出・上級 [#k5f26e4f]
+&color(black,#eeeeee){基本情報};
+:|
+距離:22 スタミナ:22 獲得EXP:350 獲得金額:12,000
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''ノーダメージ''でクリア！
+-- 銀:残りSoulが''40以上''の状態でクリア！
+-- 銅:''ボスを撃破''！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''桜龍:サクラ・ダハーカ''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:?/2T HP:約370,000 獲得Soul:10 獲得Gold:5,000 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対無属性
+ドロップ:超悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:?/2T HP:87,543(&color(black,#ffffff){無};) 獲得Soul:10 獲得Gold:7,500 獲得覚醒pt:?
+座標:(あと14マス,-2),(あと10マス,+2),(あと03マス,±0)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#bba6f1){闇};/&color(black,#ffffff){無};
+
+:|''カイザー・ウルフ''
+攻撃:?/2T HP:34,861(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・スコーピオン''
+攻撃:?/3T HP:24,709(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン''
+攻撃:?/3T HP:92,092(&color(black,#ffffff){無};) 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:15.9
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正パネルの有無:
+-- 火:あり 水:- 光:- 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/サクラ色の門出 > サクラ色の門出・上級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/サクラ色の門出 > サクラ色の門出・上級'' - 簡易Map|
+|~(x,y)|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||||||BGCOLOR(#bba6f1):鋏4D|||||猪H||||BGCOLOR(#f1bba6):狼4R||B|
+|~+3||||||||BGCOLOR(#bba6f1):鋏4D||BGCOLOR(#bba6f1):鋏4D||||猪H|BGCOLOR(#f1bba6):狼4R||||BGCOLOR(#f1bba6):狼4R||||B|
+|~+2||||||BGCOLOR(#bba6f1):鋏4D|||箱|猪H||BGCOLOR(#bba6f1):鋏4D|''金4H''|||BGCOLOR(#f1bba6):狼4R|箱|BGCOLOR(#f1bba6):狼4R||||BGCOLOR(#f1bba6):狼4R|B|
+|~+1||||||||BGCOLOR(#bba6f1):鋏4D||BGCOLOR(#bba6f1):鋏4D||||BGCOLOR(#f1bba6):狼4R||||||BGCOLOR(#f1bba6):狼4R|||B|
+|~±0||||''Sta''|||||||||BGCOLOR(#bba6f1):鋏4D|||||BGCOLOR(#bba6f1):狼4D||''金4H''||猪H|B|
+|~-1|||||||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1bba6):鋏4R|||||||BGCOLOR(#bba6f1):狼4D|||猪H||BGCOLOR(#bba6f1):狼4D||B|
+|~-2|||||||||''金4H''||BGCOLOR(#f1bba6):鋏4R|箱|猪H||BGCOLOR(#bba6f1):狼4D|||||BGCOLOR(#bba6f1):狼4D|||B|
+|~-3||||||||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1bba6):鋏4R|||||||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#bba6f1):狼4D||箱||B|
+|~-4|||||||||猪H||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1bba6):鋏4R|||||BGCOLOR(#bba6f1):狼4D||||BGCOLOR(#bba6f1):狼4D|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 狼:狼毛種(ウルフ系) 鋏:鋏角種(スコーピオン系) 猪:猪竜種(バハムートン) 金:金ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** サクラ色の門出・中級 [#i6f53547]
+&color(black,#eeeeee){基本情報};
+:|
+距離:22 スタミナ:15 獲得EXP:300 獲得金額:8,000
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''コンティニューなし''でクリア！
+-- 銀:残りSoulが''30以上''の状態でクリア！
+-- 銅:''ボスを撃破''！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''金カイザー・ポイム''
+属性:&color(black,#ffffff){無属性}; 種族:軟性
+攻撃:7120/2T HP:約120,000 獲得Soul:10 獲得Gold:15,000 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:天のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金ハイ・ポイム''
+攻撃:3390/2T HP:39,283(&color(black,#ffffff){無};) 獲得Soul:10 獲得Gold:2250 獲得覚醒pt:?
+座標:(あと14マス,-2),(あと10マス,+2),(あと03マス,±0)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#bba6f1){闇};
+
+:|''カイザー・ポイム''
+攻撃:5150/3T HP:37,995(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:にじょう
+
+:|''キラー・ドラン''
+攻撃:8150/3T HP:41,416(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正パネルの有無:
+-- 火:あり 水:- 光:- 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/サクラ色の門出 > サクラ色の門出・中級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/サクラ色の門出 > サクラ色の門出・中級'' - 簡易Map|
+|~(x,y)|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||||||BGCOLOR(#bba6f1):軟4D|||||||||BGCOLOR(#f1bba6):卵3R||B|
+|~+3||||||||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#bba6f1):軟4D|||||BGCOLOR(#f1bba6):卵3R||||BGCOLOR(#f1bba6):卵3R||||B|
+|~+2||||||BGCOLOR(#bba6f1):軟4D|||箱|||BGCOLOR(#bba6f1):軟4D|''金2H''|||BGCOLOR(#f1bba6):卵3R|箱|BGCOLOR(#f1bba6):卵3R||||BGCOLOR(#f1bba6):卵3R|B|
+|~+1||||||||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#bba6f1):軟4D||||BGCOLOR(#f1bba6):卵3R||||||BGCOLOR(#f1bba6):卵3R|||B|
+|~±0||||''Sta''|||||||||BGCOLOR(#bba6f1):軟4D|||||BGCOLOR(#bba6f1):卵3D||''金2H''|||B|
+|~-1|||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#f1bba6):軟4R|||||||BGCOLOR(#bba6f1):卵3D|||||BGCOLOR(#bba6f1):卵3D||B|
+|~-2|||||||||''金2H''||BGCOLOR(#f1bba6):軟4R|箱|||BGCOLOR(#bba6f1):卵3D|||||BGCOLOR(#bba6f1):卵3D|||B|
+|~-3||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#f1bba6):軟4R|||||||BGCOLOR(#bba6f1):卵3D||BGCOLOR(#bba6f1):卵3D||箱||B|
+|~-4|||||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#f1bba6):軟4R|||||BGCOLOR(#bba6f1):卵3D||||BGCOLOR(#bba6f1):卵3D|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 卵:竜卵種(ドラン系) 金:金ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** サクラ色の門出・初級 [#x1dc6388]
+&color(black,#eeeeee){基本情報};
+:|
+距離:22 スタミナ:8 獲得EXP:180 獲得金額:4,000
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:残りSoulが''25以上''の状態でクリア！
+-- 銅:''ボスを撃破''！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''金ハイ・ポイム''
+属性:&color(black,#ffffff){無属性}; 種族:軟性
+攻撃:2580/2T HP:約20,000? 獲得Soul:10 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:春のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金ポイム''
+攻撃:2950/2T HP:21,727(&color(black,#ffffff){無};) 獲得Soul:10 獲得Gold:1,500 獲得覚醒pt:?
+座標:(あと14マス,-2),(あと10マス,+2),(あと03マス,±0)
+ドロップ:金のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#bba6f1){闇};
+
+:|''ポイム''
+攻撃:2940/3T HP:7,175(&color(black,#bba6f1){闇};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+ドロップ:?
+
+:|''スクィレル''
+攻撃:2360/2T HP:10,779(&color(black,#bba6f1){闇};) 獲得Soul:1 獲得Gold:250 獲得覚醒pt:?
+ドロップ:イェゴール
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:22.5
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正パネルの有無:
+-- 火:あり 水:- 光:- 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/サクラ色の門出 > サクラ色の門出・初級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/サクラ色の門出 > サクラ色の門出・初級'' - 簡易Map|
+|~(x,y)|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||||||BGCOLOR(#bba6f1):軟1D|||||||||BGCOLOR(#f1bba6):角1R||B|
+|~+3||||||||BGCOLOR(#bba6f1):軟1D||BGCOLOR(#bba6f1):軟1D|||||BGCOLOR(#f1bba6):角1R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):角1R||||B|
+|~+2||||||BGCOLOR(#bba6f1):軟1D|||箱|||BGCOLOR(#bba6f1):軟1D|''金1H''|||BGCOLOR(#f1bba6):角1R|箱|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):|B|
+|~+1||||||||BGCOLOR(#bba6f1):||BGCOLOR(#bba6f1):||||BGCOLOR(#f1bba6):角1R||||||BGCOLOR(#f1bba6):角1R|||B|
+|~±0||||''Sta''|||||||||BGCOLOR(#bba6f1):軟1D|||||BGCOLOR(#bba6f1):角1D||''金1H''|||B|
+|~-1|||||||BGCOLOR(#f1bba6):軟1R||BGCOLOR(#f1bba6):軟1R||||||||||||BGCOLOR(#bba6f1):角1D||B|
+|~-2||||||BGCOLOR(#f1bba6):|||''金1H''|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟1R|箱||BGCOLOR(#f1bba6):|BGCOLOR(#bba6f1):角1D||||BGCOLOR(#bba6f1):||||B|
+|~-3||||||||BGCOLOR(#f1bba6):軟1R||||BGCOLOR(#f1bba6):||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):角1D||BGCOLOR(#bba6f1):角1D||箱||B|
+|~-4|||||||||||BGCOLOR(#f1bba6):軟1R||BGCOLOR(#f1bba6):軟1R|||||BGCOLOR(#bba6f1):角1D||||BGCOLOR(#bba6f1):角1D|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 角:頭角種(スクィレル系) 金:金ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟1R
+ 
+ 背景色は属性補正パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 開放履歴(サクラ色の門出)((時刻が書かれていない場合、その日付の間は開放。)) [#ya5c0c73]
+:2014/04/11(10:00)〜2014/04/18(10:00)|
+-- 2014/04/11(11:40): 覚醒ptに関する不具合が修正される。
+ “
+ ※4/11 11:40追記
+ 　当クエストにて覚醒ptが得られない
+ 　問題を修正いたしました。
+ 　ご迷惑をおかけし申し訳ございません。
+ ”
+ 公式のお知らせより引用。
+
+:2013/04/01〜2013/04/05|
+配信時のデータ
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||c
+|~名称|~距離|~スタミナ|~獲得EXP|~EXP効率|~獲得金額|~雑魚属性|~ボス攻撃力|~ボスドロップ|~備考|
+|サクラ色の門出・上級|37|22|600|27.3|?|?|BGCOLOR(#ffffff):?/?/?|春のよりしろ&br;超悪いよりしろ|クリア報酬:虹色水晶|
+|サクラ色の門出・中級|27|15|400|26.6|8000|?|BGCOLOR(#ffffff):8000/2/?|春のよりしろ|クリア報酬:虹色水晶|
+|サクラ色の門出・初級|18|8|180|22.5|?|?|BGCOLOR(#ffffff):?/?/?|春のよりしろ&br;天のよりしろ|クリア報酬:虹色水晶|
+
+----
+* コメント(サクラ色の門出) [#i3bb9c72]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

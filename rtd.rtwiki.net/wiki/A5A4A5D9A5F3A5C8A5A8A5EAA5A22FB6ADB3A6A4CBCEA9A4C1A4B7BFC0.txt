@@ -1,0 +1,118 @@
+* イベントエリア/境界に立ちし神 [#p988d78b]
+
+** 境界に立ちし神 [#udf55f69]
+ 境界に立ちし神 - 6ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 神なる存在。その名はディオーネ。神秘なる舞闘、その壮絶な力に耐えられるか！？
+ 
+ エリア目標:
+ 1:清濁のよりしろ 2:清濁のよりしろ 3:超悪いよりしろ
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''裁きの双剣・超級'''>#hc4fd351]]''|30|10|500|15000|水|BGCOLOR(#a6f1f1):属性:水 種族:神&br;攻撃:45190/2T&br;&color(red){※};防御力少し高め|ディオーネ&br;清濁のよりしろ&br;悪いよりしろ&br;|-|金:ノーコン&br;銀:残りソウル40以上&br;銅:ボス撃破|初期Soul値:15&br;[exp/sta]:50.0&br;|
+
+- [[配信履歴(境界に立ちし神)>#i9aebbcb]]
+- [[コメント(境界に立ちし神)>#t4e33f8f]]
+
+// 属性背景
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+----
+*** 裁きの双剣・超級 [#hc4fd351]
+&color(black,#eeeeee){基本情報};
+:|
+距離:30 スタミナ:10 獲得EXP:500 獲得金額:15,000
+クリアボーナス:虹色水晶 1個
+チャレンジ目標:
+-- 金:''コンティニューなし''でクリア！
+-- 銀:残りSoulが''40以上''の状態でクリア！
+-- 銅:エネミーを''10体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|
+''[世界神]ディオーネ''
+属性:&color(black,#a6f1f1){水属性}; 種族:神
+攻撃:45190/2T HP:約1,231,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:31
+特性:-
+有効特効:対水属性 &color(red){※};防御力少し高め
+ドロップ:&color(#006600){ディオーネ}; (水剣銀本) , 悪いよりしろ , 清濁のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};((個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''サイボーグ・スコーピオン''(仮)
+攻撃:27300/3T HP:472,698(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:700 獲得覚醒pt:21
+ドロップ:清濁のよりしろ , 水のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:50.0
+獲得覚醒pt:?pt/1体
+よりしろ経験値(残りSoul99):15,765
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/境界に立ちし神 > 裁きの双剣・超級'' - 簡易Map|
+|~(x,y)|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||||||||BGCOLOR(#a6f1f1):鋏6A||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):鋏6A|||||BGCOLOR(#a6f1f1):|||B|
+|~+3|||||||BGCOLOR(#a6f1f1):鋏6A|||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):|||||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):||B|
+|~+2|||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):鋏6A||||BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):鋏6A|||BGCOLOR(#a6f1f1):|||B|
+|~+1||||||BGCOLOR(#a6f1f1):|||||||箱|BGCOLOR(#a6f1f1):鋏6A|||||||箱|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏6A||BGCOLOR(#a6f1f1):||||||B|
+|~±0||||''Sta''|||||BGCOLOR(#a6f1f1):鋏6A||||||||BGCOLOR(#a6f1f1):鋏6A|||BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):鋏6A||||B|
+|~-1||||||||BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):|箱|||BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):|箱||BGCOLOR(#a6f1f1):鋏6A|||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|||B|
+|~-2|||||||BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏6A||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏6A|箱||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):鋏6A||||BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):|||||B|
+|~-3||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏6A|||||BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):鋏6A||||BGCOLOR(#a6f1f1):鋏6A||||BGCOLOR(#a6f1f1):鋏6A|箱|||||BGCOLOR(#a6f1f1):鋏6A|BGCOLOR(#a6f1f1):||B|
+|~-4|||||||||||BGCOLOR(#a6f1f1):鋏6A|||||BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):鋏6A||BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):||||BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):鋏6A||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ :種(系) :種(系) :種(系)
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」 ~6:「サイボーグ・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 配信履歴(境界に立ちし神) [#i9aebbcb]
+:2014/09/01|
+:2014/08/06|
+:2014/07/13|
+:2014/06/15|
+:2014/05/18|
+:2014/04/30|
+:2014/04/01|
+:2014/03/01|
+:2014/02/01|
+:2014/01/01|
+:2013/12/01|
+-- 以降「レアユニットエリア > 境界に立ちし神・超級」として配信。
+-- エリア説明文が若干変更される。
+-- ボス弱体化、その他エネミーについては不明。
+ -弱体化前データ-
+ ''[世界神]ディオーネ''
+ 攻撃:94500/2T HP:約2,760,000 獲得Soul:10 獲得Gold:0
+ 有効特効:対水属性 &color(red){※};防御力高め
+:2013/11/02|
+-- レアユニットエリアとして開放。
+:2013/10/12〜2013/10/13|
+
+----
+* コメント(境界に立ちし神) [#t4e33f8f]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

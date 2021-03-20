@@ -1,0 +1,38 @@
+* 新学期ガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+** 新学期ガチャ2016春 [#e8b07ac2]
+
+|CENTER:|||c
+|~レア|~新登場|~既存|
+|>|>|BGCOLOR(#ffffff):[[2016/04/04～2016/04/10:http://pad.gungho.jp/member/seasonal/160401_school_lineup.html]]|
+|★8|&mons2813; &mons2814;||
+|★7||&mons2014; &mons2015; &mons2017;|
+|★5|&mons2815; &mons2821;||
+|★4|&mons2816; &mons2817; &mons2818; &mons2819; &mons2820;||
+
+
+** 新学期ガチャ [#uf564a01]
+
+#style(class=panelInfo){{
+既に[[ゴッドフェス>ガチャ/ゴッドフェス]]のモンスターはそこそこ揃っている人用の上級者向けガチャ。
+赤ミニおーでぃんは、肝心のスキブが1しか無い為ほぼハズレ。
+パンドラ複数体狙いをしてもいいかもしれないが、とにかく★4の確率が高い。
+}}
+
+
+|CENTER:|||c
+|~レア|~新登場|~既存|
+|>|>|BGCOLOR(#ffffff):[[2015/10/12～2015/10/18:http://pad.gungho.jp/member/151009_school_lineup.html]]|
+|>|>|BGCOLOR(#ffffff):[[2015/04/13～2015/04/19:http://pad.gungho.jp/member/150402_school_list.html]]|
+|★7|&mons2014; &mons2015; &mons2017;||
+|★6|&mons2020; &mons2021;||
+|★5||&mons1065; &mons1067; &mons1069; &mons1071; &mons1073; &mons1626;|
+|★4|&mons2022; &mons2023; &mons2024; &mons2025; &mons2026; &mons2027; &mons2028;||
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

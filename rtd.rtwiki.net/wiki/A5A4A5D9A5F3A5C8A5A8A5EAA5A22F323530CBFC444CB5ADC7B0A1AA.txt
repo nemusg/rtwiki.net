@@ -1,0 +1,1800 @@
+* イベントエリア/250万DL記念！ [#b5b24b12]
+
+** 250万DL記念！ [#jda5d04f]
+ 250万DL記念！ - 4ユニット編成クエストエリア
+ 
+ エリア説明文:
+ ついに250万ダウンロード突破しました！ これからもロードラをよろしくお願いします！！
+ 
+ エリア説明文: (2014/08/24~)
+ ついに250万ダウンロード突破しました！ これからもロードラをよろしくお
+ 
+ エリア目標:
+ 01 > 1:炎火のよりしろ 2:炎火のよりしろ 3:超悪いよりしろ
+ 02 > 1:清濁のよりしろ 2:清濁のよりしろ 3:超悪いよりしろ
+ 03 > 1:光輝のよりしろ 2:光輝のよりしろ 3:超悪いよりしろ
+ 04 > 1:奈落のよりしろ 2:奈落のよりしろ 3:超悪いよりしろ
+ 05&06 > 1:炎火のよりしろ 2:炎火のよりしろ 3:超悪いよりしろ 4:清濁のよりしろ 5:清濁のよりしろ 6:超悪いよりしろ
+ 07&08 > 1:光輝のよりしろ 2:光輝のよりしろ 3:超悪いよりしろ 4:奈落のよりしろ 5:奈落のよりしろ 6:超悪いよりしろ
+ 09&10 > 1:炎火のよりしろ 2:炎火のよりしろ 3:超悪いよりしろ 4:清濁のよりしろ 5:清濁のよりしろ 6:超悪いよりしろ
+ 11&12 > 1:光輝のよりしろ 2:光輝のよりしろ 3:超悪いよりしろ 4:奈落のよりしろ 5:奈落のよりしろ 6:超悪いよりしろ
+ 13&14 > 1:炎火のよりしろ 2:炎火のよりしろ 3:超悪いよりしろ 4:清濁のよりしろ 5:清濁のよりしろ 6:超悪いよりしろ
+ 15&16 > 1:光輝のよりしろ 2:光輝のよりしろ 3:超悪いよりしろ 4:奈落のよりしろ 5:奈落のよりしろ 6:超悪いよりしろ
+ 17&18 > 1:炎火のよりしろ 2:炎火のよりしろ 3:超悪いよりしろ 4:清濁のよりしろ 5:清濁のよりしろ 6:超悪いよりしろ
+ 19&20 > 1:光輝のよりしろ 2:光輝のよりしろ 3:超悪いよりしろ 4:奈落のよりしろ 5:奈落のよりしろ 6:超悪いよりしろ
+ 21&22 > 1:癒やしのよりしろ 2:生命のよりしろ 3:力のよりしろ 4;超古代のよりしろ 5:さまようよりしろ 6:超悪いよりしろ
+ 23&24&25 > 1:悪いよりしろ 2:金のよりしろ 3:天のよりしろ 4:超悪いよりしろ 5:天のよりしろ 6:超古代のよりしろ 7:さまようよりしろ 8:超悪いよりしろ 9:忘却のよりしろ
+
+|~''クエスト名''|~''距離''|~''スタミナ''|~''獲得EXP''|~''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''二十五の挑戦・25'''>#v262fc00]]''|24|10|200|8,000|-|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:19390/4T&br;|夏のよりしろ&br;よりのぼり&br;春のよりしろ&br;|うましろ&br;さまようよりしろ&br;朽ちたよりしろ&br;……&br;|金:残りSoul30以上&br;銀:AS不使用&br;銅:ノーコンティニュー&br;|助っ人枠:自由&br;初期Soul値:10&br;[exp/sta]:20.0&br;|
+|''[['''二十五の挑戦・24'''>#d5747c89]]''|28|10|200|8,000|光|BGCOLOR(#f1f1a6):属性:光 種族:龍&br;攻撃:18550/4T&br;|光輝のよりしろ&br;|-&br;|金:残りSoul45以上&br;銀:光輝のよりしろ(★6)を入れて&br;銅:杖ユニットのみ&br;|助っ人枠:自由&br;初期Soul値:10&br;[exp/sta]:20.0&br;|
+|''[['''二十五の挑戦・23'''>#zf9d939f]]''|28|10|200|8,000|水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:19370/4T&br;|清濁のよりしろ&br;|-&br;|金:残りSoul45以上&br;銀:清濁のよりしろ(★6)を入れて&br;銅:弓ユニットのみ&br;|助っ人枠:自由&br;初期Soul値:10&br;[exp/sta]:20.0&br;|
+|''[['''二十五の挑戦・22'''>#a0848238]]''|28|10|200|8,000|火|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:19260/4T&br;|炎火のよりしろ&br;|-&br;|金:残りSoul45以上&br;銀:炎火のよりしろ(★6)を入れて&br;銅:槍ユニットのみ&br;|助っ人枠:自由&br;初期Soul値:10&br;[exp/sta]:20.0&br;|
+|''[['''二十五の挑戦・21'''>#i4323676]]''|28|10|200|8,000|闇|BGCOLOR(#bba6f1):属性:闇 種族:龍&br;攻撃:18270/4T&br;|奈落のよりしろ&br;|-&br;|金:残りSoul45以上&br;銀:奈落のよりしろ(★6)を入れて&br;銅:剣ユニットのみ&br;|助っ人枠:自由&br;初期Soul値:10&br;[exp/sta]:20.0&br;|
+|''[['''二十五の挑戦・20'''>#qbc08150]]''|38|3|200|8,000|火水光闇無|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:5580/2T&br;|悪いよりしろ&br;|空のよりしろ&br;|金:AS不使用&br;銀:残りソウル40以上&br;銅:ノーコンティニュー&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・19'''>#a7165e15]]''|22|3|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:2970/3T&br;|奈落のよりしろ&br;|空のよりしろ&br;|金:無属性ユニットのみ&br;銀:エネミー10体以上撃破&br;銅:残りソウル20体以上&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・18'''>#t39ccb10]]''|22|3|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:?/3T&br;|悪いよりしろ&br;|各種★4英雄系&br;空のよりしろ&br;|金:★4ユニットのみ&br;銀:エネミー5体以上撃破&br;銅:銀カイザー・ポイム1体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・17'''>#w178ad70]]''|22|3|200|8,000|火|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:?/4T&br;|炎火のよりしろ&br;奈落のよりしろ&br;|空のよりしろ&br;|金:火ウルフ10体撃破&br;銀:火ウルフ5体撃破&br;銅:火ウルフ1体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・16'''>#f37e55e2]]''|22|3|200|8,000|無|BGCOLOR(#bba6f1):属性:闇 種族:龍&br;攻撃:?/4T&br;|超悪いよりしろ&br;悪いよりしろ&br;|空のよりしろ&br;|金:エネミー10体以上撃破&br;銀:エネミー5体以上撃破&br;銅:エネミー3体以上撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・15'''>#u3276130]]''|22|3|200|8,000|光|BGCOLOR(#f1f1a6):属性:光 種族:竜卵&br;攻撃:?/3T&br;|清濁のよりしろ&br;|空のよりしろ&br;|金:杖ユニットのみ&br;銀:エネミー10体以上撃破&br;銅:銀カイザー・ポイム5体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・14'''>#y07a59e0]]''|20|3|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:3510/4T&br;|悪いよりしろ&br;|空のよりしろ&br;|金:光スクィレル1体撃破&br;銀:水スクィレル1体撃破&br;銅:火スクィレル1体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・13'''>#o2f14499]]''|22|3|200|8,000|水|BGCOLOR(#a6f1f1):属性:水 種族:鋏角&br;攻撃:?/3T&br;|炎火のよりしろ&br;奈落のよりしろ&br;光輝のよりしろ&br;奈落のよりしろ|空のよりしろ&br;|金:弓ユニットのみ&br;銀:エネミー10体以上撃破&br;銅:銀カイザー・ポイム5体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・12'''>#n1979002]]''|22|3|200|8,000|光闇|BGCOLOR(#f1f1a6):属性:光 種族:龍&br;攻撃:3130/4T&br;|悪いよりしろ&br;|空のよりしろ&br;|金:AS不使用&br;銀:闇属性ユニットのみ&br;銅:光属性ユニットのみ&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・11'''>#ba451748]]''|22|3|200|8,000|光|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:6120/3T&br;|奈落のよりしろ&br;|空のよりしろ&br;|金:残りソウル30以上&br;銀:エネミーを10体以上撃破&br;銅:「よりしろ(★1)」を入れて&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・10'''>#a27c318f]]''|22|3|200|8,000|火|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:710/1T&br;|悪いよりしろ&br;|空のよりしろ&br;|金:残りソウル70以上&br;銀:残りソウル50以上&br;銅:残りソウル30以上&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・09'''>#jb16ccf8]]''|22|3|200|8,000|闇|BGCOLOR(#bba6f1):属性:闇 種族:額鳥&br;攻撃:?/4T&br;|清濁のよりしろ&br;光輝のよりしろ&br;|空のよりしろ&br;|金:槍ユニットのみ&br;銀:エネミー15体以上撃破&br;銅:銀カイザー・ポイム5体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・08'''>#cd7fa4c3]]''|22|3|200|8,000|火|BGCOLOR(#f1bba6):属性:火 種族:猪竜&br;攻撃:?/3T&br;|超悪いよりしろ&br;悪いよりしろ&br;|[朱騎士]ラビ&br;ラビ・ブラーナ&br;ラビ&br;|金:「[朱騎士]ラビ(★4)」を入れて&br;銀:「ラビ・ブラーナ(★2)」を入れて&br;銅:「ラビ(★1)」を入れて&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・07'''>#bd32021a]]''|22|3|200|8,000|火水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:?/4T&br;|炎火のよりしろ&br;奈落のよりしろ&br;|空のよりしろ&br;|金:AS不使用&br;銀:水属性ユニットのみ&br;銅:火属性ユニットのみ&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・06'''>#k26a0548]]''|22|3|200|8,000|水|BGCOLOR(#a6f1f1):属性:水 種族:ゴーレム&br;攻撃:5330/3T&br;|超悪いよりしろ&br;|空のよりしろ&br;|金:残りソウル50以上&br;銀:残りソウル30以上&br;銅:残りソウル10以上&br;|助っ人枠:自由&br;初期Soul値:50&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・05'''>#yfb76891]]''|22|3|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:9850/3T&br;|清濁のよりしろ&br;奈落のよりしろ&br;|空のよりしろ&br;各種和名★3|金:★3ユニットのみ&br;銀:銀カイザー・ポイム2体撃破&br;銅:ボス撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・04'''>#nf7b745d]]''|29|3|200|8,000|光|BGCOLOR(#f1f1a6):属性:光 種族:龍&br;攻撃:?/3T&br;|悪いよりしろ&br;|空のよりしろ&br;|金:金カイザー・ポイム3体撃破&br;銀:金カイザー・ポイム2体撃破&br;銅:金カイザー・ポイム1体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・03'''>#x16d3097]]''|22|3|200|8,000|火|BGCOLOR(#f1bba6):属性:火 種族:大爪&br;攻撃:?/4T&br;|清濁のよりしろ&br;光輝のよりしろ&br;奈落のよりしろ&br;|空のよりしろ&br;|金:剣ユニットのみ&br;銀:エネミー10体撃破&br;銅:銀?・ポイム5体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・02'''>#y22f72d5]]''|22|3|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:5770/4T&br;|悪いよりしろ&br;|-|金:光ドラン1体撃破&br;銀:水ウルフ3体撃破&br;銅:火スコーピオン6体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+|''[['''二十五の挑戦・01'''>#o0827630]]''|22|3|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:軟性&br;攻撃:3860/3T&br;|光輝のよりしろ&br;|空のよりしろ&br;|金:エネミー30体以上撃破&br;銀:エネミー15体以上撃破&br;銅:エネミー5体以上撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:66.7&br;|
+
+- [[配信履歴(250万DL記念！)>#m23add3c]]
+- [[コメント(250万DL記念！)>#i53027dc]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+//  / ([[画像:]])
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#la1cf824]
+----
+*** 二十五の挑戦・25 [#v262fc00]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:24 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''30以上''の状態でクリア！
+-- 銀:アクティブスキルを''使用せずに''クリア！
+-- 銅:''ノーコンティニュー''でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:ホロウ・ファヴニル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0025-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:15620~19390/4T HP:約450,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:夏のよりしろ , よりのぼり , 春のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+|火+0|弓|19330|→|10340~11690|
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀飛行ポイム''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0025-rare01F-1H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:5110/3T HP:47,507(&color(black,#ffffff){無};) 獲得Soul:7 獲得Gold:300 獲得覚醒pt:?
+座標:(あと16マス,±0),(あと11マス,±0),(あと6マス,±0)
+ドロップ:うましろ , さまようよりしろ , 朽ちたよりしろ , 古代のよりしろ , およりさま , しろちょこ , ちょこしろ , おにしろ , よりすます
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:10
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- Moveパネルによる強制移動型クエスト。
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・22'' - Map|
+|~(x,y)|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+2|||||||||||||||||||||||||Boss|
+|~+1||||→|↓||||||||||||||||||||~|
+|~±0||||''Sta''|→||||F銀H|→||||F銀H|→||||F銀H|→|||||~|
+|~-1||||→|↑||||||||||||||||||||~|
+|~-2|||||||||||||||||||||||||~|
+ -マップの見方-
+ Sta:スタート地点(Start) →:Moveパネル
+ F銀:銀飛行ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・25 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・24 [#d5747c89]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:28 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''45以上''の状態でクリア！
+-- 銀:「''光輝のよりしろ(★6)''」をパーティーに入れてクリア！
+-- 銅:''杖ユニットのみ''のパーティーでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:ピュア・ファヴニル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0024-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1f1a6){光属性}; 種族:ドラゴン
+攻撃:16980~18550/4T HP:約440,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対光属性
+ドロップ:光輝のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+|光+2|杖|5789|→|60~410|
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''飛行ポイム lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0024-0001F-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:4640/3T HP:37,507(&color(black,#f1f1a6){光};) 獲得Soul:5 獲得Gold:300 獲得覚醒pt:?
+ドロップ:光輝のよりしろ , 光のよりしろ , 金のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:10
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと20マス,±0),(あと10マス,±0)
+--- 中身:光輝のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:-
+:|注意点:
+-- Moveパネルによる強制移動型クエスト。
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・24'' - Map|
+|~(x,y)|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+2|||||||||||||||||||||||||||||Boss|
+|~+1||||→|↓||||||||||||||||||||||||~|
+|~±0||||''Sta''|→||||箱U|→||||BGCOLOR(#f1f1a6):F軟P|→||||箱U|→||||BGCOLOR(#f1f1a6):F軟P|→||||~|
+|~-1||||→|↑||||||||||||||||||||||||~|
+|~-2|||||||||||||||||||||||||||||~|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱U:Unit箱 →:Moveパネル
+ F軟:飛行ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・24 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・23 [#zf9d939f]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:28 スタミナ:10 獲得EXP:? 獲得金額:?
+助っ人枠:自由
+クリアボーナス:?
+:|チャレンジ目標:
+-- 金:残りSoulが''45以上''の状態でクリア！
+-- 銀:「''清濁のよりしろ(★6)''」をパーティーに入れてクリア！
+-- 銅:''弓ユニットのみ''のパーティーでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:アクア・ファヴニル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0023-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:15250~19370/4T HP:約450,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対水属性
+ドロップ:清濁のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+|光|弓|12501|→|3200~3670|
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''飛行ポイム lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0023-0001F-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:4580/3T HP:37,507(&color(black,#a6f1f1){水};) 獲得Soul:5 獲得Gold:300 獲得覚醒pt:?
+ドロップ:清濁のよりしろ , 水のよりしろ , 金のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:10
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと20マス,±0),(あと10マス,±0)
+--- 中身:清濁のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:- 闇:-
+:|注意点:
+-- Moveパネルによる強制移動型クエスト。
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・23'' - Map|
+|~(x,y)|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+2|||||||||||||||||||||||||||||Boss|
+|~+1||||→|↓||||||||||||||||||||||||~|
+|~±0||||''Sta''|→||||箱U|→||||BGCOLOR(#a6f1f1):F軟A|→||||箱U|→||||BGCOLOR(#a6f1f1):F軟A|→||||~|
+|~-1||||→|↑||||||||||||||||||||||||~|
+|~-2|||||||||||||||||||||||||||||~|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱U:Unit箱 →:Moveパネル
+ F軟:飛行ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・23 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・22 [#a0848238]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:28 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''45以上''の状態でクリア！
+-- 銀:「''炎火のよりしろ(★6)''」をパーティーに入れてクリア！
+-- 銅:''槍ユニットのみ''のパーティーでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:レッド・ファヴニル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0022-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:17420~19260/4T HP:約430,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対火属性
+ドロップ:炎火のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+|火+2|弓|19330|→|7660~9410|
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''飛行ポイム lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0022-0001F-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:4990/3T HP:37,507(&color(black,#f1bba6){火};) 獲得Soul:5 獲得Gold:300 獲得覚醒pt:?
+ドロップ:炎火のよりしろ , 火のよりしろ , 金のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:10
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと20マス,±0),(あと10マス,±0)
+--- 中身:炎火のよりしろ
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|注意点:
+-- Moveパネルによる強制移動型クエスト。
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・22'' - Map|
+|~(x,y)|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+2|||||||||||||||||||||||||||||Boss|
+|~+1||||→|↓||||||||||||||||||||||||~|
+|~±0||||''Sta''|→||||箱U|→||||BGCOLOR(#f1bba6):F軟R|→||||箱U|→||||BGCOLOR(#f1bba6):F軟R|→||||~|
+|~-1||||→|↑||||||||||||||||||||||||~|
+|~-2|||||||||||||||||||||||||||||~|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱U:Unit箱 →:Moveパネル
+ F軟:飛行ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・22 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・21 [#i4323676]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:28 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''45以上''の状態でクリア！
+-- 銀:「''奈落のよりしろ(★6)''」をパーティーに入れてクリア！
+-- 銅:''剣ユニットのみ''のパーティーでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:ダーク・ファヴニル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0021-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#bba6f1){闇属性}; 種族:ドラゴン
+攻撃:15570~18270/4T HP:約440,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対闇属性
+ドロップ:奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+|火+0|弓|19330|→|8050~8820|
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''飛行ポイム lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0021-0001F-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:4520/3T HP:37,507(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:300 獲得覚醒pt:?
+ドロップ:奈落のよりしろ , 闇のよりしろ , 金のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:10
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと20マス,±0),(あと10マス,±0)
+--- 中身:奈落のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:あり
+:|注意点:
+-- Moveパネルによる強制移動型クエスト。
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・21'' - Map|
+|~(x,y)|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+2|||||||||||||||||||||||||||||Boss|
+|~+1||||→|↓||||||||||||||||||||||||~|
+|~±0||||''Sta''|→||||箱U|→||||BGCOLOR(#bba6f1):F軟D|→||||箱U|→||||BGCOLOR(#bba6f1):F軟D|→||||~|
+|~-1||||→|↑||||||||||||||||||||||||~|
+|~-2|||||||||||||||||||||||||||||~|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱U:Unit箱 →:Moveパネル
+ F軟:飛行ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・21 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・20 [#qbc08150]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・20'''>イベントエリア/200万DL記念！#na754a4b]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:38 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:残りSoulが''40以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''桜龍:サクラ・ダハーカ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:5580/2T HP:105,452 獲得Soul:10 獲得Gold:5,000
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:悪いよりしろ , 超悪いよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-rare02-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:10,649(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:5,000
+座標:必ず遭遇するので省略。
+ドロップ:空のよりしろ
+
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000
+座標:必ず遭遇するので省略。
+ドロップ:?
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};/&color(black,#ffffff){無};
+
+- 第1群
+:|''ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0001-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:3,799(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:200
+ドロップ:?
+
+:|''スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0002-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:6,899(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350
+ドロップ:?
+
+:|''グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0003-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:15,299(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:400
+ドロップ:?
+
+- 第3群
+:|''ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0004-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:4,299(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300
+ドロップ:?
+
+:|''ガイチュウ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0005-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:17,519(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:300
+ドロップ:闇のよりしろ
+
+:|''ゴーレム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0006-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:81,499(&color(black,#a6f1f1){水};) 獲得Soul:7 獲得Gold:700
+ドロップ:?
+
+- 第5群
+:|''スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0007-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:5,099(&color(black,#f1f1a6){光};) 獲得Soul:1 獲得Gold:250
+ドロップ:?
+
+:|''カイザー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0008-4P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:8,899(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450
+ドロップ:水のよりしろ
+
+:|''カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0001-4P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:6,099(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350
+ドロップ:?
+
+- 第7群
+:|''フォーゲル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0009-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/4T HP:69,899(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:450
+ドロップ:光のよりしろ
+
+:|''ハイ・フォーゲル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0009-2D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/4T HP:83,899(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:500
+ドロップ:?
+
+:|''バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0010-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:35,499(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:600
+ドロップ:?
+
+- 第9群
+:|''ハデス'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0020-0011-1H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/1T HP:124(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:600
+ドロップ:光のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|注意点:
+-- Moveパネルによる誘導型クエスト。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・ - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・19 [#a7165e15]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・19'''>イベントエリア/200万DL記念！#r3947e2a]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:主属性が''無属性のユニットのみ''どクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:残りSoulが''20以上''の状態でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''猪竜種:ホロウ・バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0019-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:2970/3T HP:約34,000 獲得Soul:5 獲得Gold:600
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0019-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000
+座標:
+(あと17マス,-2),(あと16マス,+2),(あと14マス,-1/+2)
+(あと10マス,-3/+2),(あと07マス,-2),(あと05マス,+2),(あと02マス,-3/±0)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0019-0001-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:35,499(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:600
+ドロップ:火/水/光/闇のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・19 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・18 [#t39ccb10]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・18'''>イベントエリア/200万DL記念！#r6a504bf]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''レアリティが★4のユニットのみ''でクリア！
+-- 銀:エネミーを''5体以上''撃破してクリア！
+-- 銅:''銀カイザー・ポイム''を''1体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''無眼竜:リンドブルム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0018-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:?/3T HP:約57,000 獲得Soul:5 獲得Gold:0
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:悪いよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0018-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:23,283(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000
+座標:(あと11マス,-1/+3),(あと06マス,-1/+3)
+ドロップ:各種★4英雄系 , 空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0018-0001-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:12,011(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300
+ドロップ:?
+
+:|''スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0018-0002-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:8,175(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:350
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:67.7
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:? 水:? 光:? 闇:?
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・18 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・17 [#w178ad70]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・17'''>イベントエリア/200万DL記念！#i180d4fc]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''火ウルフ''((「赤色のアイツ」のこと。))を''10体''撃破してクリア！
+-- 銀:''火ウルフ''((「赤色のアイツ」のこと。))を''5体''撃破してクリア！
+-- 銅:''火ウルフ''((「赤色のアイツ」のこと。))を''1体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:レッド・ファヴニル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0017-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:?/4T HP:約? 獲得Soul:7 獲得Gold:0
+特性:-
+有効特効:対ドラゴン , 対火属性
+ドロップ:炎火のよりしろ , 奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0017-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000
+座標:(あと14マス,-3),(あと13マス,-6)など
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#ffffff){無};
+
+:|''ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0017-0001-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:3,899(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:300
+ドロップ:水のよりしろ , 闇のよりしろ
+
+:|''砲台'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0017-0002-1H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:17,519(&color(black,#ffffff){無};) 獲得Soul:2 獲得Gold:0
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+獲得覚醒pt:?pt/1体
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:? 水:? 光:? 闇:?
+:|火ウルフ10体討伐ルート(手順):
+(1): クエスト開始直後、どれでも良いのでMoveパネルに乗る。
+(2): (1)の強制移動終了後:(あと16マス,-5)、その途中で見えた闇属性パネルに囲まれたMoveパネル:(あと15マス,-1)に乗る。(上行きL字型パネル2枚必須)
+(3): (2)の強制移動終了後、右上の火ウルフを倒す。(このときウルフの居るマスに止まるように移動すると後が楽)
+(4): 前述(3)のウルフから2マス下のMoveパネルに乗ると、その先で火ウルフ9体と強制戦闘。
+※Moveパネルに乗らなくても(3)のウルフから直進すると火ウルフ9体と戦うことは出来る。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・ 17- 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・16 [#f37e55e2]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・16'''>イベントエリア/200万DL記念！#hf6df132]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''10体以上''撃破してクリア！
+-- 銀:エネミーを''5体以上''撃破してクリア！
+-- 銅:エネミーを''3体以上''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''燐竜種:ダーク・ニーズヘッグ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0016-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#bba6f1){闇属性}; 種族:ドラゴン
+攻撃:?/4T HP:約? 獲得Soul:6 獲得Gold:0
+特性:-
+有効特効:対ドラゴン , 対闇属性
+ドロップ:超悪いよりしろ , 悪いよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0016-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000
+座標:
+(あと15マス,±0),(あと14マス,+3),(あと13マス,-1)
+(あと10マス,+1/+3),(あと09マス,+1/+3)
+(あと06マス,±0),(あと05マス,+3),(あと04マス,+1)
+ドロップ:空のよりしろ
+
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#ffffff){無};
+
+:|''ハデス'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0016-0001-1H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:70070/1T HP:124(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:6000
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+獲得覚醒pt:?pt/1体
+よりしろ経験値(残りSoul99):9300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|クエスト特性:
+-- ハートパネル出現率高め。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・16 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・15 [#u3276130]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・15'''>イベントエリア/200万DL記念！#q32e095c]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- ''杖ユニット''のみのパーティーでクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:''“銀カイザー・ポイム((「銀色のアイツ」のこと。))”''を''5体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''カイザー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0015-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1f1a6){光属性}; 種族:竜卵
+攻撃:?/3T HP:約9,000 獲得Soul:3 獲得Gold:450
+特性:-
+有効特効:対光属性
+ドロップ:炎火のよりしろ , 清濁のよりしろ , 光輝のよりしろ , 奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0015-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000
+座標:
+(あと14マス,-1),(あと12マス,+2),(あと09マス,-1/±0)
+(あと06マス,±3),(あと03マス,±0),(あと01マス,±4/-2)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0015-0001-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:7,999(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+:|''ハイ・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0015-0001-2P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:7,835(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+:|''キラー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0015-0001-3P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:8,499(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:400
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):9300
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:-
+:|クエスト特性:
+-- 供給される武器パネルが杖パネルのみ。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・15 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・14 [#y07a59e0]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・14'''>イベントエリア/200万DL記念！#nfafd137]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:20 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''光スクィレル''((「黄色のアイツ」のこと。))を''1体''撃破してクリア！
+-- 銀:''水スクィレル''((「青色のアイツ」のこと。))を''1体''撃破してクリア！
+-- 銅:''火スクィレル''((「赤色のアイツ」のこと。))を''1体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''制心竜:No.003'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0014-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:3510/3T HP:約76,000 獲得Soul:10 獲得Gold:0
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:悪いよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0014-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:10,649(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:5,000
+座標:(あと09マス,+1),(あと08マス,-1),(あと06マス,-1)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0014-0001-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:5,199(&color(black,#a6f1f1){水};) 獲得Soul:1 獲得Gold:250
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+:|''キラー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0014-0001-3D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:6,099(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:350
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:? 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・ - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・14'' - Map|
+|~(x,y)|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+8|||||||||||||||||||||B|
+|~+7||||||→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|B|
+|~+6|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R||BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A||BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|||B|
+|~+5|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R|箱|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|箱|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|箱||B|
+|~+4|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R||BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A||BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|||B|
+|~+3|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R||BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A||BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|||B|
+|~+2||||||↑|↑|↑|↑|↑|↑|↑|↑|↑|↑|↑|↑|↑|↑|↑|B|
+|~+1||||||||||BGCOLOR(#f1bba6):角1R||金4|↑||BGCOLOR(#f1f1a6):角1P|↑|↑|BGCOLOR(#bba6f1):角3D|||B|
+|~±0||||''Sta''|||箱||||箱|||||箱|||箱||B|
+|~-1||||||||||BGCOLOR(#a6f1f1):角1A|↓||金4||金4|↓|||↓|↓|B|
+|~-2||||||↓|↓|↓|↓|↓|↓|↓|↓|↓|↓|↓|↓|↓|↓|↓|B|
+|~-3|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R||BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A||BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|||B|
+|~-4|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R||BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A||BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|箱||B|
+|~-5|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R|箱|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|箱|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|||B|
+|~-6|||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R||BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A|BGCOLOR(#a6f1f1):角1A||BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P|BGCOLOR(#f1f1a6):角1P||BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|BGCOLOR(#bba6f1):角3D|||B|
+|~-7||||||→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|B|
+|~-8|||||||||||||||||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱 →:Moveパネル
+ 角:頭角種(スクィレル系) 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+ 備考: 「200万DL記念！」のときのように文字は書かれていない？
+
+----
+*** 二十五の挑戦・13 [#o2f14499]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''弓ユニット''のみのパーティーでクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:''“銀カイザー・ポイム((「銀色のアイツ」のこと。))”''を''5体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''カイザー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0013-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#a6f1f1){水属性}; 種族:鋏角
+攻撃:?/3T HP:約? 獲得Soul:3 獲得Gold:500
+特性:-
+有効特効:対水属性
+ドロップ:炎火のよりしろ , 清濁のよりしろ , 光輝のよりしろ , 奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0013-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000
+座標:
+(あと16マス,-2),(あと14マス,-2),(あと12マス,-2),(あと10マス,±4)
+(あと08マス,-4/+3),(あと07マス,+1),(あと06マス,-3)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''キラー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0013-0001-3A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:5,399(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+:|''スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0013-0002-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:7,299(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:350
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+:|''ハイ・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0013-0002-2A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:7,799(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:400
+ドロップ:?火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+:|''キラー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0013-0002-3A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:7,999(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450
+ドロップ:?火のよりしろ/ , 水のよりしろ/ , 光のよりしろ , 闇のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:? 光:- 闇:
+:|クエスト特性:
+-- 供給される武器パネルが弓パネルのみ。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・13 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・12 [#n1979002]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:主属性が''闇属性のユニットのみ''のパーティーでクリア！
+-- 銅:主属性が''光属性のユニットのみ''のパーティーでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:ピュア・ファヴニル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0012-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1f1a6){光属性}; 種族:ドラゴン
+攻撃:3130/4T HP:約40,000 獲得Soul:7 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対光属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0012-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:3810/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:(あと16マス,±1/±3),(あと12マス,±0/±2/±4),(あと04マス,+1)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''キラー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0012-0001-3D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:2700/3T HP:5,099(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:光のよりしろ
+
+:|''カイザー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0012-0002-4P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:3760/3T HP:8,099(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・12 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・11 [#ba451748]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・11'''>イベントエリア/200万DL記念！#bcd685c5]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''30以上''の状態でクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:「''よりしろ(★1)''」をパーティーに入れてクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''?龍零ノ号''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0011-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無}; 種族:ドラゴン
+攻撃:6120/3T HP:約50,000 獲得Soul:3 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0011-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:10,649(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:5,000 獲得覚醒pt:?
+座標:(あと14マス,±0),(あと11マス,±0),(あと3マス,±0)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0011-0001-4P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:6,099(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+:|''ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0011-0002-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:7,799(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0011-0003-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:7,199(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:? 闇:-
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・11 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・10 [#a27c318f]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・10'''>イベントエリア/200万DL記念！#x9ebca30]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''70以上''の状態でクリア！
+-- 銀:残りSoulが''50以上''の状態でクリア！
+-- 銅:残りSoulが''30以上''の状態でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''疾風竜:ムシュフシュ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0010-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:710/1T HP:約32,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0010-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:(あと15/09/08/07/05/04/03マス,+1),(あと14/12/11マス,±0)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0010-0001-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:3,799(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+ドロップ:水のよりしろ
+
+:|''カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0010-0001-4R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:5,799(&color(black,#f1bba6){火};) 獲得Soul:10 獲得Gold:350 獲得覚醒pt:?
+ドロップ:光のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:? 水:? 光:? 闇:?
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・10 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・09 [#jb16ccf8]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・09'''>イベントエリア/200万DL記念！#g3725aa4]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''槍ユニット''のみのパーティーでクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:“''銀カイザー・ポイム''”((「銀色のアイツ」のこと。))を''5体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''ハイ・フォーゲル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0009-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#bba6f1){闇属性}; 種族:額鳥
+攻撃:?/4T HP:約90,000 獲得Soul:5 獲得Gold:500 獲得覚醒pt:?
+特性:-
+有効特効:対闇属性
+ドロップ:清濁のよりしろ , 光輝のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0009-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:
+(あと15マス,±3),(あと13マス,±2),(あと11マス,±1)
+(あと09マス,±1),(あと07マス,±2),(あと05マス,±3)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''フォーゲル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0009-0001-1D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/4T HP:69,899(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:? 水:? 光:? 闇:?
+:|クエスト特性:
+-- 供給される武器パネルが槍パネルのみ。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・09 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・08 [#cd7fa4c3]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・08'''>イベントエリア/200万DL記念！#v8d651e0]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''[朱騎士]ラビ(★4)''をパーティーに入れてクリア！
+-- 銀:''ラビ・ブラーナ(★2)''をパーティーに入れてクリア！
+-- 銅:''ラビ(★1)''をパーティーに入れてクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''レッド・バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0008-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:?/3T HP:約33,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対火属性
+ドロップ:超悪いよりしろ , 悪いよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0008-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:2790/2T HP:10,649(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:5,000 獲得覚醒pt:?
+座標:
+(あと17マス,-2),(あと16マス,-3/+2),(あと15マス,+3),(あと14マス,-3),(あと13マス,-2/+3),(あと12マス,-2)
+(あと10マス,±2),(あと09マス,±3),(あと07マス,±3),(あと06マス,±2)
+(あと04マス,±2),(あと03マス,±3),(あと02マス,±2),(あと01マス,±0),
+ドロップ:ラビ , ラビ・ブラーナ , [朱騎士]ラビ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''キラー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0008-0001-2R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:22,735(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0008-0002-4R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:10320/3T HP:56,071(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:900 獲得覚醒pt:?
+ドロップ:?
+
+:|''スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0008-0003-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:6,899(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:闇のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:? 水:? 光:? 闇:?
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・08 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・08'' - 簡易Map|
+|~(x,y)|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||||||||||||||Boss|
+|~+3||||||||金4||金4||||金4||金4||||金4|||~|
+|~+2|||||||金4||||金4||金4||||金4||金4||金4||~|
+|~+1|||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|~|
+|~±0||||''Sta''|BGCOLOR(#f1bba6):→1|BGCOLOR(#f1bba6):→5|箱|箱|箱|鋏1R|BGCOLOR(#f1bba6):→5|箱|箱|箱|BGCOLOR(#f1bba6):角3R|BGCOLOR(#f1bba6):→5|箱|箱|箱|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):→2|金4|~|
+|~-1|||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|~|
+|~-2||||||金4||||金4|||金4||||金4||金4||金4||~|
+|~-3|||||||金4||金4|||||金4||金4||||金4|||~|
+|~-4|||||||||||||||||||||||~|
+ -マップの見方-
+ Sta:スタート地点(Start) →(数字):Moveパネル (数字)は移動マス数
+ 角:頭角種(スクィレル系) 卵:竜卵種(ドラン系) 鋏:鋏角種(スコーピオン系) 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 二十五の挑戦・07 [#bd32021a]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・07'''>イベントエリア/200万DL記念！#fde6bb16]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:主属性が''水属性のユニット''のみのパーティーでクリア！
+-- 銅:主属性が''火属性のユニット''のみのパーティーでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''アクア・ニーズヘッグ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0007-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:?/4T HP:約? 獲得Soul:6 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対水属性
+ドロップ:炎火のよりしろ , 奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0007-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:
+(あと12マス,+4),(あと11マス,-4),(あと10マス,+3),(あと09マス,+4)
+(あと07マス,+2),(あと06マス,+3),(あと04マス,+1),(あと03マス,+2)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};
+
+:|''キラー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0007-0001-3A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:5,399(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0007-0002-4R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:8,599(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:? 水:? 光:? 闇:?
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・07 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・06 [#k26a0548]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・06'''>イベントエリア/200万DL記念！#w703f227]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''50以上''の状態でクリア！
+-- 銀:残りSoulが''30以上''の状態でクリア！
+-- 銅:残りSoulが''10以上''の状態でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''ゴーレム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0006-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#a6f1f1){水属性}; 種族:ゴーレム
+攻撃:5330/3T HP:約105,000 獲得Soul:7 獲得Gold:700 獲得覚醒pt:?
+特性:-
+有効特効:対水属性
+ドロップ:超悪いよりしろ , 悪いよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0006-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:4340/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:
+(あと14マス,±0),(あと12マス,±1),(あと12マス±3),(あと11マス,±0)
+(あと11マス±2),(あと11マス±4)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''ハイ・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0006-0001-2A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:8,937(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''害虫 lank.1''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0006-0002-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:5270/2T HP:24,527(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:300 獲得覚醒pt:?
+ドロップ:水のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:50
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:? 光:- 闇:-
+:|クエスト特性:
+-- ハートパネルの供給がかなり多め。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・06 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・05 [#yfb76891]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・05'''>イベントエリア/200万DL記念！#eb5a9e4f]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''レアリティが★3のユニットのみ''でクリア！
+-- 銀:''銀カイザー・ポイム''((「銀色のアイツ」のこと。))を2体撃破してクリア！
+-- 銅:''ボスを撃破！''
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''?龍零ノ号''(仮) / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0005-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:9850/3T HP:約? 獲得Soul:3 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:清濁のよりしろ , 奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0005-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:16,261(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:(あと11マス,-1),(あと11マス,+3),(あと06マス,-1),(あと06マス,+3)
+ドロップ:空のよりしろ , 各種和名★3
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''各属性縞魔導書(あかぎ , かが , ちとせ , りゅうじょう)'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0005-0001-3D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:4750/3T HP:37,619(&color(black,#f1bba6){火};)/37,519(&color(black,#a6f1f1){水};)/37,307(&color(black,#f1f1a6){光};)/37,419(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・05 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・04 [#nf7b745d]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・04'''>イベントエリア/200万DL記念！#n9edc1df]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+&color(black,#eeeeee){基本情報};
+:|
+距離:29 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''金カイザー・ポイム''((「金色のアイツ」のこと。))を''3体''撃破してクリア！
+-- 銀:''金カイザー・ポイム''((「金色のアイツ」のこと。))を''2体''撃破してクリア！
+-- 銅:''金カイザー・ポイム''((「金色のアイツ」のこと。))を''1体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''ピュア・ヴィーヴィル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0004-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1f1a6){光属性}; 種族:ドラゴン
+攻撃:?/3T HP:約10,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対光属性
+ドロップ:悪いよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0004-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:10,649(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:5,000 獲得覚醒pt:?
+座標:下記のルートを参照。
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0004-0001-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0004-0002-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0004-0003-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:7,799(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:火のよりしろ , 水のよりしろ , 闇のよりしろ
+
+:|''スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0004-0004-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/2T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:-
+:|金カイザー・ポイム3体討伐ルート(手順):
+(1): クエスト開始直後の分かれ道において、下へ向かうMoveパネルに乗る。その先で1体目と遭遇。
+(2): 1体目撃破後、どれでもいいのでMoveパネルに乗る。
+(3): (2)での移動終了後、(あと19マス,y)から見える3つのMoveパネルのうち下段のものの先に2体目。
+(4): 2体目撃破後、その2体目背後のMoveパネルに乗る
+(5): (4)の直後、(あと11マス,y)の分かれ道で真下のMoveパネルに乗ると3体目と遭遇。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・04 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 二十五の挑戦・03 [#x16d3097]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・03'''>イベントエリア/200万DL記念！#laa744da]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''剣ユニットのみ''でクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:''銀カイザー・ポイム''((「銀色のアイツ」のこと。))を''5体''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''カイザー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0003-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#f1bba6){火属性}; 種族:大爪
+攻撃:?/4T HP:約? 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+特性:-
+有効特効:対火属性
+ドロップ:清濁のよりしろ , 光輝のよりしろ , 奈落のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0003-rare01-4H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:
+(あと17マス,±0),(あと16マス,±2),(あと12マス,±0),(あと11マス,±2)
+(あと07マス,±0),(あと06マス,±2),(あと04マス,±0)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''キラー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0003-0001-3R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:4,999(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:火のよりしろ , 水のよりしろ , 光のよりしろ , 闇のよりしろ
+
+:|''グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0003-0002-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:15,299(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:400 獲得覚醒pt:?
+ドロップ:火のよりしろ , 水のよりしろ
+
+:|''ハイ・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0003-0002-2R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:17,299(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:450 獲得覚醒pt:?
+ドロップ:火のよりしろ , 闇のよりしろ
+
+:|''キラー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0003-0002-3R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:?/3T HP:17,799(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|クエスト特性:
+-- 供給される武器パネルが剣パネルのみ。
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・03 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 二十五の挑戦・02 [#y22f72d5]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・02'''>イベントエリア/200万DL記念！#s256ef22]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''光ドラン''((「黄色のアイツ」のこと。))を1体撃破してクリア！
+-- 銀:''水ウルフ''((「青色のアイツ」のこと。))を3体撃破してクリア！
+-- 銅:''火スコーピオン''((「赤色のアイツ」のこと。))を6体撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''双角竜:クエレブル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0002-boss.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:5770/4T HP:約34,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対ドラゴン , 対無属性
+ドロップ:悪いよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ウルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0002-0001-1A.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:3890/2T HP:4,299(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0002-0002-1P.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:2960/3T HP:7,799(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0002-0003-1R.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:5020/2T HP:6,899(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:火のよりしろ , 水のよりしろ
+
+:|''バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_25nochousen_q0002-0004-D.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F250%CB%FCDL%B5%AD%C7%B0%A1%AA]])
+攻撃:3200/3T HP:35,499(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:600 獲得覚醒pt:?
+ドロップ:銀のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・02 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/250万DL記念！ > 二十五の挑戦・02'' - 簡易Map|
+|~(x,y)|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||18|17|||BGCOLOR(#f1bba6):鋏1R|||箱|BGCOLOR(#a6f1f1):狼1A|箱||||||BGCOLOR(#bba6f1):猪1D|||Boss|
+|~+3|||||||||BGCOLOR(#bba6f1):猪1D|||箱|箱|箱|BGCOLOR(#f1bba6):鋏1R|BGCOLOR(#bba6f1):猪1D||||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1f1a6):卵1P||~|
+|~+2|||||BGCOLOR(#bba6f1):猪1D|||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1bba6):鋏1R|BGCOLOR(#bba6f1):猪1D||||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1bba6):鋏1R|BGCOLOR(#bba6f1):猪1D|BGCOLOR(#a6f1f1):狼1A||BGCOLOR(#bba6f1):猪1D|||~|
+|~+1|||||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#a6f1f1):狼1A|箱||BGCOLOR(#bba6f1):猪1D||||BGCOLOR(#bba6f1):猪1D|||BGCOLOR(#bba6f1):猪1D||BGCOLOR(#bba6f1):猪1D||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#bba6f1):猪1D|BGCOLOR(#bba6f1):猪1D|~|
+|~±0||||''Sta''|BGCOLOR(#bba6f1):猪1D||箱||||||||箱|箱||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1bba6):鋏1R||箱||~|
+|~-1|||||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1bba6):鋏1R||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#a6f1f1):狼1A||||BGCOLOR(#bba6f1):猪1D||箱|箱|||BGCOLOR(#bba6f1):猪1D||箱||~|
+|~-2||||||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1bba6):鋏1R||BGCOLOR(#bba6f1):猪1D|||BGCOLOR(#bba6f1):猪1D||BGCOLOR(#f1bba6):鋏1R||||||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1bba6):鋏1R||~|
+|~-3|||||||BGCOLOR(#bba6f1):猪1D||||BGCOLOR(#bba6f1):猪1D|BGCOLOR(#f1f1a6):卵1P|BGCOLOR(#bba6f1):猪1D|BGCOLOR(#bba6f1):猪1D|BGCOLOR(#bba6f1):猪1D|BGCOLOR(#a6f1f1):狼1A|06|05|04||BGCOLOR(#bba6f1):猪1D||~|
+|~-4|||||18|17|16|15|14|||BGCOLOR(#bba6f1):猪1D|箱|箱||BGCOLOR(#bba6f1):猪1D|06|05|04|BGCOLOR(#bba6f1):猪1D||BGCOLOR(#bba6f1):猪1D|~|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 鋏:鋏角種(スコーピオン系) 猪:猪竜種(バハムートン系)
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 二十五の挑戦・01 [#o0827630]
+&color(red){※};「200万DL記念！> ''[['''二十の挑戦・01'''>イベントエリア/200万DL記念！#c8c9d577]]''」から流用。
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:22 スタミナ:3 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''30体以上''撃破してクリア！
+-- 銀:エネミーを''15体以上''撃破してクリア！
+-- 銅:エネミーを''5体以上''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:]])
+属性:&color(black,#ffffff){無属性}; 種族:軟性
+攻撃:3830/2T HP:約26,000 獲得Soul:10 獲得Gold:7,500 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:光輝のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''銀カイザー・ポイム'' / ([[画像:]])
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:
+(あと07マス,-3),(あと06マス,-3),(あと06マス,-4),(あと05マス,-4)
+(あと05マス,+4),(あと04マス,+3),(あと04マス,+4),(あと03マス,+3)
+(あと02マス,+3),(あと01マス,+3)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ポイム'' / ([[画像:]])
+攻撃:2640/3T HP:3,799(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+ドロップ:火のよりしろ/水のよりしろ/光のよりしろ/闇のよりしろ
+
+:|''ハイ・ポイム'' / ([[画像:]])
+攻撃:2550/3T HP:4,799(&color(black,#a6f1f1){水};) 獲得Soul:1 獲得Gold:250 獲得覚醒pt:?
+ドロップ:火のよりしろ/水のよりしろ/光のよりしろ/闇のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99時):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/250万DL記念！ > 二十五の挑戦・01 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 配信履歴(250万DL記念！)((時刻が書かれていない場合、その日付の間は配信。)) [#m23add3c]
+:2014/08/11(12:00)〜2014/08/25(08:00)|
+
+----
+* コメント(250万DL記念！) [#i53027dc]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

@@ -1,0 +1,27 @@
+* ランク250メモリアルガチャ [#pdda7e01]
+
+- ランク250以上になると一度だけ引けるガチャ
+
+** ランク250メモリアルガチャ [#g8eb722d]
+
+|CENTER:|CENTER:||c
+|>|~シリーズ|~ラインナップ|
+|>|>|BGCOLOR(#ffffff):[[2016/02/25～:http://pad.gungho.jp/member/reset/160222_reset.html]]|
+|>|>|BGCOLOR(#ffffff):[[2015/12/04～:http://pad.gungho.jp/member/151203_rank250.html]]|
+|>|三国神|&mons1231; &mons1233; &mons1235; &mons1237; &mons1239;|
+|>|新東洋神|&mons1330; &mons1332; &mons1334; &mons1336; &mons1338;|
+|>|新エジプト神|&mons1659; &mons1661; &mons1663; &mons1665; &mons1667;|
+|>|新天使|&mons1826; &mons1828; &mons1830; &mons1832; &mons1834;|
+|>|戦国神|&mons2264; &mons2266; &mons2268; &mons2270; &mons2272;|
+|>|星機神|&mons2415; &mons2417; &mons2419; &mons2421; &mons2423;|
+|フ&br;ェ&br;ス&br;限&br;定|カーリー|&mons1585; &mons1587;|
+|~|時女神|&mons1669; &mons1671; &mons1673;|
+|~|龍契士|&mons1946; &mons1948; &mons2440; &mons2442; &mons2508;|
+|~|獣魔|&mons1950; &mons1952;|
+|~|和龍喚士|&mons2141; &mons2143; &mons2145; &mons2147; &mons2149;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

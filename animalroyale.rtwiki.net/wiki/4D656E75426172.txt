@@ -1,0 +1,34 @@
+#bodycache(disable)
+
+- [[アップデート情報]]
+- [[アニマル]]
+- [[衣服]]
+- [[銃]]
+-- [[弾薬>銃/弾薬]]
+- [[近接武器]]
+- [[防具]]
+- [[投げ物]]
+- [[デリバリーモール]]
+- [[アイテム]]
+-- [[ハムスターボール>アイテム/ハムスターボール]]
+-- [[回復ジュース>アイテム/回復ジュース]]
+-- [[スーパーテープ>アイテム/スーパーテープ]]
+- [[オブジェクト]]
+- [[エモート]]
+- [[ドロップ]]
+- [[メモ]]
+-- [[よくある質問>メモ/よくある質問]]
+
+#recent(10)
+
+#popular2(5,FrontPage|MenuBar,recent,short,deepest)
+
+RIGHT:
+&br;==すべて== &color(green){&gcounter;};
+//total: &color(green){&counter;};
+==このページの今日== &color(green){&counter(today);};
+==このページの昨日== &color(green){&counter(yesterday);};
+==アクティブ== &color(green){&online;};
+
+
+RIGHT:&edit(MenuBar,noicon){編集};

@@ -1,0 +1,78 @@
+* 悪魔ステージ [#x2ea3756]
+
+#contents
+
+** 悪魔ステージについて [#v5200d9f]
+
+- [[ノーマルステージ>パズドラW/ノーマルステージ]]で王冠を30個獲得するとプレイ可能。
+- 「悪魔ドロップ」が登場する。
+- 消費スタミナはエリア1から順に2→3→4。
+
+** ステージ一覧 [#na480c9e]
+
+//テンプレ
+
+//コンボ中に□を○回以上消そう！
+//□を○個以上繋げて消そう！
+//○コンボ以上を作ろう！
+//□を入れてコンボを作ろう！
+//&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};
+
+//|~''XX.○○○○''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){お邪魔};|○○○○||
+
+#style(class=enableFilter){{
+|LEFT:180|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:25|CENTER:25|CENTER:25|CENTER:25|||c
+|~名称			|>|>|>|>|>|>|>|>|~登場ドロップ|~条件|~クリア報酬|
+|~''41.宇宙の神秘''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|コンボ中に&color(#000,#f1f1a6){光};を4回以上消そう！|魔法石x1|
+|~''40.魔界への道''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|&color(#000,#bba6f1){闇};を8個以上繋げて消そう！|200000メダル|
+|~''39.魔神の館''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|8コンボ以上を作ろう！|200000メダル|
+|~''38.無人の縁日''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};を入れてコンボを作ろう！|200000メダル|
+|~''37.深海より深く''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内でコンボ中に&color(#000,#bba6f1){闇};を3回以上消そう！|魔法石x1|
+|~''36.陽のあがらぬ海''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内で&color(#000,#f1f1a6){光};を7個以上繋げて消そう！|200000メダル|
+|~''35.ビターシュガー''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内で6コンボ以上を作ろう！|200000メダル|
+|~''34.凍える空''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内で&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|200000メダル|
+|~''33.薄暗い森''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||コンボ中に&color(#000,#f1bba6){火};を3回以上消そう！|魔法石x1|
+|~''32.魂の迷宮''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||&color(#000,#a6f1f1){水};を7個以上繋げて消そう！|200000メダル|
+|~''31.テラーハウス''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||6コンボ以上を作ろう！|200000メダル|
+|~''30.ダークな屋台''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|200000メダル|
+|~''29.深海からの使者''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||BGCOLOR(#999999):悪魔|||盤面内でコンボ中に&color(#000,#a6f1f1){水};を4回以上消そう！|魔法石x1|
+|~''28.すっぱいブドウ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||盤面内で&color(#000,#f1f1a6){光};を8個以上繋げて消そう！|100000メダル|
+|~''27.穏やかな夜''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||盤面内で7コンボ以上を作ろう！|100000メダル|
+|~''26.ほろにがハウス''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||盤面内で&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|100000メダル|
+|~''25.黒い雲''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){お邪魔};|コンボ中に&color(#000,#bbf1a6){木};を3回以上消そう！|魔法石x1|
+|~''24.ダークフォレスト''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){お邪魔};|&color(#000,#bbf1a6){木};を7個以上繋げて消そう！|100000メダル|
+|~''23.悲しい遊園地''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){お邪魔};|6コンボ以上を作ろう！|100000メダル|
+|~''22.永遠の草原''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔||BGCOLOR(#cccccc):&font(70%){お邪魔};|&color(#000,#f1bba6){火};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|100000メダル|
+|~''21.踊る悪魔''	||||BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||15コンボ以上を作ろう！|80000メダル|
+|~''20.魔界へようこそ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||コンボ中に&color(#000,#bba6f1){闇};を4回以上消そう！|魔法石x1|
+|~''19.デビルケイブ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||&color(#000,#bba6f1){闇};を7個以上繋げて消そう！|80000メダル|
+|~''18.ブラッドハウス''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||7コンボ以上を作ろう！|80000メダル|
+|~''17.花火の宴''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|80000メダル|
+|~''16.熱砂ビーチ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||コンボ中に&color(#000,#f1f1a6){光};を3回以上消そう！|魔法石x1|
+|~''15.レッドクラウド''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||&color(#000,#f1f1a6){光};を6個以上繋げて消そう！|80000メダル|
+|~''14.伝説の卵祭''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||8コンボ以上を作ろう！|80000メダル|
+|~''13.落葉の森''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|80000メダル|
+|~''12.閉園近し''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||コンボ中に&color(#000,#bbf1a6){木};を3回以上消そう！|魔法石x1|
+|~''11.さらば栄光''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||&color(#000,#bbf1a6){木};を7個以上繋げて消そう！|60000メダル|
+|~''10.不気味な洞窟''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||6コンボ以上を作ろう！|60000メダル|
+|~''9.怪しい洋館''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};を入れてコンボを作ろう！|60000メダル|
+|~''8.遠い思い出''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水||BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||コンボ中に&color(#000,#a6f1f1){水};を4回以上消そう！|魔法石x1|
+|~''7.ドラゴン祭''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||&color(#000,#a6f1f1){水};を9個以上繋げて消そう！|60000メダル|
+|~''6.熱い砂''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||7コンボ以上を作ろう！|60000メダル|
+|~''5.赤い空''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|60000メダル|
+|~''4.竜王誕生''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||コンボ中に&color(#000,#f1bba6){火};を2回以上消そう！|魔法石x1|
+|~''3.かえらずの森''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|BGCOLOR(#ffc0cb):回復||&color(#000,#bbf1a6){木};を6個以上繋げて消そう！|60000メダル|
+|~''2.アシッドパーク''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水||BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||8コンボ以上を作ろう！|60000メダル|
+|~''1.逢魔が原''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#999999):悪魔|||&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|60000メダル|
+}}
+
+** 実装履歴 [#x5717317]
+
+|~ステージ|~実装日|~備考|
+|30～41|2014/09/29|3000万DL達成記念（Ver.7.2）|
+|21～29|2014/09/12|Android版リリース2周年記念（Ver.7.1.1）|
+|1～20|2014/08/22|Ver.7.1.1アップデート|
+
+* コメント [#xd1049ed]
+
+#pcomment

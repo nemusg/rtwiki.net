@@ -1,0 +1,31 @@
+* HUNTER×HUNTERコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+ゴン、キルア、カイトが当たり。
+}}
+
+** HUNTER×HUNTER コラボガチャ2 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/07/20～2015/08/02:http://pad.gungho.jp/member/HxH2_list.html]]|
+|★5|&mons1009; &mons1011; &mons1023; &mons2229;|
+|★4|&mons1013; &mons1015; &mons1017; &mons1019; &mons1021; &mons1025;|
+
+- カイトが追加・ジェドが削除
+
+** HUNTER×HUNTER コラボガチャ1 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2013/12/23～2014/01/05:http://pad.gungho.jp/member/gacya_list_hxh.html]]|
+|★5|&mons1009; &mons1011; &mons1023;|
+|★4|&mons1013; &mons1015; &mons1017; &mons1019; &mons1021; &mons1025; &mons1027;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

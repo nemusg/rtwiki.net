@@ -1,0 +1,31 @@
+* デリバリーモール (Delivery Mole) [#yed7a980]
+
+#ref(Mole1.png,nolink,50%);
+
+- デリバリーモールは戦闘ごとに2回ランダムな場所に出現し、希少価値の高いアイテムを保持するボックスを配達します。
+-- 一部はデリバリーモールからのみ入手できるアイテムもあります。
+
+#ref(MoleMap.png,nolink,50%);
+
+- もぐらが出現すると、スクリーン上のメッセージがプレーヤーに通知します。
+-- もぐらの位置は一時的に地図とミニマップで見ることができます
+
+#ref(Mole2.png,nolink,50%);
+
+- もぐらは数秒間地面を掘り下げてからボックスを設置します。中のアイテムはランダムで決まります。このボックスには3個のランダムなアイテムが入っています
+
+
+** 入手できるアイテム [#p87f1e0e]
+
+- Large Health Juice (40) 
+- 3× グレネード (Grenade)
+- Lv3ベスト (Brown Vest)
+- AK [Rare]
+- Sniper [Rare]
+- Silenced Pistol [Epic / Legendary]（Legendaryはデリバリーモール限定）
+- M16 [Epic / Legendary]（デリバリーモール限定）
+- Minigun [Epic / Legendary]（デリバリーモール限定）
+
+* コメント [#q65bf7bc]
+
+#pcomment

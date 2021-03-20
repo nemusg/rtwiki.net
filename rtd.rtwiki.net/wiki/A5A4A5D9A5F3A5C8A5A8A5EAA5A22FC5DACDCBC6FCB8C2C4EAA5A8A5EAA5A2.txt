@@ -1,0 +1,259 @@
+* イベントエリア/土曜日限定エリア [#xce9b017]
+
+** 土曜日限定エリア [#cc9c49db]
+ 土曜日限定エリア - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ このクエストは土曜日限定の特別なクエストです。 マップを埋め尽くすほどのモンスター達を撃破せよ！
+ 
+ エリア目標:
+ 1:天のよりしろ 3:空のよりしろ 6:悪いよりしろ 9:癒しのよりしろ 12:超悪いよりしろ
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''四族の呼声・上級'''>#u60400f5]]''|37|17|1,200|25,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:16000/4T|あまぎ&br;[書王]ユーリカ&br;天のよりしろ&br;空のよりしろ|天のよりしろ&br;空のよりしろ&br;[冥王]アヌビス|金:★4ユニットのみ&br;銀:無属性ユニットのみ&br;銅:エネミー15体以上撃破|初期Soul値:?&br;[exp/sta]:70.6&br;|
+|''[['''四族の呼声・中級'''>#pad03865]]''|32|10|500|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:?&br;攻撃:13500/4T|銀のよりしろ&br;金のよりしろ&br;天のよりしろ&br;空のよりしろ|金のよりしろ&br;天のよりしろ&br;空のよりしろ&br;[罪王]ヴェルベット|金:残りSoul20以上&br;銀:エネミー10体以上撃破&br;銅:ノーコンティニュー|初期Soul値:?&br;[exp/sta]:50.0&br;|
+|''[['''四族の呼声・初級'''>#vdd75447]]''|27|5|200|3,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:?&br;攻撃:7500/3T|銀のよりしろ&br;金のよりしろ&br;天のよりしろ|銀のよりしろ&br;金のよりしろ&br;試号弐式まつえ&br;麒麟帝しなの|金:残りSoul15以上&br;銀:エネミー5体以上撃破&br;銅:ノーコンティニュー|初期Soul値:?&br;[exp/sta]:40.0&br;|
+|''[['''四族の呼声・入門'''>#g4e6ff34]]''|18|3|?|?|?|BGCOLOR(#ffffff):属性:? 種族:?&br;攻撃:?/?T|?&br;|?&br;|金:ノーコンティニュー&br;銀:残りSoul10以上&br;銅:エネミー3体以上撃破|初期Soul値:?&br;[exp/sta]:66.7&br;|
+
+
+- [[開放履歴(土曜日限定エリア)>#xfaab87b]]
+- [[コメント(土曜日限定エリア)>#w4b5ed8b]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#z7585b30]
+----
+*** 四族の呼声・上級 [#u60400f5]
+&color(black,#eeeeee){基本情報};
+:|
+距離:37 スタミナ:17 獲得EXP:1,200 獲得金額:25,000 
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:レアリティが''★4のユニットのみ''のパーティーでクリア！
+-- 銀:主属性が''無属性のユニットのみ''のパーティーでクリア！
+-- 銅:エネミーを''15体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''老竜:カンナカムイ''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:16000/4T HP:約135,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対無属性
+ドロップ:&color(#006600){あまぎ}; (火弓銀本) , &color(#006600){[書王]ユーリカ}; (闇杖金本) , 天のよりしろ , 空のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:&color(#006600){[冥王]アヌビス}; (闇槍金本)
+
+:|''銀カイザー・ポイム''
+攻撃:9170/3T HP:75,951(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:700 獲得覚醒pt:?
+座標:(あと25マス,±0)
+ドロップ:天のよりしろ , 空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''バハムートン''
+攻撃:6090~16760/3T HP:44,849~74,169(&color(black,#a6f1f1){水};) 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+ドロップ:金のよりしろ , 銀のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:70.6
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|特別ガイド台詞:
+ イベントエリア/土曜日限定エリア > 四族の呼声・上級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/土曜日限定エリア > 四族の呼声'' - 簡易Map|
+|~(x,y)|~37　|~36　|~35　|~34　|~33　|~32　|~31　|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00　|
+|CENTER:|CENTER:|CENTER:|CENTER:35|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||||BGCOLOR(#a6f1f1):猪A||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):猪A|||BGCOLOR(#f1bba6):猪R|||||BGCOLOR(#bba6f1):猪D|||BGCOLOR(#f1f1a6):||BGCOLOR(#a6f1f1):猪A||BGCOLOR(#bba6f1):猪D|BGCOLOR(#bba6f1):猪D|B|
+|~+3|||||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1f1a6):猪P|BGCOLOR(#bba6f1):猪D|BGCOLOR(#bba6f1):||BGCOLOR(#a6f1f1):|BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1f1a6):||BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):|BGCOLOR(#bba6f1):||BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):猪P||BGCOLOR(#a6f1f1):|||BGCOLOR(#bba6f1):猪D|B|
+|~+2||||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):猪R||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#f1f1a6):||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):猪D|BGCOLOR(#a6f1f1):||||BGCOLOR(#f1bba6):||箱||BGCOLOR(#bba6f1):猪D||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):||BGCOLOR(#a6f1f1):猪A|||BGCOLOR(#f1bba6):猪R||BGCOLOR(#bba6f1):猪D|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):猪A|BGCOLOR(#f1f1a6):||B|
+|~+1|||||||||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):|箱|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):||箱||BGCOLOR(#bba6f1):||||BGCOLOR(#f1f1a6):猪P||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):猪A||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):|BGCOLOR(#bba6f1):|||BGCOLOR(#f1f1a6):猪P||B|
+|~±0||||''Sta''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):猪A||BGCOLOR(#a6f1f1):猪A||BGCOLOR(#f1bba6):猪R||''銀4H''||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):猪P||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):|箱|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):猪D|BGCOLOR(#bba6f1):|||BGCOLOR(#f1f1a6):猪P|箱||||BGCOLOR(#bba6f1):猪D||''金4H''|||B|
+|~-1|||||||||BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):|箱|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):||箱||BGCOLOR(#f1f1a6):||||BGCOLOR(#bba6f1):猪D||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):猪R||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):|BGCOLOR(#bba6f1):|||BGCOLOR(#f1f1a6):猪P||B|
+|~-2||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):猪A||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#bba6f1):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1bba6):||||BGCOLOR(#a6f1f1):||箱||BGCOLOR(#f1f1a6):猪P||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):|BGCOLOR(#bba6f1):||BGCOLOR(#f1bba6):猪R|||BGCOLOR(#a6f1f1):猪A||BGCOLOR(#bba6f1):猪D|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1f1a6):||B|
+|~-3|||||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):||||BGCOLOR(#bba6f1):猪D|BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1f1a6):||BGCOLOR(#f1bba6):|BGCOLOR(#bba6f1):猪D|BGCOLOR(#bba6f1):||BGCOLOR(#a6f1f1):|||BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):||BGCOLOR(#bba6f1):猪D|BGCOLOR(#bba6f1):|BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):||BGCOLOR(#a6f1f1):|BGCOLOR(#bba6f1):猪D||BGCOLOR(#f1bba6):|||BGCOLOR(#f1f1a6):猪P|B|
+|~-4||||||||BGCOLOR(#bba6f1):猪D|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):||||BGCOLOR(#f1bba6):猪R||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):猪D|BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):猪R|||BGCOLOR(#a6f1f1):猪A|||||BGCOLOR(#f1f1a6):猪P|||BGCOLOR(#bba6f1):||BGCOLOR(#f1bba6):猪R||BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1f1a6):猪P|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 猪:猪竜種(バハムートン系) 銀:銀ポイム系 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 四族の呼声・中級 [#pad03865]
+&color(black,#eeeeee){基本情報};
+:|
+距離:32 スタミナ:10 獲得EXP:500 獲得金額:10,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:残りSoulが''20以上''の状態でクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#ffffff){無属性}; 種族:?
+攻撃:13500/4T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対無属性
+ドロップ:銀のよりしろ , 金のよりしろ , 天のよりしろ , 空のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:&color(#006600){[罪王]ヴェルベット}; (火杖金本) , 金のよりしろ , 天のよりしろ , 空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:?
+
+:|''?・?''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:50.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|特別ガイド台詞:
+ イベントエリア/土曜日限定エリア > 四族の呼声・中級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 四族の呼声・初級 [#vdd75447]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:5 獲得EXP:200 獲得金額:3,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:残りSoulが''15以上''の状態でクリア！
+-- 銀:エネミーを''5体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:? 種族:?
+攻撃:?/?T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対属性
+ドロップ:銀のよりしろ , 金のよりしろ , 天のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:銀のよりしろ , 金のよりしろ , 試号弐式まつえ , 麒麟帝しなの
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:?
+
+:|''?・?''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:?
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|特別ガイド台詞:
+ イベントエリア/土曜日限定エリア > 四族の呼声・初級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 四族の呼声・入門 [#g4e6ff34]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:3 獲得EXP:200 獲得金額:2,000
+クリアボーナス:虹色水晶 1個
+:|チャレンジ目標:
+-- 金:''コンティニューなし''でクリア！
+-- 銀:残りSoulが''10以上''の状態でクリア！
+-- 銅:エネミーを''3体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:? 種族:?
+攻撃:?/?T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対属性
+ドロップ:?
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:?
+
+:|''?・?''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:?
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:? Power:? Soul:? Unit:-
+:|特別ガイド台詞:
+ イベントエリア/土曜日限定エリア > 四族の呼声・入門 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 開放履歴(土曜日限定エリア)((時刻が書かれていない場合、その日付の間は開放。)) [#xfaab87b]
+:毎週土曜日|
+-- 2013/11/01: 全クエストの必要スタミナ減少。
+
+----
+* コメント(土曜日限定エリア) [#w4b5ed8b]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

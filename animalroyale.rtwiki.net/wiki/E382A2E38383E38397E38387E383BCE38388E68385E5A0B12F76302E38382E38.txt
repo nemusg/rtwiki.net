@@ -1,0 +1,37 @@
+* 2019/08/12 v0.88.8 [#k9b02c78]
+
+#style(class=panelInfo){{
+完全なパッチノートはSteamで読んでください。
+[[Super Animal Royale :: Super Gummy Bears Join the Fight + Final 48hrs to Submit Clips for SAR Tonight!:https://steamcommunity.com/games/843380/announcements/detail/1610519806200925714]]
+}}
+
+スーパーサマーロイヤルイベントは終了し、スーパービーバーは最後のフルーツバスケットの片付けを完了しましたが、デザートを残しました！ スーパーグミベアは、ベリー、ライム、オレンジ、チェリーの「味」の戦いに参加します。
+
+** スーパーアニマルロワイヤルTonightのクリップの提出期限です [#lfc3e620]
+
+また、YouTubeのハイライト番組であるSAR Tonightに、最高でかっこいいクリップを提出する最後の48時間です！ 最高の1080p +、30fps +、<= 30sのクリップを[[このDropboxリンク:https://steamcommunity.com/linkfilter/?url=https://www.dropbox.com/request/Vo08DLG2XwlSs2NfYqoU]]に送信してください。8月13日火曜日午後11時59分（PDT）にエピソード5で紹介され、特別なSAR Tonightアイテムを獲得してください。
+
+** v0.88.8 Patch Notes [#w5b39619]
+
+*** 4つの新しいスーパーベアの品種が追加されました。 [#q743483a]
+
+- Super Berry Gummy Bear
+- Super Lime Gummy Bear
+- Super Orange Gummy Bear
+- Super Cherry Gummy Bear
+
+*** その他 [#n4dd761b]
+
+- スーパーサマーロイヤルイベントは終了し、収集されたバスケットの世界記録は、10,000のフルーツバスケットを獲得したプレーヤー showsanでした！
+- Discordロビーのバグは時々マッチメイクに失敗し、準備ができていました。他に何かを見つけたら教えてください！
+- DNAマグネットは現在99（アクティブまたは非アクティブ）に制限されています。99を超える既存のプレーヤーは、使い果たすまで99を超えて獲得した磁石をすべて保持します。
+- スナイパーライフルは、アンコモンまでしかワールド内には出現しなくなりました。レア（ブルー）は、デリバリーモールクレート専用です。
+- ボットは、復活するチームメイトよりも攻撃している敵を優先するように調整されています。
+- ボットは、それを超えるとテープを拾います。
+- SAW Research Labの西の樹木に対する微調整。
+- 桜の木の後ろの岩をいくつか修正し、スーパーサハラランドの家のパティオを修正しました。
+- カスタマイズのStreamer、Super CC、およびModeratorアイテムには、作成された個々の個人またはグループが表示されるようになりました。
+
+* コメント [#w522c726]
+
+#pcomment

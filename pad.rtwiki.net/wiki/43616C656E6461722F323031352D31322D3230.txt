@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2015/12/11 12:00:00,2015/12/20 23:59:59);[[クリスマスイベント（前半）:http://pad.gungho.jp/member/seasonal/151210_xmas.html]]

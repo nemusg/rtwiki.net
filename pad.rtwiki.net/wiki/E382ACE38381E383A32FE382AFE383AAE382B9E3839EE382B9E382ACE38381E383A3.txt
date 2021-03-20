@@ -1,0 +1,37 @@
+* クリスマスガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+
+** クリスマスガチャ2015 [#uf564a01]
+
+|CENTER:|||c
+|~レア|~新モンスター|~既存モンスター|
+|>|>|BGCOLOR(#ffffff):[[2015/12/14～2015/12/27:http://pad.gungho.jp/member/seasonal/151210_xmas_lineup.html]]|
+|★8|&mons2511; &mons2512;||
+|★7|&mons2514;|&mons1783;|
+|★6|&mons2513;|&mons1782;|
+|★4|&mons2515; &mons2516; &mons2517; &mons2518; &mons2519; &mons2520;||
+
+** クリスマスガチャ2014 [#uf564a01]
+
+|CENTER:|||c
+|~レア|~新モンスター|~既存モンスター|
+|>|>|BGCOLOR(#ffffff):[[2014/12/15～2014/12/25:http://pad.gungho.jp/member/xmas2014_gacha.html]]|
+|★7|&mons1783;||
+|★6|&mons1782; &mons1793; &mons1792;||
+|★5|&mons1791; &mons1785; &mons1794; &mons1784;|&mons745; &mons747; &mons749; &mons751; &mons753; &mons1614; &mons1616; &mons1618;|
+|★4|&mons1786; &mons1787; &mons1788; &mons1789; &mons1790;||
+
+- サンタジーニャ事件
+-- 「閃光の結界」のスキルターンが本家ジーニャ（最短15）より少ない最短11→誤りだった
+-- これを理由にガチャで爆死した人々がクレーム
+-- 結果、期間中（2014年12月15日(月)0:00～17:00）にクリスマスガチャで使用した魔法石が全て返還
+--- [[「聖夜の神精霊・ジーニャ」運営サイト誤表示に関するお詫び:http://mobile.gungho.jp/maintenance/pad/pua59k0000002k7n.html]]
+
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

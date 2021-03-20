@@ -1,0 +1,30 @@
+* ランク150メモリアルガチャ [#pdda7e01]
+
+- ランク150以上になると一度だけ引けるガチャ
+
+** ランク150メモリアルガチャ [#g8eb722d]
+
+|CENTER:|CENTER:||c
+|>|~シリーズ|~ラインナップ|
+|>|>|BGCOLOR(#ffffff):[[2016/02/25～:http://pad.gungho.jp/member/reset/160222_reset.html]]|
+|>|>|BGCOLOR(#ffffff):[[2015/06/02～:http://pad.gungho.jp/member/150531_renew.html]]|
+|>|西洋神|&mons122; &mons124; &mons126; &mons128; &mons130;|
+|>|和神|&mons132; &mons134; &mons136; &mons138; &mons140;|
+|>|東洋神|&mons236; &mons238; &mons240; &mons242; &mons244;|
+|>|北欧神|&mons368; &mons370; &mons372; &mons374; &mons376;|
+|>|エジプト神|&mons490; &mons492; &mons494; &mons496; &mons498;|
+|>|新西洋神|&mons567; &mons569; &mons571; &mons573; &mons575;|
+|>|天使|&mons620; &mons622; &mons624; &mons626; &mons628;|
+|>|悪魔|&mons630; &mons632; &mons634; &mons636; &mons638;|
+|>|四獣神|&mons745; &mons747; &mons749; &mons751; &mons753;|
+|>|新和神|&mons799; &mons801; &mons803; &mons805; &mons807;|
+|>|英雄神|&mons1065; &mons1067; &mons1069; &mons1071; &mons1073;|
+|フ&br;ェ&br;ス&br;限&br;定|オーディン|&mons362; &mons364; &mons1107;|
+|~|メタトロン|&mons640; &mons642;|
+|~|ソニア|&mons911; &mons913; &mons1088;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

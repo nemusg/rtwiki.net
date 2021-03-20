@@ -1,0 +1,42 @@
+* 聖闘士星矢コラボガチャ  [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+実装直後は沙織や一輝が当たりだとされていたが、
+今は自傷スキルを持つ紫龍がちょっと便利というぐらい。
+}}
+
+** 聖闘士星矢 コラボガチャ3 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/06/01～2015/06/07:http://pad.gungho.jp/member/seiya3_gacya_list.html]]|
+|★5|&mons1438; &mons1436; &mons1434; &mons1722; &mons2125;|
+|★4|&mons1426; &mons1428; &mons1430; &mons1432; &mons1718; &mons1720;|
+
+- 黄金聖闘士・シオンが追加
+
+** 聖闘士星矢 コラボガチャ2 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/12/01～2014/12/07:http://pad.gungho.jp/member/gacya_list_seiya2.html]]|
+|★5|&mons1438; &mons1436; &mons1434; &mons1722;|
+|★4|&mons1426; &mons1428; &mons1430; &mons1432; &mons1718; &mons1720;|
+
+- 白銀聖闘士・シャイナ、黄金聖闘士・ムウ、黄金聖闘士・童虎が追加
+
+** 聖闘士星矢 コラボガチャ1 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/06/23～2014/07/06:http://pad.gungho.jp/member/gacya_list_seiya.html]]|
+|★5|&mons1438; &mons1436; &mons1434;|
+|★4|&mons1426; &mons1428; &mons1430; &mons1432;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

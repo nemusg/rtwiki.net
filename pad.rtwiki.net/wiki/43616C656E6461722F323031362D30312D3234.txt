@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/01/15 12:00:00,2016/01/24 23:59:59);[[ファミ通2015年人気ゲームアプリランキング受賞記念イベント:http://pad.gungho.jp/member/160114_famitsu_event.html]]

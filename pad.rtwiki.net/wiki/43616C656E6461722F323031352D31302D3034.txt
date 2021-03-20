@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2015/09/28 00:00:00,2015/10/04 23:59:59);[[全世界5000万DL達成記念イベント（前半）:http://pad.gungho.jp/member/ww5000m.html]]

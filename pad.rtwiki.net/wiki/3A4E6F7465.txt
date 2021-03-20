@@ -1,0 +1,14 @@
+* Note [#ae01aaee]
+
+** Google検索結果からこのWikiに飛ぶと「有効な WikiName ではありません。」と言われてしまう。 [#s0c29c99]
+
+- 発生時期 2014年3月1日前後から（もっと以前から？）
+- Pukiwiki(EUC-JP版)で構築されたページであればどのサイトでも再現するようです。((URLに日本語が含まれていない場合は再現しません))
+- PC , スマートフォンで再現することを確認しています。
+-- ''クッキーを一度削除すると解決します。''
+--- [[FirefoxのCookieを削除する方法（Mozilla公式）:http://support.mozilla.org/ja/kb/delete-cookies-remove-info-websites-stored]]
+--- [[iPhoneでSafariのCookieを削除する方法（nanapi）:http://nanapi.jp/76349/]]
+- Googleにフィードバックを送っていますが、いつ解決するのかは不明です。
+
+*** 参考サイト [#qf7ee8c1]
+- [[艦これwikiや遊戯王カードwiki（pukiwiki）への検索エンジンからのリンクが文字化けする件:http://d.hatena.ne.jp/arcmag/20140301]]

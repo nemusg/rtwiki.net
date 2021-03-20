@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2017/05/12 12:00:00,2017/05/21 23:59:59);[[ガンフェス直前スペシャル:http://pad.gungho.jp/member/event/170511_gunfes2017_eve.html]]

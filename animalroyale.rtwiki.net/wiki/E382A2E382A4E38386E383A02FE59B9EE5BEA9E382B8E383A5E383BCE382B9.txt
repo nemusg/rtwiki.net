@@ -1,0 +1,27 @@
+* Health Juice [#yb5600d7]
+
+Health Juiceは体力を回復するために使用できるアイテムです。それは背の高い草を伐採すること、木箱を破壊すること、またはほとんどの地域で地面落ちていることによって見つけることができます。
+
+プレーヤーは、最大200のHealth Juiceを持っていくことができます。回復中は騒音が発生し、移動や武器の使用が妨げられ、プレイヤーが攻撃を受けやすくなります。
+
+** Health Juice の大きさ [#k93e4c66]
+
+Health Juiceは large 、medium 、small が存在します。
+
+*** Small Health Juice (10) [#cf1475f4]
+
+#ref(Healthjuice_level_1.png,nolink,50%);
+
+*** Medium Health Juice (20) [#cb2e9d66]
+
+#ref(Healthjuice_level_2.png,nolink,50%);
+
+*** Large Health Juice (40) [#mb5e3d35]
+
+#ref(Healthjuice_level_3.png,nolink,50%);
+
+&br;
+
+* コメント [#t430b455]
+
+#pcomment

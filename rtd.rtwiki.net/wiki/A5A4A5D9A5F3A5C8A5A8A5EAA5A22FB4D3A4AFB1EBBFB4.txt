@@ -1,0 +1,157 @@
+* イベントエリア/貫く焔心 [#v298a8b5]
+
+** 貫く焔心 [#wbcfa581]
+ 貫く焔心 - 6ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 神なる存在。その名も「ナタル」。熱魂の闘舞、その壮絶な力に耐えられるか！？
+ 
+ エリア目標:
+ 1:炎火のよりしろ 2:炎火のよりしろ 3:超悪いよりしろ
+
+|~''クエスト名''|~''距離''|~''スタミナ''|~''獲得EXP''|~''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''貫く焔心・超級'''>#h101a9fd]]''|30|10|500|15,000|火|BGCOLOR(#f1bba6):属性:火 種族:使徒&br;攻撃:58900/2T&br;&color(red){※};防御力少し高め|ナタル&br;炎火のよりしろ&br;悪いよりしろ&br;|-|金:ノーコンティニュー&br;銀:残りソウル40以上&br;銅:ボス撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:50.0&br;|
+
+- [[配信履歴(貫く焔心)>#j97e95d6]]
+- [[コメント(貫く焔心)>#gbb30a30]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+//  / ([[画像:]])
+// #ref(,right,wrap,around,,x96)
+// #clear
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+** クエスト詳細 [#bc880f18]
+----
+*** 貫く焔心・超級 [#h101a9fd]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:30 スタミナ:10 獲得EXP:500 獲得金額:15,000
+助っ人枠:自由
+クリアボーナス:'' 虹色水晶 1個''
+チャレンジ目標:
+-- 金:''コンティニューなし''でクリア！
+-- 銀:残りSoulが''40以上''でクリア！
+-- 銅:エネミーを''10体以上''撃破してクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|
+#ref(rtd_enemy_tsuranukuenshin_q0001-boss.jpg,right,wrap,around,,64x96)
+''[焔将]ナタル''
+属性:&color(black,#f1bba6){火属性}; 種族:使徒
+攻撃:58900/2T HP:約1,400,000 獲得Soul:10 獲得Gold:0
+特性:-
+有効特効:対ユニット , 対火属性 &color(red){※};防御力少し高め
+ドロップ:&color(#006600){ナタル}; (火槍銀書) , 悪いよりしろ , 炎火のよりしろ
+与ダメージデータ:
+|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+||||→||
+||||→||
+#clear
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミー'''};((個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|
+#ref(rtd_enemy_tsuranukuenshin_q0001-0001-5R.jpg,right,wrap,around,,64x96)
+''シャドー・ポイム''
+攻撃:22270/3T HP:206,718(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:800
+ドロップ:火のよりしろ
+#clear
+
+:|
+#ref(rtd_enemy_tsuranukuenshin_q0001-0002-5R.jpg,right,wrap,around,,64x96)
+''シャドー・ウルフ''
+攻撃:19120/2T HP:126,898(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:炎火のよりしろ , 火のよりしろ
+#clear
+
+:|
+#ref(rtd_enemy_tsuranukuenshin_q0001-0003-5R.jpg,right,wrap,around,,64x96)
+''シャドー・ドラン''
+攻撃:21910/3T HP:175,498(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:火のよりしろ
+#clear
+
+:|
+#ref(rtd_enemy_tsuranukuenshin_q0001-0004-5R.jpg,right,wrap,around,,64x96)
+''シャドー・グリズリー''
+攻撃:21041/4T HP:212,798(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,200
+ドロップ:火のよりしろ
+#clear
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:15
+[exp/sta]:50.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/貫く焔心 > 貫く焔心・超級'' - Map|
+|~(x,y)|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||||||||BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):爪5R|||||BGCOLOR(#f1bba6):|||Boss|
+|~+3|||||||BGCOLOR(#f1bba6):爪5R|||BGCOLOR(#f1bba6):||||||||BGCOLOR(#f1bba6):卵5R|||||||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼5R|~|
+|~+2|||||||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):軟5R||||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):狼5R|||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):卵5R|~|
+|~+1||||||BGCOLOR(#f1bba6):狼5R|||||||箱|BGCOLOR(#f1bba6):軟5R|||||||箱|BGCOLOR(#f1bba6):卵5R|BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):軟5R||~|
+|~±0||||''Sta''|||||BGCOLOR(#f1bba6):軟5R||||||||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):爪5R|||BGCOLOR(#f1bba6):爪5R|~|
+|~-1||||||||BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):|箱|||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):|箱||BGCOLOR(#f1bba6):|||||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵5R|BGCOLOR(#f1bba6):軟5R||~|
+|~-2|||||||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):爪5R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟5R||||BGCOLOR(#f1bba6):狼5R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):卵5R|~|
+|~-3||||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):爪5R|||||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):軟5R||||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):狼5R|箱|||||BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼5R|~|
+|~-4|||||||||||BGCOLOR(#f1bba6):爪5R|||||BGCOLOR(#f1bba6):狼5R||BGCOLOR(#f1bba6):爪5R|BGCOLOR(#f1bba6):爪5R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):狼5R||||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪5R||~|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟体種(ポイム系) 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 爪:大爪種(グリズリー系)
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+:|特別ガイド台詞:
+ EA/貫く焔心 > 貫く焔心 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 配信履歴(貫く焔心) [#j97e95d6]
+:2014/09/25|
+:2014/09/09|
+:2014/08/22|
+:2014/07/06|
+:2014/06/17|
+:2014/04/14|
+:2014/03/16|
+:2014/02/16|
+:2014/01/03|
+:2013/12/15|
+-- エリア目標達成報酬の受け取り状況のみリセットされる？
+:2013/11/17|
+-- この日以降「レアユニットエリア > 貫く焔心」として開放。(チャレンジ目標の銀、銅がリセット)
+:2013/10/17(10:00)〜2013/10/19(10:00)|
+
+----
+
+* コメント(貫く焔心) [#gbb30a30]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

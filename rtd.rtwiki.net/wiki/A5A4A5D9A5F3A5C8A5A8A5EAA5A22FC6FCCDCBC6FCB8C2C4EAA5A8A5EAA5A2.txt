@@ -1,0 +1,275 @@
+* イベントエリア/日曜日限定エリア [#l669c506]
+
+** 日曜日限定エリア [#b5a68df8]
+ 日曜日限定エリア - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ このクエストは日曜日限定の特別なクエストです。 大群の光属性モンスターを見事切り抜けられるか！？
+ 
+ エリア目標:
+ 1:光のよりしろ 3:悪いよりしろ 6:光輝のよりしろ 9:生命のよりしろ 12:超悪いよりしろ
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''極光の呼声・上級'''>#pf76b898]]''|37|17|1200|25,000|火光|BGCOLOR(#f1f1a6):属性:光 種族:龍&br;攻撃:13020/2T|勇者アラン&br;英雄エンゼリカ&br;銃士エドワーズ&br;賢者ローザ|天のよりしろ&br;空のよりしろ&br;[精霊王]ル・フェイ|金:★4ユニットのみ&br;銀:闇ユニットのみ&br;銅:エネミー15体以上撃破|クリアボーナスあり&br;初期Soul値:20&br;[exp/sta]:70.6&br;|
+|''[['''極光の呼声・中級'''>#n230d0ab]]''|32|10|500|8,000|光?|BGCOLOR(#f1f1a6):属性:光 種族:?&br;攻撃:11000/4T|つばき&br;ひめじ&br;みかさ&br;ちとせ|金のよりしろ&br;天のよりしろ&br;空のよりしろ&br;英雄エンゼリカ|金:残りSoul20以上&br;銀:エネミー10体以上撃破&br;銅:ノーコンティニュー|クリアボーナスあり&br;初期Soul値:?&br;[exp/sta]:50.0&br;|
+|''[['''極光の呼声・初級'''>#h454b5ba]]''|27|5|200|3,000|光?|BGCOLOR(#f1f1a6):属性:光 種族:?&br;攻撃:7500/3T|ミハエル・ヴァイス&br;アルフォンス・ヴァイス&br;マクシミリアン・ヴァイス&br;パトリシア・ヴァイス|銀のよりしろ&br;金のよりしろ&br;天照一閃流つばき&br;陽射手みかさ|金:残りSoul15以上&br;銀:エネミー5体以上撃破&br;銅:ノーコンティニュー|クリアボーナスあり&br;初期Soul値:?&br;[exp/sta]:40.0&br;|
+|''[['''極光の呼声・入門'''>#ob6e5258]]''|18|3|200|2,000|光?|BGCOLOR(#f1f1a6):属性:光 種族:?&br;攻撃:4700/3T|-&br;|-&br;|金:ノーコンティニュー&br;銀:残りSoul10以上&br;銅:エネミー3体以上撃破|クリアボーナスあり&br;初期Soul値:?&br;[exp/sta]:66.7&br;|
+
+- [[開放履歴(日曜日限定エリア)>#ha225802]]
+- [[コメント(日曜日限定エリア)>#z03ce41f]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#l76489f5]
+
+----
+*** 極光の呼声・上級 [#pf76b898]
+&color(black,#eeeeee){基本情報};
+:|
+距離:37 スタミナ:17 獲得EXP:12,000 獲得金額:25,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:レアリティが''★4のユニットのみ''のパーティーでクリア！
+-- 銀:主属性が''闇属性のユニットのみ''のパーティーでクリア！
+-- 銅:エネミーを''15体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''竜王種:ピュア・ヴィーヴィル''
+属性:&color(black,#f1f1a6){光属性}; 種族:ドラゴン
+攻撃:13060/2T HP:約110,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対光属性
+ドロップ:勇者アラン , 英雄エンゼリカ , 銃士エドワーズ , 賢者ローザ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:&color(#006600){[精霊王]ル・フェイ}; (光杖金本)
+
+:|''銀カイザー・ポイム''
+攻撃:8830/3T HP:75,951(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:700 獲得覚醒pt:?
+座標:(あと28マス,±0)
+ドロップ:天のよりしろ , 空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#f1f1a6){光};
+
+:|''カイザー・ウルフ''
+攻撃:12050/2T HP:38,443(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:アルフォンス , パトリシア
+
+:|''カイザー・ドラン''
+攻撃:6040/2T HP:61,991(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:ロラン・クレスト
+
+:|''カイザー・グリズリー''
+攻撃:20250/4T HP:71,873(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:アルフォンス・ヴァイス , マクシミリアン・ヴァイス
+
+:|''カイザー・スコーピオン''
+攻撃:?/?T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン''
+攻撃:?/?T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:70.6
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:あり Power:あり Soul:あり Unit:-
+:|特別ガイド台詞:
+ イベントエリア/日曜日限定エリア > 極光の呼声・上級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/日曜日限定エリア > 極光の呼声・上級'' - 簡易Map|
+|~(x,y)|~37　|~36　|~35　|~34　|~33　|~32　|~31　|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00　|
+|CENTER:|CENTER:|CENTER:|CENTER:35|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):爪4P||||BGCOLOR(#f1f1a6):鋏4P||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P|箱||BGCOLOR(#f1f1a6):|||BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼4R|||BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1bba6):|B|
+|~+3||||||BGCOLOR(#f1f1a6):卵4P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1f1a6):||BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1f1a6):|||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):鋏4P||BGCOLOR(#f1bba6):爪4R|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):卵4P|箱|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):猪P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R|B|
+|~+2||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):||箱|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):鋏卵P||BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):|||BGCOLOR(#f1f1a6):|||BGCOLOR(#f1bba6):|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):鋏4P||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):爪4R|BGCOLOR(#f1bba6):||B|
+|~+1||||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P|BGCOLOR(#f1bba6):狼4R||||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):爪4R|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):鋏4P|||BGCOLOR(#f1f1a6):爪4P|B|
+|~±0||||''Sta''|||BGCOLOR(#f1f1a6):鋏4P|||''銀4H''|||BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):猪P|箱|BGCOLOR(#f1bba6):爪4R||BGCOLOR(#f1f1a6):爪4P||||BGCOLOR(#f1f1a6):猪P|箱||BGCOLOR(#f1f1a6):爪4P|||||BGCOLOR(#f1bba6):爪4R||||BGCOLOR(#f1f1a6):|B|
+|~-1||||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P|BGCOLOR(#f1bba6):狼4R||||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):爪4R|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):鋏4P|||BGCOLOR(#f1f1a6):爪4P|B|
+|~-2||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):||箱|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):鋏卵P||BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):|||BGCOLOR(#f1f1a6):|||BGCOLOR(#f1bba6):|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):鋏4P||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):爪4R|BGCOLOR(#f1bba6):||B|
+|~-3||||||BGCOLOR(#f1f1a6):卵4P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1f1a6):||BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1f1a6):|||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):鋏4P||BGCOLOR(#f1bba6):爪4R|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):卵4P|箱|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):猪P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R|B|
+|~-4||||||||BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):爪4P||||BGCOLOR(#f1f1a6):鋏4P||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P|箱||BGCOLOR(#f1f1a6):|||BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼4R|||BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1bba6):|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 爪:大爪種(グリズリー系) 鋏:鋏角種(スコーピオン系) 猪:猪竜種(バハムートン)
+ 銀:銀ポイム系 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 極光の呼声・中級 [#n230d0ab]
+&color(black,#eeeeee){基本情報};
+:|
+距離:32 スタミナ:10 獲得EXP:500 獲得金額:8,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:残りSoulが''20以上''の状態でクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#f1f1a6){光属性}; 種族:?
+攻撃:11000/4T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対光属性
+ドロップ:つばき , ひめじ , みかさ , ちとせ
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと12マス,±0),(あと?マス,±?)
+ドロップ:金のよりしろ , 天のよりしろ , 空のよりしろ , 英雄エンゼリカ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:50.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:-
+:|特別ガイド台詞:
+ イベントエリア/日曜日限定エリア > 極光の呼声・中級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+----
+*** 極光の呼声・初級 [#h454b5ba]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:5 獲得EXP:200 獲得金額:3,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:残りSoulが''15以上''の状態でクリア！
+-- 銀:エネミーを''5体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#f1f1a6){光属性}; 種族:?
+攻撃:7500/3T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対光属性
+ドロップ:ミハエル・ヴァイス , アルフォンス・ヴァイス , マクシミリアン・ヴァイス , パトリシア・ヴァイス
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと16マス,±0),(あと?マス,±?)
+ドロップ:銀のよりしろ , 金のよりしろ , 天照一閃流つばき , 陽射手みかさ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:40.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:-
+:|特別ガイド台詞:
+ イベントエリア/日曜日限定エリア > 極光の呼声・初級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 極光の呼声・入門 [#ob6e5258]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:3 獲得EXP:200 獲得金額:2,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:''コンティニューなし''でクリア！
+-- 銀:残りSoulが''10以上''の状態でクリア！
+-- 銅:エネミーを''3体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#f1f1a6){光属性}; 種族:?
+攻撃:?/?T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対光属性
+ドロップ:?
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#f1f1a6){光};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:-
+:|特別ガイド台詞:
+ イベントエリア/日曜日限定エリア > 極光の呼声・入門 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 開放履歴(日曜日限定エリア)((時刻が書かれていない場合、その日付の間は開放。)) [#ha225802]
+:毎週日曜日|
+-- 2013/11/01: 全クエストで必要スタミナ減少。
+
+----
+* コメント(日曜日限定エリア) [#z03ce41f]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

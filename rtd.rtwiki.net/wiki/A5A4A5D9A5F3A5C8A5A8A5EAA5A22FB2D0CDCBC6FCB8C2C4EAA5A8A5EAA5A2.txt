@@ -1,0 +1,275 @@
+* イベントエリア/火曜日限定エリア [#l34509bc]
+
+** 火曜日限定エリア [#c63723f4]
+ 火曜日限定エリア - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ このクエストは火曜日限定の特別なクエストです。 大群の火属性モンスターを見事切り抜けられるか！？
+ 
+ エリア目標:
+ 1:火のよりしろ 3:悪いよりしろ 6:炎火のよりしろ 9:力のよりしろ 12:超悪いよりしろ
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''業火の呼声・上級'''>#h5333735]]''|37|17|1200|25,000|火光|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:13000/2T|勇者オーガスタス&br;英雄フィリス&br;銃士フォスター&br;賢者レイチェル|天のよりしろ&br;空のよりしろ&br;[料理王]イザナギ|金:★4ユニットのみ&br;銀:水属性ユニットのみ&br;銅:エネミー15体以上撃破|クリアボーナスあり&br;初期Soul値:?&br;[exp/sta]:70.6&br;|
+|''[['''業火の呼声・中級'''>#cfd3749a]]''|32|10|500|10,000|火光|BGCOLOR(#f1bba6):属性:火 種族:?&br;攻撃:13000/4T|さくら&br;にじょう&br;はるな&br;あかぎ|金のよりしろ&br;天のよりしろ&br;空のよりしろ&br;英雄フィリス|金:残りSoul20以上&br;銀:エネミー10体以上撃破&br;銅:ノーコンティニュー|クリアボーナスあり&br;初期Soul値:?&br;[exp/sta]:50.0&br;|
+|''[['''業火の呼声・初級'''>#ba583ecd]]''|27|5|200|3,000|火|BGCOLOR(#f1bba6):属性:火 種族:?&br;攻撃:7000/3T|ヨハン・マルス&br;ドミニク・マルス&br;ラファエル・マルス&br;リーゼロッテ・マルス|銀のよりしろ&br;金のよりしろ&br;焔神一刀流さくら&br;焔射手はるな|金:残りSoul15以上&br;銀:エネミー5体以上撃破&br;銅:ノーコンティニュー|クリアボーナスあり&br;初期Soul値:?&br;[exp/sta]:40.0&br;|
+|''[['''業火の呼声・入門'''>#q4396533]]''|18|3|200|2,000|火|BGCOLOR(#f1bba6):属性:火 種族:?&br;攻撃:?/?T|銀のよりしろ&br;金のよりしろ|銀のよりしろ&br;イェゴール・ヴァロッツァ|金:ノーコンティニュー&br;銀:残りSoul10以上&br;銅:エネミー3体以上撃破|クリアボーナスあり&br;初期Soul値:?&br;[exp/sta]:66.7&br;|
+
+- [[開放履歴(火曜日限定エリア)>#cd86716e]]
+- [[コメント(火曜日限定エリア)>#wa30d494]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#a52232dc]
+----
+*** 業火の呼声・上級 [#h5333735]
+&color(black,#eeeeee){基本情報};
+:|
+距離:37 スタミナ:17 獲得EXP:1,200 獲得金額:25,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:レアリティが''★4のユニットのみ''のパーティーでクリア！
+-- 銀:主属性が''水属性のユニットのみ''のパーティーでクリア！
+-- 銅:エネミーを''15体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''竜王種:レッド・ヴィーヴィル''
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:13000/2T HP:約110,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対火属性
+ドロップ:勇者オーガスタス , 英雄フィリス , 銃士フォスター , 賢者レイチェル , 炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''((一定の確率で出現。))
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:&color(#006600){[料理王]イザナギ}; (火槍金本) , ?
+
+:|''銀カイザー・ポイム''
+攻撃:9170/3T HP:75,951(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:700 獲得覚醒pt:?
+座標:(あと18マス,±0)
+ドロップ:空のよりしろ , 天のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#f1f1a6){光};
+
+:|''カイザー・ウルフ''
+攻撃:11620/2T HP:36,152(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・ドラン''
+攻撃:5590/2T HP:55,349(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:カロル・プラーナ
+
+:|''カイザー・グリズリー''
+攻撃:20300/4T HP:79,359(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:銀のよりしろ
+
+:|''カイザー・スコーピオン''
+攻撃:8780/3T HP:24,133(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:銀のよりしろ
+
+:|''バハムートン''
+攻撃:17500/3T HP:75,799(&color(black,#f1bba6){火};) 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:70.6
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|特別ガイド台詞:
+ イベントエリア/火曜日限定エリア > 業火の呼声・上級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/火曜日限定エリア > 業火の呼声・上級'' - 簡易Map|
+|~(x,y)|~37　|~36　|~35　|~34　|~33　|~32　|~31　|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00　|
+|CENTER:|CENTER:|CENTER:|CENTER:35|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):狼4R||||BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):爪4R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1f1a6):爪4P||B|
+|~+3|||||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):狼4R|BGCOLOR(#f1bba6):爪4R|箱|BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):爪4R||箱|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R||BGCOLOR(#f1bba6):|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):鋏4R|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R|B|
+|~+2||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R|||BGCOLOR(#f1f1a6):卵4P|BGCOLOR(#f1f1a6):|||||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):卵4P||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P|||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1bba6):爪4R|||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪4R|||B|
+|~+1||||||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):狼4R|BGCOLOR(#f1f1a6):||BGCOLOR(#f1bba6):卵4R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R|箱||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1f1a6):卵4P|B|
+|~±0||||''Sta''||BGCOLOR(#f1f1a6):||BGCOLOR(#f1bba6):爪4R||||箱|BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):猪R|||''銀4H''||BGCOLOR(#f1bba6):猪R|||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪4R|箱|BGCOLOR(#f1f1a6):爪4P|||BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):爪4P|||BGCOLOR(#f1f1a6):爪4P|B|
+|~-1||||||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):狼4R|BGCOLOR(#f1f1a6):||BGCOLOR(#f1bba6):卵4R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R|箱||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1f1a6):卵4P|B|
+|~-2||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R|||BGCOLOR(#f1f1a6):卵4P|BGCOLOR(#f1f1a6):|||||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):卵4P||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):卵4P|||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1bba6):爪4R|||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):爪4R|||B|
+|~-3|||||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):狼4R|BGCOLOR(#f1bba6):爪4R|箱|BGCOLOR(#f1bba6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):爪4R||箱|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵4R||BGCOLOR(#f1bba6):|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):鋏4R|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):狼4R|B|
+|~-4|||||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):狼4R||||BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):爪4R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#f1f1a6):爪4P|BGCOLOR(#f1bba6):卵4R|BGCOLOR(#f1bba6):狼4R||BGCOLOR(#f1f1a6):爪4P||B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 爪:大爪種(グリズリー系) 鋏:鋏角種(スコーピオン系) 猪:猪竜種(バハムートン)
+ 銀:銀ポイム系 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 業火の呼声・中級 [#cfd3749a]
+&color(black,#eeeeee){基本情報};
+:|
+距離:32 スタミナ:10 獲得EXP:500 獲得金額:10,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:残りSoulが''20以上''の状態でクリア！
+-- 銀:エネミーを''10体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#f1bba6){火属性}; 種族:?
+攻撃:13000/4T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対火属性
+ドロップ:さくら , にじょう , はるな , あかぎ
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:金のよりしろ , 天のよりしろ , 空のよりしろ , 英雄フィリス
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#f1f1a6){光};
+
+:|''?・?''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:50.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:?
+:|特別ガイド台詞:
+ イベントエリア/火曜日限定エリア > 業火の呼声・中級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 業火の呼声・初級 [#ba583ecd]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:5 獲得EXP:200 獲得金額:3,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:残りSoulが''15以上''の状態でクリア！
+-- 銀:エネミーを''5体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#f1bba6){火属性}; 種族:?
+攻撃:7000/3T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対火属性
+ドロップ:ヨハン・マルス , ドミニク・マルス , ラファエル・マルス , リーゼロッテ・マルス
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:銀のよりしろ , 金のよりしろ , 焔神一刀流さくら , 焔射手はるな
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''?・?''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:40.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:?
+:|特別ガイド台詞:
+ イベントエリア/火曜日限定エリア > 業火の呼声・初級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 業火の呼声・入門 [#q4396533]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:3 獲得EXP:200 獲得金額:2,000
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:''コンティニューなし''でクリア！
+-- 銀:残りSoulが''10以上''の状態でクリア！
+-- 銅:エネミーを''3体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#f1bba6){火属性}; 種族:?
+攻撃:?/?T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対? , 対火属性
+ドロップ:銀のよりしろ , 金のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:銀のよりしろ , イェゴール・ヴァロッツァ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''?・?''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:66.7
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:?
+:|特別ガイド台詞:
+ イベントエリア/火曜日限定エリア > 業火の呼声・入門 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 開放履歴(火曜日限定エリア)((時刻が書かれていない場合、その日付の間は開放。)) [#cd86716e]
+:毎週火曜日|
+-- 2013/11/01: 全クエストで必要スタミナ減少。
+
+----
+* コメント(火曜日限定エリア) [#wa30d494]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

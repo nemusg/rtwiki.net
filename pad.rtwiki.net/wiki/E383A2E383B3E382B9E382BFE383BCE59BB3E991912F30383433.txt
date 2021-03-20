@@ -1,0 +1,67 @@
+#title(モンスター図鑑/DDQ・ドラゴン)
+* DDQ・ドラゴン [#cf5c0e58]
+
+&mons843;
+
+** ステータス [#f1c4feb9]
+
+//iPhoneで横スクロールが出ないようにしています。
+
+#style(class=monsTable){{
+|~No|~名称			|~☆|~タイプ|~属性|~コスト|
+|RIGHT:||CENTER:||CENTER:|RIGHT:|c
+|843|DDQ・ドラゴン	|6|ドラゴン/攻撃|BGCOLOR(#f1bba6):火|30|
+
+#ginclude(スキル,notitle,or,s,s0842)
+
+#ginclude(リーダースキル,notitle,or,ls,ls0843)
+
+|~最大Lv|~必要経験値|
+|RIGHT:|RIGHT:|c
+|99(400)|4000000|
+
+|~ |~HP|~攻撃|~回復|~合計|~+卵換算|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|c
+|初期値|1015|612|60|||
+|最大値|2538|1730|126|''4394''|''641.80''|
+
+|~[[覚醒スキル]]|
+|&ks009; &ks008;|
+}}
+
+** 進化素材 [#rf6d5f34]
+
+** 究極進化素材 [#eab3f2bb]
+
+//|~ベースモンスター	|BGCOLOR(#bbf1a6):~究極進化に必要なモンスター|~進化結果|
+//|		|||
+
+** 入手方法 [#k86b36b0]
+
+- [[DDQ・ドレイク>モンスター図鑑/0842]]の進化
+//- [[ダンジョン名>スペシャルダンジョン/ダンジョン名]]
+//- 友情ガチャ
+//- レアガチャ
+//- プレゼントガチャ
+
+//|BGCOLOR(#f1bba6):火|
+//|BGCOLOR(#a6f1f1):水|
+//|BGCOLOR(#bbf1a6):木|
+//|BGCOLOR(#f1f1a6):光|
+//|BGCOLOR(#bba6f1):闇|
+//&br;
+
+** 備考 [#u45961e0]
+
+//この備考は他のページと共有しています。共有したくない場合は//で非表示にできます。
+#ginclude(モンスター図鑑/0842,notitle,or,note)
+
+|~Ver|>|>|>|>|>|~チーム編成（左右がリーダー）|~備考|
+|v6.0|BGCOLOR(#fafaaa):&mons843;|BGCOLOR(#aaaafa):&mons004;|BGCOLOR(#aaaafa):&mons008;|BGCOLOR(#aaaafa):&mons012;|BGCOLOR(#aaaafa):&mons023;|BGCOLOR(#d8d888):&mons231;|はじめてのドラパ&br;比較的使用者の多いADKをフレに、無課金でも取得しやすい御三家ドラゴン+αでお手軽ドラパを編成。|
+//|~|~|~|&mons000;|&mons000;|&mons000;|~|~|
+
+* コメント [#s9859273]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

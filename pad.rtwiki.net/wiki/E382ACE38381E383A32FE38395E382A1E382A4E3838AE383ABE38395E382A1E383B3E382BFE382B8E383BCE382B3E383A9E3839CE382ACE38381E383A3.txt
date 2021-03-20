@@ -1,0 +1,33 @@
+* ファイナルファンタジーコラボガチャ  [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+第1弾ではクラウドシステム実現のためにクラウドを4体集める猛者達が相当課金した。
+}}
+
+** ファイナルファンタジー コラボガチャ2 [#u6c5cb29]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/03/21～2016/04/03:http://pad.gungho.jp/member/collabo/160318_ff_series_lineup.html]]|
+|★6|&mons2029; &mons2031; &mons2043; &mons2767; &mons2778;|
+|★5|&mons2033; &mons2035; &mons2037; &mons2041; &mons2770; &mons2772; &mons2774; &mons2776; &mons2781;|
+|★4|&mons2039; &mons2045; &mons2047; &mons2049; &mons2783;|
+
+- セシル、ライトニング、バッツ、ティナ、シャントット、ヴァン、ヤ・シュトラ、レイン が追加
+
+** ファイナルファンタジー コラボガチャ [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/04/27～2015/05/10:http://pad.gungho.jp/member/150424_ff_series_list.html]]|
+|★6|&mons2029; &mons2031; &mons2043;|
+|★5|&mons2033; &mons2035; &mons2037; &mons2041;|
+|★4|&mons2039; &mons2045; &mons2047; &mons2049;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

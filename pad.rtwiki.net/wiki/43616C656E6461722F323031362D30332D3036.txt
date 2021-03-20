@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/02/26 00:00:00,2016/03/06 23:59:59);[[パズル＆ドラゴンズ リリース4周年記念イベント（後半）:http://pad.gungho.jp/member/aniv/4th_aniv_event_3rd.html]]

@@ -1,0 +1,280 @@
+* イベントエリア/えいえんの適格者 [#j64a9ac9]
+
+** えいえんの適格者 [#r2b22b0d]
+ えいえんの適格者 - 6ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 王威なるもの…。この地に在りし。“冥王”の力を得し適格者を求めよ。
+ 
+ エリア目標:
+ 1:奈落のよりしろ 3:奈落のよりしろ 6:奈落のよりしろ 9:超悪いよりしろ
+
+|~クエスト名(Lv)|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''えいえんの適格者・上級(5)'''>#f8f0804f]]''|30|19|500|15,000|光闇|BGCOLOR(#ffffff):属性:無 種族:死神&br;攻撃:83950/10T&br;|[めいおう]あぬびす&br;光輝のよりしろ&br;奈落のよりしろ&br;悪いよりしろ&br;|光輝のよりしろ&br;悪いよりしろ&br;|金:槍ユニットのみ&br;銀:AS不使用&br;銅:エネミー15体以上撃破&br;|初期Soul値:15&br;[exp/sta]:26.3&br;|
+|''[['''えいえんの適格者・中級(4)'''>#w36921d4]]''|22|16|300|12,000|光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:11540/3T&br;|[めいおう]あぬびす&br;奈落のよりしろ&br;|光輝のよりしろ&br;奈落のよりしろ&br;|金:闇属性ユニットのみ&br;銀:残りSoul30以上&br;銅:ノーコンティニュー&br;|初期Soul値:15&br;[exp/sta]:18.8&br;|
+|''[['''えいえんの適格者・初級(2)'''>#r7fe42ea]]''|18|7|200|8,000|光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:?/4T&br;|闇のよりしろ&br;|光のよりしろ&br;|金:銀キラー・ポイム1体撃破&br;銀:エネミー5体以上撃破&br;銅:ノーコンティニュー&br;|初期Soul値:15&br;[exp/sta]:28.5&br;|
+
+- [[開放履歴(えいえんの適格者)>#hb0cd46d]]
+- [[コメント(えいえんの適格者)>#h7648432]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+** クエスト詳細 [#wd52b99c]
+----
+*** えいえんの適格者・上級 [#f8f0804f]
+&color(black,#eeeeee){基本情報};
+:|
+距離:30 スタミナ:19 獲得EXP:500 獲得金額:15,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:''槍ユニットのみ''でクリア！
+-- 銀:アクティブスキルを''使用せずに''クリア！
+-- 銅:エネミーを''15体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''シャドー・ハデス''
+属性:&color(black,#ffffff){無}; 種族:死神
+攻撃:83950/10T HP:約895,000 獲得Soul:10 獲得Gold:0
+有効特効:対無属性
+ドロップ:[めいおう]あぬびす , 光輝のよりしろ , 奈落のよりしろ , 悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:9560/2T HP:168,483(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:10,000
+座標:(あと17マス,-2),(あと03マス,-2)
+ドロップ:光輝のよりしろ , 悪いよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''シャドー・ポイム''
+攻撃:20220/3T HP:186,867(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:800
+ドロップ:?
+
+:|''ハイ・シェルフ''
+攻撃:22220/3T HP:120,535(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:奈落のよりしろ
+
+:|''ゴーレム''
+攻撃:11590/3T HP:251,099(&color(black,#f1f1a6){光};) 獲得Soul:7 獲得Gold:700
+ドロップ:光輝のよりしろ , 光のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:26.3
+よりしろ経験値(残りSoul99):15,765
+各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/えいえんの適格者 > えいえんの適格者・上級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/えいえんの適格者 > えいえんの適格者・上級'' - Map|
+|~(x,y)|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||BGCOLOR(#bba6f1):軟5D||BGCOLOR(#bba6f1):ゴD|BGCOLOR(#f1f1a6):貝2P||BGCOLOR(#bba6f1):軟5D||BGCOLOR(#bba6f1):ゴD|||BGCOLOR(#bba6f1):軟5D|||BGCOLOR(#bba6f1):ゴD||BGCOLOR(#bba6f1):軟5D||BGCOLOR(#bba6f1):ゴD|||BGCOLOR(#bba6f1):軟5D||Boss|
+|~+3||||||BGCOLOR(#bba6f1):|||BGCOLOR(#bba6f1):軟5D||BGCOLOR(#bba6f1):|||BGCOLOR(#bba6f1):軟5D|||BGCOLOR(#f1f1a6):貝2P||BGCOLOR(#bba6f1):軟5D|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):貝2D||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):軟5D||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):貝2D||BGCOLOR(#bba6f1):軟5D|BGCOLOR(#bba6f1):|Boss|
+|~+2|||||||BGCOLOR(#bba6f1):ゴD|BGCOLOR(#bba6f1):|||BGCOLOR(#bba6f1):ゴD||BGCOLOR(#bba6f1):||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):ゴD||BGCOLOR(#f1f1a6):貝2P|||BGCOLOR(#bba6f1):ゴD|BGCOLOR(#f1f1a6):ゴP||||BGCOLOR(#bba6f1):ゴD||BGCOLOR(#f1f1a6):ゴP|||Boss|
+|~+1||||||||||BGCOLOR(#f1f1a6):ゴP|||BGCOLOR(#bba6f1):貝2D|BGCOLOR(#bba6f1):貝2D||BGCOLOR(#f1f1a6):ゴP|||BGCOLOR(#f1f1a6):貝2P||BGCOLOR(#bba6f1):貝2D|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||BGCOLOR(#bba6f1):貝2D|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):貝2P|BGCOLOR(#f1f1a6):ゴP|Boss|
+|~±0||||''Sta''||||BGCOLOR(#f1f1a6):貝2P||||箱|||箱|||||箱||BGCOLOR(#f1f1a6):貝2P|||箱|BGCOLOR(#f1f1a6):ゴP|||BGCOLOR(#f1f1a6):||Boss|
+|~-1|||||||BGCOLOR(#f1f1a6):ゴP|||BGCOLOR(#bba6f1):貝2D||BGCOLOR(#f1f1a6):ゴP||BGCOLOR(#f1f1a6):ゴP||BGCOLOR(#f1f1a6):ゴP|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):ゴP|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):ゴP|||BGCOLOR(#f1f1a6):ゴP|||BGCOLOR(#f1f1a6):ゴP|BGCOLOR(#bba6f1):貝2D||BGCOLOR(#f1f1a6):軟5P|Boss|
+|~-2|||||||BGCOLOR(#f1f1a6):||BGCOLOR(#bba6f1):ゴD||||BGCOLOR(#bba6f1):ゴD|''金4H''|BGCOLOR(#f1f1a6):貝2P|||BGCOLOR(#bba6f1):貝2D|BGCOLOR(#bba6f1):ゴD|||箱|BGCOLOR(#bba6f1):ゴD||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):貝2P|''金4H''|BGCOLOR(#bba6f1):ゴD||Boss|
+|~-3||||||||BGCOLOR(#bba6f1):貝2D||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟5P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):貝2P||BGCOLOR(#f1f1a6):軟5P|||BGCOLOR(#bba6f1):貝2D||BGCOLOR(#f1f1a6):軟5P|BGCOLOR(#f1f1a6):貝2P||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):貝2P|BGCOLOR(#f1f1a6):軟5P||BGCOLOR(#bba6f1):貝2D|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟5P|Boss|
+|~-4|||||||||||BGCOLOR(#f1f1a6):軟5P|||||BGCOLOR(#f1f1a6):軟5P||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟5P|||||BGCOLOR(#f1f1a6):軟5P|||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 貝:宿貝種(シェルフ系) ゴ:ゴーレム 金:金ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+----
+*** えいえんの適格者・中級 [#w36921d4]
+&color(black,#eeeeee){基本情報};
+:|
+距離:22 スタミナ:16 獲得EXP:300 獲得金額:12,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:主属性が''闇属性のユニットのみ''のパーティーでクリア！
+-- 銀:残りSoulが''30以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''古猪竜:バハラ''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:11540/3T HP:約462,000 獲得Soul:10 獲得Gold:0
+有効特効:対龍 , 対無属性
+ドロップ:[めいおう]あぬびす , 奈落のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀カイザー・ポイム''
+攻撃:11820/3T HP:111,063(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:4,000
+座標:(あと12マス,±0),(あと03マス,-2)
+ドロップ:光輝のよりしろ , 奈落のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''カイザー・ドラン''
+攻撃:10310/3T HP:56,723(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:900
+ドロップ:?
+
+:|''カイザー・グリズリー''
+攻撃:?/4T HP:82,403(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,100
+ドロップ:?
+
+:|''フォーゲル''
+攻撃:16560/4T HP:119,169(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450
+ドロップ:光のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:18.8
+よりしろ経験値(残りSoul99):?
+各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/えいえんの適格者 > えいえんの適格者・中級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/えいえんの適格者 > えいえんの適格者・中級'' - Map|
+|~(x,y)|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||||||||||||||Boss|
+|~+3||||||BGCOLOR(#bba6f1):卵4D||||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):爪4D|||BGCOLOR(#bba6f1):鳥1D||||BGCOLOR(#bba6f1):卵4D|||BGCOLOR(#f1f1a6):卵4P|Boss|
+|~+2||||||||箱||BGCOLOR(#f1f1a6):卵4P||||||BGCOLOR(#f1f1a6):爪4P|箱|||BGCOLOR(#bba6f1):鳥1D|||Boss|
+|~+1|||||||BGCOLOR(#bba6f1):卵4D|||||箱|BGCOLOR(#f1f1a6):爪4P|||||BGCOLOR(#f1f1a6):卵4P||||BGCOLOR(#f1f1a6):鳥1P|Boss|
+|~±0||||''Sta''|||||BGCOLOR(#f1f1a6):卵4P||''銀4H''|BGCOLOR(#bba6f1):爪4D||BGCOLOR(#f1f1a6):鳥1P||||BGCOLOR(#f1f1a6):鳥1P|||||Boss|
+|~-1|||||||||BGCOLOR(#bba6f1):卵4D||||||BGCOLOR(#f1f1a6):爪4P||||||BGCOLOR(#bba6f1):爪4D||Boss|
+|~-2|||||||BGCOLOR(#f1f1a6):卵4P||||BGCOLOR(#bba6f1):鳥1D|箱|BGCOLOR(#f1f1a6):爪4P||箱|BGCOLOR(#f1f1a6):鳥1P|||BGCOLOR(#bba6f1):卵4D|''銀4H''||BGCOLOR(#bba6f1):鳥1D|Boss|
+|~-3||||||||||||BGCOLOR(#bba6f1):爪4D||BGCOLOR(#f1f1a6):鳥1P||||BGCOLOR(#bba6f1):鳥1D|||BGCOLOR(#bba6f1):爪4D||Boss|
+|~-4|||||||||||||||||||||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 卵:竜卵種(ドラン系) 爪:大爪種(グリズリー系) 鳥:額鳥種(フォーゲル系) 銀:銀ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+----
+*** えいえんの適格者・初級 [#r7fe42ea]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:7 獲得EXP:200 獲得金額:8,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:''銀キラー・ポイム''((「銀色のアイツ」のこと))を''1体''以上撃破してクリア！
+-- 銀:エネミーを''5体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''覇竜種:ホロウ・ファヴニル''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:?/4T HP:約50,000 獲得Soul:7 獲得Gold:0
+有効特効:対龍 , 対無属性
+ドロップ:光のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀キラー・ポイム''
+攻撃:?/3T HP:7,709(&color(black,#ffffff){無};) 獲得Soul:2 獲得Gold:1,200
+座標:(あと08マス,-3),(あと02マス,+3)
+ドロップ:闇のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''キラー・スクィレル''
+攻撃:?/3T HP:5,899(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350
+ドロップ:?
+
+:|''ウルフ''
+攻撃:4050/2T HP:4,199(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300
+ドロップ:光のよりしろ
+
+:|''キラー・グリズリー''
+攻撃:?/4T HP:17,899(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:550
+ドロップ:闇のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:28.5
+よりしろ経験値(残りSoul99):?
+各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/えいえんの適格者 > えいえんの適格者・初級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/えいえんの適格者 > えいえんの適格者・初級'' - Map|
+|~(x,y)|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:18|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||||||||||Boss|
+|~+3|||||||BGCOLOR(#bba6f1):狼1D||BGCOLOR(#bba6f1):角3D|||||BGCOLOR(#bba6f1):爪3D|||''銀3H''||Boss|
+|~+2|||||||BGCOLOR(#bba6f1):狼1D|||BGCOLOR(#bba6f1):角3D||箱|BGCOLOR(#bba6f1):爪3D||||||Boss|
+|~+1||||||||箱||箱|||||箱|BGCOLOR(#f1f1a6):狼1P|||Boss|
+|~±0||||''Sta''|||||||BGCOLOR(#bba6f1):角3D||||||||Boss|
+|~-1|||||||BGCOLOR(#f1f1a6):狼1P|箱||||箱||BGCOLOR(#f1f1a6):角3P|||||Boss|
+|~-2|||||||BGCOLOR(#f1f1a6):狼1P||BGCOLOR(#f1f1a6):角3P|箱|||BGCOLOR(#bba6f1):爪3D|||BGCOLOR(#f1f1a6):爪3P|||Boss|
+|~-3|||||||||BGCOLOR(#f1f1a6):角3P||''銀3H''||||BGCOLOR(#f1f1a6):爪4P||||Boss|
+|~-4|||||||||||||||||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 角:頭角種(スクィレル系) 狼:狼毛種(ウルフ系) 爪:大爪種(グリズリー系) 銀:銀ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+----
+*** 開放履歴(えいえんの適格者) [#hb0cd46d]
+:2014/11/08(10:00)〜2014/11/12(10:00)|
+:2014/04/16(10:00)〜2014/04/()|
+-- 「えいえんの適格者 > えいえんの適格者」として開放。そのため実質クリアフラグリセット。
+-- 初級のボス変更？
+ -前回までのデータ-
+ :|''無眼竜:リンドブルム''
+ 属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+ 攻撃:3520/2T HP:約37,000 獲得Soul:5 獲得Gold:0
+ 有効特効:対龍 , 対無属性
+ ドロップ:闇のよりしろ
+:2014/01/05(10:00)〜2014/01/08(10:00)|
+-- 「王威の適格者・零 > えいえんの適格者」として開放。
+
+----
+* コメント(えいえんの適格者) [#h7648432]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

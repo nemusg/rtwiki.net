@@ -1,0 +1,442 @@
+* ノーマルエリア/獄の陣門カミヤシロ [#cf398b5a]
+
+** 獄の陣門カミヤシロ [#p6a0e1af]
+ 獄の陣門カミヤシロ - 4ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 未だかつて開いた事のない獄の陣門。門の先に何があるのか、まだ誰も知らない。
+ 
+ エリア目標:
+ 1:生命のよりしろ 3:癒しのよりしろ 6:力のよりしろ 9:生命のよりしろ 12:癒しのよりしろ 15:力のよりしろ 18:超悪いよりしろ
+ 
+ 開放条件:
+ 1.「NA/絶園の地ヴァザール」をクリア。
+
+|~''クエスト名''|~''距離''|~''スタミナ''|~''獲得EXP''|~''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''始界の門'''>#u9d46d28]]''|42|19|1,000|30,000|水|BGCOLOR(#a6f1f1):属性:水 種族:亜人&br;攻撃:119450/4T&br;&color(red){※};特性持ち&br;|[門番]ウコン&br;清濁のよりしろ&br;|生命のよりしろ&br;癒しのよりしろ&br;|金:残りSoul60以上&br;銀:コンティニューなし&br;銅:ボス撃破&br;|&color(red){※};クリアボーナスあり&br;助っ人枠:自由&br;初期Soul値:04&br;[exp/sta]:52.6&br;|
+|''[['''終界の門'''>#m5fef74f]]''|42|19|1,000|30,000|水|BGCOLOR(#a6f1f1):属性:水 種族:亜人&br;攻撃:32860/1T&br;&color(red){※};特性持ち&br;|[門番]サコン&br;清濁のよりしろ&br;悪いよりしろ&br;|清濁のよりしろ&br;|金:AS不使用&br;銀:コンティニューなし&br;銅:ボス撃破&br;|助っ人枠:自由&br;初期Soul値:04&br;[exp/sta]:52.6&br;|
+|''[['''死の門'''>#j490449a]]''|42|17|950|30,000|水光闇|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:36600/2T&br;&color(red){※};防御力少し高め&br;|清濁のよりしろ&br;|清濁のよりしろ&br;|金:AS使用1回以下&br;銀:エネミー25体以上撃破&br;銅:コンティニューなし&br;|助っ人枠:自由&br;初期Soul値:07&br;[exp/sta]:55.9&br;|
+|''[['''参の門'''>#n3728781]]''|42|17|950|30,000|水光闇|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:48310/4T&br;&color(red){※};防御力少し高め&br;|清濁のよりしろ&br;|生命のよりしろ&br;癒しのよりしろ&br;清濁のよりしろ&br;|金:AS使用2回以下&br;銀:エネミー25体以上撃破&br;銅:コンティニューなし&br;|助っ人枠:自由&br;初期Soul値:07&br;[exp/sta]:55.9&br;|
+|''[['''弐の門'''>#k57d31c0]]''|42|17|950|30,000|水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:39320/3T&br;&color(red){※};防御力少し高め&br;|清濁のよりしろ&br;|癒しのよりしろ&br;清濁のよりしろ&br;|金:AS使用3回以下&br;銀:残りSoul50以上&br;銅:コンティニューなし&br;|助っ人枠:自由&br;初期Soul値:09&br;[exp/sta]:55.9&br;|
+|''[['''壱の門'''>#ve8983a2]]''|42|17|950|30,000|水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:33270/3T&br;&color(red){※};防御力少し高め&br;|清濁のよりしろ&br;|生命のよりしろ&br;癒しのよりしろ&br;清濁のよりしろ&br;|金:AS使用5回以下&br;銀:残りSoul30以上&br;銅:コンティニューなし&br;|助っ人枠:自由&br;初期Soul値:09&br;[exp/sta]:55.9&br;|
+- 前:''[['''NA/絶園の地ヴァザール'''>ノーマルエリア/絶園の地ヴァザール]]''　次:-
+
+- [[配信履歴(獄の陣門カミヤシロ)>#le708eef]]
+- [[コメント(獄の陣門カミヤシロ)>#b4ac54cd]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#u7bf79e7]
+----
+*** 始界の門 [#u9d46d28]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:42 スタミナ:19 獲得EXP:1,000 獲得金額:30,000
+助っ人枠:自由
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:残りSoulが''60以上''の状態でクリア！
+-- 銀:''コンティニューなし''でクリア！
+-- 銅:''ボスを撃破''！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[開門番]ウコン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_boss-0006.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+属性:&color(black,#a6f1f1){水属性}; 種族:亜人
+攻撃:119450/4T HP:約6,100,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+特性: ''1combo目'' の被ダメージを ''0'' にする。
+有効特効:対ユニット , 対水属性
+ドロップ:&color(#006600){[門番]ウコン}; (水剣金書) , 清濁のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''水晶カイザー・ポイム''(仮)
+攻撃:1020/3T HP:299,999(&color(black,#ffffff){無};) 獲得Soul:30 獲得Gold:10,000 獲得覚醒pt:?
+座標:(あと31マス,-1),(あと?マス,±?)
+ドロップ:?
+
+:|''金カイザー・ポイム''/ ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_rare-0001-4H.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:9440/3T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400 獲得覚醒pt:?
+座標:(あと35マス,-4),(あと29マス,-1),(あと12マス,±?)
+ドロップ:生命のよりしろ , 癒しのよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''シャドー・スクィレル''
+攻撃:10410/1T HP:177,649(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,350 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ウルフ''
+攻撃:23400/2T HP:173,159(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・グリズリー''
+攻撃:33870/4T HP:304,327(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,800 獲得覚醒pt:?
+ドロップ:?
+
+:|''シェルフ''
+攻撃:20000/3T HP:97,839(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:900 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・シェルフ''
+攻撃:25650/3T HP:165,997(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,500 獲得覚醒pt:?
+ドロップ:水のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:04
+[exp/sta]:56.2
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと29マス,+1)
+--- 中身:清濁のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:- 闇:-
+:|特別ガイド台詞:
+ ノーマルエリア/獄の陣門カミヤシロ > 始界の門 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 終界の門 [#m5fef74f]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:42 スタミナ:19 獲得EXP:1,000 獲得金額:30,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:''コンティニューなし''でクリア！
+-- 銅:''ボスを撃破''！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''[閉門番]サコン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_boss-0005.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+属性:&color(black,#a6f1f1){水属性}; 種族:亜人
+攻撃:32860/1T HP:約5,540,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+特性: ''1combo目'' の被ダメージを ''0'' にする。
+有効特効:対ユニット , 対水属性
+ドロップ:&color(#006600){[門番]サコン}; (水槍金書) , 清濁のよりしろ , 悪いよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム''/ ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_rare-0001-4H.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:10970/3T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400 獲得覚醒pt:?
+座標:(あと29マス,-1),(あと17マス,+3),(あと05マス,-3)
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''シャドー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0001-5A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:33970/3T HP:307,811(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,200 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0002-5A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:26760/3T HP:246,239(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,500 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・スコーピオン''
+攻撃:24580/3T HP:144,727(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,650 獲得覚醒pt:?
+ドロップ:?
+
+:|''シェルフ''
+攻撃:22250/3T HP:102,919(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,350 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・シェルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0009-2A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:30000/3T HP:177,925(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,500 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:04
+[exp/sta]:52.6
+よりしろ経験値(残りSoul99):24,735
+:|各種箱の有無:
+-- Gold:? Life:あり Power:あり Soul:あり Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと34マス,±0),(あと20マス,-1),(あと13マス,-1)
+--- 中身:清濁のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:- 闇:-
+:|特別ガイド台詞:
+ ノーマルエリア/獄の陣門カミヤシロ > 終界の門 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 死の門 [#j490449a]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:42 スタミナ:17 獲得EXP:950 獲得金額:30,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルの使用を''1回以内''に抑えてクリア！
+-- 銀:エネミーを''25体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''竜王種:アクア・ヴィーヴィル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_boss-0004.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:36600/2T HP:約1,100,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性 &color(red){※};防御力少し高め
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム''/ ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_rare-0001-4H.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:9140/3T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400 獲得覚醒pt:?
+座標:(あと31マス,-1),(あと21マス,+3)
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''カイザー・グリズリー'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0007-4A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:36210/4T HP:297,559(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,650 獲得覚醒pt:?
+ドロップ:水のよりしろ , 金のよりしろ
+
+:|''ハイ・フォーゲル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0008-2D.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:39790/4T HP:300,361(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,500 獲得覚醒pt:?
+ドロップ:清濁のよりしろ
+
+:|''ハイ・シェルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0009-2P.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:28410/3T HP:171,615(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:1,500 獲得覚醒pt:?
+ドロップ:水のよりしろ/光のよりしろ
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:07
+[exp/sta]:55.9
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと18マス,±0)
+--- 中身:清濁のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ ノーマルエリア/獄の陣門カミヤシロ > 死の門 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 参の門 [#n3728781]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:42 スタミナ:17 獲得EXP:950 獲得金額:30,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルの使用を''2回以内''に抑えてクリア！
+-- 銀:エネミーを''25体以上''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''覇竜種:アクア・ファヴニル''
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:48310/4T HP:約1,380,000 獲得Soul:8 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性 &color(red){※};防御力少し高め
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''水晶カイザー・ポイム''(仮)
+攻撃:? HP:? 獲得Soul:30 獲得Gold:? 獲得覚醒pt:?
+座標:(あと25マス,+2)
+ドロップ:?
+
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_rare-0001-4H.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:10960/3T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400 獲得覚醒pt:?
+座標:(あと33マス,+1),(あと23マス,+2),(あと7マス,±?)
+ドロップ:生命のよりしろ , 癒しのよりしろ , 清濁のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''カイザー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0002-4A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:34550/3T HP:212,519(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,350 獲得覚醒pt:?
+ドロップ:光輝のよりしろ , 闇のよりしろ
+
+:|''フォーゲル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0008-1P.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:37460/4T HP:259,369(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:1,350 獲得覚醒pt:?
+ドロップ:?
+
+:|''シェルフ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0009-1D.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:27660/3T HP:129,955(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:1,350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:07
+[exp/sta]:55.9
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:あり Power:あり Soul:あり Unit:?
+-- ユニット箱情報:
+--- 座標:(あと?マス,±?)
+--- 中身:?
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ ノーマルエリア/獄の陣門カミヤシロ > 参の門 - 特別ガイド台詞
+ 
+ 話者:-
+ 
+
+----
+*** 弐の門 [#k57d31c0]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:42 スタミナ:17 獲得EXP:950 獲得金額:30,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルの使用を''3回以内''に抑えてクリア！
+-- 銀:残りSoulが''50以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''燐竜種:アクア・ニーズヘッグ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_boss-0002.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:39320/3T HP:約1,380,000 獲得Soul:7 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性 &color(red){※};防御力少し高め
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_rare-0001-4H.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:11350/3T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400 獲得覚醒pt:?
+座標:(あと27マス,±?),(あと12マス,±?)
+ドロップ:癒しのよりしろ , 清濁のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''カイザー・スクィレル'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0005-4A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:6360/1T HP:186,241(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:1,200 獲得覚醒pt:?
+ドロップ:水のよりしろ
+
+:|''カイザー・ウルフ''
+攻撃:20560/2T HP:68,635(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,350 獲得覚醒pt:?
+ドロップ:水のよりしろ
+
+:|''カイザー・グリズリー''
+攻撃:29140/4T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,650 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:09
+[exp/sta]:55.9
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと25マス,±?)
+--- 中身:?
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ ノーマルエリア/獄の陣門カミヤシロ > 弐の門 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 壱の門 [#ve8983a2]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:42 スタミナ:17 獲得EXP:950 獲得金額:30,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルの使用を''5回以内''に抑えてクリア！
+-- 銀:残りSoulが''30以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''稚竜種:アクア・ヒドラ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_boss-0001.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:33270/3T HP:約1,170,000 獲得Soul:6 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性 &color(red){※};防御力少し高め
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|''金カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro_rare-0001-4H.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:10060/3T HP:208,952(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,400 獲得覚醒pt:?
+座標:(あと21マス,±0),(あと05マス,-3)
+ドロップ:生命のよりしろ , 癒しのよりしろ , 清濁のよりしろ
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''カイザー・ポイム'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0001-4A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:16180/3T HP:180,528(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:1,050 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・ドラン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0002-4A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:28340/3T HP:212,507(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,350 獲得覚醒pt:?
+ドロップ:水のよりしろ
+
+:|''カイザー・スコーピオン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0003-4A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:14280/3T HP:36,855(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:1,500 獲得覚醒pt:?
+ドロップ:清濁のよりしろ , 水のよりしろ
+
+:|''バハムートン'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_kamiyashiro-0004-A.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+攻撃:14790/3T HP:156,867(&color(black,#a6f1f1){水};) 獲得Soul:5 獲得Gold:1,800 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:09
+[exp/sta]:55.9
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:あり Soul:あり Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと05マス,±0)
+--- 中身:清濁のよりしろ
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:- 闇:-
+:|特別ガイド台詞:
+ ノーマルエリア/獄の陣門カミヤシロ > 壱の門 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 配信履歴(獄の陣門カミヤシロ)((時刻が書かれていない場合、その日付の間は配信。)) [#le708eef]
+:2015/01/01〜|
+-- 水曜日限定エリアへ移行。
+:2014/06/30(12:00)〜2014/12/31(23:59)|
+-- 2014/07/03(13:20): [閉門番]サコン(★6)、[開門番]ウコン(★6)がドロップしてしまう問題が修正され、★5が手に入るようになる。 / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_official-notice_20140703.jpg&refer=%A5%CE%A1%BC%A5%DE%A5%EB%A5%A8%A5%EA%A5%A2%2F%B9%F6%A4%CE%BF%D8%CC%E7%A5%AB%A5%DF%A5%E4%A5%B7%A5%ED]])
+
+----
+* コメント(獄の陣門カミヤシロ) [#b4ac54cd]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

@@ -1,0 +1,32 @@
+* DCコミックスコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+光属性PTを組むならスーパーマンは魅力。
+}}
+
+** DCコミックス コラボガチャ3 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/04/11～2016/04/24:http://pad.gungho.jp/member/collabo/bvss/160407_bvss_lineup.html]]|
+|★5|&mons1675; &mons1677; &mons2826;|
+|★4|&mons1679; &mons1681; &mons1683; &mons1685; &mons1687;|
+
+- ナイトメアバットマンが追加
+
+** DCコミックス コラボガチャ [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/12/07～2015/12/13:http://pad.gungho.jp/member/collabo/151203_dc_lineup.html]]|
+|>|BGCOLOR(#ffffff):[[2014/11/10～2014/11/23:http://pad.gungho.jp/member/141105_dccomics_list.html]]|
+|★5|&mons1675; &mons1677;|
+|★4|&mons1679; &mons1681; &mons1683; &mons1685; &mons1687;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

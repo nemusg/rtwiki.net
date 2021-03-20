@@ -1,0 +1,1126 @@
+* イベントエリア/黄金の十五夜 [#he430734]
+
+** 黄金の十五夜 [#i12d8df4]
+ 黄金の十五夜 - 6ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 毎日追加されるイベントクエストを楽しめます！さまざまな挑戦をクリアして、報酬をゲットしよう！
+ 
+ エリア目標:
+ 1:癒しのよりしろ 2:生命のよりしろ 3:力のよりしろ 4:炎火のよりしろ 5:清濁のよりしろ 6:超悪いよりしろ 7:光輝のよりしろ 8:奈落のよりしろ 9:超悪いよりしろ 
+ 10:生命のよりしろ 11:力のよりしろ 12:癒しのよりしろ 13:清濁のよりしろ 14:炎火のよりしろ 15:超悪いよりしろ 16:奈落のよりしろ 17:光輝のよりしろ 18:超悪いよりしろ
+ 19:力のよりしろ 20:癒やしのよりしろ 21:生命のよりしろ 22:炎火のよりしろ 23:清濁のよりしろ 24:超悪いよりしろ 25:光輝のよりしろ 26:奈落のよりしろ 27:超悪いよりしろ
+ 28:癒やしのよりしろ 29:生命のよりしろ 30:力のよりしろ 31:清濁のよりしろ 32:炎火のよりしろ 33:超悪いよりしろ 34:奈落のよりしろ 35:光輝のよりしろ 36:超悪いよりしろ
+ 37:生命のよりしろ 38:力のよりしろ 39:癒やしのよりしろ 40:炎火のよりしろ 41:清濁のよりしろ 42:超悪いよりしろ 43:光輝のよりしろ 44:奈落のよりしろ 45:超悪いよりしろ 
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''黄金の十五夜・15'''>#he6f228a]]''|16|10|200|20,000|火闇無|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:14990/2T&br;|悪いよりしろ&br;|-&br;|金:ノーコンティニュー&br;銀:AS不使用&br;銅:ボス撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・14'''>#e7ef08b0]]''|33|10|200|8,000|光闇?|BGCOLOR(#bba6f1):属性:闇 種族:龍&br;攻撃:?/3T&br;|清濁のよりしろ&br;|-&br;|金:ノーダメージ&br;銀:AS不使用&br;銅:ノーコンティニュー&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・13'''>#v35fcbe6]]''|87|10|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:軟性&br;攻撃:?/2T&br;|悪いよりしろ&br;|?&br;|金:残りSoul50以上&br;銀:残りSoul30以上&br;銅:残りSoul10以上&br;|助っ人枠:自由&br;初期Soul値:1&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・12'''>#gefd18c5]]''|27|10|200|8,000|火水光闇|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:4270/3T&br;|奈落のよりしろ&br;|空のよりしろ&br;|金:銀カイザー・ポイム2体撃破&br;銀:銀カイザー・ポイム1体撃破&br;銅:残りSoul99&br;|助っ人枠:自由&br;初期Soul値:5&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・11'''>#i36e9649]]''|27|10|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:軟性&br;攻撃:?/3T&br;|悪いよりしろ&br;|-&br;|金:「力のよりしろ」を入れて&br;銀:「超悪いよりしろ」を入れて&br;銅:「よりしろ」を入れて&br;|助っ人枠:自由&br;初期Soul値:20.0&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・10'''>#s4350b13]]''|27|10|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:?/3T&br;|奈落のよりしろ&br;|空のよりしろ&br;|金:エネミー50体以上撃破&br;銀:エネミー30体以上撃破&br;銅:エネミー10体以上撃破&br;|助っ人枠:自由&br;初期Soul値:99&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・09'''>#e4df89db]]''|27|10|200|8,000|火水無|BGCOLOR(#a6f1f1):属性:水 種族:軟性&br;攻撃:?/3T&br;|悪いよりしろ&br;|-&br;|金:火ポイム10体以上撃破&br;銀:火ポイム3体以上撃破&br;銅:水ポイム20体以上撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・08'''>#id3fe1cf]]''|18|10|200|8,000|火水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:3080/3T&br;|奈落のよりしろ&br;|?&br;|金:エネミー20体以上撃破&br;銀:エネミー15体以上撃破&br;銅:エネミー20体以上撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・07'''>#a1e723bb]]''|27|10|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:1050/1T&br;|悪いよりしろ&br;|空のよりしろ&br;|金:エネミー40体以上撃破&br;銀:エネミー25体以上撃破&br;銅:エネミー10体以上撃破&br;|助っ人枠:自由&br;初期Soul値:99&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・06'''>#t653a7e6]]''|37|10|200|8,000|火水光闇無|BGCOLOR(#ffffff):属性:無 種族:死神&br;攻撃:?/10T&br;|炎火のよりしろ&br;|?&br;|金:ノーダメージ&br;銀:残りSoul30以上&br;銅:ノーコンティニュー&br;|助っ人枠:?&br;初期Soul値:40&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・05'''>#y5e7de07]]''|22|10|200|8,000|火水光闇無|BGCOLOR(#f1f1a6):属性:光 種族:龍&br;攻撃:6170/2T&br;|悪いよりしろ&br;|-&br;|金:エネミー7体以上撃破&br;銀:エネミー4体以上撃破&br;銅:エネミー1体以上撃破&br;|助っ人枠:自由&br;初期Soul値:20&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・04'''>#t0894eed]]''|27|10|200|8,000|火|BGCOLOR(#f1bba6):属性:火 種族:大爪&br;攻撃:6240/3T&br;|炎火のよりしろ&br;|銀のよりしろ&br;|金:金ポイム3体撃破&br;銀:銀ポイム3体撃破&br;銅:水ポイム3体撃破&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・03'''>#adef12ff]]''|16|10|200|8,000|無|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:?/3T&br;|悪いよりしろ&br;|-&br;|金:残りSoul30以上&br;銀:残りSoul20以上&br;銅:残りSoul10以上&br;|助っ人枠:自由&br;初期Soul値:10&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・02'''>#a2758b72]]''|16|10|200|8,000|火水光無|BGCOLOR(#bba6f1):属性:闇 種族:龍&br;攻撃:?/1T&br;|悪いよりしろ&br;|-&br;|金:エネミーを5体以上撃破&br;銀:エネミーを3体以上撃破&br;銅:エネミーを1体以上撃破&br;|助っ人枠:自由&br;初期Soul値:30&br;[exp/sta]:20.0&br;|
+|''[['''黄金の十五夜・01'''>#b56fc01c]]''|27|10|200|8,000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:7380/4T&br;|悪いよりしろ&br;|空のよりしろ&br;|金:エネミーを30体以上撃破&br;銀:エネミーを15体以上撃破&br;銅:エネミーを5体以上撃破&br;|助っ人枠:自由&br;初期Soul値:99&br;[exp/sta]:20.0&br;|
+
+- [[配信履歴(黄金の十五夜)>#vdfb08a6]]
+- [[コメント(黄金の十五夜)>#ycd6bc79]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#u6f64737]
+----
+*** 黄金の十五夜・15 [#he6f228a]
+&color(black,#eeeeee){基本情報};
+:|
+距離:16 スタミナ:10 獲得EXP:200 獲得金額:20,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''コンティニューなし''でクリア！
+-- 銀:アクティブスキルを''使用せずに''クリア！
+-- 銅:''ボスを撃破''！
+:|開放条件:
+-- 「''[['''黄金の十五夜・14'''>#e7ef08b0]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''桜龍:サクラ・ダハーカ''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:14990/2T HP:約480,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対無属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#bba6f1){闇};/&color(black,#ffffff){無};
+
+:|''カイザー・ウルフ''
+攻撃:?/2T HP:?() 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・グリズリー''
+攻撃:?/4T HP:?() 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・スコーピオン''
+攻撃:?/3T HP:?() 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン''
+攻撃:?/3T HP:?(&color(black,#ffffff){無};) 獲得Soul:5 獲得Gold:650 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・15 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・14 [#e7ef08b0]
+&color(black,#eeeeee){基本情報};
+:|
+距離:33 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''ノーダメージ''でクリア！
+-- 銀:アクティブスキルを''使用せずに''クリア！
+-- 銅:''コンティニューなし''でクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・13'''>#v35fcbe6]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''稚竜種:ダーク・ヒドラ''
+属性:&color(black,#bba6f1){闇属性}; 種族:ドラゴン
+攻撃:?/3T HP:約40,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対闇属性
+ドロップ:清濁のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ハイ・スクィレル''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''ウルフ''
+攻撃:?/1T HP:?() 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''ドラン''
+攻撃:?/3T HP:?() 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・ドラン''
+攻撃:?/3T HP:?() 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:あり
+-- ユニット箱情報:
+--- 座標:(あと22マス,±0),(あと15マス,±0),(あと01マス,±0)
+--- 中身:空のよりしろ
+　&color(red){※};,(あと15マス,±0)の箱は空箱
+:|各属性補正マスの有無:
+-- 火:あり 水:? 光:あり 闇:あり
+:|注意点:
+-- いわゆる、「直走の洞窟」型のクエスト。
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・14 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・13 [#v35fcbe6]
+&color(black,#eeeeee){基本情報};
+:|
+距離:87 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''50以上''の状態でクリア！
+-- 銀:残りSoulが''30以上''の状態でクリア！
+-- 銅:残りSoulが''10以上''の状態でクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・12'''>#gefd18c5]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''金カイザー・ポイム''
+属性:&color(black,#ffffff){無属性}; 種族:軟性
+攻撃:?/2T HP:約20,000 獲得Soul:3 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''カイザー・ポイム''
+攻撃:?/3T HP:?() 獲得Soul:10 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:1
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:& Life:- Power:- Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・13 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・12 [#gefd18c5]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''銀カイザー・ポイム''を''2体''撃破してクリア！
+-- 銀:''銀カイザー・ポイム''を''1体''撃破してクリア！
+-- 銅:残りSoulが''99''の状態でクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・11'''>#i36e9649]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''猪竜種:レッド・バハムートン''
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:4270/3T HP:約40,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対火属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀カイザー・ポイム''
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:「備考」のルートを参照。
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''カイザー・ポイム''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''ドラン''
+攻撃:?/3T HP:10,187(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:闇のよりしろ
+
+:|''スコーピオン''
+攻撃:?/3T HP:7,727(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+:|''?・?''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:5
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:?
+-- ユニット箱情報:
+--- 座標:(あと?マス,±?)
+--- 中身:?
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|ルート:
+-- (あと21マス,y)付近のどのMoveパネルに乗るかによって倒せるエネミーが異なる。
+--- (あと20マス,-3)のMoveパネル: 銀カイザー・ポイム2体を含めたエネミー計17?体。
+-- 図解
+|>|>|>|>|>|>|>|BGCOLOR(silver):''図解'' - Map|
+|~(x,y)|~24　|~23　|~22　|~21　|~20　|~19　|~18　|
+|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|c
+|~+2|||||BGCOLOR(#f1bba6):↑|BGCOLOR(#bba6f1):箱||
+|~+1|BGCOLOR(#f1f1a6):→|BGCOLOR(#f1f1a6):↓||||BGCOLOR(#bba6f1):↑||
+|~±0|''Sta''|BGCOLOR(#f1f1a6):→|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):''CP''|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|
+|~-1|BGCOLOR(#f1f1a6):→|BGCOLOR(#f1f1a6):↑||||||
+|~-2||||||BGCOLOR(#f1f1a6):↓||
+|~-3|||||BGCOLOR(#f1bba6):''→''|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):→|
+ -図解の見方-
+ Sta:スタート地点 CP:現在位置 矢印:Moveパネル 箱:各種箱
+ 背景色は属性補正マスに対応。
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・12 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・11 [#i36e9649]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:『''力のよりしろ(★6)''』をパーティに入れてクリア！
+-- 銀:『''超悪いよりしろ(★6)''』をパーティに入れてクリア！
+-- 銅:『''よりしろ(★1)''』をパーティに入れてクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・10'''>#s4350b13]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''銀カイザー・ポイム''
+属性:&color(black,#ffffff){無属性}; 種族:軟性
+攻撃:?/3T HP:約10,000 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ハイ・ポイム''
+攻撃:2820/3T HP:4,499(&color(black,#bba6f1){闇};) 獲得Soul:1 獲得Gold:250 獲得覚醒pt:?
+ドロップ:火/水/光/闇のよりしろ
+
+:|''カイザー・スクィレル''
+攻撃:2710/3T HP:6,387(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:400 獲得覚醒pt:?
+ドロップ:火/水/光/闇のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:99
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・11 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/黄金の十五夜 > 黄金の十五夜・11'' - Map|
+|~(x,y)|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||角R||角4P||角4R||角4P||角4R||角4P||角4R||角4R||角4P||角4R||角4P||Boss|
+|~+3||||||BGCOLOR(#f1f1a6):|角4A|BGCOLOR(#f1f1a6):|角4D|BGCOLOR(#f1f1a6):|角4A|BGCOLOR(#f1f1a6):|角4D|BGCOLOR(#f1f1a6):|角4A|BGCOLOR(#f1f1a6):|角4D|BGCOLOR(#f1f1a6):|角4A||角4D||角4A||角4D||角4A|Boss|
+|~+2||||角4P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):軟2R|BGCOLOR(#f1f1a6):|角4P|BGCOLOR(#f1f1a6):|角4R|BGCOLOR(#f1f1a6):|角4P|BGCOLOR(#f1f1a6):|角4R|BGCOLOR(#f1f1a6):|Boss|
+|~+1|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|箱|BGCOLOR(#f1bba6):軟2R|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):軟2R|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1bba6):軟2R|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2R|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|Boss|
+|~±0||||''Sta''|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2P|BGCOLOR(#bba6f1):軟2D|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#bba6f1):軟2D|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#bba6f1):軟2D|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):軟2A|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):軟2P|BGCOLOR(#f1f1a6):箱|Boss|
+|~-1|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):軟2A|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#a6f1f1):軟2A|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):軟2A|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#bba6f1):軟2D|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):軟2A|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):軟2A|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|Boss|
+|~-2||||角4A|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|角4A|BGCOLOR(#f1f1a6):|角4D|BGCOLOR(#f1f1a6):|角4A|BGCOLOR(#f1f1a6):|角4D|BGCOLOR(#f1f1a6):|角4A|BGCOLOR(#f1f1a6):|角4D|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):箱|BGCOLOR(#f1f1a6):|BGCOLOR(#bba6f1):軟2D|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#bba6f1):軟2D|BGCOLOR(#f1f1a6):|Boss|
+|~-3|||||角4R|BGCOLOR(#f1f1a6):|角4P||角4R||角4P||角4R||角4P||角4R||角4P|BGCOLOR(#f1f1a6):|角4R|BGCOLOR(#f1f1a6):|角4P|BGCOLOR(#f1f1a6):|角4R|BGCOLOR(#f1f1a6):|角4P|Boss|
+|~-4||||||角4D||角4D||角4P||角4D||角4P||角4A||角4A||角4A||角4D||角4P||角4R||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 角:頭角種(スクィレル系)
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 黄金の十五夜・10 [#s4350b13]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''50体以上''撃破してクリア！
+-- 銀:エネミーを''30体以上''撃破してクリア！
+-- 銅:エネミーを''10体以上''撃破してクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・09'''>#e4df89db]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''無眼竜:リンドブルム''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:?/3T HP:約80,000? 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対無属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀カイザー・ポイム''
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:
+(あと20マス,+2),(あと18マス,-1),(あと15マス,±0),(あと10マス,-1),(あと09マス,^2)
+(あと02マス,±0/±2)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ウルフ''
+攻撃:?/2T HP:4,199(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:火/水/光/闇のよりしろ
+
+:|''ドラン''
+攻撃:?/3T HP:7,899(&color(black,#a6f1f1){水};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・ドラン''
+攻撃:?/3T HP:7,799(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:99
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- エネミーが密集しているクエスト。
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・10 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・09 [#e4df89db]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''火ポイム''を10体以上撃破してクリア！
+-- 銀:''火ポイム''を3体以上撃破してクリア！
+-- 銅:''水ポイム''を20体以上撃破してクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・08'''>#id3fe1cf]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''カイザー・ポイム''
+属性:&color(black,#a6f1f1){水属性}; 種族:軟性
+攻撃:?/3T HP:約15,000 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+特性:-
+有効特効:対水属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#ffffff){無};
+
+:|''ポイム''
+攻撃:2150/3T HP:4,199(&color(black,#a6f1f1){水};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+ドロップ:火/水/光/闇のよりしろ
+
+:|''ハデス''
+攻撃:?/10T HP:約120,000(&color(black,#ffffff){無};) 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:- 闇:-
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・09 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/黄金の十五夜 > 黄金の十五夜・09'' - Map|
+|~(x,y)|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||死H|死H|死H|死H|||BGCOLOR(#a6f1f1):軟1A||||BGCOLOR(#a6f1f1):軟1A||軟1R||BGCOLOR(#a6f1f1):軟1A|||軟1R|BGCOLOR(#a6f1f1):軟1A||Boss|
+|~+3|||||BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#a6f1f1):軟1A|死H|軟1R|軟1R|軟1R|軟1R|死H|BGCOLOR(#a6f1f1):軟1A|||BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A|||BGCOLOR(#a6f1f1):軟1A|||BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|Boss|
+|~+2||||||BGCOLOR(#a6f1f1):軟1A||死H|死H|死H|死H|||BGCOLOR(#a6f1f1):軟1A|軟1R||BGCOLOR(#a6f1f1):軟1A|||BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#f1bba6):|軟1R|Boss|
+|~+1||||BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A|箱|BGCOLOR(#a6f1f1):軟1A||||軟1R|軟1R|BGCOLOR(#a6f1f1):軟1A|||||BGCOLOR(#a6f1f1):軟1A|軟1R|BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|軟1R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|箱|BGCOLOR(#f1bba6):|Boss|
+|~±0||||''Sta''|BGCOLOR(#f1bba6):|軟1R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A|軟1R|BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|||BGCOLOR(#a6f1f1):軟1A||Boss|
+|~-1||||BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A|箱|BGCOLOR(#f1bba6):|軟1R|BGCOLOR(#f1bba6):|箱|BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|軟1R|箱|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|軟1R|箱|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A|Boss|
+|~-2||||||BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A||軟1R|BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|軟1R|箱|BGCOLOR(#f1bba6):||BGCOLOR(#a6f1f1):軟1A||死H|死H|死H|死H|軟1R|Boss|
+|~-3|||||||BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#a6f1f1):軟1A|軟1R|||BGCOLOR(#a6f1f1):軟1A||||BGCOLOR(#a6f1f1):軟1A|BGCOLOR(#f1bba6):|BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A|軟1R|死H|軟1R|軟1R|軟1R|軟1R|死H|Boss|
+|~-4||||||||||BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A|||BGCOLOR(#a6f1f1):軟1A||BGCOLOR(#a6f1f1):軟1A||||死H|死H|死H|死H||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 死:死神(ハデス系)
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 黄金の十五夜・08 [#id3fe1cf]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''20体以上''撃破してクリア！
+-- 銀:エネミーを''15体以上''撃破してクリア！
+-- 銅:エネミーを''10体以上''撃破してクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・07'''>#a1e723bb]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''稚竜種:アクア・ヒドラ''
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:3080/3T HP:約40,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};?/&color(black,#a6f1f1){水};
+
+:|''カイザー・ウルフ''
+攻撃:?/2T HP:8,271(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''キラー・グリズリー''
+攻撃:?/4T HP:22,931(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:光のよりしろ
+
+:|''カイザー・スコーピオン''
+攻撃:?/3T HP:9,801(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:水のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:? Life:あり Power:? Soul:? Unit:?
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|ルート:
+-- ルートによってはチャレンジ目標が達成出来ない?
+--- 上方:ウルフやグリズリーなど水属性エネミー大量。(20体撃破可能。)
+--- 前方:?
+--- 下方:?
+-- 図解
+|>|>|>|>|>|>|BGCOLOR(silver):''図解''|
+|~(x,y)|~16　|~15　|~14　|~13　|~12　|~11|
+|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+3|||上方||||
+|~+2|||BGCOLOR(#f1f1a6):|↓|↓||
+|~+1||BGCOLOR(#f1f1a6):→|BGCOLOR(#f1f1a6):↑||||
+|~±0||''Sta''||→|→|前方|
+|~-1||BGCOLOR(#bba6f1):→|BGCOLOR(#bba6f1):↓||||
+|~-2|||BGCOLOR(#bba6f1):|↑|↑||
+|~-3|||下方||||
+ -Mapの見方-
+ Sta:スタート地点(Start) 矢印:Moveパネル
+ 背景色は属性補正マスに対応。
+ 
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・08 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・07 [#a1e723bb]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''40体以上''撃破してクリア！
+-- 銀:エネミーを''25体以上''撃破してクリア！
+-- 銅:エネミーを''10体以上''撃破してクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・06'''>#t653a7e6]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''疾風竜:ムシュフシュ''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:1050/1T HP:約40,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対無属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀カイザー・ポイム''
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:(あと19マス,+1),(あと5マス,±?)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''スクィレル''
+攻撃:?/2T HP:4,899(&color(black,#bba6f1){闇};) 獲得Soul:1 獲得Gold:250 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・スクィレル''
+攻撃:?/2T HP:6,899(&color(black,#a6f1f1){水};) 獲得Soul:1 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''スコーピオン''
+攻撃:?/2T HP:6,899(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:350 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:99
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- エネミーが密集しているクエスト。
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・07 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・06 [#t653a7e6]
+&color(black,#eeeeee){基本情報};
+:|
+距離:37 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''ノーダメージ''でクリア！
+-- 銀:残りSoulが''30以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・05'''>#y5e7de07]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''ハデス''
+属性:&color(black,#ffffff){無属性}; 種族:死神
+攻撃:?/10T HP:約111,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対無属性
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ウルフ''
+攻撃:?/1T HP:?() 獲得Soul:1 獲得Gold:300 獲得覚醒pt:?
+ドロップ:火のよりしろ
+
+:|''ハデス''
+攻撃:?/1T HP:?() 獲得Soul:1 獲得Gold:0 獲得覚醒pt:?
+ドロップ:火のよりしろ , 闇のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:40
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・06 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+
+----
+*** 黄金の十五夜・05 [#y5e7de07]
+&color(black,#eeeeee){基本情報};
+:|
+距離:22 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''7体以上''撃破してクリア！
+-- 銀:エネミーを''4体以上''撃破してクリア！
+-- 銅:エネミーを''1体以上''撃破してクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・04'''>#t0894eed]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''シャドー・ファヴニル''
+属性:&color(black,#f1f1a6){光属性}; 種族:ドラゴン
+攻撃:6170/2T HP:約110,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対光属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};/&color(black,#ffffff){無};
+
+:|''ポイム''
+攻撃:?/3T HP:5,927(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+ドロップ:?
+
+:|''グリズリー''
+攻撃:6010/3T HP:25,751(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''フォーゲル''
+攻撃:10440/4T HP:77,219(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ウルフ''
+攻撃:8200/2T HP:56,639(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・シェルフ''
+攻撃:10630/3T HP:55,215(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン''
+攻撃:7650/1T HP:70,512(&color(black,#ffffff){無};) 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:20
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・05 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/黄金の十五夜 > 黄金の十五夜・05'' - Map|
+|~(x,y)|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||||||||||||||Boss|
+|~+3|||||||||||||||||||||||Boss|
+|~+2|||||||||||||||||||||||Boss|
+|~+1||||||BGCOLOR(#f1bba6):|箱S||BGCOLOR(#bba6f1):|箱S||BGCOLOR(#a6f1f1):|箱S||BGCOLOR(#f1f1a6):|箱S||BGCOLOR(#f1bba6):|箱S|||箱S|Boss|
+|~±0||||''Sta''|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟1R|箱L|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):爪1D|箱L|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鳥1A|箱L|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼5P|箱L|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):貝2R|箱L||猪H|箱L|Boss|
+|~-1||||||BGCOLOR(#f1bba6):|箱P||BGCOLOR(#bba6f1):|箱P||BGCOLOR(#a6f1f1):|箱P||BGCOLOR(#f1f1a6):|箱P||BGCOLOR(#f1bba6):|箱P|||箱P|Boss|
+|~-2|||||||||||||||||||||||Boss|
+|~-3|||||||||||||||||||||||Boss|
+|~-4|||||||||||||||||||||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 狼:狼毛種(ウルフ系) 爪:大爪種(グリズリー系) 鳥:額鳥種(フォーゲル系) 貝:宿貝種(シェルフ系) 猪:猪竜種(バハムートン)
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 黄金の十五夜・04 [#t0894eed]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''金ポイム''を''3体以上''撃破してクリア！
+-- 銀:''銀ポイム''を''3体以上''撃破してクリア！
+-- 銅:''水ポイム''を''3体以上''撃破してクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・03'''>#adef12ff]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''グリズリー''
+属性:&color(black,#f1bba6){火属性}; 種族:大爪
+攻撃:6240/3T HP:約24,000 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+特性:-
+有効特効:対火属性
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金ポイム''
+攻撃:2210/3T HP:5,599(&color(black,#ffffff){無};) 獲得Soul:2 獲得Gold:650 獲得覚醒pt:?
+座標:(あと20マス,-3),(あと13マス,-1),(あと11マス,-3),(あと08マス,+2),(あと02マス,±0)
+ドロップ:?
+
+:|''銀ポイム''
+攻撃:?/3T HP:4,999(&color(black,#ffffff){無};) 獲得Soul:2 獲得Gold:500 獲得覚醒pt:?
+座標:(あと21マス,-2),(あと14マス,-4),(あと06マス,-1),(あと03マス,+1),(あと01マス,+2)
+ドロップ:銀のよりしろ
+
+:|''水ポイム''
+攻撃:2560/3T HP:4,199(&color(black,#a6f1f1){水};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+座標:(あと22マス,-1),(あと19マス,-3),(あと14マス,-3/+4),(あと09マス,-4),(あと05マス,+1),(あと02マス,+2)
+ドロップ:?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''スクィレル''
+攻撃:?/2T HP:4,799(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:250 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・スクィレル''
+攻撃:2100/2T HP:5,049(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''ウルフ''
+攻撃:4170/2T HP:3,899(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・ウルフ''
+攻撃:?/2T HP:?(&color(black,#f1bba6){火};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン''
+攻撃:?/3T HP:34,999(&color(black,#f1bba6){火};) 獲得Soul:5 獲得Gold:600 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:- 闇:-
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・04 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/黄金の十五夜 > 黄金の十五夜・04'' - Map|
+|~(x,y)|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):卵1R|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''軟1A''|BGCOLOR(#a6f1f1):|箱|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼2R|||BGCOLOR(#f1bba6):狼1R|BGCOLOR(#f1bba6):狼2R|箱||BGCOLOR(#f1bba6):狼2R|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|Boss|
+|~+3|||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼2R||BGCOLOR(#f1bba6):|||箱|13|12|11|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼2R|BGCOLOR(#f1bba6):狼2R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼2R|BGCOLOR(#f1bba6):狼2R|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|Boss|
+|~+2||||||BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):卵1R|||BGCOLOR(#f1bba6):角2R|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼2R|箱|11|10|BGCOLOR(#f1bba6):卵1R|''金1H''|BGCOLOR(#f1bba6):猪R||BGCOLOR(#f1bba6):角2R|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''銀1H''|BGCOLOR(#a6f1f1):''銀1H''|Boss|
+|~+1|||||||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):角2R||BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):角1R||BGCOLOR(#f1bba6):|箱||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):猪R|BGCOLOR(#a6f1f1):''軟1A''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''銀1H''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|Boss|
+|~±0||||''Sta''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|箱|BGCOLOR(#f1bba6):狼?R||BGCOLOR(#f1bba6):角1R||BGCOLOR(#f1bba6):狼2R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):角2R|||BGCOLOR(#f1bba6):狼1R||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#f1bba6):猪R|''金1H''|BGCOLOR(#f1bba6):角2R|Boss|
+|~-1||||||BGCOLOR(#a6f1f1):''軟1A''|BGCOLOR(#a6f1f1):|BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):狼?R||BGCOLOR(#f1bba6):狼?R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):狼2R|BGCOLOR(#f1bba6):狼1R|''金1H''|BGCOLOR(#f1bba6):角1R||BGCOLOR(#f1bba6):猪R|BGCOLOR(#a6f1f1):''軟1A''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''銀1H''|BGCOLOR(#a6f1f1):||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):狼1R|Boss|
+|~-2||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''銀1H''|BGCOLOR(#a6f1f1):|||箱|BGCOLOR(#f1bba6):角2R|BGCOLOR(#f1bba6):狼1R||BGCOLOR(#f1bba6):猪R|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):猪R|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#f1bba6):猪R||BGCOLOR(#f1bba6):狼2R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):角2R|BGCOLOR(#f1bba6):|Boss|
+|~-3||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''金1H''|BGCOLOR(#a6f1f1):''軟1A''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''軟1A''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''金1H''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):角2R||Boss|
+|~-4||||||BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):角1R|BGCOLOR(#f1bba6):狼1R|BGCOLOR(#a6f1f1):箱|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):''銀1H''|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):''軟1A''|BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):||箱||箱||BGCOLOR(#f1bba6):狼1R|Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 角:頭角種(スクィレル系) 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 猪:猪竜種(バハムートン)
+ 銀:銀ポイム 金:金ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 黄金の十五夜・03 [#adef12ff]
+&color(black,#eeeeee){基本情報};
+:|
+距離:16 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:残りSoulが''30以上''の状態でクリア！
+-- 銀:残りSoulが''20以上''の状態でクリア！
+-- 銅:残りSoulが''10以上''の状態でクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・02'''>#a2758b72]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''稚竜種:レッド・ヒドラ''
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:?/3T HP:約50,000以下 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対火属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:
+
+:|''シャドー・ハデス''
+攻撃:64360/10T HP:790,000() 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+ドロップ:おにしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:10
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:- 闇:-
+:|注意点:
+-- 主にSoul箱でSoulを稼ぐクエスト。
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・03 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/黄金の十五夜 > 黄金の十五夜・03'' - Map|
+|~(x,y)|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||箱S||箱S||箱S|箱S|箱S||箱S|||Boss|
+|~+3|||||箱S|箱S||箱S|箱S||箱S|箱S||箱S||死5H|Boss|
+|~+2|||||||箱S||箱S||箱S|||箱S|箱S||Boss|
+|~+1||||||箱S|箱S||||||箱S||箱S||Boss|
+|~±0||||''Sta''||箱S||箱S|||箱S|箱S||||死5H|Boss|
+|~-1||||||箱S|箱S||箱S|||||箱S|箱S||Boss|
+|~-2||||||||箱S|||箱S|箱S|箱S||箱S||Boss|
+|~-3|||||箱S|箱S||箱S||箱S|箱S|箱S||箱S||死5H|Boss|
+|~-4||||||箱S|箱S||||箱S||||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱S:Soul箱
+ 死:死神(ハデス系)
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 黄金の十五夜・02 [#a2758b72]
+&color(black,#eeeeee){基本情報};
+:|
+距離:16 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''5体以上''撃破してクリア！
+-- 銀:エネミーを''3体以上''撃破してクリア！
+-- 銅:エネミーを''1体以上''撃破してクリア！
+:|開放条件:
+-- 「''[['''黄金の十五夜・01'''>#b56fc01c]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''シャドー・ヒドラ''
+属性:&color(black,#bba6f1){闇属性}; 種族:ドラゴン
+攻撃:?/1T HP:約? 獲得Soul:? 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対闇属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|-
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ポイム''
+攻撃:?/3T HP:5,927(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+ドロップ:?
+
+:|''シェルフ''
+攻撃:?/3T HP:36,519(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''シャドー・ウルフ''
+攻撃:?/2T HP:51,919(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:500 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハデス''
+攻撃:?/10T HP:約100,000(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:0 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:30
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:あり 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・02 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/黄金の十五夜 > 黄金の十五夜・02'' - Map|
+|~(x,y)|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||||||||Boss|
+|~+3|||||||||||||||||Boss|
+|~+2|||||||||||||||||Boss|
+|~+1||||||BGCOLOR(#f1bba6):|箱S||BGCOLOR(#a6f1f1):|箱S||BGCOLOR(#f1f1a6):|箱S||BGCOLOR(#bba6f1):|箱S|Boss|
+|~±0||||''Sta''|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):軟1R|箱L|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):貝1A|箱L|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼5P|箱L|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):死H|箱L|Boss|
+|~-1||||||BGCOLOR(#f1bba6):|箱P||BGCOLOR(#a6f1f1):|箱P||BGCOLOR(#f1f1a6):|箱P||BGCOLOR(#bba6f1):|箱P|Boss|
+|~-2|||||||||||||||||Boss|
+|~-3|||||||||||||||||Boss|
+|~-4|||||||||||||||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 軟:軟性種(ポイム系) 狼:狼毛種(ウルフ系) 貝:宿貝種(シェルフ系) 死:死神(ハデス系)
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 黄金の十五夜・01 [#b56fc01c]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:10 獲得EXP:200 獲得金額:8,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:エネミーを''30体以上''撃破してクリア！
+-- 銀:エネミーを''15体以上''撃破してクリア！
+-- 銅:エネミーを''5体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''双角竜:クエレブル''
+属性: 種族:ドラゴン
+攻撃:7390/4T HP:約39,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対無 , 対龍属性
+ドロップ:悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀カイザー・ポイム''
+攻撃:?/3T HP:9,239(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:2,000 獲得覚醒pt:?
+座標:(あと18マス,±0),(あと03マス,±?)
+ドロップ:空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};/&color(black,#bba6f1){闇};
+
+:|''ポイム''
+攻撃:?/3T HP:3,799(&color(black,#f1bba6){火};) 獲得Soul:1 獲得Gold:200 獲得覚醒pt:?
+ドロップ:?
+
+:|''ハイ・ポイム''
+攻撃:?/3T HP:4,799(&color(black,#a6f1f1){水};) 獲得Soul:1 獲得Gold:250 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:99
+[exp/sta]:20.0
+よりしろ経験値(残りSoul99):9,300
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+-- ユニット箱情報:
+:|各属性補正マスの有無:
+-- 火:? 水:? 光:? 闇:?
+:|注意点|
+-- エネミーが密集しているクエスト。(過去の挑戦系クエストにあったようなもの。)
+:|特別ガイド台詞:
+ イベントエリア/黄金の十五夜 > 黄金の十五夜・01 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 配信履歴(黄金の十五夜)((時刻が書かれていない場合、その日付の間は開放。)) [#vdfb08a6]
+:2014/04/28(10:00)〜2014/05/12(10:00)|
+-- 2014/05/11(10:00): 「黄金の十五夜・14」と「黄金の十五夜・15」が開放。
+-- 2014/05/10(10:00): 「黄金の十五夜・13」が開放。
+-- 2014/05/09(10:00): 「黄金の十五夜・12」が開放。
+-- 2014/05/08(10:00): 「黄金の十五夜・11」が開放。
+-- 2014/05/07(10:00): 「黄金の十五夜・10」が開放。
+-- 2014/05/06(10:00): 「黄金の十五夜・09」が開放。
+-- 2014/05/05(10:00): 「黄金の十五夜・08」が開放。
+-- 2014/05/04(10:00): 「黄金の十五夜・07」が開放。
+-- 2014/05/03(10:00): 「黄金の十五夜・06」が開放。
+-- 2014/05/02(10:00): 「黄金の十五夜・05」が開放。
+-- 2014/05/01(10:00): 「黄金の十五夜・04」が開放。
+-- 2014/04/30(10:00): 「黄金の十五夜・03」が開放。
+-- 2014/04/29(10:00): 「黄金の十五夜・02」が開放。
+
+----
+* コメント(黄金の十五夜) [#ycd6bc79]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

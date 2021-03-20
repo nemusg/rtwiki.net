@@ -1,0 +1,2 @@
+Log Page for Global Counter
+#counter

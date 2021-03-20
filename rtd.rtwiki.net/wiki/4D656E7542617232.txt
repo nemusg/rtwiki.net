@@ -1,0 +1,6 @@
+//常に表示されるメニューバーです。
+RIGHT:
+//total: &color(green){&counter;};
+today: &color(green){&counter(today);};
+yesterday: &color(green){&counter(yesterday);};
+now: &color(green){&online;};

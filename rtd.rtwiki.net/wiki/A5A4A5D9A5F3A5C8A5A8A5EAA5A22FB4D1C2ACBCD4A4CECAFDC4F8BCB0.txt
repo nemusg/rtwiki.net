@@ -1,0 +1,212 @@
+* イベントエリア/観測者の方程式 [#l47f27a5]
+
+** 観測者の方程式 [#r1470abd]
+ 観測者の方程式 - 4ユニット編成クエストエリア
+ 
+ エリア説明文:
+ “祖龍”そして“観測者”を追及するマスクウェル。相棒と共に方程式を確立する。
+ 
+ エリア目標:
+ 1:超悪いよりしろ 4:清濁のよりしろ 6:悪いよりしろ 8:清濁のよりしろ 9:超悪いよりしろ
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''観測者の方程式・上級'''>#y79a45c6]]''|30|21|450|10,000|水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:26000/4T&br;|マクスウェル&br;悪いよりしろ&br;|マクスウェル&br;清濁のよりしろ&br;|金:AS不使用&br;銀:ノーコンティニュー&br;銅:残りSoul99&br;|初期Soul値:10&br;[exp/sta]:21.4&br;|
+|''[['''観測者の方程式・中級'''>#x28793e9]]''|23|13|300|8,000|水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:?/3T&br;|マクスウェル&br;清濁のよりしろ&br;|清濁のよりしろ&br;|金:弓ユニットのみ&br;銀:エネミー25体以上撃破&br;銅:残りSoul99&br;|初期Soul値:?&br;[exp/sta]:23.0&br;|
+|''[['''観測者の方程式・初級'''>#t24dc266]]''|18|7|150|4,000|水|BGCOLOR(#a6f1f1):属性:水 種族:龍&br;攻撃:?/3T&br;|マクスウェル&br;|?|金:残りSoul99&br;銀:銀ポイム1体以上撃破&br;銅:ノーコンティニュー&br;|初期Soul値:1&br;[exp/sta]:21.4&br;|
+
+
+- [[配信履歴(観測者の方程式)>#f45a490e]]
+- [[コメント(観測者の方程式)>#m801dd5f]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|&br;?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#d2dba81b]
+----
+*** 観測者の方程式・上級 [#y79a45c6]
+&color(black,#eeeeee){基本情報};
+:|
+距離:30 スタミナ:21 獲得EXP:450 獲得金額:10,000
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:''コンティニューなし''でクリア！
+-- 銅:残りSoulが''99''の状態でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''シャドー・ファヴニル''
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:26000/4T HP:約320,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性
+ドロップ:&color(#006600){マクスウェル}; (水杖銀本) , 悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:7140/2T HP:107,777(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:10,000 獲得覚醒pt:?
+座標:(あと04マス,+2)((ルートによっては会えないので注意。))
+ドロップ:&color(#006600){マクスウェル}; (水杖銀本) , 清濁のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''シャドー・ポイム''
+攻撃:15410/3T HP:108,479(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:400 獲得覚醒pt:?
+ドロップ:ななお , いせ
+
+:|''シャドー・グリズリー''
+攻撃:14470/4T HP:128,431(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:600 獲得覚醒pt:?
+ドロップ:かすみ , いせ , かが
+
+:|''シャドー・スコーピオン''
+攻撃:12240/3T HP:64,119(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+ドロップ:かすみ , ななお
+
+:|''シェルフ''
+攻撃:10330/3T HP:49,799(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:かが
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:10
+[exp/sta]:21.4
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/観測者の方程式(レアユニットエリア) > 観測者の方程式・上級'' - 簡易Map|
+|~(x,y)|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|B|
+|~+3||||↑|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):軟5A|↑|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|↑|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):軟5A|↑|BGCOLOR(#a6f1f1):貝1A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):貝1A|↑|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|↑|↑|↑|B|
+|~+2||||↑|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):|↑|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):貝1A|BGCOLOR(#a6f1f1):貝1A|BGCOLOR(#a6f1f1):貝1A|→|BGCOLOR(#a6f1f1):箱L|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):''金4''|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):箱S|B|
+|~+1||||BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):軟5A|↑|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):軟5A|↑|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):軟5A|↑|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):軟5A|↑|BGCOLOR(#a6f1f1):貝1A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):貝1A|↑|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱P|BGCOLOR(#a6f1f1):|↑|↑|↑|B|
+|~±0||||''Sta''|↓|↓|BGCOLOR(#a6f1f1):箱S|→|箱S|箱S|→|箱S|→|BGCOLOR(#a6f1f1):箱S|→|箱S|→|→|BGCOLOR(#a6f1f1):箱S|→|箱S|→|→|箱S|→|BGCOLOR(#a6f1f1):|→|箱S|箱S|箱S|B|
+|~-1||||BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|↓|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|↓|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|↓|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|↓|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|↓|↓|B|
+|~-2||||↓|↓|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):貝1A|BGCOLOR(#a6f1f1):|↓|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):軟5A|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):軟5A|箱S|箱S|B|
+|~-3||||箱S|箱S|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|↓|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):箱S|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|↓|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|↓|BGCOLOR(#a6f1f1):爪5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):爪5A|↓|BGCOLOR(#a6f1f1):鋏5A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏5A|箱S|箱S|B|
+|~-4||||→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|→|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱L:Life箱 箱P:Power箱 箱S:Soul箱
+ 軟:軟体種(ポイム系) 爪:大爪種(グリズリー系) 鋏:鋏角種(スコーピオン系) 貝:宿貝種(シェルフ系) 金:金ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のが入っているマスは未確認。
+
+----
+*** 観測者の方程式・中級 [#x28793e9]
+&color(black,#eeeeee){基本情報};
+:|
+距離:23 スタミナ:13 獲得EXP:300 獲得金額:8,000
+クリアボーナス:なし
+:|チャレンジ目標:
+-- 金:''弓ユニットのみ''のパーティーでクリア！
+-- 銀:エネミーを''25体以上''撃破してクリア！
+-- 銅:残りSoulが''99''の状態でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:?/?T HP:約? 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性
+ドロップ:&color(#006600){マクスウェル}; (水杖銀本)
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:?
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:?
+
+----
+*** 観測者の方程式・初級 [#t24dc266]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:7 獲得EXP:150 獲得金額:4,000
+クリアボーナス:なし
+:|チャレンジ目標:
+-- 金:残りSoulが''99''の状態でクリア！
+-- 銀:''銀ポイム''((「銀色のアイツ」のこと。))を''1体''撃破してクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''?''
+属性:&color(black,#a6f1f1){水属性}; 種族:ドラゴン
+攻撃:?/3T HP:約40,000 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対水属性
+ドロップ:&color(#006600){マクスウェル}; (水杖銀本)
+
+&color(black,#eeeeee){レアエネミー};
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,±?),(あと?マス,±?)
+ドロップ:?
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};
+
+:|''?・?''
+攻撃:?/?T HP:?(&color(black,#a6f1f1){水};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:?
+[exp/sta]:?
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:? Life:? Power:? Soul:? Unit:?
+
+----
+*** 配信履歴(観測者の方程式)((時刻が書かれていない場合、その日付の間は開放。)) [#f45a490e]
+:2014/08/08|
+:2014/07/23|
+:2014/06/25|
+:2014/05/28|
+:2014/04/28|
+:2014/04/02|
+:2014/03/05|
+:2014/02/05|
+:2013/09/12(10:00)〜2013/09/14(10:00)|
+-- 「観測者の解 > 観測者の方程式」として開放。
+
+----
+* コメント(観測者の方程式) [#m801dd5f]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

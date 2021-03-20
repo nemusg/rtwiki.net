@@ -1,0 +1,225 @@
+* イベントエリア/屋根より高い魂 [#x16ffcc0]
+
+** 屋根より高い魂 [#u2e9489c]
+ 屋根より高い魂 - 4ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 端午の節句は男子のお祭り。すこやかなる"成長"を願います。
+ 
+ エリア目標:
+ 3:よりのぼり 6:超悪いよりしろ 9:超古代のよりしろ
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''屋根より高い魂・上級'''>#m9507c26]]''|37|21|600|15,000|水光|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:8680/1T&br;|よりのぼり&br;超悪いよりしろ&br;|よりのぼり&br;空のよりしろ&br;|金:剣ユニットのみ&br;銀:残りSoul55以上&br;銅:「よりのぼり」を入れて&br;|助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:28.6&br;|
+|''[['''屋根より高い魂・中級'''>#s2dc53bd]]''|27|15|400|10,000|水光|BGCOLOR(#f1f1a6):属性:光 種族:鋏角&br;攻撃:?/3T&br;|よりのぼり&br;|天のよりしろ&br;|金:ノーダメージ&br;銀:★5ユニットのみ&br;銅:ノーコンティニュー&br;|助っ人枠:自由&br;初期Soul値:14&br;[exp/sta]:26.7&br;|
+|''[['''屋根より高い魂・初級'''>#ec4d4550]]''|18|8|180|4,000|水光|BGCOLOR(#a6f1f1):属性:水 種族:竜卵&br;攻撃:?/3T&br;|よりのぼり&br;|金のよりしろ&br;|金:AS不使用&br;銀:残りSoul15以上&br;銅:エネミー5体以上撃破&br;|助っ人枠:自由&br;初期Soul値:14&br;[exp/sta]:22.5&br;|
+
+- [[配信履歴(屋根より高い魂)>#ye76ecd0]]
+- [[コメント(屋根より高い魂)>#eaa39f38]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#h53f2532]
+----
+*** 屋根より高い魂・上級 [#m9507c26]
+&color(black,#eeeeee){基本情報};
+:|
+距離:37 スタミナ:21 獲得EXP:600 獲得金額:15,000
+助っ人枠:自由
+クリアボーナス:虹色水晶 1個
+:|チャレンジ目標:
+-- 金:''剣ユニットだけ''のパーティでクリア！
+-- 銀:残りSoulが''55以上''の状態でクリア！
+-- 銅:「''よりのぼり(★6)''」をパーティに入れてクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''猪竜種:ホロウ・バハムートン''
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:8680/1T HP:約94,000 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+特性:-
+有効特効:対龍 , 対無属性
+ドロップ:よりのぼり , 超悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:6000/2T HP:87,543(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:5,000 獲得覚醒pt:?
+座標:(あと24マス,±0),(あと08マス,-1),(あと08マス,+1)
+ドロップ:よりのぼり , 空のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};
+
+:|''カイザー・ウルフ''
+攻撃:10560/2T HP:36,600(&color(black,#a6f1f1){水};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''カイザー・スコーピオン''
+攻撃:6850/3T HP:24,233(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:450 獲得覚醒pt:?
+ドロップ:?
+
+:|''バハムートン''
+攻撃:19790/3T HP:93,356(&color(black,#a6f1f1){水};) 獲得Soul:5 獲得Gold:0 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:28.6
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:あり 闇:-
+:|特別ガイド台詞:
+ イベントエリア/屋根より高い魂 > 屋根より高い魂・上級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/屋根より高い魂 > 屋根より高い魂・上級'' - Map|
+|~(x,y)|~37　|~36　|~35　|~34　|~33　|~32　|~31　|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00　|
+|CENTER:|CENTER:|CENTER:|CENTER:35|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||||BGCOLOR(#f1f1a6):||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):鋏4P||||||||BGCOLOR(#f1f1a6):||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):鋏4P||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):狼4P|Boss|
+|~+3||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):狼4A||BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):狼4P|||||BGCOLOR(#f1f1a6):鋏4P||BGCOLOR(#a6f1f1):|BGCOLOR(#f1f1a6):鋏4P|||BGCOLOR(#a6f1f1):||BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):|||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):鋏4P||BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#a6f1f1):鋏4A|BGCOLOR(#a6f1f1):|BGCOLOR(#f1f1a6):鋏4P|Boss|
+|~+2||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):狼4A||箱|BGCOLOR(#a6f1f1):狼4A|||||BGCOLOR(#a6f1f1):狼4A|BGCOLOR(#a6f1f1):|BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#a6f1f1):狼4A|箱|BGCOLOR(#a6f1f1):||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#a6f1f1):狼4A||BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#a6f1f1):狼4A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):狼4A||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):狼4A|Boss|
+|~+1||||||BGCOLOR(#a6f1f1):猪A|||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):狼4A||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):猪P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):狼4A|||BGCOLOR(#a6f1f1):||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):猪A|''金4H''||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#f1f1a6):猪P||||Boss|
+|~±0||||''Sta''||||||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):|箱||''金4H''|||||BGCOLOR(#a6f1f1):狼4A|箱|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|||BGCOLOR(#a6f1f1):狼4A|箱|||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):狼4A||BGCOLOR(#f1f1a6):||Boss|
+|~-1||||||BGCOLOR(#f1f1a6):猪P|BGCOLOR(#f1f1a6):||||BGCOLOR(#a6f1f1):鋏4A|BGCOLOR(#a6f1f1):|BGCOLOR(#f1f1a6):猪P||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):鋏4A|箱|BGCOLOR(#a6f1f1):鋏4A|BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):狼4A|||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#a6f1f1):|BGCOLOR(#f1f1a6):猪P|''金4H''||BGCOLOR(#a6f1f1):鋏4A||||BGCOLOR(#f1f1a6):猪P|BGCOLOR(#a6f1f1):狼4A|Boss|
+|~-2|||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏4A|BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#a6f1f1):鋏4A|BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):猪P|BGCOLOR(#a6f1f1):||BGCOLOR(#f1f1a6):狼4P||||BGCOLOR(#a6f1f1):鋏4A||||箱|BGCOLOR(#a6f1f1):猪A||BGCOLOR(#a6f1f1):鋏4A|BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):||BGCOLOR(#a6f1f1):猪A|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#a6f1f1):|Boss|
+|~-3||||||BGCOLOR(#a6f1f1):鋏4A|BGCOLOR(#a6f1f1):||BGCOLOR(#f1f1a6):|||||BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):狼4P||||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#a6f1f1):||BGCOLOR(#a6f1f1):|箱|BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#a6f1f1):||BGCOLOR(#f1f1a6):狼4P|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):鋏4A|Boss|
+|~-4||||||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):鋏4A|||||BGCOLOR(#a6f1f1):||BGCOLOR(#f1f1a6):||BGCOLOR(#f1f1a6):||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):||||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):鋏4P|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):鋏4P|BGCOLOR(#f1f1a6):|BGCOLOR(#a6f1f1):猪A|Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 狼:狼毛種(ウルフ系) 鋏:鋏角種(スコーピオン系) 猪:猪竜種(バハムートン系) 金:金ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+
+----
+*** 屋根より高い魂・中級 [#s2dc53bd]
+&color(black,#eeeeee){基本情報};
+:|
+距離:27 スタミナ:15 獲得EXP:400 獲得金額:10,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:''ノーダメージ''でクリア！
+-- 銀:レアリティが''★5のユニットだけ''のパーティでクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''シャドー・スコーピオン''
+属性:&color(black,#f1f1a6){光属性}; 種族:鋏角
+攻撃:?/3T HP:約? 獲得Soul:3 獲得Gold:550 獲得覚醒pt:?
+特性:-
+有効特効:対光属性
+ドロップ:よりのぼり
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀カイザー・ポイム''
+攻撃:?/3T HP:?(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+座標:(あと?マス,+1?),(あと02マス,-1)
+ドロップ:天のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};
+
+:|''カイザー・スクィレル''
+攻撃:?/3T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''キラー・ドラン''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:14
+[exp/sta]:26.7
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:あり 闇:-
+:|特別ガイド台詞:
+ イベントエリア/屋根より高い魂 > 屋根より高い魂・中級 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 屋根より高い魂・初級 [#ec4d4550]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:8 獲得EXP:180 獲得金額:4,000
+助っ人枠:自由
+クリアボーナス:-
+:|チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:残りSoulが''15以上''の状態でクリア！
+-- 銅:エネミーを''5体以上''撃破してクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''ドラン''
+属性:&color(black,#a6f1f1){水属性}; 種族:竜卵
+攻撃:?/3T HP:約? 獲得Soul:2 獲得Gold:300 獲得覚醒pt:?
+特性:-
+有効特効:対水属性
+ドロップ:よりのぼり
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀キラー・ポイム''
+攻撃:?/3T HP:?(&color(black,#ffffff){無};) 獲得Soul:2 獲得Gold:1,200 獲得覚醒pt:?
+座標:(あと09マス,±0),(あと04マス,±0)
+ドロップ:金のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#a6f1f1){水};/&color(black,#f1f1a6){光};
+
+:|''ポイム''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+:|''ウルフ''
+攻撃:?/?T HP:?() 獲得Soul:? 獲得Gold:? 獲得覚醒pt:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:14
+[exp/sta]:22.5
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:あり Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:- 水:あり 光:あり 闇:-
+:|特別ガイド台詞:
+ イベントエリア/屋根より高い魂 > 屋根より高い魂・初級 - 特別ガイド台詞
+ 
+ 話者: -
+
+----
+*** 配信履歴(屋根より高い魂)((時刻が書かれていない場合、その日付の間は開放。)) [#ye76ecd0]
+:2014/05/05(10:00)〜2014/05/09(10:00)|
+
+----
+* コメント(屋根より高い魂) [#eaa39f38]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

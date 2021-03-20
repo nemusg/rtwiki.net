@@ -1,0 +1,111 @@
+* イベントエリア/七色海岸の奇跡 [#q2d097d6]
+
+** 七色海岸の奇跡 [#ma1898cb]
+ 七色海岸の奇跡 - 4ユニット編成クエストエリア
+ 
+ エリア説明文:
+ あなたは何を願いますか？ 虹に願いを、願いはきっと届くはず…。
+ 
+ エリア目標:
+ 1:生命のよりしろ 2:力のよりしろ 3:癒しのよりしろ
+
+|~''クエスト名''|~''距離''|~''スタミナ''|~''獲得EXP''|~''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''虹に願いを'''>#e00316da]]''|10|3|150|2,000|-|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:730/3T&br;|超悪いよりしろ&br;悪いよりしろ&br;空のよりしろ&br;天のよりしろ&br;|-&br;|金:杖ユニットのみ&br;銀:弓ユニットのみ&br;銅:剣ユニットのみ&br;|助っ人枠:自由&br;初期Soul値:14&br;[exp/sta]:50.0&br;|
+
+- [[配信履歴(七色海岸の奇跡)>#kf45dfdf]]
+- [[コメント(七色海岸の奇跡)>#yf8dbd19]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#afe486be]
+----
+*** 虹に願いを [#e00316da]
+&color(black,#eeeeee){'''基本情報'''};
+:|
+距離:10 スタミナ:3 獲得EXP:150 獲得金額:2,000
+助っ人枠:自由
+クリアボーナス:虹色水晶 (1個)
+:|チャレンジ目標:
+-- 金:''杖ユニットのみ''のパーティーでクリア！
+-- 銀:''弓ユニットのみ''のパーティーでクリア！
+-- 銅:''剣ユニットのみ''のパーティーでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+:|''稚竜種:ホロウ・ヒドラ'' / ([[画像:http://rtd.rtwiki.net/index.php?plugin=attach&pcmd=open&file=rtd_enemy_nanairokaigannokiseki_boss-0001-H.jpg&refer=%A5%A4%A5%D9%A5%F3%A5%C8%A5%A8%A5%EA%A5%A2%2F%BC%B7%BF%A7%B3%A4%B4%DF%A4%CE%B4%F1%C0%D7]])
+属性:&color(black,#ffffff){無属性}; 種族:ドラゴン
+攻撃:730/3T HP:約2,000 獲得Soul:0 獲得Gold:0 獲得覚醒pt:8
+特性:-
+有効特効:対龍 , 対無属性
+ドロップ:超悪いよりしろ , 悪いよりしろ , 空のよりしろ , 天のよりしろ
+
+&color(black,#eeeeee){'''レアエネミー'''};
+:|-
+
+&color(black,#eeeeee){'''エネミ'''};
+:|-
+
+&color(black,#eeeeee){'''備考'''};
+:|
+初期Soul値:14
+[exp/sta]:50.0
+よりしろ経験値(残りSoul99):5,925
+:|各種箱の有無:
+-- Gold:- Life:- Power:- Soul:- Unit:あり
+-- ユニット箱情報1((一定の確率で出現。)):
+--- 座標:(あと05マス,-1)
+--- 中身:生命のよりしろ , 力のよりしろ , 癒しのよりしろ , 超悪いよりしろ + 覚醒pt:12
+-- ユニット箱情報2:
+--- 座標:(あと04マス,-1)
+--- 中身:悪いよりしろ? , 空のよりしろ , 天のよりしろ + 覚醒pt:12
+:|各属性補正マスの有無:
+-- 火:- 水:- 光:あり 闇:あり
+:|特別ガイド台詞:
+ イベントエリア/七色海岸の奇跡 > 虹に願いを - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/七色海岸の奇跡 > 虹に願いを'' - Map|
+|~(x,y)|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+5||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|Boss|
+|~+4||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|~|
+|~+3||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#f1f1a6):|~|
+|~+2||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|~|
+|~+1||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|箱U1|BGCOLOR(#bba6f1):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|~|
+|~±0||||''Sta''|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|~|
+|~-1||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#f1f1a6):|箱U2|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|~|
+|~-2||||BGCOLOR(#bba6f1):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|~|
+|~-3||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|~|
+|~-4||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|~|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱U:Unit箱
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 配信履歴(七色海岸の奇跡)((時刻が書かれていない場合、その日付の間は配信。)) [#kf45dfdf]
+:2014/07/07(10:00)〜2014/07/08(10:00)|
+-- 距離が''12''→''10''に変更。
+:2013/07/07|
+
+
+----
+* コメント(七色海岸の奇跡) [#yf8dbd19]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

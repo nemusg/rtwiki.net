@@ -1,0 +1,26 @@
+* パズバトコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+実装直後の当たりはティンニン。
+サブではアンリ・ボーラムを悪魔PTで使う人を見かける。
+}}
+
+** パズバト コラボガチャ [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/11/16～2015/11/22:http://pad.gungho.jp/member/151112_padbt.html]]|
+|>|BGCOLOR(#ffffff):[[2015/05/11～2015/05/17:http://pad.gungho.jp/member/150507_padbt_list.html]]|
+|>|BGCOLOR(#ffffff):[[2014/11/24～2014/11/30:http://pad.gungho.jp/member/141120_padbt_list.html]]|
+|>|BGCOLOR(#ffffff):[[2014/07/07～2014/07/11:http://pad.gungho.jp/member/140704_padbt_list.html]]|
+|>|BGCOLOR(#ffffff):[[2014/04/28～2014/05/11:http://pad.gungho.jp/member/140424_padbt_list.html]]|
+|★5|&mons1278; &mons1292;|
+|★4|&mons1280; &mons1282; &mons1284; &mons1286; &mons1288; &mons1290;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2017/04/21 00:00:00,2017/05/07 23:59:59);[[ゴールデンウィークイベント:http://pad.gungho.jp/member/event/170420_2017gw.html]]

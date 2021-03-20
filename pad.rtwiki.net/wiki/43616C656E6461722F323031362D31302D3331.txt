@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/10/24 00:00:00,2016/10/31 23:59:59);[[ハロウィンスペシャル（後半）:http://pad.gungho.jp/member/event/161021_halloween_event.html]]

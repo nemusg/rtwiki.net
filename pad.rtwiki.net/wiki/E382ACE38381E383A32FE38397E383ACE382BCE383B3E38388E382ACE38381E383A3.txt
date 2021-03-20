@@ -1,0 +1,45 @@
+* プレゼントガチャ（プレミアムガチャ） [#pdda7e01]
+
+- ランク20以上になると一度だけ引けるガチャ
+- フレンドを1人選択し、自分とそのフレンドが互いに引くことができる
+- 頻度は低いが、何度かカウントリセットが実施されている
+
+** プレゼントガチャ7～8 [#bece218b]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/02/25～:http://pad.gungho.jp/member/reset/160222_reset.html]]|
+|>|BGCOLOR(#ffffff):[[2015/02/27～:http://pad.gungho.jp/member/3rd_anniv_event.html]]|
+|★4|&mons517; &mons518; &mons519; &mons1003; &mons1004;|
+|★2|&mons013; &mons017;|
+|★1|&mons1929; &mons1930; &mons1931;|
+
+- ティラ、プレシィ、ブラッキィが削除
+- まめティラ、まめプレシィ、まめブラッキィが追加
+
+** プレゼントガチャ6 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/03/07～:http://pad.gungho.jp/member/2nd_event2.html]]|
+|★4|&mons517; &mons518; &mons519; &mons1003; &mons1004;|
+|★2|&mons001; &mons005; &mons009; &mons013; &mons017;|
+
+- プレゼントBOXが追加
+
+** プレゼントガチャ1～5 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2013/10/30～:http://pad.gungho.jp/member/2000m.html]]|
+|>|BGCOLOR(#ffffff):[[2013/01/28～:http://pad.gungho.jp/member/700m.html]]|
+|>|BGCOLOR(#ffffff):[[2012/07/25～:http://pad.gungho.jp/member/100_m.html]]|
+|>|BGCOLOR(#ffffff):[[2012/04/18～:http://pad.gungho.jp/member/half_m.html]]|
+|>|BGCOLOR(#ffffff):リリース後～|
+|★2|&mons001; &mons005; &mons009; &mons013; &mons017;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

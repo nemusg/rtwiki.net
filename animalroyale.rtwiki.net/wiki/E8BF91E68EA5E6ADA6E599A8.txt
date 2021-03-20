@@ -1,0 +1,41 @@
+* 近接武器(Swords) [#y03bc23d]
+
+近接武器の画像は[[公式Wiki/Swords:https://animalroyale.gamepedia.com/Swords]]を参照。
+
+Swordsは近接武器であり、使用するために弾薬を必要とせず、木箱の破壊やTall grass（背の高い草）を伐採することができる。
+彼らはかなりの量のダメージを与え、動物が銃を持つよりも速く走ることを可能にします。
+
+- どの武器も性能は同じです
+- 赤いドラム缶を叩くと爆発してダメージを受けてしまうので注意してください
+- 近接武器で倒すと「YOUR STATS」の「MELEE KILLS」がカウントされます。
+
+|~名称|~レア度|~備考|
+|Katana||初期装備|
+|Knife|&color(#6bbf00){''Uncommon''};||
+|Stick|&color(#6bbf00){''Uncommon''};||
+|Hatchet|&color(#6bbf00){''Uncommon''};|近接武器10キルで獲得|
+|Sickle|&color(#6bbf00){''Uncommon''};|芝刈り300回で獲得|
+|Marshmallow Stick|&color(#6bbf00){''Uncommon''};|キャンプファイヤー1回使用で獲得|
+|Back Scratcher|&color(#00b5f2){''Rare''};||
+|Wood Plank|&color(#00b5f2){''Rare''};||
+|Wrench|&color(#00b5f2){''Rare''};||
+|Axe|&color(#00b5f2){''Rare''};|近接武器50キルで獲得|
+|Large Sickle|&color(#00b5f2){''Rare''};|芝刈り3,000回で獲得|
+|Burnt Marshmallow Stick|&color(#00b5f2){''Rare''};|キャンプファイヤー25回使用で獲得|
+|Crowbar|&color(#00b5f2){''Rare''};|2,500個のオブジェクト破壊で獲得|
+|Shovel|&color(#00b5f2){''Rare''};|15個クレートの開封で獲得|
+|Candy Cane|&color(#00b5f2){''Rare''};|クリスマスイベント2018|
+|Claymore|&color(#8733c6){''Epic''};||
+|Tomahawk|&color(#8733c6){''Epic''};|近接武器100キルで獲得|
+|Scythe|&color(#8733c6){''Epic''};|芝刈り20,000回で獲得|
+|Cooked Marshmallow Stick|&color(#8733c6){''Epic''};|キャンプファイヤー150回使用で獲得|
+|Bamboo Stick|&color(#8733c6){''Epic''};|旧正月イベント2019|
+|Rebellion Sword|&color(#dda300){''Legendary''};||
+|Tai Chi Sword|&color(#dda300){''Legendary''};|旧正月イベント2019|
+|Golfclub|||
+
+- [[v0.85.2>アップデート情報/v0.85.2]] Hatchet, Axe, Tomahawk が追加
+
+* コメント [#t430b455]
+
+#pcomment

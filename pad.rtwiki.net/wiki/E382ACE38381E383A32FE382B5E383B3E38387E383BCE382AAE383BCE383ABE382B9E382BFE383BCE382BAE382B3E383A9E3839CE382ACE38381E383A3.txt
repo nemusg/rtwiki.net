@@ -1,0 +1,33 @@
+* サンデーオールスターズ コラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+クセがあるか、どこかで見た性能のモンスターが多い
+うしおととらがちょっとだけ強いが覚醒サクヤを持っていればあまり要らない
+あとは好きなキャラクターであるかどうか
+}}
+
+** サンデーオールスターズ コラボガチャ2 [#xf9caf94]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/04/25～2016/05/08:http://pad.gungho.jp/member/collabo/sunday/160422_sunday_lineup.html]]|
+|★6|&mons2457; &mons2464; &mons2839; &mons2853;|
+|★5|&mons2462; &mons2468; &mons2472; &mons2474; &mons2843; &mons2845; &mons2859; &mons2861;|
+|★4|&mons2460; &mons2466; &mons2470; &mons2476; &mons2841; &mons2847; &mons2849; &mons2851; &mons2855; &mons2857;|
+
+** サンデーオールスターズ コラボガチャ [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/11/23～2015/12/06:http://pad.gungho.jp/member/collabo/151120_sunday_lineup.html]]|
+|★6|&mons2457; &mons2464;|
+|★5|&mons2462; &mons2468; &mons2472; &mons2474;|
+|★4|&mons2460; &mons2466; &mons2470; &mons2476;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

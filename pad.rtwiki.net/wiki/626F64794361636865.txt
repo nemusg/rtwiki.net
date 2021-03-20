@@ -1,0 +1,33 @@
+* PukiWiki bodycache [#xccb3fdf]
+
+PukiWiki bodycache パッチのページです。
+
+** 概要 [#s9a1824e]
+PukiWiki にて、ページの生成/表示を高速化するためのパッチです。
+PukiWiki が生成する HTML のうち、 wiki/*.txt(body) に由来する部分をキャッシュします。
+EDEN 533MHz といった非常に非力なサーバでは、
+システムに他の負荷がかかっていない状態で、最下部に表示される HTML convert time で計測して、 2-50 倍の高速化になった実績があります。~
+~
+実装等の詳細は、添付してある bodycache-xxx.tgz 内の Readme_sjis.txt をご覧ください。~
+~
+実際に、どの程度効果があるかを確認するには、
++ [[練習ページ]]を編集する（中身を実際に修正する必要はありません。）
++ HTML convert time を確認 (キャッシュ無効)
++ リロードする
++ HTML convert time を確認 (キャッシュ有効)
+~
+として、2, 4 の時間差を確認していただけるとよいと思います。
+練習ページのサイズを大きくすることで、効果を顕著に発生させることが出来ます。
+
+** 主な仕様 [#z318bad3]
+擬似 plugin として #bodycache を指定することで、
+キャッシュの生成をコントロールできます。
+:#bodycache(enable)|bodycache を強制的に有効にします。
+:#bodycache(disable)|bodycache を強制的に無効にします。
+
+特に指定が無いページの場合、bodycache はデフォルトで有効です。
+なお、#bodycache はページの先頭（正確には、自動無効化対象 plugin より前）に
+書く必要があります。
+
+** Update [#y6394c0f]
+-2007/11/12 : 新ツリーからリリース paraedit は有効化されていません。

@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/08/05 12:00:00,2016/08/14 23:59:59);[[夏休みスペシャル（前半）:http://pad.gungho.jp/member/event/160804_summer_event_1st.html]]

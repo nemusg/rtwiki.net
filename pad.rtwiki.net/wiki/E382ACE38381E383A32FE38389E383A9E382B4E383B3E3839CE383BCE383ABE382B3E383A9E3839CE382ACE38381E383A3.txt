@@ -1,0 +1,54 @@
+* ドラゴンボールコラボガチャ  [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+ベジットに進化できる悟空が当たり。時点ではベジータ。
+自傷スキル持ちの天津飯や、スキルの火力が高い17号をサブで使う人はたまにいる。
+}}
+
+** ドラゴンボール コラボガチャ4 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/03/16～2015/03/29:http://pad.gungho.jp/member/dragonball4_list.html]]|
+|★5|&mons1394; &mons1396; &mons1398; &mons1400; &mons1569; &mons1801; &mons1940;|
+|★4|&mons1402; &mons1404; &mons1406; &mons1408; &mons1410; &mons1563; &mons1565; &mons1567; &mons1583; &mons1795; &mons1799; &mons1797;|
+
+- クリリン、ヤムチャ、天津飯、餃子が復活
+- ウーブが追加
+
+** ドラゴンボール コラボガチャ3 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/12/29～2015/01/11:http://pad.gungho.jp/member/dragonball_list3.html]]|
+|★5|&mons1394; &mons1396; &mons1398; &mons1400; &mons1569; &mons1801;|
+|★4|&mons1402; &mons1563; &mons1565; &mons1567; &mons1583; &mons1795; &mons1799; &mons1797;|
+
+- クリリン、ヤムチャ、天津飯、餃子が削除
+- ビーデル、ナッパ、ラディッツ、ゴテンクスが追加
+
+** ドラゴンボール コラボガチャ2 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/09/22～2014/10/05:http://pad.gungho.jp/member/dragonball_list2.html]]|
+|★5|&mons1394; &mons1396; &mons1398; &mons1400; &mons1569;|
+|★4|&mons1402; &mons1404; &mons1406; &mons1408; &mons1410; &mons1563; &mons1565; &mons1567; &mons1583;|
+
+- 人造人間16号、人造人間17号、人造人間18号、セル・第1形態、ミスター・サタンが追加
+
+** ドラゴンボール コラボガチャ1 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/06/05～2014/06/15:http://pad.gungho.jp/member/dragonball_list.html]]|
+|★5|&mons1394; &mons1396; &mons1398; &mons1400;|
+|★4|&mons1402; &mons1404; &mons1406; &mons1408; &mons1410;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

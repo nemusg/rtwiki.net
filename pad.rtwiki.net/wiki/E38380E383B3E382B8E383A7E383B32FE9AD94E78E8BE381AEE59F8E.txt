@@ -1,0 +1,175 @@
+* &font2(60%){まおうのしろ};魔王の城 [#da412d08]
+
+|~名称		|~スタミナ|~バトル|~取得コイン|~取得EXP|~EXP効率|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|c
+|暗闇の王		|11|10|7900|3000|&color(#080){''272''};|
+|王を守る者	|9|7|5400|2400|&color(#080){''266''};|
+|魔獣の檻		|9|7|5400|2100|&color(#080){''233''};|
+|魔女達の舞踏会	|9|7|5200|2000|&color(#080){''222''};|
+|城門		|9|7|4800|2000|&color(#080){''222''};|
+
+- イベントで「珍客パーティ」が開催されることがある。
+-- 期間中は普段出現しないモンスターが稀に出現する。
+- ''暗闇の王'' ヴァンパイアロードのHPが多いので、バジリスクから倒すのが楽。
+
+|~面|~モンスター	|~属|~攻撃力|~後|~HP|~防御|~備考|
+|RIGHT:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:||c
+|>|>|>|>|>|>|>|BGCOLOR(#b6c3d7):共通|
+||[[アメジストカーバンクル>モンスター図鑑/0055]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''1237''};|&color(#b00){2};|3573|56||
+||[[フレイムファイター>モンスター図鑑/0068]]	|BGCOLOR(#f1bba6):火|&color(#b00){''1140''};|&color(#b00){3};|3746|100||
+||[[ブラックファイター>モンスター図鑑/0076]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''1350''};|&color(#b00){3};|5000|100||
+||[[ホブゴブリン>モンスター図鑑/0061]]		|BGCOLOR(#bbf1a6):木|&color(#b00){''1714''};|&color(#b00){4};|6240|56||
+||[[ブルーオーガ>モンスター図鑑/0064]]		|BGCOLOR(#a6f1f1):水|&color(#b00){''2310''};|&color(#b00){5};|10646|0||
+||[[ヴァンパイア>モンスター図鑑/0110]]		|BGCOLOR(#bba6f1):闇|&color(#b00){''1749''};|&color(#b00){3};|20000|72|低確率で出現|
+||[[ハイゴールドドラゴン>モンスター図鑑/0180]]	|BGCOLOR(#f1f1a6):光|&color(#b00){''233''};|&color(#b00){1};|15|15000||
+||[[ハイメタルドラゴン>モンスター図鑑/0177]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''233''};|&color(#b00){1};|15|15000||
+||[[ミスリット>モンスター図鑑/0160]]		|BGCOLOR(#bba6f1):闇|&color(#b00){''?''};|&color(#b00){?};|||珍客パーティ限定|
+||[[ドラゴンフルーツ>モンスター図鑑/0227]]		|BGCOLOR(#bbf1a6):木|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[光の番人>モンスター図鑑/0150]]		|BGCOLOR(#f1f1a6):光|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[闇の番人>モンスター図鑑/0151]]		|BGCOLOR(#bba6f1):闇|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[キングルビードラゴン>モンスター図鑑/0254]]	|BGCOLOR(#f1bba6):火|&color(#b00){''?''};|&color(#b00){?};|||珍客パーティ限定|
+||[[キングサファイアドラゴン>モンスター図鑑/0257]]	|BGCOLOR(#a6f1f1):水|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[キングエメラルドドラゴン>モンスター図鑑/0260]]	|BGCOLOR(#bbf1a6):木|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[キングゴールドドラゴン>モンスター図鑑/0181]]	|BGCOLOR(#f1f1a6):光|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[キングメタルドラゴン>モンスター図鑑/0178]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[フェニックスナイト>モンスター図鑑/0099]]	|BGCOLOR(#f1bba6):火|&color(#b00){''?''};|&color(#b00){?};|||珍客パーティ限定|
+||[[フェンリルナイト>モンスター図鑑/0101]]		|BGCOLOR(#a6f1f1):水|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[ドラゴンナイト>モンスター図鑑/0103]]		|BGCOLOR(#bbf1a6):木|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[ヴァーチェ>モンスター図鑑/0105]]		|BGCOLOR(#f1f1a6):光|&color(#b00){''?''};|&color(#b00){?};|||~|
+||[[ダークドラゴンナイト>モンスター図鑑/0109]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''?''};|&color(#b00){?};|||~|
+|>|>|>|>|>|>|>|BGCOLOR(#b6c3d7):城門|
+|7|[[マシンゴーレムMk-II>モンスター図鑑/0085]]	|BGCOLOR(#f1f1a6):光|&color(#b00){''2494''};|&color(#b00){3};|47013|390||
+|~|[[ダークゴーレムMk-II>モンスター図鑑/0087]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''2606''};|&color(#b00){3};|48873|390||
+|>|>|>|>|>|>|>|BGCOLOR(#b6c3d7):魔女達の舞踏会|
+|7|[[リリス>モンスター図鑑/0097]]			|BGCOLOR(#bba6f1):闇|&color(#b00){''2112''};|&color(#b00){2};|61973|||
+|~|[[エキドナ>モンスター図鑑/0089]]		|BGCOLOR(#f1bba6):火|&color(#b00){''1792''};|&color(#b00){2};|51306|76||
+|>|>|>|>|>|>|>|BGCOLOR(#b6c3d7):魔獣の檻|
+|7|[[シーサーペント>モンスター図鑑/0114]]		|BGCOLOR(#a6f1f1):水|&color(#b00){''1467''};|&color(#b00){4};|37633|66||
+|~|[[白龍>モンスター図鑑/0118]]			|BGCOLOR(#f1f1a6):光|&color(#b00){''1474''};|&color(#b00){2};|43213|66||
+|~|[[ドラゴンナイト>モンスター図鑑/0103]]		|BGCOLOR(#bbf1a6):木|&color(#b00){''1973''};|&color(#b00){2};|62026|260||
+|>|>|>|>|>|>|>|BGCOLOR(#b6c3d7):王を守る者|
+|7|[[フェニックスナイト>モンスター図鑑/0099]]	|BGCOLOR(#f1bba6):火|&color(#b00){''1514''};|&color(#b00){4};|48873|195||
+|~|[[フェンリルナイト>モンスター図鑑/0101]]	|BGCOLOR(#a6f1f1):水|&color(#b00){''819''};|&color(#b00){2};|37706|195||
+|~|[[ダークドラゴンナイト>モンスター図鑑/0109]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''2613''};|&color(#b00){4};|75360|260||
+|>|>|>|>|>|>|>|BGCOLOR(#b6c3d7):暗闇の王|
+|10|[[バジリスク>モンスター図鑑/0120]]x2		|BGCOLOR(#bba6f1):闇|&color(#b00){''1243''};|&color(#b00){2};|45073|66||
+|~|[[ヴァンパイアロード>モンスター図鑑/0111]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''3029''};|&color(#b00){3};|214080|280||
+
+- 攻撃ターン数は表記より1ターン前後することがあります
+- ドロップ報告はコメント欄を参照してください
+
+//||	|BGCOLOR(#f1bba6):火|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#a6f1f1):水|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#bbf1a6):木|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#f1f1a6):光|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#bba6f1):闇|&color(#b00){''?''};|&color(#b00){?};||||
+
+** 珍客パーティ [#xbf40a96]
+
+|シルバーウィークイベント&br;（2015/09/19～2015/09/27）|&mons797;|
+
+//折りたたみ開始
+#div(start,dvPCExpand)
+#style(class=pageLabel){{
+過去の珍客パーティ
+}}
+#style(class=pageList){{
+
+|夏休みスペシャル（後半）&br;（2015/08/17～2015/08/23）|&mons797;|
+
+- フロアごとに出現するモンスターは決まっている。日付変更で配置換え。
+
+||>|>|>|>|>|>|>|ガンホースマホアプリ5000万DL突破記念&br;（2014/08/22～2014/08/29）|
+|~|22|23|24|25|26|27|28|29|
+|暗闇の王|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1f1a6):&mons105;|
+|王を守る者|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|
+|魔獣の檻|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|魔女達の舞踏会|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#ffffff):&mons1321;|
+|城門|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#a6f1f1):&mons101;|
+
+||>|>|>|>|>|>|ムラコフォロワー100万人突破記念&br;（2014/07/07～2014/07/13）|
+|~|07|08|09|10|11|12|13|
+|暗闇の王|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|王を守る者|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#a6f1f1):&mons101;|
+|魔獣の檻|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1f1a6):&mons105;|
+|魔女達の舞踏会|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bbf1a6):&mons103;|
+|城門|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|
+
+||>|>|>|>|2500万DL達成記念&br;（2014/04/11～2014/04/20）|
+|~|11,12|13,14|15,16|17,18|19,20|
+|暗闇の王|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|王を守る者|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|魔獣の檻|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|魔女達の舞踏会|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|城門|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+
+||>|>|>|>|『パズドラＺ』100万本突破記念&br;（2014/01/10～2014/01/19）|
+|~|10,11|12,13|14,15|16,17|18,19|
+|暗闇の王|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|王を守る者|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|魔獣の檻|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|魔女達の舞踏会|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|城門|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+
+||>|>|>|>|1800万DL達成記念&br;（2013/08/30～2013/09/08）|
+|~|30,31|01,02|03,04|05,06|07,08|
+|暗闇の王|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|王を守る者|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|魔獣の檻|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|魔女達の舞踏会|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|城門|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+
+||>|>|>|1500万DL達成記念&br;（2013/06/28～2013/07/05）|
+|~|28,29|30,01|02,03|04,05|
+|暗闇の王|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|王を守る者|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|魔獣の檻|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|魔女達の舞踏会|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|城門|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+
+||>|>|>|>|1100万DL達成記念&br;（2013/03/29～2013/04/07）|
+|~|29,30|31,01|02,03|04,05|06,07|
+|暗闇の王|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|王を守る者|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|魔獣の檻|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|魔女達の舞踏会|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|城門|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+
+||>|>|>|>|500万DL達成記念&br;（2012/12/14～2012/12/23）|
+|~|14,15|16,17|18,19|20,21|22,23|
+|暗闇の王|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|王を守る者|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|魔獣の檻|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|魔女達の舞踏会|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|城門|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+
+- 初期の珍客パーティは全フロア共通。日付ごとにモンスター変更。
+
+|150万DL達成記念&br;（2012/10/08～2012/10/14）|08|09|10|11|12|13|14|
+|~|&mons178;|&mons257;|&mons151;|&mons181;|&mons150;|&mons260;|&mons254;|
+|120万DL達成記念&br;（2012/09/11～2012/09/17）|11|12|13|14|15|16|17|
+|~|&mons254;|&mons257;|&mons260;|&mons181;|&mons151;|&mons150;|&mons178;|
+|110万DL達成記念&br;（2012/08/10～2012/08/17）|10,11|12|13|14|15|16,17||
+|~|&mons150;|&mons181;|&mons254;|&mons257;|&mons260;|&mons151;||
+|90万DL達成記念&br;（2012/06/28～2012/07/16）|28,29|30,01|02|03,04|05,06|||
+|~|&mons151;|&mons227;|&mons181;|&mons160;|&mons150;|||
+|80万DL達成記念&br;（2012/06/15～2012/06/22）|15,16|17,18|19,20|21,22||||
+|~|&mons150;|&mons160;|&mons227;|&mons151;||||
+|70万DL達成記念&br;（2012/05/18～2012/05/25）|19-21|23-25||||||
+|~|&mons150;|&mons151;||||||
+|GWキャンペーン&br;（2012/04/29～2012/05/07）|29-02|03-06||||||
+|~|&mons160;|&mons181;||||||
+|50万DL達成記念&br;（2012/04/13～2012/04/22）|17|18|19|||||
+|~|&mons160;|&mons150;|&mons151;|||||
+|40万DL達成記念&br;（2012/03/29～2012/04/06）|04|05|06|||||
+|~|&mons160;|&mons150;|&mons151;|||||
+
+}}
+#div(end)
+//折りたたみ終了
+
+* コメント [#yeccad92]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

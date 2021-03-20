@@ -1,0 +1,17 @@
+** 公式お知らせ [#m9a42560]
+
+//通常ガチャイベント・販促イベント等は省略
+//アップデートや障害情報については表記
+
+//負荷軽減目的でトップページのキャッシュを有効化しました。（表示速度が速くなりました）
+//このページの更新がトップページに反映されるのが毎時0分になります。放っておけば反映されるはずです。
+
+//include2.phpによって、最初の10行分だけが表示される仕様に変わりました。
+
+- 2021/03/19 [[キャラクター進化情報＆能力調整:http://pad.gungho.jp/member/collabo/fate/210319/adjust.html]]
+- 2021/03/19 [[『Fate/stay night [HF]』コラボ第3弾:http://pad.gungho.jp/member/collabo/fate/210319/index.html]]
+- 2021/03/19 [[ランキングダンジョン「山本Pランク1000記念杯」開催:http://pad.gungho.jp/member/ranking/089_rank1000_cup.html]]
+- 2021/03/18 [[モンスター進化情報＆能力調整:http://pad.gungho.jp/member/adjust/210318/index.html]]
+- 2021/03/12 [[スプリングスペシャル:http://pad.gungho.jp/member/event/210312_spring.html]]
+
+RIGHT:&edit(Parts/お知らせ,noicon){編集};・[[過去ログ>Parts/お知らせ/過去ログ]]

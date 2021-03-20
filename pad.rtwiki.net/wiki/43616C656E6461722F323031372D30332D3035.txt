@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2017/02/20 00:00:00,2017/03/05 23:59:59);[[パズル＆ドラゴンズ リリース5周年記念イベント:http://pad.gungho.jp/member/event/170217_5th.html]]

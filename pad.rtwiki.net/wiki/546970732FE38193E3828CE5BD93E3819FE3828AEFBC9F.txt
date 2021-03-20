@@ -1,0 +1,492 @@
+#bodycache(disable)
+//個別ページで編集した内容が即反映されるように、キャッシュを無効化しています。
+
+* ○○手に入れたんだけどこれ当たり？ [#vf0f26ef]
+
+#contents
+
+** このページについて [#v79e22cf]
+
+- レアガチャ限定のモンスターを抜粋。期間限定ガチャのモンスターは[[Tips/これ当たり？/コラボガチャ]]を参照。これ以外は[[入手方法]]等を参照。
+- 11段階評価を表記していましたが、どのキャラが強いかはそれぞれに考えがあり荒れる元となるので廃止。
+-- スマホ版に配慮して表示形式を見出しで分割しました。
+-- ''内容が古くなった時の更新の負担を軽減する為に、テキストをモンスター個別ページからincludeさせて表示しています。''編集する場合は個別ページで。
+- このページの評価の多くは、十分な議論がなされないまま個人の主観で書かれた物です。何を評価するかは人それぞれです。極論、あなたが当たりと思ったものが当たりです。
+
+&color(#b00){''TIPS''}; 分類は[[ゴッドフェス>ガチャ/ゴッドフェス]]と同じ
+
+** レアガチャ限定のモンスター一覧 [#uf04f379]
+
+*** 晩成龍（ガチャ龍） [#p41d84b6]
+
+[[天上からの贈り物>スペシャルダンジョン/天上からの贈り物]]や降臨ダンジョンで入手できるので厳密にはレアガチャ限定ではない。
+
+#style(class=monsTable){{
+|~&mons112; サラマンダー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0112,notitle,or,note)|
+|~&mons114; シーサーペント|
+|CLASS(text_td):#ginclude(モンスター図鑑/0114,notitle,or,note)|
+|~&mons116; ドラゴネット|
+|CLASS(text_td):#ginclude(モンスター図鑑/0116,notitle,or,note)|
+|~&mons118; 白龍|
+|CLASS(text_td):#ginclude(モンスター図鑑/0118,notitle,or,note)|
+|~&mons120; バジリスク|
+|CLASS(text_td):#ginclude(モンスター図鑑/0120,notitle,or,note)|
+}}
+
+*** 西洋神 [#h95b6c7f]
+
+#style(class=monsTable){{
+|~&mons122; ミネルヴァ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0122,notitle,or,note)|
+|~&mons124; ネプチューン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0124,notitle,or,note)|
+|~&mons126; セレス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0126,notitle,or,note)|
+|~&mons128; ヴィーナス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0128,notitle,or,note)|
+|~&mons130; ハーデス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0130,notitle,or,note)|
+}}
+
+*** 和神 [#r0373eed]
+
+#style(class=monsTable){{
+|~&mons132; カグツチ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0132,notitle,or,note)|
+|~&mons134; オロチ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0134,notitle,or,note)|
+|~&mons136; スサノオ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0136,notitle,or,note)|
+|~&mons138; アマテラス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0138,notitle,or,note)|
+|~&mons140; ヨミ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0140,notitle,or,note)|
+}}
+
+*** 東洋神（インド神） [#cc0defa2]
+
+#style(class=monsTable){{
+|~&mons236; シヴァ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0236,notitle,or,note)|
+|~&mons238; ラクシュミー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0238,notitle,or,note)|
+|~&mons240; パールヴァティー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0240,notitle,or,note)|
+|~&mons242; インドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0242,notitle,or,note)|
+|~&mons244; ヴリトラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0244,notitle,or,note)|
+}}
+
+*** 玩具龍（ファンシードラゴン） [#i64067a9]
+
+ピエドラは[[アンケートダンジョン6>スペシャルダンジョン/アンケートダンジョン6]]で入手可能。
+フェリオは[[アンケートダンジョン8>スペシャルダンジョン/アンケートダンジョン8]]で入手可能。
+
+#style(class=monsTable){{
+|~&mons288; ドラール|
+|CLASS(text_td):#ginclude(モンスター図鑑/0288,notitle,or,note)|
+|~&mons291; シャードラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0291,notitle,or,note)|
+|~&mons294; トイトプス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0294,notitle,or,note)|
+|~&mons297; フェリオ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0297,notitle,or,note)|
+|~&mons300; ピエドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0300,notitle,or,note)|
+}}
+
+*** 精霊 [#xaaa0c93]
+
+#style(class=monsTable){{
+|~&mons352; シャイターン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0352,notitle,or,note)|
+|~&mons354; ウンディーネ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0354,notitle,or,note)|
+|~&mons356; シルフ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0356,notitle,or,note)|
+|~&mons358; ジーニャ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0358,notitle,or,note)|
+|~&mons360; タナトス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0360,notitle,or,note)|
+}}
+
+*** オーディン（ゴッドフェス限定） [#fea4cdc8]
+
+#style(class=monsTable){{
+|~&mons362; オーディン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0362,notitle,or,note)|
+|~&mons364; 秘神・オーディン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0364,notitle,or,note)|
+|~&mons1107; 幻神・オーディン|
+|CLASS(text_td):#ginclude(モンスター図鑑/1107,notitle,or,note)|
+}}
+
+*** 北欧神 [#x8e1be31]
+
+#style(class=monsTable){{
+|~&mons368; フレイ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0368,notitle,or,note)|
+|~&mons370; イズン＆イズーナ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0370,notitle,or,note)|
+|~&mons372; フレイヤ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0372,notitle,or,note)|
+|~&mons374; トール|
+|CLASS(text_td):#ginclude(モンスター図鑑/0374,notitle,or,note)|
+|~&mons376; ロキ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0376,notitle,or,note)|
+}}
+
+*** ライダー [#yfc6035e]
+
+#style(class=monsTable){{
+|~&mons378; ディノライダー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0378,notitle,or,note)|
+|~&mons380; ビーストライダー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0380,notitle,or,note)|
+|~&mons382; マリンライダー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0382,notitle,or,note)|
+|~&mons384; ドラゴンライダー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0384,notitle,or,note)|
+|~&mons386; グリプスライダー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0386,notitle,or,note)|
+}}
+
+*** エジプト神 [#ga052350]
+
+#style(class=monsTable){{
+|~&mons490; ホルス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0490,notitle,or,note)|
+|~&mons492; イシス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0492,notitle,or,note)|
+|~&mons494; バステト|
+|CLASS(text_td):#ginclude(モンスター図鑑/0494,notitle,or,note)|
+|~&mons496; ラー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0496,notitle,or,note)|
+|~&mons498; アヌビス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0498,notitle,or,note)|
+}}
+
+*** 忍者 [#qb7fe6e5]
+
+#style(class=monsTable){{
+|~&mons555; 望月千代女|
+|CLASS(text_td):#ginclude(モンスター図鑑/0555,notitle,or,note)|
+|~&mons557; 初芽局|
+|CLASS(text_td):#ginclude(モンスター図鑑/0557,notitle,or,note)|
+|~&mons559; 猿飛佐助|
+|CLASS(text_td):#ginclude(モンスター図鑑/0559,notitle,or,note)|
+|~&mons561; 風魔小太郎|
+|CLASS(text_td):#ginclude(モンスター図鑑/0561,notitle,or,note)|
+|~&mons563; 服部半蔵|
+|CLASS(text_td):#ginclude(モンスター図鑑/0563,notitle,or,note)|
+}}
+
+*** 新西洋神 [#nae2ef33]
+
+#style(class=monsTable){{
+|~&mons567; アレス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0567,notitle,or,note)|
+|~&mons569; ヘルメス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0569,notitle,or,note)|
+|~&mons571; アルテミス|
+|CLASS(text_td):#ginclude(モンスター図鑑/0571,notitle,or,note)|
+|~&mons573; アポロン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0573,notitle,or,note)|
+|~&mons575; ペルセポネ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0575,notitle,or,note)|
+}}
+
+*** 天使 [#r46d6665]
+
+#style(class=monsTable){{
+|~&mons620; 大天使・ウリエル|
+|CLASS(text_td):#ginclude(モンスター図鑑/0620,notitle,or,note)|
+|~&mons622; 大天使・ガブリエル|
+|CLASS(text_td):#ginclude(モンスター図鑑/0622,notitle,or,note)|
+|~&mons624; 大天使・ミカエル|
+|CLASS(text_td):#ginclude(モンスター図鑑/0624,notitle,or,note)|
+|~&mons626; 大天使・ラファエル|
+|CLASS(text_td):#ginclude(モンスター図鑑/0626,notitle,or,note)|
+|~&mons628; 大天使・ルシファー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0628,notitle,or,note)|
+}}
+
+*** 悪魔 [#ae1adf24]
+
+#style(class=monsTable){{
+|~&mons630; 魔神・ベリアル|
+|CLASS(text_td):#ginclude(モンスター図鑑/0630,notitle,or,note)|
+|~&mons632; 魔神・アモン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0632,notitle,or,note)|
+|~&mons634; 魔神・アスタロト|
+|CLASS(text_td):#ginclude(モンスター図鑑/0634,notitle,or,note)|
+|~&mons636; 魔神・バアル|
+|CLASS(text_td):#ginclude(モンスター図鑑/0636,notitle,or,note)|
+|~&mons638; 堕天使・ルシファー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0638,notitle,or,note)|
+}}
+
+*** メタトロン（ゴッドフェス限定） [#qbdf96c8]
+
+#style(class=monsTable){{
+|~&mons640; 代行者・メタトロン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0640,notitle,or,note)|
+|~&mons642; 執行者・メタトロン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0642,notitle,or,note)|
+}}
+
+*** 四獣神（中国神） [#d94b782d]
+
+#style(class=monsTable){{
+|~&mons745; 朱雀の化身・レイラン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0745,notitle,or,note)|
+|~&mons747; 青龍の化身・カリン|
+|CLASS(text_td):#ginclude(モンスター図鑑/0747,notitle,or,note)|
+|~&mons749; 玄武の化身・メイメイ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0749,notitle,or,note)|
+|~&mons751; 麒麟の化身・サクヤ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0751,notitle,or,note)|
+|~&mons753; 白虎の化身・ハク|
+|CLASS(text_td):#ginclude(モンスター図鑑/0753,notitle,or,note)|
+}}
+
+*** 新和神 [#a1afce9f]
+
+#style(class=monsTable){{
+|~&mons799; アメノウズメ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0799,notitle,or,note)|
+|~&mons801; ウミサチヤマサチ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0801,notitle,or,note)|
+|~&mons803; クシナダヒメ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0803,notitle,or,note)|
+|~&mons805; イザナギ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0805,notitle,or,note)|
+|~&mons807; オオクニヌシ|
+|CLASS(text_td):#ginclude(モンスター図鑑/0807,notitle,or,note)|
+}}
+
+*** ソニア（ゴッドフェス限定） [#pdd04ca9]
+
+#style(class=monsTable){{
+|~&mons911; 赤龍喚士・ソニア|
+|CLASS(text_td):#ginclude(モンスター図鑑/0911,notitle,or,note)|
+|~&mons913; 緑龍喚士・ソニア|
+|CLASS(text_td):#ginclude(モンスター図鑑/0913,notitle,or,note)|
+|~&mons1088; 青龍喚士・ソニア|
+|CLASS(text_td):#ginclude(モンスター図鑑/1088,notitle,or,note)|
+}}
+
+*** 色違いヴァルキリー [#zb10654e]
+
+#style(class=monsTable){{
+|~&mons972; 麗乙女・プリンセスヴァルキリー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0972,notitle,or,note)|
+|~&mons982; 熾乙女・プリンセスヴァルキリー|
+|CLASS(text_td):#ginclude(モンスター図鑑/0982,notitle,or,note)|
+|~&mons1270; 烈乙女・プリンセスヴァルキリー|
+|CLASS(text_td):#ginclude(モンスター図鑑/1270,notitle,or,note)|
+|~&mons1516; 爽乙女・プリンセスヴァルキリー|
+|CLASS(text_td):#ginclude(モンスター図鑑/1516,notitle,or,note)|
+}}
+
+*** 英雄神 [#o5df6343]
+
+#style(class=monsTable){{
+|~&mons1065; ヤマトタケル|
+|CLASS(text_td):#ginclude(モンスター図鑑/1065,notitle,or,note)|
+|~&mons1067; アンドロメダ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1067,notitle,or,note)|
+|~&mons1069; ペルセウス|
+|CLASS(text_td):#ginclude(モンスター図鑑/1069,notitle,or,note)|
+|~&mons1071; 孫悟空|
+|CLASS(text_td):#ginclude(モンスター図鑑/1071,notitle,or,note)|
+|~&mons1073; パンドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1073,notitle,or,note)|
+}}
+
+*** 果実龍（フルーツドラゴン） [#o3fe9907]
+
+進化後は[[天樹からの贈り物>スペシャルダンジョン/天樹からの贈り物]]で入手可能。
+
+#style(class=monsTable){{
+|~&mons1075; いちドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1075,notitle,or,note)|
+|~&mons1077; べりドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1077,notitle,or,note)|
+|~&mons1079; めろドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1079,notitle,or,note)|
+|~&mons1081; れもドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1081,notitle,or,note)|
+|~&mons1083; ぶどドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1083,notitle,or,note)|
+}}
+
+*** パズドラＺ [#hdcc5372]
+
+#style(class=monsTable){{
+|~&mons1120; バーサーカーＺ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1120,notitle,or,note)|
+|~&mons1122; ウル・キマイラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1122,notitle,or,note)|
+|~&mons1124; グリムロック|
+|CLASS(text_td):#ginclude(モンスター図鑑/1124,notitle,or,note)|
+|~&mons1126; ラディウス|
+|CLASS(text_td):#ginclude(モンスター図鑑/1126,notitle,or,note)|
+|~&mons1128; ドラゴン・サムライ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1128,notitle,or,note)|
+|~&mons1130; アヴァロンドレイク|
+|CLASS(text_td):#ginclude(モンスター図鑑/1130,notitle,or,note)|
+|~&mons1349; エクサ・ヒドラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1349,notitle,or,note)|
+|~&mons1351; ウッドバーン|
+|CLASS(text_td):#ginclude(モンスター図鑑/1351,notitle,or,note)|
+|~&mons1353; 雷龍・キリサメ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1353,notitle,or,note)|
+|~&mons1355; アニマ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1355,notitle,or,note)|
+|~&mons1357; カースドラゴン|
+|CLASS(text_td):#ginclude(モンスター図鑑/1357,notitle,or,note)|
+}}
+
+*** 三国神 [#je61f0c2]
+
+#style(class=monsTable){{
+|~&mons1231; 曹操|
+|CLASS(text_td):#ginclude(モンスター図鑑/1231,notitle,or,note)|
+|~&mons1233; 孫権|
+|CLASS(text_td):#ginclude(モンスター図鑑/1233,notitle,or,note)|
+|~&mons1235; 劉備|
+|CLASS(text_td):#ginclude(モンスター図鑑/1235,notitle,or,note)|
+|~&mons1237; 大喬＆小喬|
+|CLASS(text_td):#ginclude(モンスター図鑑/1237,notitle,or,note)|
+|~&mons1239; 呂布|
+|CLASS(text_td):#ginclude(モンスター図鑑/1239,notitle,or,note)|
+}}
+
+*** 関羽（ゴッドフェス限定） [#h17d0d76]
+
+#style(class=monsTable){{
+|~&mons1241; 美髯神・関羽|
+|CLASS(text_td):#ginclude(モンスター図鑑/1241,notitle,or,note)|
+|~&mons1243; 忠義神・関羽|
+|CLASS(text_td):#ginclude(モンスター図鑑/1243,notitle,or,note)|
+}}
+
+*** 諸葛亮（ゴッドフェス限定） [#edfdbd21]
+
+#style(class=monsTable){{
+|~&mons1372; 臥龍神・諸葛亮|
+|CLASS(text_td):#ginclude(モンスター図鑑/1372,notitle,or,note)|
+|~&mons1374; 命龍神・諸葛亮|
+|CLASS(text_td):#ginclude(モンスター図鑑/1374,notitle,or,note)|
+}}
+
+*** 童話娘 [#z351345e]
+
+#style(class=monsTable){{
+|~&mons1412; 赤ずきん|
+|CLASS(text_td):#ginclude(モンスター図鑑/1412,notitle,or,note)|
+|~&mons1414; 白雪姫|
+|CLASS(text_td):#ginclude(モンスター図鑑/1414,notitle,or,note)|
+|~&mons1416; おやゆび姫|
+|CLASS(text_td):#ginclude(モンスター図鑑/1416,notitle,or,note)|
+|~&mons1418; シンデレラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1418,notitle,or,note)|
+|~&mons1420; ねむり姫|
+|CLASS(text_td):#ginclude(モンスター図鑑/1420,notitle,or,note)|
+}}
+
+
+*** 新東洋神（新インド神） [#f16d76e9]
+
+#style(class=monsTable){{
+|~&mons1330; クリシュナ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1330,notitle,or,note)|
+|~&mons1332; サラスヴァティ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1332,notitle,or,note)|
+|~&mons1334; ヴィシュヌ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1334,notitle,or,note)|
+|~&mons1336; ガネーシャ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1336,notitle,or,note)|
+|~&mons1338; ドゥルガー|
+|CLASS(text_td):#ginclude(モンスター図鑑/1338,notitle,or,note)|
+}}
+
+*** 龍剣士 [#b1f4077a]
+
+#style(class=monsTable){{
+|~&mons1502; 火の龍剣士|
+|CLASS(text_td):#ginclude(モンスター図鑑/1502,notitle,or,note)|
+|~&mons1504; 水の龍剣士|
+|CLASS(text_td):#ginclude(モンスター図鑑/1504,notitle,or,note)|
+|~&mons1506; 光の龍剣士|
+|CLASS(text_td):#ginclude(モンスター図鑑/1506,notitle,or,note)|
+}}
+
+*** アポカリプス（ゴッドフェス限定） [#oaff103d]
+
+#style(class=monsTable){{
+|~&mons1359; アポカリプス|
+|CLASS(text_td):#ginclude(モンスター図鑑/1359,notitle,or,note)|
+}}
+
+*** カーリー（ゴッドフェス限定） [#uf30ddeb]
+
+#style(class=monsTable){{
+|~&mons1585; 秘女神・カーリー|
+|CLASS(text_td):#ginclude(モンスター図鑑/1585,notitle,or,note)|
+|~&mons1587; 威女神・カーリー|
+|CLASS(text_td):#ginclude(モンスター図鑑/1587,notitle,or,note)|
+}}
+
+*** マジシャン [#dc7180e9]
+
+#style(class=monsTable){{
+|~&mons1614; 火の魔法使い・ライラ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1614,notitle,or,note)|
+|~&mons1616; 水の魔法使い・シャロン|
+|CLASS(text_td):#ginclude(モンスター図鑑/1616,notitle,or,note)|
+|~&mons1618; 木の魔法使い・リーザ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1618,notitle,or,note)|
+|~&mons1620; 光の魔法使い・レイ＝シリウス|
+|CLASS(text_td):#ginclude(モンスター図鑑/1620,notitle,or,note)|
+|~&mons1622; 闇の魔法使い・ディル＝シリウス|
+|CLASS(text_td):#ginclude(モンスター図鑑/1622,notitle,or,note)|
+|~&mons1624; 放浪の魔法使い・ウィジャス|
+|CLASS(text_td):#ginclude(モンスター図鑑/1624,notitle,or,note)|
+|~&mons1626; 道化の魔法使い・チェスター|
+|CLASS(text_td):#ginclude(モンスター図鑑/1626,notitle,or,note)|
+}}
+
+*** 鎧騎士 [#bfe9aca9]
+
+#style(class=monsTable){{
+|~&mons1649; 赤騎士・ニム|
+|CLASS(text_td):#ginclude(モンスター図鑑/1649,notitle,or,note)|
+|~&mons1651; 青騎士・ミューズ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1651,notitle,or,note)|
+|~&mons1653; 緑騎士・デルガド|
+|CLASS(text_td):#ginclude(モンスター図鑑/1653,notitle,or,note)|
+|~&mons1655; 聖騎士・アークライン|
+|CLASS(text_td):#ginclude(モンスター図鑑/1655,notitle,or,note)|
+|~&mons1657; 魔騎士・クレーゼ|
+|CLASS(text_td):#ginclude(モンスター図鑑/1657,notitle,or,note)|
+}}
+
+*** テンプレ [#ya3700bd]
+
+#style(class=monsTable){{
+|~&mons000; ○○○○|
+|CLASS(text_td):#ginclude(モンスター図鑑/0★,notitle,or,note)|
+|~&mons000; ○○○○|
+|CLASS(text_td):#ginclude(モンスター図鑑/0★,notitle,or,note)|
+}}
+
+
+* コメント [#s9859273]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,11 @@
+** ロードラについて [#h5606e32]
+- [[オフィシャルサイト:http://smartphone.acquire.co.jp/rtd/]]
+- iOS版ダウンロード [[（AppStore）:http://itunes.apple.com/jp/app/rodo-to-u-doragon/id562157624]]
+- Android版ダウンロード [[（Google play）:https://play.google.com/store/apps/details?id=jp.co.acquire.RTD]]
+- アプリ価格 無料
+- 公式Twitter [[_ro_dora:https://twitter.com/#!/_ro_dora]]
+- 公式Facebook [[ACQUIRE.co.jp:https://www.facebook.com/ACQUIRE.co.jp]]
+- 販売業者 ACQUIRE
+//#clear
+
+RIGHT:[[編集>Parts/ロードラについて]]

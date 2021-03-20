@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/11/07 00:00:00,2016/11/20 23:59:59);[[ハジドラ第1弾！超絶イベントラッシュ:http://pad.gungho.jp/member/event/161104_eventrush.html]]

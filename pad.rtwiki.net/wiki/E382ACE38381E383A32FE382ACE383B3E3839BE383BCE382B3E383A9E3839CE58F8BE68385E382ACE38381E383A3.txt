@@ -1,0 +1,45 @@
+* ガンホーコラボ 友情ガチャ [#qd0b6db1]
+
+- 期間限定の特別な友情ガチャ
+- 1回500友情ポイント
+- このガチャでしか入手できないモンスターがいるので、メールで貰った友情ポイントなどは開封せずに貯めておくと良いかも
+
+** ガンホーコラボ 友情ガチャ2 [#x97b7b13]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/08/28～2015/09/04:http://pad.gungho.jp/member/150824_samba_chara.html]]|
+|★6|&mons2116; &mons2120;|
+|★5|&mons1821; &mons1823;|
+|★4|&mons2112; &mons2114; &mons2118; &mons500; &mons1811; &mons1813; &mons1815; &mons1817; &mons1819;|
+|★3|&mons2106; &mons2108; &mons2110;|
+
+- 鎌士ユカリが追加
+
+** ガンホーコラボ 友情ガチャ1 [#pf4c3ea8]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/05/18～2015/05/24:http://pad.gungho.jp/member/150514_gungho_collabo.html]]|
+|★6|&mons2116; &mons2120;|
+|★5|&mons1821; &mons1823;|
+|★4|&mons2112; &mons2114; &mons500; &mons1811; &mons1813; &mons1815; &mons1817; &mons1819;|
+|★3|&mons2106; &mons2108; &mons2110;|
+
+- 1回500友情ポイントが必要
+
+** 三国テンカトリガー コラボガチャ [#s2d72240]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/12/26～2014/12/28:http://pad.gungho.jp/member/141225_tenka_yujyo.html]]|
+|★5|&mons1821; &mons1823;|
+|★4|&mons1811; &mons1813; &mons1815; &mons1817; &mons1819;|
+
+- 1回1000友情ポイントが必要
+
+* コメント [#bbd07245]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

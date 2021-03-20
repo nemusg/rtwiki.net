@@ -1,0 +1,23 @@
+#norelated
+* ロードラ攻略Wiki [#h543df1e]
+#htmlinsert(social.inc)
+
+ロード・トゥ・ドラゴンの攻略Wikiです。
+
+#htmlinsert(stamina.inc)
+//↑アップデートによりスタミナ回復までの時間が10分から5分に変更されました。
+
+//&color(#e95106){CSS・JavaScriptの更新を行いました。表示がおかしい場合キャッシュを削除してください。};
+
+//** イベント [#rba79459]
+//#calendar_viewer2(Calendar,1,future,-,3);
+//RIGHT:[[Calendar]]
+
+#include(Parts/お知らせ,notitle)
+#include(Parts/ロードラについて,notitle)
+
+** このWikiについて [#c2af49f4]
+
+- 誰でも編集・新規追加が可能です。((トップページとメニューについてはURLの末尾に #editor を付けると編集できます。))
+- 当サイトに掲載されている内容はWikiである性質上、必ずしも正確な情報とは限りません。
+- 詳細は[[このWikiについて]]を参照してください。

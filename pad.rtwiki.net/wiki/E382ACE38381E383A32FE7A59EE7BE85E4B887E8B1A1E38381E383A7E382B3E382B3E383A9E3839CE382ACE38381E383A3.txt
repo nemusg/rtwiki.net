@@ -1,0 +1,45 @@
+* 神羅万象チョココラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+特別優秀はモンスターは居ないが、コラボガチャではよくあること。
+実装直後、アスモディエス アナザーはリーダースキルが優秀だった。
+コラボガチャ3 で追加されたキャラは本家よりも･･･？
+}}
+
+** 神羅万象チョコ コラボガチャ3 [#z530755f]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/01/11～2016/01/17:http://pad.gungho.jp/member/collabo/160107_shinra_list.html]]|
+|★8|&mons2569;|
+|★7|&mons2568; &mons2570;|
+|★5|&mons1967; &mons1970; &mons1972; &mons2244;|
+|★4|&mons1974; &mons1975; &mons1976; &mons1977; &mons1978; &mons1979; &mons1981; &mons1980; &mons2246;|
+
+- 翠輝星の麒麟・サクヤ アナザー、聖都の守護神・アテナ アナザー、絶世の紅龍喚士・ソニア アナザーが追加
+
+** 神羅万象チョコ コラボガチャ2 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/08/03～2015/08/09:http://pad.gungho.jp/member/150730_shinra_list.html]]|
+|★5|&mons1967; &mons1970; &mons1972; &mons2244;|
+|★4|&mons1974; &mons1975; &mons1976; &mons1977; &mons1978; &mons1979; &mons1981; &mons1980; &mons2246;|
+
+- 鎧羅王ポラリス、調和神バランシール アナザーが追加
+
+** 神羅万象チョコ コラボガチャ1 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/03/30～2015/04/12:http://pad.gungho.jp/member/150327_shinra_list.html]]|
+|★5|&mons1967; &mons1970; &mons1972;|
+|★4|&mons1974; &mons1975; &mons1976; &mons1977; &mons1978; &mons1979; &mons1981; &mons1980;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

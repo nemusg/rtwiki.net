@@ -1,0 +1,25 @@
+* ハロウィンガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+既存キャラが多く新登場モンスターを引ける可能性はかなり低い
+「なんとなくハロウィンっぽい」通常レアガチャのハズレも大量に混ざっていて非常に危険
+}}
+
+** ハロウィンガチャ [#g8eb722d]
+
+|CENTER:|||c
+|~レア|~新登場|~既存|
+|>|>|BGCOLOR(#ffffff):[[2015/10/19～2015/11/01:http://pad.gungho.jp/member/151015_halloween_lineup.html]]|
+|★8|&mons2407;||
+|★7|&mons2406;||
+|★6|&mons2409; &mons2410; &mons2411;|&mons1792; &mons1793; &mons2316;|
+|★5||&mons630; &mons632; &mons634; &mons636; &mons638; &mons1614; &mons1616; &mons1618; &mons1620; &mons1622; &mons1784; &mons1785; &mons1791; &mons1794; &mons2314; &mons2315;|
+|★4|&mons2408; &mons2412;|&mons1412; &mons1414; &mons1416; &mons1418; &mons1420;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

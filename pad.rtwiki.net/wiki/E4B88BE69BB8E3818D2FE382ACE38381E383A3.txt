@@ -1,0 +1,31 @@
+* ○○ コラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+ざっくりと目玉キャラを紹介する
+}}
+
+** ○○ コラボガチャ2 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/00/00～2015/00/00:http://pad.gungho.jp/]]|
+|★5|&mons000; &mons000; &mons000; &mons000;|
+|★4|&mons000; &mons000; &mons000; &mons000;|
+
+- ○○が追加・○○が削除
+
+** ○○ コラボガチャ1 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/00/00～2015/00/00:http://pad.gungho.jp/]]|
+|★5|&mons000; &mons000; &mons000; &mons000;|
+|★4|&mons000; &mons000; &mons000; &mons000;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,36 @@
+* 所有率ツール [#df2c3a55]
+
+//- [[降臨所有率:http://pad.rtwiki.net/tool/clear.html]]
+- [[レアガチャ所有率:http://pad.rtwiki.net/tool/raregacha.html]]
+- [[コラボガチャ所有率:http://pad.rtwiki.net/tool/collabo.html]]
+//- [[レア度9所有率:http://pad.rtwiki.net/tool/rarity.html]]
+//- [[MP所有率:http://pad.rtwiki.net/tool/mp.html]]
+//- [[フェス限ヒロイン所有率:http://pad.rtwiki.net/tool/heroine.html]]
+- [[イベントガチャ所有率:http://pad.rtwiki.net/tool/event.html]]
+
+** モンスター追加/削除依頼について [#tcc2e4e4]
+
+- このページでコメントしてください。
+- シリーズ名＆モンスターNoを記載お願いします。
+ レアガチャ所有率にケルトの神 No4176,4178,4180,4182,4184 を追加してください
+- モンスター名は[[モンスター図鑑]]を参照しています
+- 画像についてはこちらで用意するため不要です
+
+** 既知の課題 [#i59716cf]
+
+- %%吹き出しに表示されるモンスター名が番号しか入っていない%%（完了）
+- 季節/ヒロイン/龍契士&龍喚士 は闇に葬られた
+- 数が多すぎてURLが長くなりすぎる問題
+-- 除外しました
+--- 魔法使い
+--- 魔導・魔法（6体いるので320px環境で崩れる）
+-- ほかの除外候補
+--- ライダー
+--- 新ライダー
+--- 色ヴァル
+
+* コメント [#w4e0eb50]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,49 @@
+* 2019/05/17 v0.87.6 [#h7976e2f]
+
+#style(class=panelInfo){{
+完全なパッチノートはSteamで読んでください。
+[[Super Animal Royale :: Super Otters are here and new Discord Parties allow you to invite Super Free Edition friends to join your Squad!:https://steamcommunity.com/games/843380/announcements/detail/2563023616862333161]]
+}}
+
+** Discordのパーティ / デモ版フレンドの招待 [#c51229ce]
+
+前回のアップデートでは、Discord Rich Presenceが追加され、友達がゲームに参加しているかどうか、友達がどのモードでプレイしているか、まだ何人のプレイヤーが生きているかがわかるようになりました。
+Steamの招待状はまだ製品版でしか動作しませんでしたが、今週からはデモ版しか持っていない友達もDiscordパーティーに招待できます！
+
+** スーパーカワウソが来た！レベル15でアンロック！ [#hc76ebfa]
+
+- Super Otter スーパーカワウソ
+- Super Navy Otter スーパーネイビーカワウソ
+- Super Chestnut Otter スーパー栗カワウソ
+- Super Red Otter スーパーレッドカワウソ
+- Super Golden Otter スーパーゴールデンカワウソ
+- Super Sea Otter スーパーラッコ
+
+** 新マイルストーンとその報酬 [#n4343c19]
+
+- 25回のハムスターボールキル：新しいEmoji（Rock＆Roll）（死亡時のエフェクト）
+- 移動距離250km：新しいSafari Shirt
+- Pacifist Victory（ソロモードで他のプレイヤーに与えたダメージが0でゲームに勝利する）：新しいFly Swatter近接武器
+
+** 新しい絵文字（死亡時のエフェクト） [#a62d268c]
+
+- Emoji (Kisses) Explosion
+- Emoji (Thumbs Down) Explosion
+- Emoji (Sleepy) Explosion
+
+** その他のアップデート [#o06af6a8]
+
+- Super Light Swords 装備の新サウンド
+- the Rebellion Sword 装備の新サウンド
+- スカンク爆弾でダメージを受けたときの効果音
+- あなたの手榴弾が他の人にダメージを与えると、ヒットサウンドがあなたのために再生されます
+- UIをマウスの左ボタンにバインドする機能を削除しました。
+- 壁にぶつかったときに壁を通過する手榴弾を修正
+- 木箱でスタックする可能性がある箇所を修正しました。
+- 弾丸が命中したとしてもダメージを与えないことがあるのを修正
+- 翻訳の更新/修正
+
+
+* コメント [#t54d89dc]
+
+#pcomment

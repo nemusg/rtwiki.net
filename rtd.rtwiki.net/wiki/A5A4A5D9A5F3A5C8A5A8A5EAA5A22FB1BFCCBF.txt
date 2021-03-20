@@ -1,0 +1,110 @@
+* イベントエリア/運命 [#x14ff9ce]
+
+** 運命 [#jbcb96ed]
+ 運命 - 6ユニットPTクエストエリア
+ 
+ エリア説明文:
+ 帝国本部への奇襲作戦を実行し、総大将を討ち取れ！
+ 
+ エリア目標:
+ 1:超悪いよりしろ 2:炎火のよりしろ 4:清濁のよりしろ 6:奈落のよりしろ 8:光輝のよりしろ 9:超悪いよりしろ 12:超悪いよりしろ
+
+|~クエスト名|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''虚無なる将'''>#p33142e7]]''((『本部奇襲作戦』、『要撃の機竜兵団』、『帝国本部総大将』をクリアで開放。))|20|17|500|15,000|火光無|BGCOLOR(#f1f1a6):属性:光 種族:人類&br;攻撃:26200/2T&br;(HP:約1.20M)|[司令王]シュナイデル (光剣金本)&br;超悪いよりしろ&br;悪いよりしろ&br;|-&br;|金:残りSoul30以上&br;銀:ノーコンティニュー&br;銅:ボス撃破&br;|初期Soul値:25&br;[exp/sta]:29.4&br;クリア報酬:虹色水晶&br;|
+|''[['''帝国本部総大将'''>#l9775ad0]]''((初回は『本部奇襲作戦』の階段より進入。))|29|15|300|12,000|火光無|BGCOLOR(#f1f1a6):属性:光 種族:人類&br;攻撃:15000/3T&br;(HP:約0.50M)|炎火のよりしろ&br;奈落のよりしろ&br;|-&br;|金:砲台15基以上破壊&br;銀:赤い亜人10体以上撃破&br;銅:黄色い亜人5体以上撃破&br;|初期Soul値:15&br;[exp/sta]:20.0&br;難易度:★3&br;|
+|''[['''要撃の機竜兵団'''>#lc520d38]]''((初回は『本部奇襲作戦』の階段より進入。))|25|13|200|8,000|火光無|BGCOLOR(#ffffff):属性:無 種族:龍&br;攻撃:12000/3T&br;(HP:約0.15M)|火のよりしろ&br;|-&br;|金:砲台10基以上破壊&br;銀:赤い亜人5体以上撃破&br;銅:黄色い亜人5体以上撃破&br;|初期Soul値:15&br;[exp/sta]:15.3&br;難易度:★2&br;|
+|''[['''本部奇襲作戦'''>#lb3ee9ed]]''|20|9|200|8,000|火光無|BGCOLOR(#f1bba6):属性:火 種族:亜人&br;攻撃:?/3T&br;(HP:約?.??M)|火のよりしろ&br;|-&br;|金:黄色い亜人5体以上撃破&br;銀:赤い亜人5体以上撃破&br;銅:砲台5基以上破壊&br;|初期Soul値:15&br;[exp/sta]:22.2&br;|
+
+- [[開放履歴(運命)>#ceb5563c]]
+- [[コメント(運命)>#i1f11b42]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#ge5c53be]
+----
+*** 虚無なる将 [#p33142e7]
+&color(black,#eeeeee){基本情報};
+
+&color(black,#eeeeee){ボスエネミー};
+
+&color(black,#eeeeee){レアエネミー};
+
+&color(black,#eeeeee){エネミー};
+
+&color(black,#eeeeee){備考};
+
+----
+*** 帝国本部総大将 [#l9775ad0]
+&color(black,#eeeeee){基本情報};
+
+&color(black,#eeeeee){ボスエネミー};
+
+&color(black,#eeeeee){レアエネミー};
+
+&color(black,#eeeeee){エネミー};
+
+&color(black,#eeeeee){備考};
+
+----
+*** 要撃の機竜兵団 [#lc520d38]
+&color(black,#eeeeee){基本情報};
+
+&color(black,#eeeeee){ボスエネミー};
+
+&color(black,#eeeeee){レアエネミー};
+
+&color(black,#eeeeee){エネミー};
+
+&color(black,#eeeeee){備考};
+
+----
+*** 本部奇襲作戦 [#lb3ee9ed]
+&color(black,#eeeeee){基本情報};
+
+&color(black,#eeeeee){ボスエネミー};
+
+&color(black,#eeeeee){レアエネミー};
+
+&color(black,#eeeeee){エネミー};
+
+&color(black,#eeeeee){備考};
+
+ Sta:スタート地点 f:火属性(flame) a:水属性(aqua) h:光属性(holy) d:闇属性(darkness)
+ 砲:砲台 魔:魔導書 箱:各種箱 
+ 階1:『要撃の機竜兵団』への階段 階2:『帝国本部総大将』への階段 
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(#ffffff):''本部奇襲作戦'' - map|h
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||c
+|　|~20|~19|~18|~17|~16|~15|~14|~13|~12|~11|~10|~9|~8|~7|~6|~5|~4|~3|~2|~1|~0|h
+|BGCOLOR(#ffffff):+4||||||||||||BGCOLOR(#f1bba6):魔f||||||BGCOLOR(#f1f1a6):魔h|||B|
+|BGCOLOR(#ffffff):+3|||||||||||BGCOLOR(#ffffff):砲||BGCOLOR(#ffffff):砲||BGCOLOR(#f1f1a6):魔h||BGCOLOR(#ffffff):砲|BGCOLOR(#f1f1a6):魔h|||B|
+|BGCOLOR(#ffffff):+2|||||||BGCOLOR(#ffffff):砲|||箱|BGCOLOR(#ffffff):砲|BGCOLOR(#a6f1a6):階1|BGCOLOR(#ffffff):砲|箱|||BGCOLOR(#ffffff):砲||BGCOLOR(#f1f1a6):魔h|BGCOLOR(#f1bba6):魔f|B|
+|BGCOLOR(#ffffff):+1|||||||BGCOLOR(#ffffff):砲||BGCOLOR(#f1f1a6):魔h||BGCOLOR(#ffffff):砲||BGCOLOR(#ffffff):砲||BGCOLOR(#f1f1a6):魔h|BGCOLOR(#f1bba6):魔f||||BGCOLOR(#f1bba6):魔f|B|
+|BGCOLOR(#ffffff):0||||BGCOLOR(#a6f1a6):Sta||||BGCOLOR(#f1bba6):魔f|箱|||BGCOLOR(#f1bba6):魔f|||箱|箱|||BGCOLOR(#f1f1a6):魔h|BGCOLOR(#f1bba6):魔f|B|
+|BGCOLOR(#ffffff):-1|||||||BGCOLOR(#ffffff):砲||BGCOLOR(#f1f1a6):魔h|||||箱|BGCOLOR(#ffffff):砲|BGCOLOR(#f1bba6):魔f||BGCOLOR(#f1f1a6):魔h|||B|
+|BGCOLOR(#ffffff):-2|||||||BGCOLOR(#ffffff):砲|||BGCOLOR(#ffffff):砲|BGCOLOR(#f1bba6):魔f|箱||BGCOLOR(#f1bba6):魔f|BGCOLOR(#ffffff):砲||BGCOLOR(#ffffff):砲||BGCOLOR(#ffffff):砲|BGCOLOR(#F1F1A6):魔h|B|
+|BGCOLOR(#ffffff):-3||||||||||BGCOLOR(#ffffff):砲||箱|BGCOLOR(#ffffff):砲||||BGCOLOR(#ffffff):砲|BGCOLOR(#a6f1a6):階2|BGCOLOR(#ffffff):砲||B|
+|BGCOLOR(#ffffff):-4|||||||||||||BGCOLOR(#ffffff):砲||BGCOLOR(#f1f1a6):魔h||BGCOLOR(#ffffff):砲||BGCOLOR(#ffffff):砲||B|
+
+----
+*** 開放履歴(運命)((時刻が書かれていない場合、その日付の間は開放。)) [#ceb5563c]
+:2013/09/11(10:50)〜2013/09/15(10:00)|
+
+----
+* コメント(運命) [#i1f11b42]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2017/07/28 12:00:00,2017/08/06 23:59:59);[[夏休み＆サービス開始2000日スペシャル(前半):http://pad.gungho.jp/member/event/170727_summer_s2000.html]]

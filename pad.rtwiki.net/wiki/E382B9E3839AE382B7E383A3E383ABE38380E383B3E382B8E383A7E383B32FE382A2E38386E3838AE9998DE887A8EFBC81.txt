@@ -1,0 +1,97 @@
+* アテナ降臨！ [#i15cd33c]
+
+|~名称		|~スタミナ|~バトル|~取得コイン|~取得EXP|~EXP効率|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|c
+|煌女神 超地獄級		|50|4|17600|14121|&color(#080){''282''};|
+
+- 難易度は「超地獄級」のみ
+- ノーブルクーフーリンはHP50％以下になると「漆黒の凶刃」と「終焉」を交互に使用。 
+- グランドジークフリートは一切攻撃しなければずっと仁王立ちを使うのでスキル溜め、整地が可能。
+
+&color(#b00){''TIPS''}; [[精霊の宝玉イベント>スペシャルダンジョン/精霊の宝玉イベント]]
+
+|~面|~名前	|~タイプ|~属性|~攻撃力|~後|~HP|~防御|~備考|
+|RIGHT:|||CENTER:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||c
+|>|>|>|>|>|>|>|>|BGCOLOR(#afd3af):煌女神 超地獄級|
+|1|&mons512; %%%[[剛腕の巨人・ギガンテス>モンスター図鑑/0512]]%%%	|体力|BGCOLOR(#f1bba6):火|&color(#b00){''-''};|&color(#b00){1};|603125|0||
+|~|~|>|>|>|>|>|>|BGCOLOR(#fbfdff):ファイアァァー！！（3カウント後、計99999の連続攻撃）|
+|2|&mons693; %%%[[王狼英雄・ノーブルクーフーリン>モンスター図鑑/0693]]%%%	|バランス|BGCOLOR(#bbf1a6):木闇|&color(#b00){''6819''};|&color(#b00){1};|33|600000||
+|~|~|>|>|>|>|>|>|BGCOLOR(#fbfdff):===先制===全力でかかって来い！（プレイヤーのHP全回復）&br;<木>ウルフアタック（4773ダメージ＆ランダム1色→お邪魔ドロップ）&br;<木>旋風乱撃（1705x4～6の連続攻撃）&br;<闇>漆黒の凶刃（残りHP99％ダメージ）&br;<闇>終焉（8524）|
+|3|&mons692; %%%[[破龍皇帝・グランドジークフリート>モンスター図鑑/0692]]%%%	|体力|BGCOLOR(#a6f1f1):水火|&color(#b00){''7750''};|&color(#b00){2};|2086250|210||
+|~|~|>|>|>|>|>|>|BGCOLOR(#fbfdff):===先制===いざ、尋常に勝負！（プレイヤーのHP全回復）&br;仁王立ちしている（何もしない）==HP100％で使用==&br;キングアワりんのエンハンス！（999ターン攻撃力3倍）&br;<水>スプラッシュブレード（3倍時、16275ダメージ＆ランダム1色→水ドロップ）&br;<火>破龍紅蓮刃（3倍時、20460）|
+|4|&mons648; %%%[[アテナ>モンスター図鑑/0648]]%%%		|神|BGCOLOR(#f1f1a6):光木|&color(#b00){''9292''};|&color(#b00){1};|4197639|1150||
+|~|~|>|>|>|>|>|>|BGCOLOR(#fbfdff):===先制===よくぞここまで来ました！（プレイヤーのHP全回復）&br;イージスの盾（999ターン状態異常無効）&br;<光>シャイニングスピア（7434ダメージ＆ランダム1色→光ドロップ）&br;<木>ストームパニッシャー（計11148の連続攻撃）&br;<木>終わりにしましょう！（次回からスターバースト）==HP15％以下で使用、1度きり==&br;<木>スターバースト（計92920の連続攻撃）|
+
+- 攻撃ターン数は表記より1ターン前後することがあります
+- ドロップ報告はコメント欄を参照してください
+
+//||	||BGCOLOR(#f1bba6):火|&color(#b00){''?''};|&color(#b00){?};||||
+//||	||BGCOLOR(#a6f1f1):水|&color(#b00){''?''};|&color(#b00){?};||||
+//||	||BGCOLOR(#bbf1a6):木|&color(#b00){''?''};|&color(#b00){?};||||
+//||	||BGCOLOR(#f1f1a6):光|&color(#b00){''?''};|&color(#b00){?};||||
+//||	||BGCOLOR(#bba6f1):闇|&color(#b00){''?''};|&color(#b00){?};||||
+
+** チーム編成例 [#p88e3a22]
+
+- ジークフリートの破龍紅蓮刃（HP50％以下）の20460ダメージが耐えられるHPが欲しい。
+- 火力があまり高くない編成の場合、スターバーストをシャイターンかあついさんの「爆炎の結界」で防ぐといいかも。
+
+#style(class=gobPlugin){{
+
+|~Ver|~チーム編成（左右がリーダー）|~HP|~石|~備考|
+|||RIGHT:|RIGHT:||c
+|v5.4|&mons752; &mons694; &mons232; &mons597; &mons228; &mons752;|21917|0|麒麟25倍PT&br;マックスむらい氏のノーコン編成 合計+1086|
+|v5.4|&mons754; &mons597; &mons599; &mons201; &mons692; &mons754;|21560|0|白虎12.25倍PT 合計+594ぐらい&br;HPが足りなかったのでジークフリートを入れた。&br;が数回やってると2～3Fが辛いのでジーク→ミズガルズの方が安定した。|
+|v5.4|&mons491; &mons201; &mons516; &mons597; &mons694; &mons491;||0|ホルス16倍PT&br;運はかなり絡む|
+|v5.4|&mons647; &mons597; &mons761; &mons516; &mons688; &mons647;|25379|0|サタンPT。全レベルマだけでは2FでHPに不安が残るので高+推奨。&br;ロードはスキルマ前提。キングワルりんとピエドラはスキルレベル1でも可&br;1F 3～4ターンで倒す。&br;2F 2ターンで14～16ダメ与えて、次の2ターンで残りHPを削りきる。&br;3F スキルを溜めた後、防御体勢＆攻撃態勢で攻撃。少しHPが残るので光と回復を残しつつ倒す。&br;4F 残りのスキルを全開放してワンパン（盤面が微妙ならシャイニングスピアを待つのもあり）。|
+|v6.5|&mons647; &mons597; &mons761; &mons894; &mons688; &mons1240;|26883|0|上記改良版サタン呂布。フレンドのみ高+。手持ちに+を振らなくてもHPに余裕が出る。&br;1F 同上。闇枯渇時はイースで削る。スキブ1あるのでギガンテスが残り2開始なら攻撃態勢が使える。 &br;2F 呂布は副属性がないので攻撃回数に注意。&br;この編成なら闇→闇＋水でちょうど残りHP17。漆黒の凶刃と終焉はHP16以下で使用する。&br;3F スキルを溜め、整地→呂布のエンハンス→大コンボでほぼ一撃。変換しない。列は作らず千切る。&br;4F （シャイニングスピア）→変換エンハンス。変換が使用できるのでギガグラまで溜めなくともOK。|
+|v6.1|&mons639; &mons761; &mons597; &mons516; &mons688; &mons645;|34496|0|悪魔242&br;ルシファーのスキルブーストは一番大切です|
+|v6.2|&mons497; &mons692; &mons693; &mons694; &mons984; &mons497;|22607|0|1Fは整地しながら行動直前でLS発動。&br;2FはLS意識せず回復しながら適当に削る。&br;3Fはドロップを消さずに整地し、行動あと2ターンの時にLS発動＋3ターン以内にもう1回発動。&br;4Fは攻撃態勢を適宜使いながら4ターン程度で倒す。&br;ギガンテス入りだが、フロア毎に全回復するのであまり気にしなくて良い。&br;ギガンテス→エキドナでも問題ない。3Fも破龍紅蓮刃（20460）を受ける前に倒せるはず。&br;究極ジーク→闇水ロードにすると4Fで火力が上がる。|
+|v6.3|&mons652; &mons201; &mons556; &mons599; &mons566; &mons889;|35000|0|千代女(またはホムラ)がスキルマならスキブ2以上あれば1Fで変換が使えるので楽&br;4Fは少しずつHPを削り、アテナが木に属性変化したときに強化花火エンハンスでワンパン&br;3Fはやや長期戦になるのでスキル溜めの必要はあまりないかも。|
+|v6.3|&mons1012; &mons643; &mons564; &mons893; &mons389; &mons1012;|14800|0|高速周回用PT。総+50も無いが問題なし。ミネルヴァ高スキル推奨、&br;またはダークゴーレムスキルmaxにスキブ計7で闇で抜くことも可能&br;ポ姉をアレス・赤ソニアで2F貫通が楽になる&br;1F軽く殴り整地後通過。2F防御ダウン発動しワンパン。(抜けるかは要計算)&br;3Fあと2ターンのときから殴れば問題なし。4F変換強化でワンパン。&br;（ピエドラ積んで2Fを耐久するなど編成の幅は広いが変換枠は必須、&br;耐久する場合は保険にキルアのスキルは使えるようにしたほうがいいかと。）|
+|v6.5|&mons1074; &mons894; &mons1195; &mons912; &mons639; &mons1074;|18000|0|1F:適当にターンを稼ぎ、魔王か半蔵のスキルを使って倒す。&br;2F:回復しつつ削る。回復ドロップが尽きるか漆黒の凶刃を受けたらパンドラのスキルを１回使用。&br;3F:ボス戦用のスキル溜め。準備ができたら１ターン使って火と水ドロップを減らし、パンドラ→魔王で一撃。&br;4F:ソニア→半蔵→ルシファーの順にスキルを使い、強化花火状態にして一撃。&br;赤ソニアをハクにするとスキル溜めが不要になり早く攻略できる。|
+|v7.0|&mons1111; &mons1269; &mons1195; &mons826;  &mons639; &mons1074;||0|ティアマット×パンドラPT。ルシファーは闇闇ならなんでもいい。&br;闇で3回攻撃するだけで2Fを突破可能。調整不要で楽。|
+|v7.0|&mons912; &mons1269; &mons893; &mons639; &mons894; &mons912;|20461|0|赤ソニアPT。HPが足りなければフレンドを呂布に。|
+|v7.0|&mons1217; &mons694; &mons394; &mons1099; &mons687; &mons1217;||0|白メタPT。&br;1F：スキルを溜めつつ突破。　2F：適当。&br;3F：早めに変換を使用、必要なら威嚇を使う。&br;4F：光と回復の合計が12個以上になったら変換エンハンスCTWでワンパン。|
+
+//| |&mons000; &mons000; &mons000; &mons000; &mons000; &mons000;| | | |
+
+}}
+
+#include(Parts/チーム編成例の注意,notitle)
+
+#div(start,dvPCExpand)
+#style(class=topLabel){{
+3Fの整地例
+}}
+#style(class=topList){{
+- 一例。上側の空間を広く使えて落ちコンしにくい。
+- 2列を作る場合。火の部分は何色でもいい。
+
+|　|　|　|　|　|　|~→|　|　|　|　|　|　|~→|　|　|　|　|　|　|~→|BGCOLOR(#a6f1f1):水|　|　|　|　|BGCOLOR(#f1bba6):火|
+|　|　|　|　|　|　|~|　|　|　|　|　|　|~|BGCOLOR(#bba6f1):闇|　|　|　|　|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|　|　|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|
+|　|　|　|　|　|　|~|BGCOLOR(#a6f1f1):水|　|　|　|　|BGCOLOR(#f1bba6):火|~|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|　|　|BGCOLOR(#bba6f1):闇|BGCOLOR(#f1bba6):火|~|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|BGCOLOR(#f1bba6):火|
+|BGCOLOR(#bba6f1):闇|　|　|　|　|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|　|　|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|
+|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|　|　|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|　|
+|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|　|　|BGCOLOR(#f1bba6):火|~→	||BGCOLOR(#a6f1f1):┌|BGCOLOR(#bba6f1):→|BGCOLOR(#bba6f1):終|┐|←|BGCOLOR(#f1bba6):┐|~→	||BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|　|　|　|~　|>|>|>|>|>|　|
+|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|　|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):│|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):始|│|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):│|~|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#f1bba6):火|BGCOLOR(#f1bba6):火|~|>|>|>|>|>|~|
+|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|BGCOLOR(#f1bba6):火|~|BGCOLOR(#a6f1f1):↑|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):↓|BGCOLOR(#f1bba6):↓|BGCOLOR(#bba6f1):闇|BGCOLOR(#f1bba6):↑|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|~|>|>|>|>|>|~|
+|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):│|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):│|BGCOLOR(#bba6f1):│|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):│|~|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#f1bba6):火|BGCOLOR(#f1bba6):火|~|>|>|>|>|>|~|
+|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#f1bba6):火|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):└|BGCOLOR(#bba6f1):─|BGCOLOR(#a6f1f1):┘|BGCOLOR(#f1bba6):└|BGCOLOR(#bba6f1):─|BGCOLOR(#bba6f1):┘|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|~|>|>|>|>|>|~|
+
+- 列を作らない場合。
+
+|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|　|　|BGCOLOR(#bba6f1):闇|~→	||BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|　|　|　|
+|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|　|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|~|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|
+|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|
+|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|~|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|
+|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|~|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#bba6f1):闇|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|BGCOLOR(#a6f1f1):水|
+}}
+#div(end)
+
+* コメント [#ef603717]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

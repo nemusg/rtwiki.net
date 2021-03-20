@@ -1,0 +1,55 @@
+* アニマル(Animals) [#x8ca31b5]
+
+最初の4匹は自由に選択することができますが、他の動物はアイテムを集めてロックを解除する必要があります。
+''動物種の変更はゲームプレイ上の利点はありません。''
+
+DNA（遺伝情報）とSuper serum（血清）は生き残った時間の量に基づいて、試合終了後に落ちるかもしれません。
+どの種類が落ちるかは、必要レベルを満たしていればあとはランダムで入手できるようです。
+
+** スーパーDNAマグネット(Super DNA Magnets) [#d6bfc0a7]
+
+スーパーDNAマグネットを使うと、次の3試合で選んだ動物のDNAのみがドロップするようになります。
+スーパーDNAマグネットは、デイリーチャレンジや試合終了時にランダムで入手することができます。
+
+スーパーDNAマグネットは、研究所内で「マグネットを使用」ボタンを押して、任意の動物を選択することで使用することができます。この効果は重複可能です。
+
+** 動物たち [#v73caa59]
+
+#style(class=panelInfo){{
+動物たちの画像は[[公式Wiki/Animals:https://animalroyale.gamepedia.com/Animals]]を参照。
+}}
+
+|~ |>|~必要なアイテム|~必要プレイヤーレベル|
+|Super Fox（キツネ）|>|最初から利用可能|Level 1|
+|Super Bear（くま）|>|最初から利用可能|Level 1|
+|Super Skullcat（スカルキャット）|>|最初から利用可能|Level 1|
+|Super Tiger（タイガー）|>|最初から利用可能|Level 1|
+|Super Cat（猫）|45 Cat DNA|12 Super serum|Level 1|
+|Super Dog（犬）|45 Dog DNA|12 Super serum|Level 1|
+|Super Songbird（小鳥）|35 Songbird DNA|10 Super serum|Level 1|
+|Super Deer（鹿）|75 Deer DNA|15 Super serum|Level 5|
+|Super Raccoon（アライグマ）|75 Raccoon DNA|15 Super serum|Level 5|
+|Super Blue Jay（アオカケス）|75 Blue Jay DNA|15 Super srum|Level5|
+|Super Bunny（うさぎ）|100 Bunny DNA|24 Super serum|Level 10|
+|Super Monkey（猿）|100 Monkey DNA|24 Super serum|Level 10|
+|Super Donkey（ロバ）|300 Donkey DNA|24 Super serum|Level 10|
+|Super Pig（豚）|100 Pig DNA|20 Super serum|Level 10|
+|Super Panda（パンダ）|125 Panda DNA|30 Super serum|Level 15|
+|Super Sloth（ナマケモノ）|125 Sloth DNA|30 Super serum|Level 15|
+|Super Sheep（ヒツジ）|125 Sheep DNA|30 Super serum|Level 15|
+|Super Owl（フクロウ）|125 Owl DNA|30 Super serum|Level 15|
+|Super Lion（ライオン）|150 Lion DNA|40 Super serum|Level 20|
+|Super Wolf（オオカミ）|150 Wolf DNA|40 Super serum|Level 20|
+|Super Boar（イノシシ）|150 Boar DNA|40 Super serum|Level 20|
+|Super Raven（カラス）|115 Raven DNA|40 Super serum|Level 20|
+|Super Red Panda（レッサーパンダ）|220 Red Panda DNA|45 Super serum|Level 25|
+|Super Capybara（カピバラ）|220 Capybara DNA|50 Super serum|Level 25|
+|Super Hyena（ハイエナ）|280 Hyena DNA|60 Super serum|Level 30|
+
+- [[v0.85.3>アップデート情報/v0.85.3]] Super Pig , Super Boarが追加
+- [[v0.85.2>アップデート情報/v0.85.2]] Super Sheepが追加
+
+
+* コメント [#t430b455]
+
+#pcomment

@@ -1,0 +1,25 @@
+* エモート [#s9affdb1]
+
+エモートは、ゲーム中に行うことができる挑発や踊りです。エモートを行うにはデフォルトで ''V'' を押します。
+他の行動を行うとアニメーションはキャンセルされます。
+
+エモートのアニメーションは[[公式Wiki/Emote:https://animalroyale.gamepedia.com/Emote]]を参照。
+
+|~名称|~レア度|~備考|
+|デフォルトダンス Default Dance|Common|全プレイヤーが利用可能|
+|シンプルウェーブ Simple Wave|Common||
+|クラップ Clap|&color(#6bbf00){''Uncommon''};||
+|ダブ Dab|&color(#6bbf00){''Uncommon''};||
+|チア Cheer|&color(#00b5f2){''Rare''};||
+|ラフ Laugh|&color(#00b5f2){''Rare''};||
+|ハンドスタンド Hand Stand|&color(#8733c6){''Epic''};||
+|ヒールクリック Heel Click|&color(#8733c6){''Epic''};||
+|フロス Floss|&color(#8733c6){''Epic''};||
+|ロシアンダンス Russian Dance|&color(#8733c6){''Epic''};||
+|ホールインワン！ Hole in One!|&color(#dda300){''Legendary''};||
+|ジャグリングルーレット Juggling Roulette|&color(#dda300){''Legendary''};|[[Founder's Edition>メモ/Founder's Edition]]購入でのみ入手可能|
+
+
+* コメント [#t430b455]
+
+#pcomment

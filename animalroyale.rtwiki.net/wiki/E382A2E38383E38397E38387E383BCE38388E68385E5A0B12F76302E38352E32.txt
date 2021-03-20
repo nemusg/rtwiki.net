@@ -1,0 +1,112 @@
+* 2019/01/18 v0.85.2 [#lcc1085b]
+
+#style(class=panelInfo){{
+[[Super Animal Royale :: Another Super Cosmetic Update Has Landed:https://steamcommunity.com/games/843380/announcements/detail/1711832408183856449]]
+}}
+
+** Super Content Update [#s8da151f]
+
+*** Super Sheep（羊）が戦いに参加しました！ [#p2a1f4f1]
+
+そして6種類のSuper Sheep（羊）の品種もロックを解除すれば利用可能です
+
+- Super Green Sheep
+- Super Baby Blue Sheep
+- Super Brown Sheep
+- Super Pink Sheep
+- Super Dark Sheep
+- Super Black Sheep
+
+その他の品種も26種類追加されました
+
+- Super Blue Bear
+- Super Blue Tiger
+- Super Dark Tiger
+- Super Hot Tiger
+- Super Green Deer
+- Super Yellow Panda
+- Super Blue Panda
+- Super Purple Panda
+- Super Brown Raccoon
+- Super Vanilla Raccoon
+- Super Tanuki Raccoon
+- Super Phantom Sloth
+- Super Black Cat
+- Super Snowshoe Cat
+- Super Shadow Rabbit
+- Super Red Rabbit
+- Super Mango Red Panda
+- Super Berry Red Panda
+- Super Bubblegum Red Panda
+- Super Shadow Wolf
+- Super Pink Capybara
+- Super Golden Capybara
+- Super Red Lion
+- Super Swamp Hyena
+- Super Purple Hyena
+- Super Blonde Hyena
+
+*** 新しい目標システム [#t3dff1d4]
+
+下記の目標を達成することでアイテムを獲得できます。今後のアップデートでUIと拡張チャレンジシステムを追加する予定ですが、システムが完成する直前に獲得できるように、チャレンジとアイテムをいくつか追加したいと思いました。
+
+これらの目的のいずれかをすでに達成しているプレイヤーの場合、あなたは最初のゲームの後にあなたのアイテムを獲得されます（1ゲームにつき最大3）。
+- 1勝で Small Crown
+- 20勝で Full Crown
+- バナナスリップ 25 で Banana Tee
+- 100km 歩行すると Safari Hat
+- ゲームプレイ 5 で Green Bow Tie
+- ゲームプレイ 25 で Blue Bow Tie
+- ゲームプレイ 50 で Orange Bow Tie
+- ゲームプレイ 100 で Purple Bow Tie
+- ゲームプレイ 250 で Maroon Bow Tie
+- ゲームプレイ 500 で White Bow Tie
+- ゲームプレイ 750 で Black Bow Tie
+- 10 キルで Green Tie
+- 50 キルで Blue Tie
+- 100 キルで Orange Tie
+- 250 キルで Purple Tie
+- 500 キルで Maroon Tie
+- 1000 キルで White Tie
+- 2000 キルで Black Tie
+- 5000 キルで Red Eye Scope
+- 近接武器で 10 キルで Hatchet
+- 近接武器で 50 キルで Axe
+- 近接武器で 100 キルで Tomahawk
+- レベル30で Rebellion Helmet
+
+Banana TeeとTiesは通常のドロップテーブルから削除されました。これらは課題の一部です。
+
+*** さらに多くのスキンを追加 [#bd7a891c]
+
+- 新しいエモート laugh（笑う）が追加されました！
+
+新しいチャレンジアイテムを経て、私たちはまた通常ドロップにスキンを追加しました：
+
+- ナイフとゴルフクラブの近接武器
+- さらに8色のひげの色
+- ブラック、ブルー、ピンクのジャケット
+- 赤と白のイブニングドレス
+- リンク(Rink)、赤、および黄色の春のドレス
+
+** バグ修正 [#wbc98d99]
+
+- 最終のガスサークルが水上になる問題を修正
+- 近接攻撃は、もはやアニメーションに結び付けられていません。それは今あなたのキャラクターの前に設定されたエリアです。これは、FPSが低ければあなたの下の箱をたたくことができないという問題を修正します。
+- 近接攻撃は、無生物オブジェクトをより予測可能に攻撃するようになりました（以前は正確すぎる攻撃を要求していました）。
+- 近接攻撃で壁越しに箱を破壊することはできなくなりました。
+- Eagleのフライト開始時にチャットがキャンセルされなくなりました。
+- ハムスターボールとロールを通じたミニガンのワインドアップを修正。
+- ダンスと同時に手榴弾を投げてキャラクターが動かなくなるのを修正。
+- 手榴弾を投げている間にダウンして、リバイバル時にコントロールが動作しなくなる問題を修正しました。
+- デモユーザーが自分のレベルをリセットできるというまれなバグを修正しました。
+- Pie of the Tiger の看板サインが消えています。
+- 地図を開いている間のローリングは再び許可されます。
+- ウェルカムエリアの地面の彩度は、名前と動物がよりはっきりと見えるように調整されました。
+- カスタマイズ画面を修正しました。装備時にリストがスクロール/ジャンプすることがありました。
+
+
+
+* コメント [#t430b455]
+
+#pcomment

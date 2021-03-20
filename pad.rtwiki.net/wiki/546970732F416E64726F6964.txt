@@ -1,0 +1,25 @@
+*Android版について [#r28e5777]
+
+** 概要 [#v8e81e8f]
+
+- 2012年9月18日リリース
+- GooglePlayで配信 https://play.google.com/store/apps/details?id=jp.gungho.pad&hl=ja
+- [[【Android】ゲームが起動しないお客様へ:http://mobile.gungho.jp/news/pad/120918_2.html]]
+- [[【Android】魔法石が反映・購入できない場合:http://mobile.gungho.jp/maintenance/pad/pua59k00000008uq.html]]
+- [[【Android】データインストールについて:http://mobile.gungho.jp/news/pad/and_install.html]]
+- [[【Android】プレイデータの移行やバックアップの方法:http://mobile.gungho.jp/news/pad/130314_and.html]]
+
+** 特徴 [#p18cd2b6]
+
+- フレンドはiPhone版と共有
+- iOS版からのデータ移行は不可
+- 対応機種ならキャリア契約なしでプレイ可能（どうしてもやりたい人は白ロムを入手すればいい）
+
+** 推奨端末 [#se01b763]
+- [[''推奨端末一覧はこちら'':http://mobile.gungho.jp/news/pad/and_taiou.html]]
+
+* コメント [#m874d61a]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

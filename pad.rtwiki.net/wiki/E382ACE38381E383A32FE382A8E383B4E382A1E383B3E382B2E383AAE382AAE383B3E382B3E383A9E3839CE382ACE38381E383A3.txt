@@ -1,0 +1,34 @@
+* エヴァンゲリオンコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+実装直後、13号機の攻撃力3倍が珍しくて引きまくってしまった人続出。
+現状当たりキャラは居ない。
+}}
+
+** エヴァンゲリオン コラボガチャ2～4 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/08/24～2015/09/06:http://pad.gungho.jp/member/150821_eva4_list.html]]|
+|>|BGCOLOR(#ffffff):[[2014/08/18～2014/08/24:http://pad.gungho.jp/member/gacya_list_eva.html]]|
+|>|BGCOLOR(#ffffff):[[2014/02/24～2014/03/09:http://pad.gungho.jp/member/140220_eva.html]]|
+|★5|&mons705; &mons1202;|
+|★4|&mons695; &mons697; &mons699; &mons701; &mons703;|
+
+- ミサト＆AAAヴンダーが追加
+
+** エヴァンゲリオン コラボガチャ1 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2013/05/27～2013/06/09:http://pad.gungho.jp/member/130429_eva.html]]|
+|★5|&mons705;|
+|★4|&mons695; &mons697; &mons699; &mons701; &mons703;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

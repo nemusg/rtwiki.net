@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/07/22 00:00:00,2016/08/02 23:59:59);[[パズドラクロス 発売記念イベント:http://pad.gungho.jp/member/event/160721_padx_event.html]]

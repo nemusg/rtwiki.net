@@ -1,0 +1,610 @@
+*成長率 [#ne28ddd8]
+
+#contents
+
+かけた経験値に対して、どれぐらい能力が高くなるか
+[[パズル＆ドラゴンズ ステータスグラフ:http://www.loglesslove.net/pad_graph/]]を参考にしてます。
+
+** キャラ別成長率 [#fc7c1384]
+
+成長率が普通だとしても初期値が高い（最大値に近い）と早熟に見える
+なので詳細はステータスグラフを使ってもらったほうがいい
+
+ 現在のステ=Lv1のステ+(最大Lvのステ-Lv1のステ)*{(現在Lv-1)/(最大Lv-1)}^n
+
+- n=0.7→早熟
+- n=1.0→普通
+- n=1.5→晩成
+
+
+&color(,#eee){ページ内リンク};
+[[001>#no001]] - [[101>#no101]] - [[201>#no201]] - [[301>#no301]] - [[401>#no401]] - [[501>#no501]] - [[601>#no601]] - [[701>#no701]]
+
+#style(class=enableFilter){{
+|~No|~名前|~HP指数|~攻撃指数|~回復指数|h
+|001&aname(no001);|ティラ	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|002|ティラン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|003|ティラノス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|004|爆炎龍ティラノス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|005|プレシィ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|006|プレシィール		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|007|プレシオス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|008|氷塊龍プレシオス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|009|ブラッキィ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|010|ブラッキオ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|011|ブラキオス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|012|大花龍ブラキオス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|013|プテーラ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|014|プテラス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|015|プテラドス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|016|太陽龍プテラドス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|017|スピノン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|018|スピナス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|019|デスピナス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|020|月光龍デスピナス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|021|レッドコドラ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|022|レッドドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|023|ボルケーノドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|024|ブルーコドラ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|025|ブルードラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|026|オーロラドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|027|グリーンコドラ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|028|グリーンドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|029|アースドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|030|ホワイトコドラ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|031|ホワイトドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|032|ホーリードラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|033|ブラックコドラ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|034|ブラックドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|035|デビルドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|036|ホノりん			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|037|デカホノりん		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|038|アワりん			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|039|デカアワりん		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|040|モリりん			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|041|デカモリりん		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|042|ヒカりん			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|043|デカヒカりん		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|044|ワルりん			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|045|デカワルりん		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|046|レッドカーバンクル		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|047|ルビーカーバンクル		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|048|ブルーカーバンクル		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|049|サファイアカーバンクル	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|050|グリーンカーバンクル	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|051|エメラルドカーバンクル	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|052|イエローカーバンクル	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|053|トパーズカーバンクル	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|054|パープルカーバンクル	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|055|アメジストカーバンクル	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|056|レッドゴブリン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|057|武者ゴブリン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|058|ブルーゴブリン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|059|マリンゴブリン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|060|ゴブリン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|061|ホブゴブリン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|062|レッドオーガ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|063|サムライオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|064|ブルーオーガ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|065|アイスオーガ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|066|オーガ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|067|アーマーオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|068|フレイムファイター		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|069|フレイムナイト		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|070|アクアファイター		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|071|アクアナイト		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|072|アースファイター		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|073|アースナイト		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|074|ホワイトファイター		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|075|ホワイトナイト		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|076|ブラックファイター		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|077|ブラックナイト		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|078|フレイムゴーレム		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|079|フレイムガーディアン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|080|アイスゴーレム		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|081|アイスガーディアン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|082|アースゴーレム		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|083|アースガーディアン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|084|マシンゴーレム		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|085|マシンゴーレムMk-II		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|086|ダークゴーレム		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|087|ダークゴーレムMk-II		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|088|ナーガ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|089|エキドナ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|090|マーメイド			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|091|セイレーン			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|092|ドリヤード			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|093|アルラウネ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|094|キューピッド		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|095|エンジェル			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|096|サキュバス			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|097|リリス			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|098|炎の魔剣士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|099|フェニックスナイト		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|100|氷の魔剣士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|101&aname(no101);|フェンリルナイト		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|102|岩の魔剣士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|103|ドラゴンナイト		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|104|光の魔剣士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|105|ヴァーチェ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|106|タイタン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|107|ギガンテス			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|108|闇の魔剣士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|109|ダークドラゴンナイト		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|110|ヴァンパイア			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|111|ヴァンパイアロード		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|112|サラマンダー			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|113|イフリート			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|114|シーサーペント		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|115|リヴァイアサン		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|116|ドラゴネット			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|117|ファフニール		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|118|白龍			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|119|神龍			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|120|バジリスク			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|121|ティアマット		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|122|ミネルヴァ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|123|戦女神・ミネルヴァ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|124|ネプチューン		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|125|海王神・ネプチューン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|126|セレス			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|127|豊穣神・セレス		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|128|ヴィーナス			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|129|慈愛神・ヴィーナス		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|130|ハーデス			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|131|冥界神・ハーデス		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|132|カグツチ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|133|ヒノカグツチ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|134|オロチ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|135|ヤマタノオロチ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|136|スサノオ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|137|スサノオノミコト		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|138|アマテラス			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|139|アマテラスオオカミ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|140|ヨミ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|141|ツクヨミ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|142|炎龍・ムスプルヘイム	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|143|氷龍・ニブルヘイム		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|144|島龍・ユグドラシル		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|145|機龍・ヴァルハラ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|146|邪龍・ヘルヘイム		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|147&aname(no147);|炎の番人	|-|-|-|
+|148|水の番人			|-|-|-|
+|149|森の番人			|-|-|-|
+|150|光の番人			|-|-|-|
+|151|闇の番人			|-|-|-|
+|152&aname(no152);|ドラゴンシード|-|-|-|
+|153|ドラゴンプラント		|-|-|-|
+|154|ドラゴンフラワー		|-|-|-|
+|155&aname(no155);|ルビリット		|-|-|-|
+|156|サファリット			|-|-|-|
+|157|エメリット			|-|-|-|
+|158|トパリット			|-|-|-|
+|159|アメリット			|-|-|-|
+|160|ミスリット			|-|-|-|
+|161&aname(no161);|進化の赤仮面			|-|-|-|
+|162|進化の青仮面			|-|-|-|
+|163|進化の緑仮面			|-|-|-|
+|164|進化の黄仮面			|-|-|-|
+|165|進化の紫仮面			|-|-|-|
+|166|朱色の鬼神面			|-|-|-|
+|167|蒼色の鬼神面			|-|-|-|
+|168|碧色の鬼神面			|-|-|-|
+|169|黄金の鬼神面			|-|-|-|
+|170|紫色の鬼神面			|-|-|-|
+|171|神化の紅面			|-|-|-|
+|172|神化の蒼面			|-|-|-|
+|173|神化の碧面			|-|-|-|
+|174|神化の金面			|-|-|-|
+|175|神化の黒面			|-|-|-|
+|176|メタルドラゴン		|-|-|-|
+|177|ハイメタルドラゴン		|-|-|-|
+|178|キングメタルドラゴン	|-|-|-|
+|179|ゴールドドラゴン		|-|-|-|
+|180|ハイゴールドドラゴン	|-|-|-|
+|181|キングゴールドドラゴン	|-|-|-|
+|182|ポリン			|-|-|-|
+|183|マーリン			|-|-|-|
+|184|ポポリン			|-|-|-|
+|185|ドロップス			|-|-|-|
+|186|ゴーストリング		|-|-|-|
+|187|ゼウス			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|188|覚醒ゼウス			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|189|ヘラ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|190|覚醒ヘラ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|191|パイロデビル			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|192|パイロデーモン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|193|フロストデビル		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|194|フロストデーモン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|195|タウロスデビル		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|196|タウロスデーモン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|197|ハーピィデビル		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|198|ハーピィデーモン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|199|ブラッドデビル		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|200|ブラッドデーモン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|201&aname(no201);|紅蓮の女帝・エキドナ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|202|大海の歌姫・セイレーン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|203|大樹の精霊・アルラウネ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|204|天空の使徒・エンジェル		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|205|常夜の魔女・リリス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|206|マーズライトカーバンクル	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|207|マーキュライトカーバンクル	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|208|アースライトカーバンクル	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|209|サンライトカーバンクル	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|210|ムーンライトカーバンクル	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|211|メテオボルケーノドラゴン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|212|クリスタルオーロラドラゴン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|213|グラビトンアースドラゴン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|214|ライトニングホーリードラゴン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|215|カオスデビルドラゴン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|216|緋天龍・エルドラド		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|217|蒼天龍・ニライカナイ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|218|樹天龍・ホウライ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|219|聖天龍・シャングリラ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|220|夜天龍・エリュシオン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|221|ベルセルク			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|222|蒼剣の覇王・ジークフリート	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|223|ハイランダー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|224|碧槍の英雄・クーフーリン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|225|ワルキューレ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|226|白盾の女神・ヴァルキリー	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|227&aname(no227);|ドラゴンフルーツ	|-|-|-|
+|228|マスターリング		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|229|フェニックスナイト・ホムラ	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|230|フェンリルナイト・カムイ	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|231|エンシェントドラゴンナイト	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|232|天空の騎士・ヴァーチェ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|233|カオスドラゴンナイト		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|234&aname(no234);|神秘の仮面		|-|-|-|
+|235|キングゴールドネッキー		|-|-|-|
+|236|シヴァ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|237|破壊神・シヴァ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|238|ラクシュミー		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|239|幸運の女神・ラクシュミー	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|240|パールヴァティー		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|241|金色の女神・パールヴァティー|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|242|インドラ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|243|雷霆龍・インドラ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|244|ヴリトラ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|245|暗黒龍・ヴリトラ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|246&aname(no246);|ダブルビリット	|-|-|-|
+|247|ダブサファリット		|-|-|-|
+|248|ダブエメリット		|-|-|-|
+|249|ダブトパリット		|-|-|-|
+|250|ダブアメリット		|-|-|-|
+|251|ダブミスリット		|-|-|-|
+|252|ルビードラゴン		|-|-|-|
+|253|ハイルビードラゴン		|-|-|-|
+|254|キングルビードラゴン	|-|-|-|
+|255|サファイアドラゴン		|-|-|-|
+|256|ハイサファイアドラゴン	|-|-|-|
+|257|キングサファイアドラゴン	|-|-|-|
+|258|エメラルドドラゴン		|-|-|-|
+|259|ハイエメラルドドラゴン	|-|-|-|
+|260|キングエメラルドドラゴン	|-|-|-|
+|261|超キングメタルドラゴン	|-|-|-|
+|262|フレイムキメラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|263|マグマキマイラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|264|バブルキメラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|265|ディープキマイラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|266|リーフキメラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|267|フラワーキマイラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|268|ボルトキメラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|269|サンダーキマイラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|270|ミストキメラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|271|フォッグキマイラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|272|ベビーマッチ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|273|ベビーマッチプラス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|274|アクマーメイド		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|275|アクマーメイドプラス	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|276|ごぶがりゴブリン		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|277|ごぶがりゴブリンプラス	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|278|音符のしにがみ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|279|音符のしにがみプラス	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|280|どんちゃん			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|281|勇者どんちゃん		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|282|勇者どんちゃんプラス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|283|砲炎機龍・ベテルギウス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|284|氷砕機龍・アルデバラン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|285|旋風機龍・カノープス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|286|皇爪機龍・レグルス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|287|殲滅機龍・ハダル		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|288|ドラール			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|289|アグドラール		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|290|フレアドラール		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|291|シャードラ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|292|シャードラン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|293|メガロドラン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|294|トイトプス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|295|トイケラトプス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|296|フォートトイトプス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|297|フェリオ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|298|フェアリオン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|299|エンジェリオン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|300|ピエドラ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|301&aname(no301);|ピエドラウン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|302|ドラウンジョーカー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|303&aname(no303);|ホノペンドラ	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|304|ルビペンドラ		|-|-|-|
+|305|ペンペンドラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|306|サファペンドラ		|-|-|-|
+|307|ジュペンドラ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|308|エメペンドラ		|-|-|-|
+|309|超キングゴールドドラゴン	|-|-|-|
+|310|氷のサムライオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|311|樹のサムライオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|312|炎のアイスオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|313|樹のアイスオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|314|炎のアーマーオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|315|氷のアーマーオーガ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|316|炎の機神兵・ヨトゥン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|317|水の機神兵・ミズガルズ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|318|木の機神兵・アースガル		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|319|マシンゴーレムMk-III		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|320|ダークゴーレムMk-III		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|321&aname(no321);|虹の番人	|-|-|-|
+|322|蒼炎星・イフリート		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|323|碧炎星・イフリート		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|324|輝炎星・イフリート		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|325|黒炎星・イフリート		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|326|紅氷星・リヴァイアサン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|327|碧氷星・リヴァイアサン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|328|輝氷星・リヴァイアサン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|329|黒氷星・リヴァイアサン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|330|紅樹星・ファフニール	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|331|蒼樹星・ファフニール	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|332|輝樹星・ファフニール	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|333|黒樹星・ファフニール	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|334|紅光星・神龍		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|335|蒼光星・神龍		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|336|碧光星・神龍		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|337|黒光星・神龍		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|338|紅闇星・ティアマット	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|339|蒼闇星・ティアマット	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|340|碧闇星・ティアマット	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|341|輝闇星・ティアマット	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|342|ECO・サラマンダー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|343|ECO・サラマンダー・アルマ	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|344|ECO・ペペン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|345|ECO・ペペン・アルマ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|346|ECO・シャボタン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|347|ECO・シャボタン・アルマ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|348|ECO・ベイビータイニー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|349|ECO・タイニー			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|350|フォーミュラー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|351|炎聖騎龍・フォーミュラー	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|352|シャイターン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|353|怒りと炎の精霊・シャイターン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|354|ウンディーネ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|355|愛と水の精霊・ウンディーネ	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|356|シルフ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|357|自由と風の精霊・シルフ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|358|ジーニャ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|359|富と光の精霊・ジーニャ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|360|タナトス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|361|死と闇の精霊・タナトス		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|362|オーディン			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|363|覚醒オーディン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|364|秘神・オーディン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|365|覚醒秘神・オーディン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|366|プラン			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|367|覚醒プラン			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|368|フレイ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|369|勝利の神・フレイ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|370|イズン＆イズーナ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|371|双星の女神・イズン＆イズーナ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|372|フレイヤ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|373|大地の女神・フレイヤ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|374|トール			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|375|雷の戦神・トール		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|376|ロキ			|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|377|狡知の神・ロキ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|378|ディノライダー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|379|ディノライダー・ドレーク	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|380|ビーストライダー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|381|ビーストライダー・マーリン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|382|マリンライダー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|383|マリンライダー・ロビン		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|384|ドラゴンライダー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|385|ドラゴンライダー・アーサー	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|386|グリプスライダー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|387|グリプスライダー・フィン	|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|388|戦女神・セイントミネルヴァ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|389|戦女神・ダークミネルヴァ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|390|海王神・ヘブンズネプチューン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|391|海王神・アビスネプチューン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|392|豊穣神・ホーリーセレス		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|393|豊穣神・イービルセレス		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|394|慈愛神・コスモスヴィーナス	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|395|慈愛神・カオスヴィーナス	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|396|冥界神・アークハーデス		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|397|冥界神・インフェルノハーデス	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|398|フェニックス			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|399|転生の霊鳥・フェニックス	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|400|クラーケン			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|401&aname(no401);|大洋の悪魔・クラーケン|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|402|グリフォン			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|403|疾風の狩人・グリフォン	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|404|ユニコーン			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|405|聖女の守護獣・ユニコーン	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|406|ケルベロス			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|407|地獄の番犬・ケルベロス	|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|408|究極炎龍・ムスプルヘイム	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|409|究極氷龍・ニブルヘイム	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|410|究極島龍・ユグドラシル	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|411|究極機龍・ヴァルハラ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|412|究極邪龍・ヘルヘイム	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|413|蒼炎龍・ムスプルヘイム	||||
+|414|ミツキ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|415|火の案内人・ミツキ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|416|焔尾の天狐・ミツキ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|417|ルカ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|418|水の案内人・ルカ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|419|海洋の才女・ルカ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|420|カノ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|421|木の案内人・カノ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|422|森羅の神子・カノ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|423|フウ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|424|光の案内人・フウ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|425|草原の舞姫・フウ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|426|クロネ			|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|427|闇の案内人・クロネ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|428|宵闇の猫又・クロネ		|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|429|クイーンメタルドラゴン	|-|-|-|
+|430|クイーンゴールドドラゴン	|-|-|-|
+|431|下仁田ネギ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|432|超・下仁田ネギ		|-|-|-|
+|433|下仁田こんにゃく		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|434|超・下仁田こんにゃく	|-|-|-|
+|435|嬬恋キャベツ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|436|超・嬬恋キャベツ		|-|-|-|
+|437|だるま			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|438|超・だるま			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|439|ぐんまけん			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|440|超・ぐんまけん		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|441|火の歴龍・アードベッグ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|442|水の歴龍・ボウモア		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|443|木の歴龍・ラガヴーリン	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|444|光の歴龍・ラフロイグ	|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|445|闇の歴龍・カリラ		|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|446|チョコボ			||||
+|447|竜騎士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|448|最強装備・竜騎士		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|449|バーサーカー			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|450|最強装備・バーサーカー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|451|弓使い			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|452|最強装備・弓使い		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|453|ソルジャー			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|454|最強装備・ソルジャー		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|455|黒魔道士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|456|最強装備・黒魔道士		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|457|時魔道士			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|458|最強装備・時魔道士		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|459|シーフ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|460|最強装備・シーフ		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|461|ベヒーモス			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|462|アパンダ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|463|モルボル			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|464|モルボルキング		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|465|トンベリ			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|466|トンベリキング		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|467|バハムート			|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|468|究極召喚・バハムート		|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|469&aname(no469);|レッドクリスタル	|-|-|-|
+|470|ブルークリスタル		|-|-|-|
+|471|グリーンクリスタル		|-|-|-|
+|472|イエロークリスタル		|-|-|-|
+|473|パープルクリスタル		|-|-|-|
+|474|レインボークリスタル	|-|-|-|
+|475|火炎獄・パイロデーモン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|476|氷結獄・フロストデーモン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|477|樹海獄・タウロスデーモン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|478|光天獄・ハーピィデーモン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|479|闇地獄・ブラッドデーモン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|480|爆炎龍・グランティラノス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|481|氷塊龍・デプスプレシオス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|482|大花龍・ガイアブラキオス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|483|太陽龍・ソルプテラドス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|484|月光龍・ルナデスピナス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|487|闇の勝負師・ギャンブルメイジ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|489|時の伝道師・クロノタートル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|491|炎隼神・ホルス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|493|聖海神・イシス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|495|愛猫神・バステト|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|497|太陽神・ラー|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|499|冥狼神・アヌビス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|501|アン・パント・ケットバス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|503|草原の主・ガウガウキング|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|505|セイウチさん|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|507|ザ・ゼリーエンジェルズ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|509|カイトペンペン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|511|デイビルアイ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|512|剛腕の巨人・ギガンテス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|513|蒼覇王・カイゼルジークフリート|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|514|大英雄・モアクーフーリン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|515|戦乙女・プリンセスヴァルキリー|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|516|魔王・ヴァンパイアロード|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|520|ノエルドラゴン・ルージュ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|527|最強装備・狩人|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|529|最強装備・からくり士|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|531|最強装備・フェンサー|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|533|最強装備・狩人【サンタ】|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|535|最強装備・からくり士【サンタ】|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|537|最強装備・フェンサー【サンタ】|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|539|究極召喚・アレクサンター|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|540|風林火山龍・シンゲン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|544|第六天魔龍・ノブナガ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|546|火の中忍|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|BGCOLOR(#a6f1f1):0.7|
+|556|紅焔の巫女・望月千代女|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|558|蒼扇の夜叉・初芽局|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|560|旋風の神童・猿飛佐助|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|562|雷角の頭領・風魔小太郎|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|564|朧夜の闇忍・服部半蔵|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|566|天下の大泥棒・石川五右衛門|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|568|戦軍神・アレス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|570|商業神・ヘルメス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|572|狩猟神・アルテミス|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|574|光明神・アポロン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|576|冥府神・ペルセポネ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|597|覚醒ヘラ・イース|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|606|太鼓神どんちゃん|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|608|メラリ！ あついさん|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|610|うっとり～ん ホワイトさん|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|612|のぼ～ん カピバラさん|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|614|ふらわ～ん ひだまりさん|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|616|ブンブン リーゼントくん|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|621|神炎の熾天使・ウリエル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|623|信託の大天使・ガブリエル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|625|護法の大天使・ミカエル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|627|神癒の大天使・ラファエル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|629|黎明の熾天使・ルシファー|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|631|邪炎の魔神将・ベリアル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|633|義侠の魔神将・アモン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|635|予見の魔神将・アスタロト|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|637|閃剣の魔神将・バアル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|639|逆心の神魔王・ルシファー|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|647|災禍の魔神王・サタン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|652|焔剣の勝利神・フレイ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|653|蒼穹の双星神・イズン＆イズーナ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|654|緑聖の豊麗神・フレイヤ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|655|雷槌の金剛神・トール|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|656|終焉の狡知神・ロキ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|657|天頂の雷霆龍・インドラ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|658|深潭の暗黒龍・ヴリトラ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+|660|ドロイドラゴン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|661|カオスブリザードドラゴン|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|663|ロマンティック★キャシー|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|665|蒼翼忍者・鵜飼孫六|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|666|ECO・タイニー・アルマ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|668|ECO・ダンプティー・アルマ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|670|灼炎のアポロ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|672|光龍王サイガ|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|674|KOBレオンハート|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|676|ボックル|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|678|狂華咲乱 花媛香具耶|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|BGCOLOR(#bbf1a6):1.0|
+|683|龍王・ゼローグ|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|BGCOLOR(#f1bba6):1.5|
+}}
+
+** 成長率が明らかに違う例 [#r2d24512]
+
+#ref(at-211-408.png,nolink)
+
+- Lv80～90ぐらいまでは、HP・攻撃力ともにメテオボルケーノドラゴンの方が高い。（究極炎龍・ムスプルヘイムは攻撃力1.1倍なのでもう少し早いかも）
+- 回復についてはずっとメテオボルケーノドラゴンの方がわずかに高い。
+- ちなみにコストはメテオボルケーノドラゴンが15、ムスプルヘイムが35。
+
+||Lv最大までの経験値|初期値|最大値(+卵)|成長率|
+|211 メテオボルケーノドラゴン|4680039|1130 950 93|2825 1330 186(610.50)|普通（初期値を踏まえると早熟）|
+|408 究極炎龍・ムスプルヘイム|4000000|0495 330 52|3018 1508 142(650.73)|相当遅い晩成|
+
+- メテオボルケーノドラゴンについては進化前の経験値11570+44520+623949も含めた。
+- 普通にプレイしていたらメテオボルケーノドラゴンのほうが圧倒的に費用対効果が高いが、最終的にはムスプルヘイムのほうが能力が高い。
+- かといってムスプルヘイムを育てながら使うとすると、その能力の低さにずっと辛い思いをするという…。どちらも一長一短なので、結局両方育てることが多くなる、ということか。
+
+とはいえ、そんなに完全に能力・スキルが被っているキャラは多くないので成長率はあまり気にしなくてもいいのかもしれない。
+
+* コメント [#s9859273]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,133 @@
+* イベントエリア/破壊の戦争屋 [#c055d8f1]
+
+** 破壊の戦争屋 [#r3a971b0]
+ 破壊の戦争屋 - 6ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 戦火が立ち、硝煙のにおいのする戦場。密林に突如として現れた“破壊者”は、戦争を始める。
+ 
+ エリア目標:
+ 1:悪いよりしろ 3:超悪いよりしろ 
+
+|~''クエスト名''|~''距離''|~''スタミナ''|~''獲得EXP''|~''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''戦場に現る者'''>#k826560c]]''|24|19|700|18,000|火無|BGCOLOR(#f1bba6):属性:火 種族:人類&br;攻撃:54620/2T&br;|悪いよりしろ&br;|炎火のよりしろ&br;|金:AS不使用&br;銀:ノーコンティニュー&br;銅:ボス撃破&br;|初期Soul値:15&br;[exp/sta]:36.8&br;|
+- 前:''[['''密林の戦場'''>イベントエリア/密林の戦場]]'' 次:-
+
+- [[配信履歴(破壊の戦争屋)>#xbf384ae]]
+- [[コメント(破壊の戦争屋)>#m9ea8897]]
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|助っ人枠:?&br;初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#g6a55aec]
+
+----
+*** 戦場に現る者 [#k826560c]
+&color(black,#eeeeee){基本情報};
+:|
+距離:24 スタミナ:19 獲得EXP:700 獲得金額:18,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:''コンティニューなし''でクリア！
+-- 銅:''ボスを撃破''！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[戦王]G.S.''
+属性:&color(black,#f1bba6){火}; 種族:人類
+攻撃:54620/2T HP:約2,442,000 獲得Soul:8 獲得Gold:0
+有効特効:対火属性
+ドロップ:&color(#006600){[争王]G.S.}; (火弓金本) , 悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:11910/2T HP:249,423(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:15,000
+座標:(あと12マス,-2),(あと07マス,+2)
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1bba6){火};/&color(black,#ffffff){無};
+
+:|''シャドー・ポイム''
+攻撃:19210/3T HP:198,559(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:800
+ドロップ:?
+
+:|''サイボーグ・スコーピオン''(仮)
+攻撃:35360/3T HP:620,099(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:700
+ドロップ:?
+
+:|''ハイ・シェルフ''
+攻撃:26340/3T HP:135,081(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:火のよりしろ
+
+:|''ゴーレム''
+攻撃:18630/3T HP:454,824(&color(black,#ffffff){無};) 獲得Soul:? 獲得Gold:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:36.8
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:?あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|クエスト特性:
+-- SPパネル出現率高め。
+:|特別ガイド台詞:
+ イベントエリア/破壊の戦争屋 > 戦場に現る者 - 特別ガイド台詞
+ 
+ 話者: 
+ 
+ 1. :
+ ?
+ 
+ 〜()〜
+
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/破壊の戦争屋 > 戦場に現る者'' - Map|
+|~y\x|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:24|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||19|18|||||||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):鋏6R|BGCOLOR(#f1bba6):貝2R|||BGCOLOR(#f1bba6):軟5R||B|
+|~+3||||||ゴH|ゴH|ゴH|ゴH||||BGCOLOR(#f1bba6):貝2R||BGCOLOR(#f1bba6):鋏6R|||BGCOLOR(#f1bba6):鋏6R|||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):貝2R|B|
+|~+2|||||||||BGCOLOR(#f1bba6):軟5R|ゴH||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|金4|BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):貝2R|BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):貝2R|B|
+|~+1||||||BGCOLOR(#f1bba6):貝2R||BGCOLOR(#f1bba6):貝2R||BGCOLOR(#f1bba6):鋏6R|ゴH|ゴH|BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):軟5R|||BGCOLOR(#f1bba6):軟5R||B|
+|~±0||||Sta|||BGCOLOR(#f1bba6):貝2R|||BGCOLOR(#f1bba6):軟5R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):鋏6R|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH||B|
+|~-1||||||BGCOLOR(#f1bba6):貝2R||BGCOLOR(#f1bba6):貝2R|BGCOLOR(#f1bba6):軟5R|箱|BGCOLOR(#f1bba6):||BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):貝2R||BGCOLOR(#f1bba6):貝2R||||||||B|
+|~-2||||||||ゴH|ゴH|BGCOLOR(#f1bba6):鋏6R|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|金4|BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):貝2R|||箱|箱|箱|箱|箱||B|
+|~-3||||||ゴH|ゴH|||ゴH|||BGCOLOR(#f1bba6):鋏6R||BGCOLOR(#f1bba6):貝2R||BGCOLOR(#f1bba6):貝2R||||||||B|
+|~-4||||||ゴH||17|16||ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH|ゴH||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 軟:軟体種(ポイム系) 鋏:鋏角種(スコーピオン系) 貝:宿貝種(シェルフ系) ゴ:ゴーレム 金:金ポイム系
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜2:「ハイ・〜」 〜3:「キラー・〜」 〜4:「カイザー・〜 」 〜5:「シャドー・〜」 〜6:「サイボーグ・〜」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 配信履歴(破壊の戦争屋) [#xbf384ae]
+:2014/10/11(00:00)〜2014/10/13(23:59)|
+:2014/01/13(10:00)〜2014/01/14(10:00)|
+
+----
+* コメント(破壊の戦争屋) [#m9ea8897]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

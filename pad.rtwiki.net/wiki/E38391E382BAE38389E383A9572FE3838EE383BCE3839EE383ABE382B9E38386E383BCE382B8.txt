@@ -1,0 +1,103 @@
+* ノーマルステージ [#zf0612e6]
+
+#contents
+
+** ノーマルステージについて [#b167b54f]
+
+- 各ステージに3つのエリアがあり、クリアすると1エリアにつき最大3つの☆を獲得できる。
+- 消費スタミナはエリア1から順に1→2→3。
+- スコアは、(残りターン数 + 1) * 平均コンボ数^2 * 100 / 1.6 にて算出。
+- スコアが10,000点以上で☆3つ。
+- 1つのステージで☆を4つ集めれば次のステージが解禁、9つ全て集めると王冠を獲得する。
+
+** ステージ一覧 [#f2a589d4]
+
+//テンプレ
+
+//○コンボ以上を作ろう！
+//コンボ中に□を○回以上消そう！
+//□を○個以上繋げて消そう！
+//□を入れてコンボを作ろう！
+
+//&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};
+//|~''XX.○○○○''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){お邪魔};|○○○○||
+
+#style(class=enableFilter){{
+|LEFT:180|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:25|CENTER:25|CENTER:25|||c
+|~名称			|>|>|>|>|>|>|>|~登場ドロップ|~条件|~クリア報酬|
+|~''66.たまドラコスモス''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|コンボ中に&color(#000,#f1f1a6){光};を4回以上消そう！|魔法石x1|
+|~''65.洞窟の先へ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|&color(#000,#bba6f1){闇};を8個以上繋げて消そう！|50000メダル|
+|~''64.家主はだあれ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|8コンボ以上を作ろう！|50000メダル|
+|~''63.最後の花火''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){増殖&br;お邪魔};|&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};を入れてコンボを作ろう！|50000メダル|
+|~''62.ディープブルー''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内でコンボ中に&color(#000,#bba6f1){闇};を3回以上消そう！|魔法石x1|
+|~''61.サイレントビーチ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内で&color(#000,#f1f1a6){光};を7個以上繋げて消そう！|50000メダル|
+|~''60.お菓子も眠る''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内で6コンボ以上を作ろう！|50000メダル|
+|~''59.ようこそ夜空へ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){お邪魔};|盤面内で&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|50000メダル|
+|~''58.眠る森''			|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#ffc0cb):回復||コンボ中に&color(#000,#f1bba6){火};を3回以上消そう！|魔法石x1|
+|~''57.神秘の洞窟''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#ffc0cb):回復||&color(#000,#a6f1f1){水};を7個以上繋げて消そう！|50000メダル|
+|~''56.ジャックランタン''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#ffc0cb):回復||6コンボ以上を作ろう！|50000メダル|
+|~''55.星のお祭り''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#ffc0cb):回復||&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|50000メダル|
+|~''54.まっくら洞窟''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||盤面内でコンボ中に&color(#000,#a6f1f1){水};を4回以上消そう！|魔法石x1|
+|~''53.ベリーキャッスル''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#ffc0cb):回復||盤面内で&color(#000,#f1f1a6){光};を8個以上繋げて消そう！|50000メダル|
+|~''52.キラキラ砂浜''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||盤面内で7コンボ以上を作ろう！|50000メダル|
+|~''51.スイーツナイト''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||盤面内で&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|50000メダル|
+|~''50.星の雲の上''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|||BGCOLOR(#cccccc):&font(70%){お邪魔};|コンボ中に&color(#000,#bbf1a6){木};を3回以上消そう！|魔法石x1|
+|~''49.サイレントウッド''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){お邪魔};|&color(#000,#bbf1a6){木};を7個以上繋げて消そう！|50000メダル|
+|~''48.ブライトパーク''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){お邪魔};|6コンボ以上を作ろう！|50000メダル|
+|~''47.草原どこまでも''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||BGCOLOR(#cccccc):&font(70%){お邪魔};|&color(#000,#f1bba6){火};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|50000メダル|
+|~''46.たまま・サンバ''		||||BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||15コンボ以上を作ろう！|40000メダル|
+|~''45.たままボルケイノ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||コンボ中に&color(#000,#bba6f1){闇};を4回以上消そう！|魔法石x1|
+|~''44.ダイノケイブ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#ffc0cb):回復||&color(#000,#bba6f1){闇};を７個以上繋げて消そう！|40000メダル|
+|~''43.ハロウィンナイト''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||7コンボ以上作ろう！|40000メダル|
+|~''42.お祭りは続くよ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|40000メダル|
+|~''41.サンセットビーチ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||コンボ中に&color(#000,#f1f1a6){光};を3回以上消そう！|魔法石x1|
+|~''40.オレンジスカイ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#ffc0cb):回復||&color(#000,#f1f1a6){光};を6個以上繋げて消そう！|30000メダル|
+|~''39.スターエッグ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||8コンボ以上を作ろう！|30000メダル|
+|~''38.あかね色の空''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|30000メダル|
+|~''37.さよなら遊園地''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||コンボ中に&color(#000,#bbf1a6){木};を3回以上消そう！|魔法石x1|
+|~''36.たそがれ草原''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#ffc0cb):回復||&color(#000,#bbf1a6){木};を7個以上繋げて消そう！|30000メダル|
+|~''35.いにしえの洞窟''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||6コンボ以上を作ろう！|30000メダル|
+|~''34.かぼちゃのお屋敷''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};を入れてコンボを作ろう！|30000メダル|
+|~''33.たまドラのお祭り''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水||BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||コンボ中に&color(#000,#a6f1f1){水};を4回以上消そう！|魔法石x1|
+|~''32.パズドラパレード''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||BGCOLOR(#ffc0cb):回復||&color(#000,#a6f1f1){水};を9個以上繋げて消そう！|30000メダル|
+|~''31.トワイライト海岸''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||7コンボ以上を作ろう！|30000メダル|
+|~''30.サンセットスカイ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#f1bba6){火};&color(#000,#a6f1f1){水};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|30000メダル|
+|~''29.タマゴの祭典''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||コンボ中に&color(#000,#f1bba6){火};を2回以上消そう！|魔法石x1|
+|~''28.日暮れの森''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||BGCOLOR(#ffc0cb):回復||&color(#000,#bbf1a6){木};を6個以上繋げて消そう！|30000メダル|
+|~''27.夕焼けパーク''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水||BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||8コンボ以上を作ろう！|30000メダル|
+|~''26.夕日の草原''		|BGCOLOR(#f1bba6):火||BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|30000メダル|
+|~''25.踊るたまドラ''		||||BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|||10コンボ以上を作ろう！|30000メダル|
+|~''24.青空カーニバル''		|BGCOLOR(#f1bba6):火||BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||コンボ中に&color(#000,#bba6f1){闇};を3回以上消そう！|魔法石x1|
+|~''23.ぷくぷく海底''		|BGCOLOR(#f1bba6):火||BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#f1bba6){火};を8個以上繋げて消そう！|20000メダル|
+|~''22.いちごショート''		|BGCOLOR(#f1bba6):火||BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||6コンボ以上を作ろう！|20000メダル|
+|~''21.たまたま砂浜''		|BGCOLOR(#f1bba6):火||BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#f1bba6){火};&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|20000メダル|
+|~''20.お菓子食べ放題''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||コンボ中に&color(#000,#f1f1a6){光};を2回以上消そう！|魔法石x1|
+|~''19.レインボースカイ''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#f1f1a6){光};を5個以上繋げて消そう！|20000メダル|
+|~''18.エッグパーク''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||4コンボ以上を作ろう！|20000メダル|
+|~''17.きりかぶの森''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|20000メダル|
+|~''16.ほんわか遊園地''		||BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||コンボ中に&color(#000,#bbf1a6){木};を3回以上消そう！|魔法石x1|
+|~''15.さわやか高原''		||BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#bbf1a6){木};を6個以上繋げて消そう！|20000メダル|
+|~''14.御三家パレード''		||BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||4コンボ以上を作ろう！|20000メダル|
+|~''13.ケーキキャッスル''	||BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#bbf1a6){木};&color(#000,#f1f1a6){光};&color(#000,#bba6f1){闇};を入れてコンボを作ろう！|20000メダル|
+|~''12.ブルーブルー''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||コンボ中に&color(#000,#a6f1f1){水};を2回以上消そう！|魔法石x1|
+|~''11.星砂ビーチ''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||&color(#000,#a6f1f1){水};を5個以上繋げて消そう！|20000メダル|
+|~''10.スイーツハウス''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||3コンボ以上を作ろう！ |20000メダル|
+|~''9.雲の王国''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||&color(#000,#a6f1f1){水};&color(#000,#bbf1a6){木};を入れてコンボを作ろう！|10000メダル|
+|~''8.オーレ！たまま''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木||||||7コンボ以上を作ろう！|10000メダル|
+|~''7.さんさん海岸''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#bba6f1){闇};を4個以上繋げて消そう！|魔法石x1|
+|~''6.タマゴのふるさと''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||&color(#000,#f1f1a6){光};を4個以上繋げて消そう！|10000メダル|
+|~''5.シュガーホーム''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||2コンボ以上を作ろう！|10000メダル|
+|~''4.アップルフォレスト''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||2コンボ以上を作ろう！|10000メダル|
+|~''3.もくもくランデヴー''	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇||||&color(#000,#bbf1a6){木};を入れてコンボを作ろう！|10000メダル|
+|~''2.のんびり遊園地''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||&color(#000,#a6f1f1){水};を入れてコンボを作ろう！|10000メダル|
+|~''1.たまま草原''		|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|||||&color(#000,#f1bba6){火};を入れてコンボを作ろう！|魔法石x1|
+}}
+
+** 実装履歴 [#rc0f72d7]
+
+|~ステージ|~実装日|~備考|
+|1～66|2014/07/29|Ver.7.0アップデート（パズドラW追加）|
+
+* コメント [#kfa2a3e2]
+
+#pcomment

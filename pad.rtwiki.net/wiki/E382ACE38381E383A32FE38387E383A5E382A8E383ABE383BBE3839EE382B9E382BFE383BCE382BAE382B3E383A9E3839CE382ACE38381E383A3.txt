@@ -1,0 +1,23 @@
+* デュエル・マスターズコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+ボルメテウスドラゴンは、複数体居ればスキルのドロップリフレッシュ効果を使ったループが可能。
+しかし第1回ランキングダンジョンでは不正扱いとされてしまった。
+}}
+
+** デュエル・マスターズ コラボガチャ [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/06/22～2015/07/05:http://pad.gungho.jp/member/dm_gacya_list.html]]|
+|>|BGCOLOR(#ffffff):[[2016/01/18～2016/01/24:http://pad.gungho.jp/member/collabo/160113_dm_lineup.html]]|
+|★5|&mons2164; &mons2163; &mons2175;|
+|★4|&mons2167; &mons2169; &mons2171; &mons2173;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

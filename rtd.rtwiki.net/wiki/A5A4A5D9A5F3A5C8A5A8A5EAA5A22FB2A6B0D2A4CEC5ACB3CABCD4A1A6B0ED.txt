@@ -1,0 +1,282 @@
+* イベントエリア/つみの適格者 [#vb8a2541]
+
+** つみの適格者 [#oee5911f]
+ つみの適格者 - 6ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 王威なるもの…。この地に在りし。“罪王”の力を得し適格者を求めよ。
+ 
+ エリア目標:
+ 1:炎火のよりしろ 3:炎火のよりしろ 6:炎火のよりしろ 9:超悪いよりしろ
+
+&color(red){※};2014/04/19配信分では中級と上級のマップデータが入れ替わっている。エネミーの種類やステータスは変化なし。(距離とクエスト中の実距離が不一致。おそらく不具合。)
+また上級のボスがなぜか覇竜種に。
+|~クエスト名(Lv)|~距離|~スタミナ|~獲得EXP|~獲得金額|~雑魚属性|~ボス情報|~ボスドロップ|~レアエネミードロップ|~チャレンジ目標|~備考|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''つみの適格者・上級(5)'''>#ee14c319]]''|28|19|500|15,000|火|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:33340/3T&br;|[ざいおう]べるべ&br;炎火のよりしろ|炎火のよりしろ&br;悪いよりしろ&br;|金:AS不使用&br;銀:エネミー15体以上撃破&br;銅:火属性ユニットのみ&br;|初期Soul値:15&br;[exp/sta]:26.3&br;|
+|''[['''つみの適格者・中級(4)'''>#a6c4e180]]''|20|14|300|12,000|火|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:16080/2T&br;|[ざいおう]べるべ&br;炎火のよりしろ&br;|炎火のよりしろ&br;|金:エネミーを10体以上撃破&br;銀:残りSoul30以上&br;銅:ノーコンティニュー&br;|初期Soul値:15&br;[exp/sta]:21.4&br;|
+|''[['''つみの適格者・初級(2)'''>#mca7c5b3]]''|16|7|200|8,000|火|BGCOLOR(#f1bba6):属性:火 種族:龍&br;攻撃:3240/4T&br;|[ざいおう]べるべ&br;火のよりしろ&br;|火のよりしろ&br;|金:エネミー5体以上撃破&br;銀:残りSoul10以上&br;銅:ノーコンティニュー&br;|初期Soul値:15&br;[exp/sta]:28.6&br;|
+
+- [[開放履歴(つみの適格者)>#e042fafa]]
+- [[コメント(つみの適格者)>#]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#wab2bd8f]
+----
+*** つみの適格者・上級 [#ee14c319]
+&color(black,#eeeeee){基本情報};
+:|
+距離:28 スタミナ:19 獲得EXP:500 獲得金額:15,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア！
+-- 銀:エネミー''15体以上''撃破してクリア！
+-- 銅:主属性が''火属性のユニットのみ''のパーティーでクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''サイボーグ・ヒドラ''(仮)
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:33340/3T HP:約610,000 獲得Soul:7 獲得Gold:0
+有効特効:対龍 , 対火属性
+ドロップ:&color(#006600){[ざいおう]べるべ}; (火杖金本) , 炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''金カイザー・ポイム''
+攻撃:7920/2T HP:168,483(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:10,000
+座標:(あと16マス,-3),(あと05マス,+3)
+ドロップ:炎火のよりしろ , 悪いよりしろ
+
+&color(black,#eeeeee){エネミー};
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''シャドー・ドラン''
+攻撃:21040/3T HP:175,499(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:?
+
+:|''ハイ・フォーゲル''
+攻撃:29010/4T HP:204,471(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:火のよりしろ
+
+:|''ハイ・シェルフ''
+攻撃:?/3T HP:120,291(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:1,000
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:26.3
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|特別ガイド台詞:
+ イベントエリア/つみの適格者 > つみの適格者・上級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/つみの適格者 > つみの適格者・上級'' - Map|
+|~(x,y)|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||卵5R|||BGCOLOR(#f1bba6):|||||卵5R||||BGCOLOR(#f1bba6):|||||鳥2R|Boss|
+|~+3|||||||鳥2R||貝2R||箱||鳥2R|BGCOLOR(#f1bba6):|卵5R|||||鳥2R|箱|卵5R|BGCOLOR(#f1bba6):|''金4H''||||卵5R|Boss|
+|~+2||||||||||貝2R||卵5R||BGCOLOR(#f1bba6):|||貝2R|||||鳥2R|BGCOLOR(#f1bba6):||||鳥2R||Boss|
+|~+1|||||||BGCOLOR(#f1bba6):鳥2R||||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|鳥2R||貝2R||卵5R||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):||卵5R||卵5R|Boss|
+|~±0||||''Sta''|||BGCOLOR(#f1bba6):|箱|卵5R|||貝2R||BGCOLOR(#f1bba6):|||卵5R||||貝2R||BGCOLOR(#f1bba6):|鳥2R||貝2R|||Boss|
+|~-1|||||||BGCOLOR(#f1bba6):鳥2R||||卵5R||貝2R|BGCOLOR(#f1bba6):|卵5R|貝2R|||鳥2R|箱||貝2R|BGCOLOR(#f1bba6):||||貝2R||Boss|
+|~-2|||||||||貝2R||箱|||BGCOLOR(#f1bba6):|||貝2R||||||BGCOLOR(#f1bba6):|貝2R||||卵5R|Boss|
+|~-3|||||||鳥2R|||貝2R|||''金4H''|BGCOLOR(#f1bba6):||卵5R|||鳥2R|箱|鳥2R||BGCOLOR(#f1bba6):||貝2R||鳥2R||Boss|
+|~-4||||||||||||||BGCOLOR(#f1bba6):|||||||||BGCOLOR(#f1bba6):||||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 卵:竜卵種(ドラン系) 鳥:額鳥種(フォーゲル系) 貝:宿貝種(シェルフ系) :ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** つみの適格者・中級 [#a6c4e180]
+&color(black,#eeeeee){基本情報};
+:|
+距離:20 スタミナ:16 獲得EXP:300 獲得金額:12,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:エネミーを''10体以上''撃破してクリア！
+-- 銀:残りSoulが''30以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''竜王種:レッド・ヴィーヴィル''
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:16080/2T HP:約354,000 獲得Soul:8 獲得Gold:0
+有効特効:対龍 , 対火属性
+ドロップ:&color(#006600){[ざいおう]べるべ}; (火杖金本) , 炎火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀カイザー・ポイム''
+攻撃:13770/3T HP:111,063(&color(black,#ffffff){無};) 獲得Soul:3 獲得Gold:?
+4,000
+座標:(あと10マス,±0),(あと4マス,+2)
+ドロップ:炎火のよりしろ
+
+&color(black,#eeeeee){エネミー};
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''カイザー・ドラン''
+攻撃:11320/3T HP:56,071(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:900
+ドロップ:?
+
+:|''フォーゲル''
+攻撃:16190/4T HP:118,659(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:450
+ドロップ:?
+
+:|''シェルフ''
+攻撃:12380/3T HP:55,759(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:450
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:21.4
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|特別ガイド台詞:
+ イベントエリア/つみの適格者 > つみの適格者・中級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/つみの適格者 > つみの適格者・中級'' - Map|
+|~(x,y)|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||BGCOLOR(#f1bba6):貝1R|箱|BGCOLOR(#f1bba6):鳥1R||||||||Boss|
+|~+3|||||||BGCOLOR(#f1bba6):卵4R||||||||BGCOLOR(#f1bba6):貝1R||BGCOLOR(#f1bba6):鳥1R||||Boss|
+|~+2||||||BGCOLOR(#f1bba6):貝1R|箱|BGCOLOR(#f1bba6):貝1R|||BGCOLOR(#f1bba6):鳥1R||BGCOLOR(#f1bba6):卵4R||||''銀4H''|BGCOLOR(#f1bba6):卵4R|||Boss|
+|~+1|||||BGCOLOR(#f1bba6):卵4R||||BGCOLOR(#f1bba6):卵4R|箱|BGCOLOR(#f1bba6):貝1R||||||||BGCOLOR(#f1bba6):貝1R||Boss|
+|~±0||||''Sta''||||BGCOLOR(#f1bba6):鳥1R|||''銀4H''|BGCOLOR(#f1bba6):卵4R|箱|BGCOLOR(#f1bba6):鳥1R||BGCOLOR(#f1bba6):貝1R|||||Boss|
+|~-1|||||||||箱|BGCOLOR(#f1bba6):卵4R|||BGCOLOR(#f1bba6):貝1R||BGCOLOR(#f1bba6):卵4R|箱|BGCOLOR(#f1bba6):鳥1R||||Boss|
+|~-2|||||BGCOLOR(#f1bba6):鳥1R||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#f1bba6):貝1R|||||||||BGCOLOR(#f1bba6):卵4R|||Boss|
+|~-3||||||BGCOLOR(#f1bba6):貝1R|箱|||BGCOLOR(#f1bba6):鳥1R|||||||||BGCOLOR(#f1bba6):鳥1R||Boss|
+|~-4|||||||BGCOLOR(#f1bba6):鳥1R||||||||||||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 卵:竜卵種(ドラン系) 鳥:額鳥種(フォーゲル系) 貝:宿貝種(シェルフ系) :ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** つみの適格者・初級 [#mca7c5b3]
+&color(black,#eeeeee){基本情報};
+:|
+距離:16 スタミナ:7 獲得EXP:200 獲得金額:8,000
+クリアボーナス:-
+チャレンジ目標:
+-- 金:エネミーを''5体以上''撃破してクリア！
+-- 銀:残りSoulが''10以上''の状態でクリア！
+-- 銅:''コンティニューなし''でクリア！
+
+&color(black,#eeeeee){ボスエネミー};
+:|''覇竜種:レッド・ファヴニル''
+属性:&color(black,#f1bba6){火属性}; 種族:ドラゴン
+攻撃:3240/4T HP:約40,000 獲得Soul:7 獲得Gold:0
+有効特効:対龍 , 対火属性
+ドロップ:&color(#006600){[ざいおう]べるべ}; (火杖金本) , 火のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|''銀キラー・ポイム''
+攻撃:?/3T HP:7710(&color(black,#ffffff){無};) 獲得Soul:2 獲得Gold:1,200
+座標:(あと08マス,+3),(あと02マス,-2)
+ドロップ:火のよりしろ
+
+&color(black,#eeeeee){エネミー};
+:|
+出現属性:&color(black,#f1bba6){火};
+
+:|''キラー・ウルフ''
+攻撃:?/2T HP:4,199(&color(black,#f1bba6){火};) 獲得Soul:3 獲得Gold:400
+ドロップ:?
+
+:|''ドラン''
+攻撃:?/2T HP:7,499(&color(black,#f1bba6){火};) 獲得Soul:2 獲得Gold:300
+ドロップ:?
+
+:|''キラー・グリズリー''
+攻撃:?/4T HP:17,799(&color(black,#f1bba6){火};) 獲得Soul:? 獲得Gold:?
+ドロップ:?
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:28.6
+よりしろ経験値(残りSoul99):?
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|各属性補正マスの有無:
+-- 火:あり 水:- 光:- 闇:-
+:|特別ガイド台詞:
+ イベントエリア/つみの適格者 > つみの適格者・初級 - 特別ガイド台詞
+ 
+ 話者: -
+ 
+:|Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/ つみの適格者 > つみの適格者・初級'' - Map|
+|~(x,y)|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||BGCOLOR(#f1bba6):狼3R||||||Boss|
+|~+3|||||BGCOLOR(#f1bba6):狼3R||BGCOLOR(#f1bba6):||''銀3H''||||BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):狼3R|Boss|
+|~+2||||||BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):爪3R|BGCOLOR(#f1bba6):卵1R|||箱|BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):爪3R|BGCOLOR(#f1bba6):卵1R|||Boss|
+|~+1|||||||BGCOLOR(#f1bba6):|箱||BGCOLOR(#f1bba6):卵1R||箱|BGCOLOR(#f1bba6):|||BGCOLOR(#f1bba6):爪3R|Boss|
+|~±0||||''Sta''||BGCOLOR(#f1bba6):狼3R|箱||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):爪3R|BGCOLOR(#f1bba6):||||BGCOLOR(#f1bba6):狼3R||Boss|
+|~-1|||||||箱|||BGCOLOR(#f1bba6):卵1R||||BGCOLOR(#f1bba6):狼3R||BGCOLOR(#f1bba6):爪3R|Boss|
+|~-2|||||BGCOLOR(#f1bba6):狼3R||BGCOLOR(#f1bba6):|箱||||箱|BGCOLOR(#f1bba6):||''銀3H''||Boss|
+|~-3||||||BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):爪3R|BGCOLOR(#f1bba6):卵1R|箱|BGCOLOR(#f1bba6):狼3R||BGCOLOR(#f1bba6):卵1R|BGCOLOR(#f1bba6):爪3R|BGCOLOR(#f1bba6):卵1R||BGCOLOR(#f1bba6):狼3R|Boss|
+|~-4|||||||BGCOLOR(#f1bba6):||||||BGCOLOR(#f1bba6):||||Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱
+ 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 爪:大爪種(グリズリー系) 銀:銀ポイム系
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 開放履歴(つみの適格者) [#e042fafa]
+:2014/11/12(10:00)〜2014/11/16(10:00)|
+:2014/04/19(10:00)〜2014/04/22(10:00)|
+-- 「つみの適格者 > つみの適格者」として開放。そのため実質クリアフラグリセット。
+:2013/12/27(10:00)〜2013/12/30(10:00)|
+-- 「王威の適格者・壱 > つみの適格者」として開放。
+:2013/10/10(10:25)〜2013/10/14(10:00)|
+-- 「王威の適格者・壱 > 極炎の適格者」として開放。
+
+----
+* コメント(つみの適格者) [#s60278b1]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

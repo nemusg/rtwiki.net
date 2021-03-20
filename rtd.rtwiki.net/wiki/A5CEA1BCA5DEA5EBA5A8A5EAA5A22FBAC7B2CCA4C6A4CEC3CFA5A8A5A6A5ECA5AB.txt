@@ -1,0 +1,408 @@
+* ノーマルエリア/エリア名 [#k79f2402]
+
+** 最果ての地エウレカ [#if3c9966]
+ 最果ての地エウレカ - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ 全ての竜の祖とされる龍が棲む地。降り積もるのは、残留物質が模倣した「雪」である。
+ (ver5.0.0以前:前王を倒し、現在のドラゴンの王が座する地。未だ一人として帰還したことがなく、全てが未知…)
+ 
+ エリア目標:
+ 1:悪いよりしろ 5:空のよりしろ 9:生命のよりしろ 12:力のよりしろ 15:癒しのよりしろ 18:超悪いよりしろ  
+ 
+ 開放条件
+ 1.「ノーマルエリア/龍王ヴィルムの墓」をクリア
+
+|~''クエスト名(Lv)''|~''距離''|~''スタミナ''|~''獲得PP''|''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+|||RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''烈火の龍神(6)'''>#f3bcbbef]]''|37|10|1000|8500|火水光闇|BGCOLOR(#f1bba6):属性:火 種族:竜&br;攻撃:?/2T||火のよりしろ|金:水属性のみ&br;銀:エネミー20体&br;銅:コンティニューなし|助っ人枠:自由&br;初期Soul値:20|
+|''[['''水麗の龍神(6)'''>#f7a48775]]''|37|10|1400|12000|火水光闇|BGCOLOR(#a6f1f1):属性:水 種族:竜&br;攻撃:?/2T|||金:火属性のみ&br;銀:エネミー25体&br;銅:コンティニューなし|助っ人枠:自由&br;初期Soul値:20|
+|''[['''白夜の龍神(6)'''>#w05fac7b]]''|37|10|1400|12000|火水光闇|BGCOLOR(#f1f1a6):属性:光 種族:竜&br;攻撃:?/2T||光のよりしろ|金:闇属性のみ&br;銀:ソウル40&br;銅:コンティニューなし|助っ人枠:自由&br;初期Soul値:20|
+|''[['''闇夜の龍神(6)'''>#a63d70c9]]''|37|10|1600|20000|火水光闇|BGCOLOR(#bba6f1):属性:闇 種族:竜&br;攻撃:?/2T|奈落のよりしろ|天のよりしろ&br;空のよりしろ|金:光属性のみ&br;銀:エネミー25体&br;銅:ソウル40|助っ人枠:自由&br;初期Soul値:20|
+|''[['''虚無の龍神(6)'''>#u8aadd7f]]''|37|10|1600|20000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:竜&br;攻撃:?/2T||&br;天のよりしろ|金:AS不使用&br;銀:エネミー25体&br;銅:ソウル40|助っ人枠:自由&br;初期Soul値:20|
+|''[['''この世すべての祖(7)'''>#ab7889e2]]''|43|11|2000|10000|火水光闇|BGCOLOR(#ffffff):属性:無 種族:竜&br;攻撃:?/3T|||金:コンティニューなし&br;銀:★6のみ&br;銅:ソウル45|助っ人枠:自由&br;初期Soul値:20|
+|>|>|>|>|>|>|>|>|>|>|''必要スタミナ合計:61　PP合計:9000''|
+
+// よく使うものなど
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// / ([[画像:]])
+// #ref(,right,wrap,around,,x96)
+// #clear
+// |''[[''''''>#]]''|?|?|?|火水光闇無?|属性:? 種族:?&br;攻撃:?/?T|?|?|金:&br;銀:&br;銅:|初期Soul値:?|
+//火のよりしろ,水のよりしろ,光のよりしろ,闇のよりしろ,炎火のよりしろ,清濁のよりしろ,光輝のよりしろ,奈落のよりしろ,&br;空のよりしろ,銀のよりしろ,金のよりしろ,天のよりしろ,悪いよりしろ,超悪いよりしろ
+
+
+** クエスト詳細 [#ce4d1eb2]
+----
+*** この世すべての祖 [#ab7889e2]
+&color(black,#eeeeee){基本情報};
+エネミーレベル:7 距離:43 スタミナ:11 獲得PP:2000 獲得金額:10000
+助っ人枠:自由
+クリアボーナス:虹色水晶×1
+チャレンジ目標:
+- 金:コンティニューなしでクリア！
+- 銀:レアリティ''★6''のユニットだけのパーティーでクリア！
+- 銅:ソウルが''45''以上の状態でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+|#ref(エネミー一覧/enemy_3206_boss.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無,竜|?/3T|RIGHT:?|RIGHT:10|RIGHT:1000|RIGHT:20000|RIGHT:24||
+|~''特性/備考''|>|>|>|>|>|>|>|''ver5.0.0以前''&br;祖龍:アジ・ダハーカ&br;属性:無属性 種族:ドラゴン&br;攻撃:22400/3T HP:約1,050,000 獲得Soul:10 獲得Gold:0 獲得覚醒pt:24&br;特性:戦闘開始から1T後にプレイヤー側の残りHPを1にする。&br;有効特効:対龍 , 対無属性&br;ドロップ:[隠王]ゼロシキ (闇剣金本) , [英雄王]ゼッターマン (水槍金本) , [鉄王]宝条まゆ (光弓金本) , [罪王]ヴェルベット (火杖金本)|
+//与ダメージデータ:
+//|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+//||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+|#ref(エネミー一覧/enemy_C_poim.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?|RIGHT:?&br;300000?|RIGHT:?&br;30|RIGHT:?&br;10000|RIGHT:?&br;?|RIGHT:?&br;1000||
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)&br;''ver5.0.0以前''&br;座標:(38,±0),(34,±0),(22,+2),(14,±0),(4,±0)|
+|#ref(エネミー一覧/enemy_G_poim4.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?/2T|RIGHT:?|RIGHT:3|RIGHT:1600|RIGHT:2500|RIGHT:42|悪いよりしろ&br;空のよりしろ&br;天のよりしろ|
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)&br;''ver5.0.0以前''&br;座標:(2,±0),(1,±0)|
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|h
+||||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|||c
+|#ref(エネミー一覧/enemy_R_poim6.jpg,center,nowrap,64x64)|火|?/3T|?|2|350|1100|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_A_poim6.jpg,center,nowrap,64x64)|水|?/3T|?&br;63683|2|350|1200|24|||
+|#ref(エネミー一覧/enemy_P_poim6.jpg,center,nowrap,64x64)|光|?/3T|?|2|350|1150|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_D_poim6.jpg,center,nowrap,64x64)|闇|?/3T|?|2|350|1050|24|エドガー●||
+|#ref(エネミー一覧/enemy_R_Squirrel5.jpg,center,nowrap,64x64)|火|?/1T&br;3630/1T|?&br;72462|2|400|1100|24|||
+|#ref(エネミー一覧/enemy_A_Squirrel5.jpg,center,nowrap,64x64)|水|?/1T|?|2|400|1200|24|||
+|#ref(エネミー一覧/enemy_P_Squirrel5.jpg,center,nowrap,64x64)|光|?/1T|?|2|400|1150|24|パトリシア●||
+|#ref(エネミー一覧/enemy_D_Squirrel5.jpg,center,nowrap,64x64)|闇|?/1T|?|2|400|1050|24|エドガー●||
+|#ref(エネミー一覧/enemy_R_doran5.jpg,center,nowrap,64x64)|火|?/2T&br;5740/2T|?&br;59372|3|450|1100|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_A_doran5.jpg,center,nowrap,64x64)|水|?/2T|?|3|450|1200|24|クラウス●||
+|#ref(エネミー一覧/enemy_P_scorpion4.jpg,center,nowrap,64x64)|光|?/3T|?|3|2000|1030|24|テオドール●||
+|#ref(エネミー一覧/enemy_D_scorpion4.jpg,center,nowrap,64x64)|闇|?/3T|?|3|2000|1030|24|||
+|#ref(エネミー一覧/enemy_P_wolf4.jpg,center,nowrap,64x64)|光|?/2T|?|3|1350|1150|24|||
+|#ref(エネミー一覧/enemy_D_wolf4.jpg,center,nowrap,64x64)|闇|?/2T&br;10230/2T|?&br;37558|3|1350&br;450|1050|24|||
+|#ref(エネミー一覧/enemy_P_grizzly5.jpg,center,nowrap,64x64)|光|?/4T&br;19310/4T|?&br;77802|3|550|1030|24|||
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|f
+
+&color(black,#eeeeee){'''備考'''};
+初期Soul値:20
+各種箱の有無:
+- Gold:? Life:○ Power:○ Soul:○ Unit:?
+- ユニット箱情報:((●の付いたドロップはver5.0.0以降に確認したもの。))
+-- 座標:(?,±?) , ''ver5.0.0以前'':(03,+1),(3,-1)
+-- 中身:天のよりしろ , 金のよりしろ , フリーデル・シュトローム(Lv.35) , りゅうじょう(Lv.35)
+
+パネル特性:なし
+各属性補正マスの有無:
+- 火:○ 水:○ 光:○ 闇:○
+
+簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''ノーマルエリア/最果ての地エウレカ > この世すべての祖'' - 簡易Map|
+|~(x,y)|~43　|~42　|~41　|~40　|~39　|~38　|~37　|~36　|~35　|~34　|~33　|~32　|~31　|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:40|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:35|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R|箱|BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P||BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):軟4D|||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|B|
+|~+3|||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R||BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P|箱|BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):角4D|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|B|
+|~+2|||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R||BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P|''晶4H''|BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R|箱|BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):狼4D|||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|B|
+|~+1|||||||||BGCOLOR(#f1bba6):軟4R|箱|BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R||BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P|箱|BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R|箱|BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):軟4D||箱U((一定の確率で出現。))|||B|
+|~±0||||''Sta''||''晶4H''|||BGCOLOR(#f1bba6):軟4R|''晶4H''|BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R||BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P||BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R|箱|BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R|''晶4H''|BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):角4D|''晶4H''||''金4H''|''金4H''|B|
+|~-1|||||||||BGCOLOR(#f1bba6):軟4R|箱|BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R||BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P||BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R|箱|BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):狼4D||箱U((一定の確率で出現。))|||B|
+|~-2|||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P|箱|BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R||BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P||BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P|箱|BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):軟4D|||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|B|
+|~-3|||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P||BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R|箱|BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P||BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P||BGCOLOR(#bba6f1):角4D|||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|B|
+|~-4|||||||||BGCOLOR(#f1bba6):軟4R||BGCOLOR(#a6f1f1):軟4A||BGCOLOR(#f1f1a6):軟4P|箱|BGCOLOR(#bba6f1):軟4D||BGCOLOR(#f1bba6):角4R||BGCOLOR(#a6f1f1):角4A||BGCOLOR(#f1f1a6):角4P||BGCOLOR(#bba6f1):角4D||BGCOLOR(#f1bba6):卵4R||BGCOLOR(#a6f1f1):卵4A||BGCOLOR(#f1bba6):鋏4R||BGCOLOR(#a6f1f1):鋏4A||BGCOLOR(#f1f1a6):狼4P||BGCOLOR(#bba6f1):狼4D||BGCOLOR(#f1f1a6):爪4P|箱|BGCOLOR(#bba6f1):狼4D|||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|B|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱:各種箱 箱U:ユニット箱
+ 軟:軟体種(ポイム系) 角:頭角種(スクィレル系) 狼:狼毛種(ウルフ系) 卵:竜卵種(ドラン系) 爪:大爪種(グリズリー系) 鋏:鋏角種(スコーピオン系) 金:金ポイム系 晶:水晶ポイム系
+ ~R:火属性の~(Red) A:水属性の~(Aqua) P:光属性の~(Pure) ~D:闇属性の~(Dark) ~H:無属性の~(Hollow)
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 虚無の龍神 [#u8aadd7f]
+&color(black,#eeeeee){基本情報};
+エネミーレベル:6 距離:37 スタミナ:10 獲得PP:1600 獲得金額:20000
+助っ人枠:自由
+クリアボーナス:なし
+チャレンジ目標:
+- 金:アクティブスキルを使用せずにクリア！
+- 銀:エネミーを''25''体以上撃破してクリア！
+- 銅:ソウルが''40''以上の状態でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+|#ref(エネミー一覧/enemy_H_vouivre.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無,竜|?/2T&br;17000/2T|RIGHT:?&br;約422000|RIGHT:10&br;8|RIGHT:1000&br;0|RIGHT:19000|RIGHT:24|勇者ジョセフ&br;英雄フィオナ&br;銃士ロビン&br;賢者ローレッタ|
+|~''特性/備考''|>|>|>|>|>|>|>||
+//与ダメージデータ:
+//|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+//||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};((下段はver5.0.0以前の情報。))
+|#ref(エネミー一覧/enemy_C_poim.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?/3T|RIGHT:?|RIGHT:30|RIGHT:10000|RIGHT:7777|RIGHT:1000||
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)|
+|#ref(エネミー一覧/enemy_G_poim4.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?/2T|RIGHT:?&br;107777|RIGHT:3|RIGHT:1600|RIGHT:2500|RIGHT:42|天のよりしろ●|
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)&br;''ver5.0.0以前''&br;座標:(22,±0),(10,±0)|
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|h
+||||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|||c
+|#ref(エネミー一覧/enemy_R_scorpion4.jpg,center,nowrap,64x64)|火|?/3T|?|3|2000|1100|24|クレメンス●||
+|#ref(エネミー一覧/enemy_A_scorpion4.jpg,center,nowrap,64x64)|水|?/3T|?|3|2000|1200|24|||
+|#ref(エネミー一覧/enemy_P_scorpion4.jpg,center,nowrap,64x64)|光|?/3T|?|3|2000|1150|24|クレメンス●||
+|#ref(エネミー一覧/enemy_D_scorpion4.jpg,center,nowrap,64x64)|闇|?/3T|?&br;25395|3|2000|1050|24|||
+|#ref(エネミー一覧/enemy_R_grizzly5.jpg,center,nowrap,64x64)|火|?/4T|?|3|550|1100|24|||
+|#ref(エネミー一覧/enemy_A_grizzly5.jpg,center,nowrap,64x64)|水|?/4T|?|3|550|1200|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_P_grizzly5.jpg,center,nowrap,64x64)|光|?/4T|?&br;77709|3|550|1150|24|銀のよりしろ●&br;ルドルフ・ゼーレ●||
+|#ref(エネミー一覧/enemy_D_grizzly5.jpg,center,nowrap,64x64)|闇|?/4T|?|3|550|1050|24|エルヴィン●||
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|f
+
+&color(black,#eeeeee){'''備考'''};
+初期Soul値:20
+各種箱の有無:
+- Gold:? Life:○ Power:○ Soul:○ Unit:?
+- ユニット箱情報:
+-- 座標:(?,±?)
+-- 中身:?
+
+パネル特性:なし
+各属性補正マスの有無:
+- 火:× 水:× 光:× 闇:×
+
+----
+*** 闇夜の龍神 [#a63d70c9]
+&color(black,#eeeeee){基本情報};
+エネミーレベル:6 距離:37 スタミナ:10 獲得PP:1600 獲得金額:20000
+助っ人枠:自由
+クリアボーナス:なし
+チャレンジ目標:
+- 金:主属性が''光''属性のユニットだけのパーティーでクリア！
+- 銀:エネミーを''25''体以上撃破してクリア！
+- 銅:ソウルが''40''以上の状態でクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+|#ref(エネミー一覧/enemy_D_vouivre.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|闇,竜|?/2T&br;20000/2T|RIGHT:?&br;約440000|RIGHT:10&br;8|RIGHT:1000&br;0|RIGHT:19000|RIGHT:24|奈落のよりしろ●&br;勇者エイゼル&br;英雄ヴァイオラ&br;銃士スミス&br;賢者ノーラ|
+|~''特性/備考''|>|>|>|>|>|>|>||
+//与ダメージデータ:
+//|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+//||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};((下段はver5.0.0以前の情報。))
+|#ref(エネミー一覧/enemy_G_poim4.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?/2T&br;6070/2TRIGHT:?&br;107777|RIGHT:3|RIGHT:1600|RIGHT:2500|RIGHT:42|天のよりしろ●&br;空のよりしろ●|
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)&br;''ver5.0.0以前''&br;座標:(11,+1),(1,+1)|
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|h
+||||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|||c
+|#ref(エネミー一覧/enemy_R_wolf4.jpg,center,nowrap,64x64)|火|?/2T|?&br;37443|3|1350&br;450|1100|24|||
+|#ref(エネミー一覧/enemy_A_wolf4.jpg,center,nowrap,64x64)|水|?/2T|?|3|1350|1200|24|||
+|#ref(エネミー一覧/enemy_P_wolf4.jpg,center,nowrap,64x64)|光|?/2T|?|3|1350|1150|24|クレメンス・ゼーレ●||
+|#ref(エネミー一覧/enemy_D_wolf4.jpg,center,nowrap,64x64)|闇|?/2T|?|3|1350|1050|24|||
+|#ref(エネミー一覧/enemy_R_scorpion4.jpg,center,nowrap,64x64)|火|?/3T|?|3|2000|1100|24|||
+|#ref(エネミー一覧/enemy_A_scorpion4.jpg,center,nowrap,64x64)|水|?/3T|?|3|2000|1200|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_P_scorpion4.jpg,center,nowrap,64x64)|光|?/3T|?&br;24694|3|2000&br;500|1150|24|||
+|#ref(エネミー一覧/enemy_D_scorpion4.jpg,center,nowrap,64x64)|闇|?/3T|?|3|2000|1050|24|ながと●||
+|#ref(エネミー一覧/enemy_R_grizzly5.jpg,center,nowrap,64x64)|火|?/4T|?|3|550|1100|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_A_grizzly5.jpg,center,nowrap,64x64)|水|?/4T|?|3|550|1200|24|||
+|#ref(エネミー一覧/enemy_P_grizzly5.jpg,center,nowrap,64x64)|光|?/4T|?|3|550|1150|24|||
+|#ref(エネミー一覧/enemy_D_grizzly5.jpg,center,nowrap,64x64)|闇|?/4T&br;17690/4T|?&br;70775|3|550|1050|24|ながと●||
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|f
+
+&color(black,#eeeeee){'''備考'''};
+初期Soul値:20
+各種箱の有無:((●の付いたドロップはver5.0.0以降に確認したもの。))
+- Gold:? Life:○ Power:○ Soul:○ Unit:○
+- ユニット箱情報:
+-- 座標:(?,±?)
+-- 中身:天のよりしろ●,金のよりしろ●,エドガー・シュヴァルツ(Lv.35)
+
+パネル特性:なし
+各属性補正マスの有無:
+- 火:○ 水:○ 光:○ 闇:○
+
+----
+*** 白夜の龍神 [#w05fac7b]
+&color(black,#eeeeee){基本情報};
+エネミーレベル:6 距離:37 スタミナ:10 獲得PP:1400 獲得金額:12000
+助っ人枠:自由
+クリアボーナス:なし
+チャレンジ目標:
+- 金:主属性が''闇''属性のユニットだけのパーティーでクリア！
+- 銀:ソウルが''40''以上の状態でクリア！
+- 銅:コンティニューなしでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+|#ref(エネミー一覧/enemy_P_vouivre.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|光,竜|?/2T&br;18300/2T|RIGHT:?&br;約448000|RIGHT:10&br;8|RIGHT:1000&br;8|RIGHT:19000|RIGHT:24|[精霊王]ル・フェイ&br;勇者アラン&br;英雄エンゼリカ&br;銃士エドワーズ&br;賢者ローザ|
+|~''特性/備考''|>|>|>|>|>|>|>||
+//与ダメージデータ:
+//|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+//||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};((下段はver5.0.0以前の情報。))
+|#ref(エネミー一覧/enemy_G_poim4.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?/2T|RIGHT:?&br;107777|RIGHT:3|RIGHT:1600|RIGHT:2500|RIGHT:42|光のよりしろ|
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)&br;''ver5.0.0以前''&br;座標:(1,-2)|
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|h
+||||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|||c
+|#ref(エネミー一覧/enemy_R_wolf4.jpg,center,nowrap,64x64)|火|?/2T|?|3|1350|1100|24|||
+|#ref(エネミー一覧/enemy_A_wolf4.jpg,center,nowrap,64x64)|水|?/2T|?|3|1350|1200|24|||
+|#ref(エネミー一覧/enemy_P_wolf4.jpg,center,nowrap,64x64)|光|?/2T&br;11030/2T|?&br;37140|3|1350|1150|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_D_wolf4.jpg,center,nowrap,64x64)|闇|?/2T|?|3|1350|1050|24|||
+|#ref(エネミー一覧/enemy_R_scorpion4.jpg,center,nowrap,64x64)|火|?/3T|?&br;25285|3|2000|1100|24|||
+|#ref(エネミー一覧/enemy_A_scorpion4.jpg,center,nowrap,64x64)|水|?/3T|?|3|2000|1200|24|テオドール・ゼーレ●||
+|#ref(エネミー一覧/enemy_P_scorpion4.jpg,center,nowrap,64x64)|光|?/3T|?|3|2000|1150|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_D_scorpion4.jpg,center,nowrap,64x64)|闇|?/3T|?|3|2000|1050|24|||
+|#ref(エネミー一覧/enemy_R_grizzly5.jpg,center,nowrap,64x64)|火|?/4T|?|3|550|1100|24|リーゼロッテ●||
+|#ref(エネミー一覧/enemy_A_grizzly5.jpg,center,nowrap,64x64)|水|?/4T&br;16720/4T|?&br;79846|3|550|1200|24|フリーデル●||
+|#ref(エネミー一覧/enemy_P_grizzly5.jpg,center,nowrap,64x64)|光|?/4T|?|3|550|1150|24|ミハエル●||
+|#ref(エネミー一覧/enemy_D_grizzly5.jpg,center,nowrap,64x64)|闇|?/4T|?|3|550|1050|24|||
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|f
+
+&color(black,#eeeeee){'''備考'''};
+初期Soul値:20
+各種箱の有無:
+- Gold:? Life:○ Power:○ Soul:○ Unit:○
+- ユニット箱情報:
+-- 座標:(?,±?)
+-- 中身:金のよりしろ●
+
+パネル特性:なし
+各属性補正マスの有無:
+- 火:○ 水:○ 光:○ 闇:○
+
+----
+*** 水麗の龍神 [#f7a48775]
+&color(black,#eeeeee){基本情報};
+エネミーレベル:6 距離:37 スタミナ:10 獲得PP:1400 獲得金額:12000
+助っ人枠:自由
+クリアボーナス:なし
+チャレンジ目標:
+- 金:主属性が''火''属性のユニットだけのパーティーでクリア！
+- 銀:エネミーを''25''体以上撃破してクリア！
+- 銅:コンティニューなしでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+|#ref(エネミー一覧/enemy_A_vouivre.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|水,竜|?/2T&br;18000/2T|RIGHT:?&br;約447000|RIGHT:10&br;8|RIGHT:1000|RIGHT:18500|RIGHT:24|勇者ルーク&br;英雄ウルスラ&br;銃士ターナー&br;賢者メアリー|
+|~''特性/備考''|>|>|>|>|>|>|>||
+//与ダメージデータ:
+//|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+//||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};((下段はver5.0.0以前の情報。))
+|#ref(エネミー一覧/enemy_G_poim4.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?/2T|RIGHT:?&br;107777|RIGHT:3|RIGHT:1600|RIGHT:2500|RIGHT:42||
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)&br;''ver5.0.0以前''&br;座標:(3,-3)|
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|h
+||||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|||c
+|#ref(エネミー一覧/enemy_R_doran5.jpg,center,nowrap,64x64)|火|?/2T|?|3|450|1100|24|||
+|#ref(エネミー一覧/enemy_A_doran5.jpg,center,nowrap,64x64)|水|?/2T|?|3|450|1200|24|||
+|#ref(エネミー一覧/enemy_P_doran5_rev.jpg,center,nowrap,64x64)|光|?/2T|?|3|450|1150|24|銀のよりしろ●||
+|#ref(エネミー一覧/enemy_D_doran5.jpg,center,nowrap,64x64)|闇|?/2T|?&br;59508|3|450|1050|24|||
+|#ref(エネミー一覧/enemy_R_scorpion4.jpg,center,nowrap,64x64)|火|?/3T|?|3|2000|1100|24|ラファエル●||
+|#ref(エネミー一覧/enemy_A_scorpion4.jpg,center,nowrap,64x64)|水|?/3T|?|3|2000|1200|24|クラウス●||
+|#ref(エネミー一覧/enemy_P_scorpion4.jpg,center,nowrap,64x64)|光|?/3T|?|3|2000|1150|24|||
+|#ref(エネミー一覧/enemy_D_scorpion4.jpg,center,nowrap,64x64)|闇|?/3T&br;9470/3T|?&br;24617|3|2000&br;500|1050|24|エドガー●||
+|#ref(エネミー一覧/enemy_R_grizzly5.jpg,center,nowrap,64x64)|火|?/4T|?|3|550|1100|24|||
+|#ref(エネミー一覧/enemy_A_grizzly5.jpg,center,nowrap,64x64)|水|?/4T|?|3|550|1200|24|||
+|#ref(エネミー一覧/enemy_P_grizzly5.jpg,center,nowrap,64x64)|光|?/4T|?|3|550|1150|24|パトリシア●||
+|#ref(エネミー一覧/enemy_D_grizzly5.jpg,center,nowrap,64x64)|闇|?/4T&br;17600/4T|?&br;85118|3|550|1050|24|空のよりしろ●||
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|f
+
+&color(black,#eeeeee){'''備考'''};
+初期Soul値:20
+各種箱の有無:
+- Gold:? Life:○ Power:○ Soul:? Unit:?
+- ユニット箱情報:
+-- 座標:(?,±?)
+-- 中身:?
+
+パネル特性:なし
+各属性補正マスの有無:
+- 火:○ 水:○ 光:○ 闇:○
+
+----
+*** 烈火の龍神 [#f3bcbbef]
+&color(black,#eeeeee){基本情報};
+エネミーレベル:6 距離:37 スタミナ:10 獲得PP:1000 獲得金額:8500
+助っ人枠:自由
+クリアボーナス:なし
+チャレンジ目標:
+- 金:主属性が''水''属性のユニットだけのパーティーでクリア！
+- 銀:エネミーを''20''体以上撃破してクリア！
+- 銅:コンティニューなしでクリア！
+
+&color(black,#eeeeee){'''ボスエネミー'''};((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+|#ref(エネミー一覧/enemy_R_vouivre.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|火,竜|?/2T&br;19900/2T|RIGHT:?&br;約434000|RIGHT:10&br;8|RIGHT:1000&br;0|RIGHT:18020|RIGHT:24|勇者オーガスタス&br;英雄フィリス&br;			銃士フォスター&br;賢者レイチェル|
+|~''特性/備考''|>|>|>|>|>|>|>||
+//与ダメージデータ:
+//|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+//||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+|#ref(エネミー一覧/enemy_G_poim4.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|無|?/2T|RIGHT:?&br;107777|RIGHT:3|RIGHT:1600|RIGHT:2500|RIGHT:42|座標:(あと14マス,-4),(あと4マス,±0)&br;火のよりしろ●|
+|~''特性/備考''|>|>|>|>|>|>|>|座標:(?,±?)&br;''ver5.0.0以前''&br;座標:(14,-4),(4,±0)|
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))((下段はver5.0.0以前の情報。))((●の付いたドロップはver5.0.0以降に確認したもの。))
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|h
+||||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|||c
+|#ref(エネミー一覧/enemy_R_Squirrel5.jpg,center,nowrap,64x64)|火|?/1T|?|2|400|1100|24|ドミニク●&br;ルドルフ・ゼーレ●||
+|#ref(エネミー一覧/enemy_A_Squirrel5.jpg,center,nowrap,64x64)|水|?/1T&br;3460/1T|?&br;63651|2|400|1200|24|銀のよりしろ&br;ルドルフ・ゼーレ●&br;フローラ●||
+|#ref(エネミー一覧/enemy_P_Squirrel5.jpg,center,nowrap,64x64)|光|?/1T|?|2|400|1150|24|マクシミリアン●||
+|#ref(エネミー一覧/enemy_D_Squirrel5.jpg,center,nowrap,64x64)|闇|?/1T|?|2|400|1050|24|エルヴィン●||
+|#ref(エネミー一覧/enemy_R_scorpion4.jpg,center,nowrap,64x64)|火|?/3T|?|3|2000|1100|24|ドミニク●||
+|#ref(エネミー一覧/enemy_A_scorpion4.jpg,center,nowrap,64x64)|水|?/3T|?|3|2000|1200|24|銀のよりしろ●&br;フローラ●||
+|#ref(エネミー一覧/enemy_P_scorpion4.jpg,center,nowrap,64x64)|光|?/3T|?|3|2000|1150|24|||
+|#ref(エネミー一覧/enemy_D_scorpion4.jpg,center,nowrap,64x64)|闇|?/3T|?|3|2000|1050|24|エルヴィン●||
+|#ref(エネミー一覧/enemy_R_grizzly5.jpg,center,nowrap,64x64)|火|?/4T|?|3|550|1100|24|ドミニク●||
+|#ref(エネミー一覧/enemy_A_grizzly5.jpg,center,nowrap,64x64)|水|?/4T|?|3|550|1200|24|フローラ●||
+|#ref(エネミー一覧/enemy_P_grizzly5.jpg,center,nowrap,64x64)|光|?/4T|?&br;79731|3|550|1150|24|||
+|#ref(エネミー一覧/enemy_D_grizzly5.jpg,center,nowrap,64x64)|闇|?/4T|?|3|550|1050|24|エルヴィン●||
+||~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|~''特性/備考''|f
+
+&color(black,#eeeeee){'''備考'''};
+初期Soul値:20
+各種箱の有無:
+- Gold:? Life:○ Power:○ Soul:○ Unit:○
+- ユニット箱情報:
+-- 座標:(?,±?)
+-- 中身:金のよりしろ●
+
+パネル特性:なし
+各属性補正マスの有無:
+- 火:○ 水:○ 光:○ 闇:○
+
+----
+*** 開放履歴(最果ての地エウレカ) [#d0fafbc3]
+:2014/02/28(10:00)〜|
+-- 水晶ポイム(仮)実装。
+-- 「この世すべての祖」の敵配置が変更。
+:2013/02/04〜|
+
+----
+* コメント(エリア名) [#i5476497]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

@@ -1,0 +1,23 @@
+* ハローキティコラボガチャ  [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+実装直後の当たりは女神ハローキティ。
+当時は攻撃4倍が珍しかった。
+}}
+
+** ハローキティ コラボガチャ [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/05/25～2015/05/31:http://pad.gungho.jp/member/150522_sanrio2_list.html]]|
+|>|BGCOLOR(#ffffff):[[2014/01/27～2014/02/09:http://pad.gungho.jp/member/gacya_list_sanrio.html]]|
+|★5|&mons1162; &mons1164;|
+|★4|&mons1150; &mons1152; &mons1154; &mons1160; &mons1156; &mons1158;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

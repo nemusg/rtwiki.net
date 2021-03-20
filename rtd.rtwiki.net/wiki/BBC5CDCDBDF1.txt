@@ -1,0 +1,70 @@
+#norelated
+* 仕様書 [#f033b95c]
+
+** 管理用リンク [#b4b53d1e]
+- ログ閲覧 [[iplog]] ピーク時に開くのは控えること
+- deldel.inc.php [[一括削除:http://rtd.rtwiki.net/index.php?cmd=deldel]]
+- freeze2.inc.php [[一括凍結:http://td.rtwiki.net/index.php?cmd=freeze2]]
+- unfreeze2.inc.php [[一括凍結解除:http://td.rtwiki.net/index.php?cmd=unfreeze2]]
+
+** コンソール用コマンド [#bf1e7b94]
+-バックアップ
+ cp -Rp td.rtwiki.net td.rtwiki.net.101128
+-移行作業用パーミッション変更Ruby実行
+-- dns_get_ns.cacheのパーミッションは別途777にしないといけない
+ ruby chall.rb
+
+** 更新内容 [#o0afc4cf]
+
+
+- 2012/10/08 503エラー頻発
+-- 画像とCSSとJSを別アカウントで持つようにしたが、特に成果は出ず、1日で約7万回の503エラーが出た。逆効果だった？
+-- コメント用チャプタの生成が完全に無理になっていたので停止。これでエラーは落ち着いたがエラーが0にはなっていない。
+-- チャプタの代わりに規約に同意しないと送信ボタンを押せないJSを追加。
+
+
+- 2012/08/11 サーバーメンテナンスによる障害
+-- daggerが沢山表示される・PHPエラーはcacheファイル破損。cacheフォルダを空にして、バックアップからcache/entities.datを編集。他のファイルはどこかを一回編集すれば再生成される。
+-- ?plugin=update_entitiesの再生成ではうまくいかなかった。
+- 2012/06/21 モンスターアイコン実装
+-- 主にdefault.ini.phpの更新
+-- [[jquery.retina:http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-retina.html]]導入
+- 2012/06/15 トップページ改修
+-- 3カラムレイアウトのために[[div.inc.php:http://pukiwiki.sourceforge.jp/?%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%2Fdiv.inc.php]]導入。
+- 2012/06/06 GoMo Publisher Dayを経て…
+-- 1カラム化を提案されるが、広告部分の出しわけができないと厳しい。160×600→728×90あたりに切り替えが必要。
+-- なるべくデバイス間の差異を埋めるために、body{max-width:1000px;}を追加。
+-- 検索しやすさを重視して[[リンク型カスタム検索エンジン:http://www.google.co.jp/cse/docs/cref.html]]を設置。GIGAZINEのスマホ版からソースを拝借、Googleカスタム検索のソースでは無くなったので統計が取れなくなってしまった…。
+-- iPhoneでアクセスした場合MenuBarのボタンが大きくなるように変更。
+-- iPhoneでアクセスした場合MenuBarを非表示にしフォントサイズが少し大きくなるセレクトボックスを表示。（この場合広告が無くなってしまうが、ページ下部に728x90バナーを表示させることは可能。ただ普段はdisplay:none;で非表示することになるのでポリシー違反にならないか不安で未実装。）
+- 2012/05/22 CORESERVERプラン変更（CORE-A→CORE-B）
+-- CORE-B以降直後、HTML convert timeが常に5秒以上になる。lib/spam_filter.phpが原因？サポートに連絡したら勝手に改善してしまった。
+
+** 荒らしメモ [#w0a3f76a]
+
+|~日付|~区分|~host|~対応|
+|2012/10/15|くだらない荒らし|111060014222.ppp-oct.au-hikari.ne.jp		|未対応|
+|2012/08/28|荒らし|69.197.190.102		|未対応|
+|2012/08/28|荒らし|46.29.249.190		|未対応|
+|2012/08/28|荒らし|69.197.190.69		|未対応|
+|2012/08/28|荒らし|109.230.219.184		|未対応|
+|2012/08/06||cm61-18-170-116.hkcable.com.hk		||
+|2012/08/07||5.39.52.149		||
+|2012/08/07 ||	91.236.74.131		||
+|2012/08/08 ||	83-238-154-103.ip.netia.com.pl		||
+|2012/08/03|荒らし		|115-36-50-165.aichiwest1.commufa.jp		||
+|2012/08/03|荒らし（重度）	|u10k084091.ictv.ne.jp				|ictv\.ne\.jp|
+|2012/07/31|スパム		|79-113-219-90.rdsnet.ro			||
+|2012/07/11|スパム		|23.19.176.148.rdns.ubiquity.io			|rdns\.ubiquity\.io|
+|2012/07/11|スパム		|s9.bigoffer11.com				|11\.com|
+|2012/07/10|スパム		|c-23-19-46-149.hsd1.az.comcast.net		|comcast\.net|
+|2012/07/01|スパム		|23.19.127.146.rdns.ubiquity.io			||
+|2012/06/30|荒らし		|203-165-186-19.rev.home.ne.jp			||
+|2012/06/29|スパム		|s3.bigmarket11.com				||
+|2012/06/28|スパム		|s9.bigoffer11.com				||
+|2012/06/21|荒らし		|124.215.208.254				||
+|2012/06/12|smart-c.jpへの誘導	|58x156x232x154.ap58.ftth.ucom.ne.jp		|spam_filter登録|
+|2012/06/12|スパム		|108-62-24-196.rdns.purewebtech.net		|spam_filter登録|
+|2012/05/31|スパム		|static.241.198.9.176.clients.your-server.de	|spam_filter登録|
+|2012/05/23|スパム		|108-62-187-192.rdns.ubiquityservers.com	|spam_filter登録|
+|2012/05/22|適当なコメント連投	|p2088-ipbf13fukui.fukui.ocn.ne.jp		||

@@ -1,0 +1,24 @@
+* お正月ガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+タイプキラーがちらほらと登場
+}}
+
+** お正月ガチャ2015 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/01/01～2016/01/10:http://pad.gungho.jp/member/lineup/151228_newyear_lineup.html]]|
+|★8|&mons2533; &mons2534;|
+|★7|&mons2536; &mons2537;|
+|★6|&mons2535;|
+|★5|&mons2574; &mons2538;|
+|★4|&mons2539; &mons2540; &mons2541; &mons2542;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

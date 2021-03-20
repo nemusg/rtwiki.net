@@ -1,0 +1,67 @@
+#title(モンスター図鑑/DDQ・ドラゴニュート)
+* DDQ・ドラゴニュート [#cf5c0e58]
+
+&mons845;
+
+** ステータス [#f1c4feb9]
+
+//iPhoneで横スクロールが出ないようにしています。
+
+#style(class=monsTable){{
+|~No|~名称			|~☆|~タイプ|~属性|~コスト|
+|RIGHT:||CENTER:||CENTER:|RIGHT:|c
+|845|DDQ・ドラゴニュート	|4|攻撃|BGCOLOR(#a6f1f1):水|12|
+
+#ginclude(スキル,notitle,or,s,s0569)
+
+#ginclude(リーダースキル,notitle,or,ls,ls0844)
+
+|~最大Lv|~必要経験値|
+|RIGHT:|RIGHT:|c
+|70(300)|1247897|
+
+|~ |~HP|~攻撃|~回復|~合計|~+卵換算|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|c
+|初期値|432|551|67|||
+|最大値|980|1278|141|''2399''|''400.06''|
+
+|~[[覚醒スキル]]|
+|&ks003; &ks020;|
+}}
+
+** 進化素材 [#rf6d5f34]
+
+** 究極進化素材 [#eab3f2bb]
+
+//|~ベースモンスター	|BGCOLOR(#bbf1a6):~究極進化に必要なモンスター|~進化結果|
+//|		|||
+
+** 入手方法 [#k86b36b0]
+
+- [[DDQ・リザードマン>モンスター図鑑/0844]]の進化
+- [[ドラゴンズドグマ コラボ>スペシャルダンジョン/ドラゴンズドグマ コラボ]]
+//- 友情ガチャ
+//- レアガチャ
+//- プレゼントガチャ
+
+//|BGCOLOR(#f1bba6):火|
+//|BGCOLOR(#a6f1f1):水|
+//|BGCOLOR(#bbf1a6):木|
+//|BGCOLOR(#f1f1a6):光|
+//|BGCOLOR(#bba6f1):闇|
+//&br;
+
+** 備考 [#u45961e0]
+
+//この備考は他のページと共有しています。共有したくない場合は//で非表示にできます。
+#ginclude(モンスター図鑑/0844,notitle,or,note)
+
+|~Ver|>|>|>|>|>|~チーム編成（左右がリーダー）|~備考|
+|v6.0|BGCOLOR(#fafaaa):&mons845;|BGCOLOR(#aaaafa):&mons477;|BGCOLOR(#aaaafa):&mons478;|BGCOLOR(#aaaafa):&mons479;|BGCOLOR(#aaaafa):&mons732;|BGCOLOR(#d8d888):&mons695;||
+//|~|~|~|&mons000;|&mons000;|&mons000;|~|~|
+
+* コメント [#s9859273]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

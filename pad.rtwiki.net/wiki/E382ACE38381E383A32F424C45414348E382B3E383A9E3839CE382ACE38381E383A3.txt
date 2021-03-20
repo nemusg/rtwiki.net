@@ -1,0 +1,22 @@
+* BLEACHコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+黒崎一護は究極進化させなければ闇カーリーに近いスキルを持つ神タイプなので、ラードラPTなどで重宝するかも。
+}}
+
+** BLEACHコラボガチャ [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/02/22～2016/03/06:http://pad.gungho.jp/member/collabo/160219_bleach_lineup.html]]|
+|★6|&mons2675; &mons2678;|
+|★5|&mons2688; &mons2690; &mons2694;|
+|★4|&mons2680; &mons2682; &mons2684; &mons2686; &mons2692;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,49 @@
+* 2019/03/08 v0.86.1 [#af56fc3e]
+
+#style(class=panelInfo){{
+[[Super Fennec & Friends Have Arrived for Squads Test Weekend 3:https://steamcommunity.com/games/843380/announcements/detail/1806412440498179901]]
+}}
+
+
+** v0.86.1 パッチノート [#j968bbd3]
+
+週末にSQUADモードが戻ってきました！ DUOモードは月曜日まで無効です。
+
+*** 新しいスーパーアニマル [#w7338b33]
+
+- Super Fennec Fox
+- Super Wicked Monkey
+- Super Deadly Panda
+- Super Twilight Raccoon
+
+*** 45の新しい装飾品 [#rdfbe619]
+
+- 白、緑、オレンジ、黄色のローブ (Robe)
+- ブルーのチェック柄ローブ (Robe)
+- グリーンストライプローブ (Robe)
+- ブラックモホーク (Black mohawk)
+-  14種類の口ひげ（2つの全く新しい口ひげ+色の変種）
+-  9種類の髭（1髭+カラーバリエーション）
+- ブラウンとグリーンのアビエイターサングラス (aviator sunglasses)
+- 水色の丸いメガネ (round glasses)
+- 6色((青、緑、ピンク、紫、赤、黄色))の秘書用メガネ (secretary glasses)
+- 3色((緑、オレンジ、黄色))サングラスの3つの新しい色 (sunglasses)
+- ジャストカーキパンツ (Just Khaki Pants)
+- ジャストジーンズ (Just Jeans)
+- グレーのジャストスウェットパンツ (Just Sweatpants)
+
+*** ゲームのアップデート [#vd0fa031]
+
+- 地図は北東と東に広がっただけでなく、島全体に渡って多くの小さな変化がありました。
+- Super Skunk Gas用のもう1つのエンドサークルを追加しました（チャグコンテストを最小限に抑えるため）
+- 手榴弾/バナナは、すでに持っている場合、または持っていない場合は自動ピックアップになります。 バナナと手榴弾を切り替えるには、Eを押す必要があります。
+- スーパーテープのドロップ率は、自然にも木枠からもわずかに増加しました。
+- いくつかの手に入りやすいの動物のDNAと血清コストをわずかに減らしました。
+- いくつかのマイナーなパフォーマンス改善。
+- バナナが木に投げられたときに消えるのを修正。
+- 一部の動物が誤ったメディックヘルメットグラフィックを持っているのを修正。
+
+
+* コメント [#t430b455]
+
+#pcomment

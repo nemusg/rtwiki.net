@@ -1,0 +1,127 @@
+[[経験値]]
+
+***経験値タイプ一覧 [#v9491fe6]
+モンスターのタイプは[[モンスター図鑑]]にも載っています。
+
+- Type''100'' Lv99に必要な経験値が100万
+- Type''150'' Lv99に必要な経験値が150万
+- Type''200'' Lv99に必要な経験値が200万
+- Type''250'' Lv99に必要な経験値が250万
+- Type''300'' Lv99に必要な経験値が300万
+- Type''400'' Lv99に必要な経験値が400万
+- Type''500'' Lv99に必要な経験値が500万
+
+//No.761まで記載
+//不明644-645/648-649/715-716
+
+#div(start,dvIconList)
+|~タイプ|~該当モンスター|
+|CENTER:||c
+|Type''100''&br;（100万）|&mons036; &mons038; &mons040; &mons042; &mons044; &mons037; &mons039;&mons041;&mons043;&mons045;|
+|~|&mons046; &mons048; &mons050; &mons052; &mons054; &mons047; &mons049; &mons051; &mons053; &mons055;|
+|~|&mons068; &mons070; &mons072; &mons074; &mons076; &mons069; &mons071; &mons073; &mons075; &mons077;|
+|~|&mons088; &mons090; &mons092; &mons094; &mons096; &mons089; &mons091; &mons093; &mons095; &mons097;|
+|~|&mons272; &mons274; &mons276; &mons278; &mons280;|
+|~|&mons303; &mons305; &mons307; &mons600; &mons602;|
+|~|&mons342; &mons344; &mons346; &mons348;|
+|~|&mons350; &mons366;|
+|~|&mons545; &mons547; &mons549; &mons551; &mons553; &mons546; &mons548; &mons550; &mons552; &mons554;|
+|~|&mons673; &mons675; &mons677;|
+|~|&mons742; &mons743;|
+|Type''150''&br;（150万）|&mons001; &mons005; &mons009; &mons013; &mons017; &mons002; &mons006; &mons010; &mons014; &mons018; &br;&mons003; &mons007; &mons011; &mons015; &mons019; &mons004; &mons008; &mons012; &mons016; &mons020;|
+|~|&mons021; &mons024; &mons027; &mons030; &mons033; &mons022; &mons025; &mons028; &mons031; &mons034; &br; &mons023; &mons026; &mons029; &mons032; &mons035;|
+|~|&mons056; &mons058; &mons060; &mons057; &mons059; &mons061; &mons689; &mons690; &mons691;|
+|~|&mons062; &mons064; &mons066; &mons063; &mons065; &mons067;|
+|~|&mons078; &mons080; &mons082; &mons084; &mons086; &mons079; &mons081; &mons083; &mons085; &mons087;|
+|~|&mons098; &mons100; &mons102; &mons104; &mons108; &mons099; &mons101; &mons103; &mons105; &mons109;|
+|~|&mons106; &mons221; &mons223; &mons225; &mons110;|
+|~|&mons112; &mons114; &mons116; &mons118; &mons120;|
+|~|&mons191; &mons193; &mons195; &mons197; &mons199; &mons192; &mons194; &mons196; &mons198; &mons200; &br; &mons475; &mons476; &mons477; &mons478; &mons479;|
+|~|&mons206; &mons207; &mons208; &mons209; &mons210;|
+|~|&mons273; &mons275; &mons277; &mons279; &mons281;|
+|~|&mons288; &mons291; &mons294; &mons297; &mons300;|
+|~|&mons343; &mons345; &mons347; &mons349; &mons667;|
+|~|&mons352; &mons354; &mons356; &mons358; &mons360;|
+|~|&mons378; &mons380; &mons382; &mons384; &mons386;|
+|~|&mons398; &mons400; &mons402; &mons404; &mons406;|
+|~|&mons414; &mons417; &mons420; &mons423; &mons426; &mons415; &mons418; &mons421; &mons424; &mons427;|
+|~|&mons431; &mons433; &mons435; &mons437; &mons438;|
+|~|&mons449; &mons447; &mons451; &mons453; &mons455; &mons526; &mons530;|
+|~|&mons461; &mons463; &mons465;|
+|~|&mons591; &mons592;|
+|~|&mons504; &mons506; &mons508; &mons510; &mons505; &mons507; &mons509; &mons511;|
+|~|&mons517; &mons520; &mons521; &mons522;|
+|~|&mons523; &mons524; &mons525; &mons577; &mons578;|
+|~|&mons555; &mons557; &mons559; &mons561; &mons563;|
+|~|&mons579; &mons581; &mons583; &mons585; &mons587; &mons580; &mons582; &mons584; &mons586; &mons588;|
+|~|&mons607; &mons609; &mons611; &mons613; &mons615; &mons608; &mons610; &mons612; &mons614; &mons616;|
+|~|&mons659; &mons660;|
+|~|&mons662; &mons664; &mons663; &mons665;|
+|~|&mons674; &mons676; &mons678;|
+|~|&mons684; &mons685; &mons686; &mons687; &mons688;|
+|~|&mons695; &mons697; &mons699; &mons701; &mons703;|
+|~|&mons713; &mons707; &mons709; &mons711;|
+|~|&mons717; &mons718;|
+|~|&mons720; &mons722; &mons724; &mons726; &mons728;|
+|Type''200''&br;（200万）|&mons262; &mons264; &mons266; &mons268; &mons270; &mons263; &mons265; &mons267; &mons269; &mons271;|
+|~|&mons289; &mons292; &mons295; &mons298; &mons301;|
+|~|&mons486; &mons488; &mons487; &mons489;|
+|~|&mons605;|
+|Type''250''&br;（250万）|&mons399; &mons401; &mons403; &mons405; &mons407;|
+|~|&mons446;|
+|~|&mons462; &mons464; &mons466; &mons736;|
+|~|&mons737; &mons738; &mons739; &mons740; &mons741;|
+|Type''300''&br;（300万）|&mons229; &mons230; &mons231; &mons232; &mons233;|
+|~|&mons282;|
+|~|&mons290; &mons293; &mons296; &mons299; &mons302;|
+|~|&mons316; &mons317; &mons318; &mons319; &mons320;|
+|~|&mons353; &mons355; &mons357; &mons359; &mons361;|
+|~|&mons379; &mons381; &mons383; &mons385; &mons387;|
+|~|&mons416; &mons419; &mons422; &mons425; &mons428;|
+|~|&mons450; &mons448; &mons452; &mons454; &mons456; &mons527; &mons531;|
+|~|&mons500; &mons502; &mons501; &mons503;|
+|~|&mons666; &mons668;|
+|~|&mons696; &mons698; &mons700; &mons702; &mons704;|
+|~|&mons714; &mons708; &mons710; &mons712;|
+|~|&mons721; &mons723; &mons725; &mons727; &mons729;|
+|~|&mons744;|
+|Type''400''&br;（400万）|&mons107; &mons222; &mons224; &mons226; &mons111; &mons512; &mons513; &mons514; &mons515; &mons516;|
+|~|&mons113; &mons115; &mons117; &mons119; &mons121;|
+|~|&mons122; &mons124; &mons126; &mons128; &mons130; &mons123; &mons125; &mons127; &mons129; &mons131;|
+|~|&mons132; &mons134; &mons136; &mons138; &mons140; &mons133; &mons135; &mons137; &mons139; &mons141;|
+|~|&mons142; &mons143; &mons144; &mons145; &mons146; &mons413;|
+|~|&mons187; &mons189; &mons565; &mons188; &mons190; &mons566;|
+|~|&mons201; &mons202; &mons203; &mons204; &mons205;|
+|~|&mons211; &mons212; &mons213; &mons214; &mons215; &mons661;|
+|~|&mons216; &mons217; &mons218; &mons219; &mons220; &mons719;|
+|~|&mons228;|
+|~|&mons236; &mons238; &mons240; &mons242; &mons244; &mons237; &mons239; &mons241; &mons243; &mons245;|
+|~|&mons283; &mons284; &mons285; &mons286; &mons287;|
+|~|&mons351; &mons367;|
+|~|&mons362; &mons364; &mons363; &mons365;|
+|~|&mons368; &mons370; &mons372; &mons374; &mons376; &mons369; &mons371; &mons373; &mons375; &mons377;|
+|~|&mons439; &mons440;|
+|~|&mons441; &mons442; &mons443; &mons444; &mons445;|
+|~|&mons457; &mons459; &mons528; &mons458; &mons460; &mons529;|
+|~|&mons467; &mons538; &mons468; &mons539;|
+|~|&mons490; &mons492; &mons494; &mons496; &mons498; &mons491; &mons493; &mons495; &mons497; &mons499;|
+|~|&mons540; &mons541; &mons542; &mons543; &mons544;|
+|~|&mons556; &mons558; &mons560; &mons562; &mons564;|
+|~|&mons567; &mons569; &mons571; &mons573; &mons575; &mons568; &mons570; &mons572; &mons574; &mons576;|
+|~|&mons606;|
+|~|&mons620; &mons622; &mons624; &mons626; &mons628; &mons621; &mons623; &mons625; &mons627; &mons629;|
+|~|&mons630; &mons632; &mons634; &mons636; &mons638; &mons631; &mons633; &mons635; &mons637; &mons639;|
+|~|&mons669; &mons671; &mons670; &mons672;|
+|~|&mons705; &mons706;|
+|~|&mons730; &mons731;|
+|~|&mons745; &mons747; &mons749; &mons751; &mons753; &mons746; &mons748; &mons750; &mons752; &mons754;|
+|Type''500''&br;（500万）|&mons598; &mons596; &mons650; &mons646; &mons599; &mons597; &mons651; &mons647;|
+|~|&mons640; &mons642; &mons641; &mons643;|
+|~|&mons682; &mons683;|
+
+//|||
+
+#div(end)
+
+- 究極進化モンスターは省略しています
+- CDコラボの「○○○【サンタ】」は省略しています

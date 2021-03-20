@@ -1,0 +1,61 @@
+* 2019/05/31 v0.87.8 [#c68f78c1]
+
+#style(class=panelInfo){{
+完全なパッチノートはSteamで読んでください。
+[[Super Animal Royale :: Super Ducks, Eagles, Hawks and the new Deagle gun have flapped flightlessly onto the island in the latest Super Update!:https://steamcommunity.com/games/843380/announcements/detail/1611639361531262880]]
+}}
+
+新しい武器が到着しました（羽毛を含みます）。 新しいディーグルはエピックとレジェンダリーで出現します、レジェンダリーはデリバリーモールから出現します。 エピックは、以前のエピックマグナムと置き換えられて出現します。そしてマグナムとの重要な違いは、それがショットあたり2ゲージ分のアーマーを破壊することができるということです。ディーグルはスナイパーに代わるより機動的な武器で、走っていてもローリングしてもより正確な射撃を行うことができます。
+
+また、Super Duck（スーパーダック）と6品種、とSuper Hawk（スーパーホーク）と5品種をデビューさせます。
+
+
+*** Super Duck（スーパーダック） [#f79f3395]
+
+- Super Green Mallard スーパーグリーンマガモ
+- Super Blue Mallard スーパーブルーマガモ
+- Super Purple Mallard スーパーパープルマガモ
+- Super White Duck スーパーホワイトダック
+- Super Black Duck スーパーブラックダック
+- Super Duckling スーパーアヒルの子
+
+
+*** Super Hawk（スーパーホーク） [#vcc52f13]
+
+- Super Goshawk スーパーオオタカ
+- Super Osprey スーパーオスプレイ
+- Super Peregrine スーパーペレグリン
+- Super Kestrel スーパーチョウゲンボウ
+- Super Eagle スーパーイーグル
+
+** 5月31日から6月3日まで、週末SQUADがあります。 [#j55641c4]
+
+週末の週末、ディーグルのデビューのために、我々はあなたがすべてそれを試して楽しむことができるようにあらゆるデリバリーモールでディーグルが出現します！ また、最近、無料版と有料版の両方で機能するDiscord招待を追加しました。そのため、新しい友達をゲームに紹介するのに最適な週末です。
+
+そして今週末から最高のクリップをSuper Animal Royale Tonightのエピソード4に提出することを忘れないでください。
+
+あなたのスーパープレイと愉快なクリップを1080 p+、30fps+、30秒以下のクリップで提出することができます。
+
+https://www.dropbox.com/request/lvtFKUxkxlXmIdkFCelA
+
+** Dreamhack Dallas 2019 [#x6d4bddd]
+
+メインメニューからクーポンコード: dreamhack を入力して Dreamhack Dallas umbrella を手に入れましょう
+
+Dreamhack Dallas 2019 の1日目は午前中に始まり、私たちはブース（#iz-14）を開いています。もし参加しているなら、Michael、BobそしてLoganに声をかけてください。 Twitterの @AnimalRoyale にタグを付けて、ハッシュタグ #dreamhackdallas と #animalroyale を使用できます。 また私達のDiscordサーバーのショーフロアからの更新を掲示する予定です ： https://discord.gg/AnimalRoyale
+
+** 追加アップデート [#vecc1e28]
+
+新しいガン、新しいスーパーアニマルズ、そして週末SQUADに加えて、私たちはたくさんの品質改善をリリースしました。
+
+- 新しい3D音響システム：銃声のような多くのサウンドは、プレイヤーが下にあるときは下に、上にあるときは上から聞こえるように周波数がカスタマイズされています。
+- ゲームの開始時間をできるだけ早くするために、最大ロビー時間は140秒（170秒から短縮）に短縮されました。
+テストをいくつか実行したところ、140秒の場合は待機時間が改善されると同時に、対戦の合計プレーヤー数にほとんど影響がないことがわかりました。
+- キャラクターアニメーションファイル全体を見直し、より効率的になりました。スキンが正しく表示されない場合はお知らせください。
+- バンブーリゾートの家の上の見えない壁を修正しました。
+- 韓国語と中国語のための新しい特定のフォントを追加しました。（日本語にも適用されています）一部のユーザーにとって、フォントは以前と同じように見えるかもしれません。
+- マッチメイキングが失敗する可能性がある特定のケースを修正するために、Discord partyコードへの小さな変更。
+
+* コメント [#t54d89dc]
+
+#pcomment

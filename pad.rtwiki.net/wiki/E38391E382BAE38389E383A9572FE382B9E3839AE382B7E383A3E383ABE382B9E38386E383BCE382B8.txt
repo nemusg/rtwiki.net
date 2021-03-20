@@ -1,0 +1,153 @@
+*スペシャルステージ [#zf0612e6]
+
+#contents
+
+** スペシャルステージについて [#b167b54f]
+
+- ノーマルステージ「8.オーレ！たまま」がプレイ可能になると同時に出現
+
+** たまベガス！ [#x9248a80]
+
+- コンティニュー不可
+- タイマーゲージあり
+-- 一度スタートすると一時停止不可（Menuを押しても止まらない）
+-- 一部のアバたまが無効
+- 「たまベガス・ウィークエンド！」は消費スタミナが1少ないだけで基本同じ
+
+|LEFT:180|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:25|CENTER:25|CENTER:25|CENTER:25|||c
+|~名称			|>|>|>|>|>|>|>|>|~登場ドロップ|~条件|~クリア報酬|
+|BGCOLOR(#ffffff):''たまベガス！''|>|>|>|>|>|>|>|>|BGCOLOR(#ffffff):|BGCOLOR(#ffffff):タイマーがなくなる前に、宝箱をゲットしよう！|魔法石x1|
+|上級 &hearts;4	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|||BGCOLOR(#ffc0cb):回復||木ドロップを50個消すとクリア|~|
+|中級 &hearts;3	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光||||BGCOLOR(#ffc0cb):回復||水ドロップを45個消すとクリア|~|
+|初級 &hearts;2	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|||||BGCOLOR(#ffc0cb):回復||火ドロップを40個消すとクリア|~|
+|BGCOLOR(#ffffff):''たまベガス・ウィークエンド！''|>|>|>|>|>|>|>|>|BGCOLOR(#ffffff):|BGCOLOR(#ffffff):タイマーがなくなる前に、宝箱をゲットしよう！|魔法石x1|
+|上級 &hearts;3	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|||BGCOLOR(#ffc0cb):回復||木ドロップを50個消すとクリア|~|
+|中級 &hearts;2	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光||||BGCOLOR(#ffc0cb):回復||水ドロップを45個消すとクリア|~|
+|初級 &hearts;1	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|||||BGCOLOR(#ffc0cb):回復||火ドロップを40個消すとクリア|~|
+
+#div(start,dvPCExpand)
+#style(class=pageLabel){{
+概要
+}}
+#style(class=pageList){{
+
+- 報酬はメダル
+-- 初級：10000＋スコアの5％
+-- 中級：25000＋スコアの5％
+-- 上級：50000＋スコアの5％ （例）200万点でクリアすれば15万メダル獲得
+
+- 消したドロップ数に応じてレベルゲージが溜まり、満タンになるとレベルアップする。
+-- レベルが上がると得られるスコアが高くなるが、タイマーゲージの減りも早くなる。
+-- レベルアップと同時にタイマーゲージが満タンまで回復する。
+- 回復ドロップは消すとタイマーゲージが回復する。
+-- ただしスコアには影響しない。
+- 高スコアが狙うためにはできるだけ長くプレイすることが重要。
+-- 序盤
+--- なるべくノルマのドロップを避けてレベルを上げることに専念する。
+--- スコアを稼ぎにくいので特にコンボを狙う必要はない（ノルマのドロップを消さないよう1コンボずつでも可）
+--- ノルマのドロップを回復に変化させるアバたまが有効。序盤から終盤まで使える。
+--- 終盤に使えるスキルドロップは温存する。
+-- 終盤
+--- コンボを意識してノルマをこなしていく。
+--- ただしタイマーの減りも早いので無理は禁物。時間をかけ過ぎない。
+--- ノルマ達成直前に【12秒止め】等の使用も有効。
+
+}}
+#div(end)
+
+** ハローワールド [#o709d966]
+
+- 『嵐』とのコラボステージ
+- ここでしか手に入らない限定アバたまをドロップ（通常アバたまも混じる）
+
+|LEFT:180|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:25|CENTER:25|CENTER:25|CENTER:25|||c
+|~名称			|>|>|>|>|>|>|>|>|~登場ドロップ|~条件|~クリア報酬|
+|BGCOLOR(#ffffff):''ハローワールド''|>|>|>|>|>|>|>|>|BGCOLOR(#ffffff):|BGCOLOR(#ffffff):12コンボ以上を作ろう！|50000メダル|
+|エリア3 &hearts;4	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|||||||タマゴを4つ取り戻すとクリア|~|
+|エリア2 &hearts;3	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|||||||タマゴを3つ取り戻すとクリア|~|
+|エリア1 &hearts;2	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|||||||タマゴを2つ取り戻すとクリア|~|
+
+- 3色しか登場しないが、開始時の残りターン数が5ターンなので注意。
+- Wドロップの出現率アップや時止めが効果的。
+
+//最新3件
+|~ |~日時|~備考|
+|1|2014/09/01～2014/09/28||
+
+** 毛利探偵事務所 [#c4e09159]
+
+- 『名探偵コナン』とのコラボステージ
+- ここでしか手に入らない限定アバたまをドロップ
+- コンティニュー不可
+- タイマーゲージあり
+-- 一度スタートすると一時停止不可（Menuを押しても止まらない）
+-- 一部のアバたまが無効
+
+|LEFT:180|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:25|CENTER:25|CENTER:25|CENTER:25|||c
+|~名称			|>|>|>|>|>|>|>|>|~登場ドロップ|~条件|~クリア報酬|
+|BGCOLOR(#ffffff):''毛利探偵事務所''|>|>|>|>|>|>|>|>|BGCOLOR(#ffffff):|BGCOLOR(#ffffff):タイマーがなくなる前に、タマゴをゲットしよう！|魔法石x1|
+|上級 &hearts;3	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|||BGCOLOR(#ffc0cb):回復||木ドロップを40個消すとクリア|~|
+|中級 &hearts;2	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光||||BGCOLOR(#ffc0cb):回復||水ドロップを40個消すとクリア|~|
+|初級 &hearts;1	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|||||BGCOLOR(#ffc0cb):回復||火ドロップを40個消すとクリア|~|
+
+- 基本的には「たまベガス！」と同様。
+- ただしレベルアップは見込めないので、1コンボずつでも消してタイマーの消費を抑えたい。
+- ドロップするタマゴは全エリア共通で1つ。
+
+//最新3件
+|~ |~日時|~備考|
+|2|2015/04/13～2015/04/26||
+|1|2014/11/12～2014/12/09||
+
+** カピバラさんがやってきた [#xa8276e0]
+
+- 『カピバラさん』とのコラボステージ
+- ここでしか手に入らない限定アバたまをドロップ
+- コンティニュー不可
+- タイマーゲージあり
+-- 一度スタートすると一時停止不可（Menuを押しても止まらない）
+-- 一部のアバたまが無効
+
+|LEFT:180|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:25|CENTER:25|CENTER:25|CENTER:25|||c
+|~名称			|>|>|>|>|>|>|>|>|~登場ドロップ|~条件|~クリア報酬|
+|BGCOLOR(#ffffff):''カピバラさんがやってきた''|>|>|>|>|>|>|>|>|BGCOLOR(#ffffff):|BGCOLOR(#ffffff):タイマーがなくなる前に、タマゴをゲットしよう！|魔法石x1|
+|上級 &hearts;3	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使|BGCOLOR(#999999):悪魔|||木ドロップを40個消すとクリア|~|
+|中級 &hearts;2	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|BGCOLOR(#ffffff):天使||||水ドロップを40個消すとクリア|~|
+|初級 &hearts;1	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光|BGCOLOR(#bba6f1):闇|||||火ドロップを40個消すとクリア|~|
+
+- 回復ドロップはないが、ドロップを9個消せばレベルアップしタイマーが満タンになる。
+- レベルが非常に上がり易く対応が難しくなるので、序盤のうちにできるだけノルマを減らしたい。
+- ドロップするタマゴは全エリア共通で1つ。
+
+//最新3件
+|~ |~日時|~備考|
+|2|2015/08/03～2015/08/09||
+|1|2015/03/09～2015/04/05||
+
+** 第3新東京市 [#n96a1777]
+
+- 『エヴァンゲリオン』とのコラボステージ
+- ここでしか手に入らない限定アバたまをドロップ
+- コンティニュー不可
+- タイマーゲージあり
+-- 一度スタートすると一時停止不可（Menuを押しても止まらない）
+-- 一部のアバたまが無効
+
+|LEFT:180|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:15|CENTER:25|CENTER:25|CENTER:25|CENTER:25|||c
+|~名称			|>|>|>|>|>|>|>|>|~登場ドロップ|~条件|~クリア報酬|
+|BGCOLOR(#ffffff):''第3新東京市''|>|>|>|>|>|>|>|>|BGCOLOR(#ffffff):|BGCOLOR(#ffffff):タイマーがなくなる前に、タマゴをゲットしよう！|魔法石x1|
+|上級 &hearts;3	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光||||BGCOLOR(#ffc0cb):回復|BGCOLOR(#cccccc):&font(70%){お邪魔};|木ドロップを40個消すとクリア|~|
+|中級 &hearts;2	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|BGCOLOR(#f1f1a6):光||||BGCOLOR(#ffc0cb):回復||水ドロップを40個消すとクリア|~|
+|初級 &hearts;1	|BGCOLOR(#f1bba6):火|BGCOLOR(#a6f1f1):水|BGCOLOR(#bbf1a6):木|||||BGCOLOR(#ffc0cb):回復||火ドロップを40個消すとクリア|~|
+
+- 基本的には「たまベガス！」と同様。
+- お邪魔ドロップを消してもレベルゲージは溜まらないので注意。
+- ドロップするタマゴは全エリア共通で1つ。
+
+//最新3件
+|~ |~日時|~備考|
+|1|2015/08/24～2015/09/20||
+
+* コメント [#kfa2a3e2]
+
+#pcomment

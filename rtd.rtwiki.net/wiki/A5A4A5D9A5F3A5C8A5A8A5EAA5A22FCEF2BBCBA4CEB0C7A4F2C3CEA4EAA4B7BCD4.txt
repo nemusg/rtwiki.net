@@ -1,0 +1,240 @@
+* イベントエリア/歴史の闇を知りし者 [#pb0cbc53]
+#contents
+
+** 歴史の闇を知りし者 [#h5fa0be2]
+ 歴史の闇を知りし者 - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ 全てを知り、ある決意のもと動き出すヒミコ。 彼女の向かう先は・・・？
+ 
+ エリア目標:
+ 3:超悪いよりしろ 6:超悪いよりしろ 9:超悪いよりしろ
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// 注意点: &color(red){※};
+// ドロップ強調: &color(#006600){ユニット名}; (魔導書の種類)
+
+----
+*** それでも私は… [#w73c746f]
+&color(black,#eeeeee){基本情報};
+:|
+距離:30 スタミナ:15 獲得EXP:500 獲得金額:15,000
+クリアボーナス:なし
+チャレンジ目標:
+-- 金:アクティブスキルを''使用せずに''クリア
+-- 銀:''ザコ兵士''((魔導書型シンボルのエネミーのこと。))を''6体以上''撃破してクリア
+-- 銅:残りSoulが''30以上''でクリア
+:|解放条件:
+-- ザコ兵士の討伐数50
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[玄天王]ヒミコ''
+属性:&color(black,#bba6f1){闇}; 種族:人類
+攻撃:13500/3T HP:約708,000 獲得Soul:10 獲得Gold:0
+特性:-
+有効特効:対闇属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|なし
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''ドラン''
+攻撃:?/3T HP:45,903(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:600
+ドロップ:奈落のよりしろ , 闇のよりしろ
+
+:|''ハイ・ドラン''
+攻撃:?/3T HP:53,039(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:700
+ドロップ:闇のよりしろ
+
+:|''キラー・ドラン''
+攻撃:?/?T HP:?(&color(black,#bba6f1){闇};) 獲得Soul:? 獲得Gold:?
+ドロップ:?
+
+:|''カイザー・ポイム''
+攻撃:12810/3T HP:76,733(&color(black,#bba6f1){闇};) 獲得Soul:3 獲得Gold:900
+ドロップ:闇のよりしろ
+
+:|''闇杖縞魔導書(りゅうじょう)''
+攻撃:9540/3T HP:194,583(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:0
+ドロップ:闇のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:33.3
+獲得覚醒pt:?pt/1体
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/歴史の闇を知りし者 > それでも私は…'' - 簡易Map|
+|~y\x|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||BGCOLOR(#bba6f1):卵βD|||||||||BGCOLOR(#bba6f1):卵βD|||||||||BGCOLOR(#bba6f1):卵D||B|
+|~+3||||||BGCOLOR(#bba6f1):卵D||||||魔D||BGCOLOR(#bba6f1):卵δD||BGCOLOR(#bba6f1):卵βD|||||魔D||BGCOLOR(#bba6f1):卵δD||||||魔D||B|
+|~+2|||||||魔D|BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵βD||BGCOLOR(#bba6f1):卵γD||||魔D|||BGCOLOR(#bba6f1):卵βD|箱|BGCOLOR(#bba6f1):卵γD|||BGCOLOR(#bba6f1):卵γD|||BGCOLOR(#bba6f1):卵γD||BGCOLOR(#bba6f1):卵D|B|
+|~+1|||||||||BGCOLOR(#bba6f1):卵D|||箱||||BGCOLOR(#bba6f1):卵βD||BGCOLOR(#bba6f1):卵D|||箱|箱||魔D|||||BGCOLOR(#bba6f1):卵δD|BGCOLOR(#bba6f1):卵D|B|
+|~±0||||Sta||||||||箱|||||箱|||BGCOLOR(#bba6f1):卵βD|箱|BGCOLOR(#bba6f1):卵γD|||BGCOLOR(#bba6f1):卵γD|||BGCOLOR(#bba6f1):卵γD|||B|
+|~-1|||||||||||BGCOLOR(#bba6f1):卵βD||BGCOLOR(#bba6f1):卵γD||||箱||||魔D||||||BGCOLOR(#bba6f1):卵δD|||BGCOLOR(#bba6f1):卵D|B|
+|~-2||||||BGCOLOR(#bba6f1):卵D||||||魔D||BGCOLOR(#bba6f1):卵δD||BGCOLOR(#bba6f1):卵βD||BGCOLOR(#bba6f1):卵D||BGCOLOR(#bba6f1):卵βD||BGCOLOR(#bba6f1):卵γD|||BGCOLOR(#bba6f1):卵γD||||魔D|BGCOLOR(#bba6f1):卵D|B|
+|~-3|||||||魔D|BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵βD||||||魔D||||||BGCOLOR(#bba6f1):卵δD|魔D||||BGCOLOR(#bba6f1):卵γD||BGCOLOR(#bba6f1):卵D|B|
+|~-4||||||BGCOLOR(#bba6f1):卵D||||||||||BGCOLOR(#bba6f1):卵βD|||||||||BGCOLOR(#bba6f1):卵γD||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 卵:竜卵種(ドラン系) 魔:魔導書型エネミーシンボル
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜β:「ハイ・〜」 〜γ:「キラー・〜」 〜δ:「カイザー・〜 」 〜ε:「シャドー・〜」
+ 　例:火属性のカイザー・ポイム → 軟δR
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 降臨 [#zfbd335a]
+&color(black,#eeeeee){基本情報};
+:|
+距離:25 スタミナ:10 獲得EXP:300 獲得金額:12,000
+クリアボーナス:なし
+チャレンジ目標:
+-- 金:''ザコ兵士''((魔導書型シンボルのエネミーのこと。))を''5体以上''撃破してクリア
+-- 銀:残りSoulが''20以上''でクリア
+-- 銅:''コンティニューなし''でクリア
+:|解放条件:
+-- ザコ兵士の討伐数10
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[四天王]ヒミコ''
+属性:&color(black,#bba6f1){闇}; 種族:人類
+攻撃:10450/3T HP:約538,000 獲得Soul:10 獲得Gold:0
+特性:-
+有効特効:対闇属性
+ドロップ:&color(#006600){[四天王]ヒミコ}; (闇杖金本) , 超悪いよりしろ , 悪いよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|なし
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''ドラン''
+攻撃:?/3T HP:28,119(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:300
+ドロップ:?
+
+:|''キラー・ドラン''
+攻撃:?/3T HP:34,319(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:350
+ドロップ:奈落のよりしろ
+
+:|''闇杖縞魔導書(りゅうじょう)''
+攻撃:8030/3T HP:116,001(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:0
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:30.0
+獲得覚醒pt:?pt/1体
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/歴史の闇を知りし者 > 降臨'' - 簡易Map|
+|~y\x|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||BGCOLOR(#bba6f1):卵D||||||||||||||||||||B|
+|~+3|||||||魔D||BGCOLOR(#bba6f1):卵D||||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵βD|||BGCOLOR(#bba6f1):卵βD|||BGCOLOR(#bba6f1):卵D||||B|
+|~+2||||||BGCOLOR(#bba6f1):卵D||||魔D||||箱||BGCOLOR(#bba6f1):卵βD|魔D|箱||魔D|||BGCOLOR(#bba6f1):卵βD|||B|
+|~+1|||||||||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵βD||箱|||||BGCOLOR(#bba6f1):卵βD||||||BGCOLOR(#bba6f1):卵D|B|
+|~±0||||Sta|||魔D||||箱||魔D|||BGCOLOR(#bba6f1):卵βD|魔D|||||||魔D||B|
+|~-1||||||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵βD||箱|||||BGCOLOR(#bba6f1):卵βD||||||BGCOLOR(#bba6f1):卵D|B|
+|~-2||||||||||魔D||||箱||||箱||魔D|||BGCOLOR(#bba6f1):卵βD|||B|
+|~-3||||||BGCOLOR(#bba6f1):卵D|魔D||BGCOLOR(#bba6f1):卵D||||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵βD|魔D||BGCOLOR(#bba6f1):卵βD|||BGCOLOR(#bba6f1):卵D||||B|
+|~-4||||||||||||||||||||||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 卵:竜卵種(ドラン系) 魔:魔導書型エネミーシンボル
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜β:「ハイ・〜」 〜γ:「キラー・〜」 〜δ:「カイザー・〜 」 〜ε:「シャドー・〜」
+ 　例:火属性のカイザー・ポイム → 軟δR
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 召喚 [#o2c6b1f3]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:8 獲得EXP:200 獲得金額:8,000
+クリアボーナス:なし
+チャレンジ目標:
+-- 金:''ザコ兵士''((魔導書型シンボルのエネミーのこと。))を''3体以上''撃破してクリア
+-- 銀:残りSoulが''10以上''でクリア
+-- 銅:''コンティニューなし''でクリア
+
+&color(black,#eeeeee){ボスエネミー};
+:|''和竜肆号''(仮)
+属性:&color(black,#bba6f1){闇}; 種族:ドラゴン
+攻撃:9320/3T HP:約100,000 獲得Soul:3 獲得Gold:0
+特性:-
+有効特効:対龍 , 対闇属性
+ドロップ:奈落のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|なし
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#bba6f1){闇};
+
+:|''ドラン''
+攻撃:?/3T HP:7,599(&color(black,#bba6f1){闇};) 獲得Soul:2 獲得Gold:300
+ドロップ:?
+
+:|''闇杖縞魔導書(りゅうじょう)''
+攻撃:?/3T HP:37,419(&color(black,#bba6f1){闇};) 獲得Soul:5 獲得Gold:0
+ドロップ:闇のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:25.0
+獲得覚醒pt:?pt/1体
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/歴史の闇を知りし者 > 召喚'' - 簡易Map|
+|~y\x|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||||||BGCOLOR(#bba6f1):卵D|||||||||B|
+|~+3||||||BGCOLOR(#bba6f1):卵D|||||魔D|箱||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵D||B|
+|~+2|||||||魔D|||BGCOLOR(#bba6f1):卵D|||||魔D|箱||魔D|B|
+|~+1||||||BGCOLOR(#bba6f1):卵D||箱|||||BGCOLOR(#bba6f1):卵D||BGCOLOR(#bba6f1):卵D||BGCOLOR(#bba6f1):卵D||B|
+|~±0||||Sta|||||||魔D|||||箱|||B|
+|~-1||||||BGCOLOR(#bba6f1):卵D||箱||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵D||BGCOLOR(#bba6f1):卵D||BGCOLOR(#bba6f1):卵D||B|
+|~-2|||||||魔D||||||||魔D|箱||魔D|B|
+|~-3||||||BGCOLOR(#bba6f1):卵D||||BGCOLOR(#bba6f1):卵D|魔D|箱||BGCOLOR(#bba6f1):卵D|||BGCOLOR(#bba6f1):卵D||B|
+|~-4|||||||||||||||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 卵:竜卵種(ドラン系) 魔:魔導書型エネミーシンボル
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜β:「ハイ・〜」 〜γ:「キラー・〜」 〜δ:「カイザー・〜 」 〜ε:「シャドー・〜」
+ 　例:火属性のカイザー・ポイム → 軟δR
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 開放履歴(歴史の闇を知りし者) [#l1c7d203]
+:2014/01/16(10:00)〜2014/01/18(00:00)|
+
+:2013/07/29(11:00)〜2013/07/31|
+
+:2013/07/21〜2013/07/23(10:00)|
+
+----

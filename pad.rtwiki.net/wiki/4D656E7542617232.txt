@@ -1,0 +1,20 @@
+//常に表示されるメニューバーです。
+
+#popular2(5,FrontPage|MenuBar,recent,short,deepest)
+
+RIGHT:
+&br;==すべて== &color(green){&gcounter;};
+//total: &color(green){&counter;};
+==このページの今日== &color(green){&counter(today);};
+==このページの昨日== &color(green){&counter(yesterday);};
+==アクティブ== &color(green){&online;};
+
+#style(class=toolsMenubar){{
+//- [[降臨所有率:http://pad.rtwiki.net/tool/clear.html]]
+- [[レアガチャ所有率:http://pad.rtwiki.net/tool/raregacha.html]]
+- [[コラボガチャ所有率:http://pad.rtwiki.net/tool/collabo.html]]
+//- [[レア度9所有率:http://pad.rtwiki.net/tool/rarity.html]]
+//- [[MP所有率:http://pad.rtwiki.net/tool/mp.html]]
+//- [[フェス限ヒロイン所有率:http://pad.rtwiki.net/tool/heroine.html]]
+}}
+- [[所有率ツール]]

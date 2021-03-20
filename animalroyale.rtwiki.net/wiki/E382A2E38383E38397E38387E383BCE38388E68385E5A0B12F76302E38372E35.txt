@@ -1,0 +1,40 @@
+* 2019/05/07 v0.87.5 [#l351e9de]
+
+#style(class=panelInfo){{
+完全なパッチノートはSteamで読んでください。
+[[Super Animal Royale :: v0.87.5 Luke Stinkwalker + Weekend Update Patch Notes:https://steamcommunity.com/games/843380/announcements/detail/1618392223378533186]]
+}}
+
+** 5/4（スターウォーズ記念日）Super Light Swordsが追加 [#nbb65605]
+
+Super Light Swordsはランダムドロップとしてゲーム内で利用可能になりました、そしてそれらは複数の色と希少性があります。
+
+- White (common)
+- Green (uncommon)
+- Blue (rare)
+- Purple (epic)
+- Gold (legendary)
+- Red (legendary)
+
+** パッチノート [#j5dcfdea]
+
+- デュオモードに戻りました！次の分隊の週末は5月17日になります。
+- ドロップテーブルに6個のSuper Light Swordsが追加されました（5月4日に到着しました）。
+- 今夜のアップデートでは、Super Light Swordsの効果音も少し改善しました。
+- Research Labの牢屋を更新しました。以前の牢屋は弾丸が通るかどうかが視覚的には明確ではなかったため、影が明確に表示される状態に変えました。影がある場所は弾丸をブロックし、そうでなければブロックしません。
+- ゲームがロビーで開始されるのを待っている間にBambooとBeakeasyステージショーの演奏を聴くことができるようになりました。
+- 3つのラボの各建物のカバーと木箱を調整しました。
+- あなたのスカンク爆弾は敵にダメージを与えるたびにヒットサウンドを再生します。
+- メニュー内のlegendaryなアイテムの背景色が改善されました（提案については、DiscordのAshyfoxに感謝します）。
+- Bamboo Resortの池のような歩けない場所から手榴弾が反ってしまうのを修正。
+- 撮影中にキャラクターの尾​​が歪むのを改善。
+- 壊れない木箱/ドアのまれな不具合を修正しました。
+- Welcome Centerのいくつかのテーブルに関する文字クリッピングの問題を修正しました。
+- Research LabのSAWサインでプレイヤーの衝突が少し増えました。
+- 軍用テントの背後でのプレイヤーの衝突の減少。
+- 永遠にアーマーを修理して立ち往生するための修正を適用しました。
+
+
+* コメント [#u91fd7d9]
+
+#pcomment

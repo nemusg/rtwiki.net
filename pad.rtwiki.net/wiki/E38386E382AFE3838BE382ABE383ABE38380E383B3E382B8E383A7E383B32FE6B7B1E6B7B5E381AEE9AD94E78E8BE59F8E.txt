@@ -1,0 +1,153 @@
+* &font2(60%){しんえんのまおうじょう};深淵の魔王城 [#me88176a]
+
+|~名称		|~スタミナ|~バトル|~取得コイン|~取得EXP|~EXP効率|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|c
+|甦りし暗黒の王	|15|10|17000|4000|&color(#080){''266''};|
+|傀儡の龍		|12|7|11000|2800|&color(#080){''233''};|
+|扉の守護獣	|12|7|9100|2900|&color(#080){''241''};|
+|柔肌と血染めの鱗	|12|7|9300|2800|&color(#080){''233''};|
+|呪われし宝石達	|12|7|9300|3100|&color(#080){''258''};|
+
+- イベントで「珍客パーティ」が開催されることがある。
+-- 期間中は普段出現しないモンスターが稀に出現する。
+-仮面の攻撃、アーマーオーガの気合い溜めによる攻撃には注意。
+-扉の守護獣のキマイラのターンが同じだと最大10288ダメージを食らう恐れ有り。
+
+|~面|~モンスター	|~属|~攻撃力|~後|~HP|~防御|~備考|
+|RIGHT:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:||c
+|>|>|>|>|>|>|>|BGCOLOR(#afd3af):共通|
+||[[ブラッドデーモン>モンスター図鑑/0200]]		|BGCOLOR(#bba6f1):闇|&color(#b00){''1984''};|&color(#b00){1};|||フラッシュバインド|
+||[[ホノペンドラ>モンスター図鑑/0303]]			|BGCOLOR(#f1bba6):火|&color(#b00){''1630''};|&color(#b00){2};|||ようすを見ている|
+||[[フレイムキメラ>モンスター図鑑/0262]]		|BGCOLOR(#f1bba6):火|&color(#b00){''1898''};|&color(#b00){2};|||連続攻撃（2658）|
+||[[ミストキメラ>モンスター図鑑/0270]]			|BGCOLOR(#bba6f1):闇|&color(#b00){''2010''};|&color(#b00){2};|||連続攻撃（2824）|
+||[[アメジストカーバンクル>モンスター図鑑/0055]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''2010''};|&color(#b00){2};||||
+||[[アーマーオーガ>モンスター図鑑/0067]]		|BGCOLOR(#bbf1a6):木|&color(#b00){''4960''};|&color(#b00){3};|||気合溜め（次回9920）|
+||[[神化の紅面>モンスター図鑑/0171]]			|BGCOLOR(#f1bba6):火|&color(#b00){''9999''};|&color(#b00){5};|18|60000|ウォーターバインド|
+||[[神化の蒼面>モンスター図鑑/0172]]			|BGCOLOR(#a6f1f1):水|&color(#b00){''9999''};|&color(#b00){5};|18|60000|リーフバインド|
+||[[神化の碧面>モンスター図鑑/0173]]			|BGCOLOR(#bbf1a6):木|&color(#b00){''9999''};|&color(#b00){5};|18|60000|ファイアバインド|
+||[[神化の金面>モンスター図鑑/0174]]			|BGCOLOR(#f1f1a6):光|&color(#b00){''9999''};|&color(#b00){5};|18|60000|ダークバインド|
+||[[神化の黒面>モンスター図鑑/0175]]			|BGCOLOR(#bba6f1):闇|&color(#b00){''9999''};|&color(#b00){5};|18|60000|フラッシュバインド|
+||[[ミスリット>モンスター図鑑/0160]]			|BGCOLOR(#bba6f1):闇|&color(#b00){''159''};|&color(#b00){1};|||ファイアバインド&br;ウォーターバインド&br;リーフバインド&br;フラッシュバインド&br;ダークバインド|
+||[[キングメタルドラゴン>モンスター図鑑/0178]]		|BGCOLOR(#bba6f1):闇|&color(#b00){''384''};|&color(#b00){1};||||
+||>|>|>|>|>|>|BGCOLOR(#ffffff):珍客パーティ限定|
+||[[フェニックスナイト>モンスター図鑑/0099]]	|BGCOLOR(#f1bba6):火|&color(#b00){''4876''};|&color(#b00){4};|||ドロップ変化・火|
+||[[フェンリルナイト>モンスター図鑑/0101]]	|BGCOLOR(#a6f1f1):水|&color(#b00){''?''};|&color(#b00){?};|||ドロップ変化・水|
+||[[ドラゴンナイト>モンスター図鑑/0103]]	|BGCOLOR(#bbf1a6):木|&color(#b00){''4358''};|&color(#b00){3};|||ドロップ変化・木|
+||[[ヴァーチェ>モンスター図鑑/0105]]		|BGCOLOR(#f1f1a6):光|&color(#b00){''4711''};|&color(#b00){3};|||ドロップ変化・光|
+||[[ダークドラゴンナイト>モンスター図鑑/0109]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''5771''};|&color(#b00){4};|||ドロップ変化・闇|
+|>|>|>|>|>|>|>|BGCOLOR(#afd3af):呪われし宝石達|
+|7|[[マーズライトカーバンクル>モンスター図鑑/0206]]	|BGCOLOR(#f1bba6):火|&color(#b00){''3484''};|&color(#b00){2};|112113|360|キュアー|
+|~|[[ムーンライトカーバンクル>モンスター図鑑/0210]]	|BGCOLOR(#bba6f1):闇|&color(#b00){''4042''};|&color(#b00){2};|149337|360|キュアー|
+|>|>|>|>|>|>|>|BGCOLOR(#afd3af):柔肌と血染めの鱗|
+|7|[[紅蓮の女帝・エキドナ>モンスター図鑑/0201]]		|BGCOLOR(#f1bba6):火|&color(#b00){''3488''};|&color(#b00){1};|214294||不敵な笑みを浮かべている&br;ドロップ排除・水&br;リザレクション|
+|>|>|>|>|>|>|>|BGCOLOR(#afd3af):扉の守護獣|
+|7|[[マグマキマイラ>モンスター図鑑/0263]]		|BGCOLOR(#f1bba6):火|&color(#b00){''3618''};|&color(#b00){2};|208970|420|ダブルバインド&br;連続攻撃（5066）|
+|~|[[フォッグキマイラ>モンスター図鑑/0271]] 		|BGCOLOR(#bba6f1):闇|&color(#b00){''3730''};|&color(#b00){2};|212690|420|ダブルバインド&br;連続攻撃（5222）|
+|>|>|>|>|>|>|>|BGCOLOR(#afd3af):傀儡の龍|
+|6|[[トイトプス>モンスター図鑑/0294]]			|BGCOLOR(#bbf1a6):木|&color(#b00){''1318''};|&color(#b00){1};|37520|1680|バインドアタック|
+|~|[[アグドラール>モンスター図鑑/0289]]			|BGCOLOR(#f1bba6):火|&color(#b00){''2948''};|&color(#b00){2};|112190|420|気合溜め（次回5896）|
+|~|[[ピエドラ>モンスター図鑑/0300]]			|BGCOLOR(#bba6f1):闇|&color(#b00){''1429''};|&color(#b00){1};|74740|168|バインドアタック|
+|7|[[トイケラトプス>モンスター図鑑/0295]]		|BGCOLOR(#bbf1a6):木|&color(#b00){''2725''};|&color(#b00){2};|56353|2940|気合溜め（次回5450）|
+|~|[[ピエドラウン>モンスター図鑑/0301]]			|BGCOLOR(#bba6f1):闇|&color(#b00){''3060''};|&color(#b00){2};|140110|294|連続攻撃（4284）|
+|>|>|>|>|>|>|>|BGCOLOR(#afd3af):甦りし暗黒の王|
+|9|[[常夜の魔女・リリス>モンスター図鑑/0205]] 		|BGCOLOR(#bba6f1):闇|&color(#b00){''2993''};|&color(#b00){1};|168170|270|魅惑的な眼差しを向けている&br;ドロップ排除・光&br;リザレクション|
+|10|[[ピエドラ>モンスター図鑑/0300]]x2			|BGCOLOR(#bba6f1):闇|&color(#b00){''1429''};|&color(#b00){1};|74740|168|バインドアタック|
+|~|[[ヴァンパイアロード>モンスター図鑑/0111]]		|BGCOLOR(#bba6f1):闇|&color(#b00){''3944''};|&color(#b00){2};|278850|350|リセットウェーブ（スキルの効果が消える）&br;ダークワールド（ドロップが見えなくなる）&br;ナイトメアスラッシュ（計7098の連続攻撃）&br;リザレクション|
+
+- 攻撃ターン数は表記より1ターン前後することがあります
+- ドロップ報告はコメント欄を参照してください
+
+//||	|BGCOLOR(#f1bba6):火|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#a6f1f1):水|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#bbf1a6):木|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#f1f1a6):光|&color(#b00){''?''};|&color(#b00){?};||||
+//||	|BGCOLOR(#bba6f1):闇|&color(#b00){''?''};|&color(#b00){?};||||
+
+** 珍客パーティ [#mc230b1b]
+
+|シルバーウィークイベント&br;（2015/09/19～2015/09/27）|&mons797;|
+
+//折りたたみ開始
+#div(start,dvPCExpand)
+#style(class=pageLabel){{
+過去の珍客パーティ
+}}
+#style(class=pageList){{
+
+|夏休みスペシャル（後半）&br;（2015/08/17～2015/08/23）|&mons797;|
+
+- フロアごとに出現するモンスターは決まっている。日付変更で配置換え。
+
+||>|>|>|>|>|>|>|ガンホースマホアプリ5000万DL突破記念&br;（2014/08/22～2014/08/29）|
+|~|22|23|24|25|26|27|28|29|
+|甦りし暗黒の王|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1bba6):&mons099;|
+|傀儡の龍|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#a6f1f1):&mons101;|
+|扉の守護獣|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|
+|柔肌と血染めの鱗|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bbf1a6):&mons103;|
+|呪われし宝石達|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#ffffff):&mons1321;|
+
+||>|>|>|>|>|>|ムラコフォロワー100万人突破記念&br;（2014/07/07～2014/07/13）|
+|~|07|08|09|10|11|12|13|
+|甦りし暗黒の王|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bba6f1):&mons109;|
+|傀儡の龍|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|
+|扉の守護獣|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#a6f1f1):&mons101;|
+|柔肌と血染めの鱗|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#ffffff):&mons1321;|
+|呪われし宝石達|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#ffffff):&mons1321;|BGCOLOR(#f1f1a6):&mons105;|
+
+||>|>|>|>|2500万DL達成記念&br;（2014/04/11～2014/04/20）|
+|~|11,12|13,14|15,16|17,18|19,20|
+|甦りし暗黒の王|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|傀儡の龍|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|扉の守護獣|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|柔肌と血染めの鱗|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|呪われし宝石達|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+
+||>|>|>|>|『パズドラＺ』100万本突破記念&br;（2014/01/10～2014/01/19）|
+|~|10,11|12,13|14,15|16,17|18,19|
+|甦りし暗黒の王|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|傀儡の龍|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|扉の守護獣|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|柔肌と血染めの鱗|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|呪われし宝石達|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+
+||>|>|>|>|1800万DL達成記念&br;（2013/08/30～2013/09/08）|
+|~|30,31|01,02|03,04|05,06|07,08|
+|甦りし暗黒の王|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|傀儡の龍|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+|扉の守護獣|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|柔肌と血染めの鱗|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|呪われし宝石達|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+
+||>|>|>|1500万DL達成記念&br;（2013/06/28～2013/07/05）|
+|~|28,29|30,01|02,03|04,05|
+|甦りし暗黒の王|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|傀儡の龍|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|扉の守護獣|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|柔肌と血染めの鱗|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|呪われし宝石達|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+
+||>|>|>|>|1100万DL達成記念&br;（2013/03/29～2013/04/07）|
+|~|29,30|31,01|02,03|04,05|06,07|
+|甦りし暗黒の王|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|
+|傀儡の龍|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|
+|扉の守護獣|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|
+|柔肌と血染めの鱗|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|
+|呪われし宝石達|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|
+
+||>|>|>|>|500万DL達成記念&br;（2012/12/14～2012/12/23）|
+|~|14,15|16,17|18,19|20,21|22,23|
+|甦りし暗黒の王|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#f1bba6):&mons099;|
+|傀儡の龍|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#bba6f1):&mons109;|
+|扉の守護獣|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#f1f1a6):&mons105;|
+|柔肌と血染めの鱗|BGCOLOR(#a6f1f1):&mons101;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#bbf1a6):&mons103;|
+|呪われし宝石達|BGCOLOR(#f1bba6):&mons099;|BGCOLOR(#bbf1a6):&mons103;|BGCOLOR(#bba6f1):&mons109;|BGCOLOR(#f1f1a6):&mons105;|BGCOLOR(#a6f1f1):&mons101;|
+
+}}
+#div(end)
+//折りたたみ終了
+
+* コメント [#i9efc84b]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

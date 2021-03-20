@@ -1,0 +1,52 @@
+* 2019/05/03 v0.87.4 [#l6bb7435]
+
+#style(class=panelInfo){{
+完全なパッチノートはSteamで読んでください。
+[[Super Animal Royale :: Hold your Super noses: a smelly new update just arrived.:https://steamcommunity.com/games/843380/announcements/detail/1618392223354069084]]
+}}
+
+** スーパースカンクが3つの追加の品種と一緒に到着します [#f953830b]
+
+- Super Skunk スーパースカンク
+- Super Grape Skunk スーパーグレープスカンク
+- Super Skunk Blues スーパースカンクブルース
+- Super Vanilla Skunk スーパーバニラスカンク
+
+** 新しい装飾品 [#x947b1c2]
+
+- Purple Tee パープルティー
+- Red Tee レッドティー
+- Red Striped Tee レッドストライプティー
+- Green Striped Tee グリーンストライプティー
+- Navy Striped Tee ネイビーストライプティー
+- Pink Striped Tee ピンクストライプティー
+- Red Print Tee レッドプリントティー
+- White Print Tee ホワイトプリントティー
+- Blue Striped Sweater ブルーストライプセーター
+- Pink Striped Sweater ピンクストライプセーター
+- Red Striped Sweater レッドストライプセーター
+- Black Princess Dress ブラックプリンセスドレス
+- Blue Princess Dress ブループリンセスドレス
+- Green Princess Dress グリーンプリンセスドレス
+- Purple Princess Dress パープルプリンセスドレス
+- Yellow Princess Dress イエロープリンセスドレス
+
+** その他 [#md582bf4]
+
+- スカンク爆弾：爆発時に致命的なスーパースカンクガスを放出する新しいタイプの手榴弾。
+- SQUADモードが戻ってきます！
+- Discord Rich Presenceがゲーム内のステータスを表示するようになりました
+-- 例：どのモードをプレイしているか、ゲーム内でまだ何人のプレイヤーが生きているかなど。
+- 誰かがモールクレートの後ろに隠れていると、クレートは非表示（薄く？）になります。
+- 壁を通した手榴弾によるダメージが軽減されました。
+- ライフル (Rifle) は日々の課題のためにアトミックライフル (Automatic Rifle) に改名されました。
+- 手榴弾の爆発粒子がいくつかの死亡アニメーションの影響を受けるのを修正。
+- ゲーム終了時に装備武器がメニューに表示されない問題を修正。
+- チャットメッセージの不具合を修正しました。
+
+//+必要な忍耐力、スーパーアニマル。明日追加の5月4日の項目は、あるでしょう。
+
+
+* コメント [#s5dad663]
+
+#pcomment

@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/11/21 00:00:00,2016/11/27 23:59:59);[[全世界6000万DL達成記念イベント（前半）:http://pad.gungho.jp/member/event/161118_6000m_world.html]]

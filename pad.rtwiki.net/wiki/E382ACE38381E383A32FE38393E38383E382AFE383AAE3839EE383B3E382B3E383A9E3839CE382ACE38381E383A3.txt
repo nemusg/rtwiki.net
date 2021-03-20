@@ -1,0 +1,23 @@
+* ビックリマンコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+エキドナの上位互換であるヘッドロココが魅力。
+}}
+
+** ビックリマン コラボガチャ [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/07/13～2015/07/19:http://pad.gungho.jp/member/bikkuri-man3_list.html]]|
+|>|BGCOLOR(#ffffff):[[2015/01/19～2015/01/25:http://pad.gungho.jp/member/gacya_list_bikkuri-man2.html]]|
+|>|BGCOLOR(#ffffff):[[2014/08/25～2014/09/07:http://pad.gungho.jp/member/gacya_list_bikkuri-man.html]]|
+|★5|&mons1495; &mons1487; &mons1499;|
+|★4|&mons1497; &mons1489; &mons1491; &mons1493;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

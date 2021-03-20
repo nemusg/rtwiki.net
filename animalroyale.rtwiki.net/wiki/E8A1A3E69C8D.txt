@@ -1,0 +1,120 @@
+* 衣服 (Apparel) [#o311f87b]
+
+このゲームはシャツや帽子など多くの衣服が存在します。それらのほとんどはゲーム後にドロップしますが、一部は特定の条件を満たすことで入手できます。
+
+#style(class=panelInfo){{
+衣服の画像は[[公式Wiki/Apparel:https://animalroyale.gamepedia.com/Apparel]], [[Challenges:https://animalroyale.gamepedia.com/Challenges]]を参照。
+}}
+
+#contents
+
+
+** 特定の条件を満たすと入手 [#x5e94677]
+
+|~名称（日本語）|~名称（英語）|~レア度|~備考|~バージョン|
+|グリーン蝶ネクタイ|Green Bow Tie|Common|5ゲームプレイ||
+|ブルー蝶ネクタイ|Blue Bow Tie|&color(#6bbf00){''Uncommon''};|25ゲームプレイ||
+|オレンジ蝶ネクタイ|Orange Bow Tie|&color(#6bbf00){''Uncommon''};|50ゲームプレイ||
+|パープル蝶ネクタイ|Purple Bow Tie|&color(#00b5f2){''Rare''};|100ゲームプレイ||
+|マルーン蝶ネクタイ|Maroon Bow Tie|&color(#00b5f2){''Rare''};|250ゲームプレイ||
+|ホワイト蝶ネクタイ|White Bow Tie|&color(#00b5f2){''Rare''};|500ゲームプレイ||
+|ブラック蝶ネクタイ|Black Bow Tie|&color(#8733c6){''Epic''};|750ゲームプレイ||
+|グリーンネクタイ|Green Tie|Common|10キル||
+|ブルーネクタイ|Blue Tie|&color(#6bbf00){''Uncommon''};|50キル||
+|オレンジネクタイ|Orange Tie|&color(#6bbf00){''Uncommon''};|100キル||
+|パープルネクタイ|Purple Tie|&color(#00b5f2){''Rare''};|250キル||
+|マルーンネクタイ|Maroon Tie|&color(#00b5f2){''Rare''};|500キル||
+|ホワイトネクタイ|White Tie|&color(#00b5f2){''Rare''};|1000キル||
+|ブラックネクタイ|Black Tie|&color(#8733c6){''Epic''};|2000キル||
+|レッドアイスコープ|Red Eye Scope|&color(#dda300){''Legendary''};|5000キル||
+|ハチェット|Hatchet|&color(#6bbf00){''Uncommon''};|近接武器で10キル||
+|アックス|Axe|&color(#00b5f2){''Rare''};|近接武器で50キル||
+|トマホーク|Tomahawk|&color(#8733c6){''Epic''};|近接武器で100キル||
+|シックル|Sickle|&color(#6bbf00){''Uncommon''};|芝を300破壊|v0.85.3|
+|ラージシックル|Large Sickle|&color(#00b5f2){''Rare''};|芝を3000破壊|v0.85.3|
+|サイス|Scythe|&color(#8733c6){''Epic''};|芝を20000破壊|v0.85.3|
+|ココナッツT|Coconut Tee|&color(#6bbf00){''Uncommon''};|ココナッツを25個食べる|v0.85.3|
+|パームシャツ|Palm Shirt|&color(#00b5f2){''Rare''};|ココナッツを75個食べる|v0.85.3|
+|ココナッツドレス|Coconut Dress|&color(#dda300){''Legendary''};|ココナッツを350個食べる|v0.85.3|
+|バナナTシャツ|Banana T-Shirt|&color(#6bbf00){''Uncommon''};|25バナナスリップ||
+|バナナファンシーシャツ|Banana Fancy Shirt|&color(#dda300){''Legendary''};|50バナナスリップ|v0.85.3|
+|グレネードT|Grenade Tee|&color(#6bbf00){''Uncommon''};|手榴弾で5キル|v0.85.3|
+|盗品メガネ|Swag Glasses|&color(#00b5f2){''Rare''};|乗り物で10キル|v0.85.3|
+|シャベル|Shovel|&color(#00b5f2){''Rare''};|モールクレートを15個開ける|v0.85.3|
+|バール|Crowbar|&color(#00b5f2){''Rare''};|2500個のオブジェクト破壊|v0.85.3|
+|サファリハット|Safari Hat|&color(#00b5f2){''Rare''};|100km移動||
+|レボリューションヘルメット|Rebellion Helmet|&color(#8733c6){''Epic''};|Level30達成||
+
+** イベント限定など [#o4ea0901]
+
+|~名称（日本語）|~名称（英語）|~レア度|~備考|
+|チャコールスーツ＆Pixile ネクタイ|Charcoal Suit & Pixile Tie|&color(#dda300){''Legendary''};|[[Founder's Edition>メモ/Founder's Edition]]|
+|Pixile パープルTシャツ|Pixile Purple Tee|&color(#00b5f2){''Rare''};|[[Founder's Edition>メモ/Founder's Edition]]|
+|Pixile ホワイトTシャツ|Pixile White Tee|&color(#00b5f2){''Rare''};|[[Founder's Edition>メモ/Founder's Edition]]|
+|ゴールデンジャケット|Golden Jacket|&color(#dda300){''Legendary''};|SAR Tonight|
+|SAR Tonightシャツ|SAR Tonight Tee|&color(#dda300){''Legendary''};|SAR Tonight|
+|フォックスシルエットティー|Fox Silhouette Tee|&color(#dda300){''Legendary''};|SAR Tonight|
+|ドンクプリントティー|Donk Print Tee|&color(#dda300){''Legendary''};|SAR Tonight|
+|ハウルプリントティー|Howl Print Tee|&color(#dda300){''Legendary''};|SAR Tonight|
+|タイガーシルエットティー|Tiger Silhouette Tee|&color(#dda300){''Legendary''};|SAR Tonight|
+|サンタの衣装|Santa Outfit|&color(#dda300){''Legendary''};|クリスマスイベント2018|
+|フェスティブセーター|Festive Sweater|&color(#00b5f2){''Rare''};|クリスマスイベント2018|
+|!keyme Tシャツ|!Keyme T-shirt|&color(#6bbf00){''Uncommon''};|ベータ版購入特典|
+|ベータTシャツ|Beta T-shirt|&color(#6bbf00){''Uncommon''};|ベータ版購入特典|
+
+** ランダムで入手できるもの [#df8923d2]
+
+*** 衣装 (Outfits) [#u3c5db83]
+
+|~名称（日本語）|~名称（英語）|~レア度|~備考|
+|ブルーTシャツ|Blue T-shirt|Common||
+|グリーンTシャツ|Green T-shirt|Common||
+|キンダファニーTシャツ|Kinda Funny T-shirt|&color(#6bbf00){''Uncommon''};||
+|ブループリントティー|Blue Print Tee|&color(#6bbf00){''Uncommon''};||
+|グリーンプリントティー|Green Print Tee|&color(#6bbf00){''Uncommon''};||
+|ブルーストライプTシャツ|Blue Striped T-shirt|&color(#6bbf00){''Uncommon''};||
+|Team Fat Tシャツ|Team Fat Tee|&color(#6bbf00){''Uncommon''};||
+|ストライプセーター|Striped Sweater|&color(#6bbf00){''Uncommon''};||
+|ブラウンジャケット|Brown Jacket|&color(#6bbf00){''Uncommon''};||
+|ブルージャケット|Blue Jacket|&color(#6bbf00){''Uncommon''};||
+|レッドイブニングドレス|Red Evening Dress|&color(#6bbf00){''Uncommon''};||
+|イエロースプリングドレス|Yellow Spring Dress|&color(#6bbf00){''Uncommon''};||
+|ダイヤモンドセーター|Diamonds Sweater|&color(#00b5f2){''Rare''};||
+|ホワイトイブニングドレス|White Evening Dress|&color(#00b5f2){''Rare''};||
+|ブルースプリングドレス|Blue Spring Dress|&color(#00b5f2){''Rare''};||
+|ピンクスプリングドレス|Pink Spring Dress|&color(#00b5f2){''Rare''};||
+|ブルーファンシーシャツ|Blue Fancy Shirt|&color(#00b5f2){''Rare''};||
+|グリーンファンシーシャツ|Green Fancy Shirt|&color(#00b5f2){''Rare''};||
+|パープルファンシーシャツ|Purple Fancy Shirt|&color(#00b5f2){''Rare''};||
+|レッドファンシーシャツ|Red Fancy Shirt|&color(#00b5f2){''Rare''};||
+|マルーンジャケット|Maroon Jacket|&color(#00b5f2){''Rare''};||
+|ブラックジャケット|Black Jacket|&color(#00b5f2){''Rare''};||
+|ブラックカレッジジャケット|Black College Jacket|&color(#00b5f2){''Rare''};||
+|ブルーカレッジジャケット|Blue College Jacket|&color(#00b5f2){''Rare''};||
+|レッドカレッジジャケット|Red College Jacket|&color(#00b5f2){''Rare''};||
+|ホワイトカレッジジャケット|White College Jacket|&color(#00b5f2){''Rare''};||
+|ブラックイブニングドレス|Black Evening Dress|&color(#8733c6){''Epic''};||
+|ブラックスーツ＆レッドネクタイ|Black Suit & Red Tie|&color(#8733c6){''Epic''};||
+|木こりシャツ|Lumberjack Shirt|&color(#8733c6){''Epic''};||
+|ピンクジャケット|Pink Jacket|&color(#8733c6){''Epic''};||
+|レッドスプリングドレス|Red Spring Dress|&color(#8733c6){''Epic''};||
+|バナナファンシーシャツ|Banana Fancy Shirt|&color(#dda300){''Legendary''};||
+|プリンセスピンクドレス|Princess Pink Dress|&color(#dda300){''Legendary''};||
+|ブルーパイレーツコスチューム|Blue Pirate Costume|&color(#dda300){''Legendary''};||
+|ブラウンパイレーツコスチューム|Brown Pirate Costume|&color(#dda300){''Legendary''};||
+|グリーンパイレーツコスチューム|Green Pirate Costume|&color(#dda300){''Legendary''};||
+|ブラックパイレーツコスチューム|Black Pirate Costume|&color(#dda300){''Legendary''};||
+|カーキトレンチコート|Khaki Trenchcoat|&color(#dda300){''Legendary''};||
+
+
+
+*** 帽子 (Hats) [#ubf4bafc]
+
+*** アイアクセサリー (Eye Accessories) [#cb583e50]
+
+*** 顔の毛 (Facial Hair) [#r07a74af]
+
+
+* コメント [#t430b455]
+
+#pcomment

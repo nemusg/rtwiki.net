@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2015/11/30 00:00:00,2015/12/06 23:59:59);[[ガンホースマホアプリ7タイトル6000万DL突破記念イベント（後半）:http://pad.gungho.jp/member/7ttl6000m_2ndhalf.html]]

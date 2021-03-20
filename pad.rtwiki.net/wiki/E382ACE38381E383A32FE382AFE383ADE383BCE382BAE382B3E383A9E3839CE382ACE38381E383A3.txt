@@ -1,0 +1,23 @@
+* クローズコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+1990年～1998年に月刊少年チャンピオンで連載された不良漫画。
+山本大介念願のコラボであるが、原作を知っている人はかなり少ない。
+}}
+
+** クローズコラボガチャ [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2016/01/25～2016/02/07:http://pad.gungho.jp/member/collabo/160122_crows_lineup.html]]|
+|★6|&mons2601; &mons2603;|
+|★5|&mons2605; &mons2607; &mons2609;|
+|★4|&mons2611; &mons2613; &mons2615; &mons2617; &mons2619;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

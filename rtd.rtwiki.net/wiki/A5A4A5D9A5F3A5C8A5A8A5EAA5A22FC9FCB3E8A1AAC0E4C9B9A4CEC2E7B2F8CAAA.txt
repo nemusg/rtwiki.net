@@ -1,0 +1,105 @@
+* イベントエリア/復活！絶氷の大怪物 [#a147a805]
+
+** 復活！絶氷の大怪物 [#ude2ddc9]
+ 復活！絶氷の大怪物 - 6ユニット編成クエストエリア
+ 
+ エリア説明文:
+ 氷の大地に現れし大王種。伝説の怪物を退治することができるか？
+ 
+ エリア目標:
+ 1:超悪いよりしろ 2:月のよりしろ 3:虹色水晶 
+
+|~''クエスト名(Lv)''|~''距離''|~''スタミナ''|~''獲得PP''|~''獲得金額''|~''雑魚属性''|~''ボス情報''|~''ボスドロップ''|~''レアエネミードロップ''|~''チャレンジ目標''|~''備考''|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:||||||c
+|''[['''超熱戦！！大王種再び！(6)'''>#b8de2432]]''|14|8|500|50000|-|BGCOLOR(#bba6f1):属性:闇 種族:龍&br;攻撃:64064/2T&br;&color(red){※};防御力高め&br;|超悪いよりしろ&br;生命のよりしろ&br;力のよりしろ&br;癒やしのよりしろ|-|金:ソウル15&br;銀:ソウル10&br;銅:ボス撃破|&color(red){※};クリアボーナスあり&br;助っ人枠:自由&br;初期Soul値:15&br;[exp/sta]:62.5&br;|
+|>|>|>|>|>|>|>|>|>|>|''必要スタミナ合計:8　PP合計:500''|
+
+- [[開放履歴(復活！絶氷の大怪物)>#tcf3e17a]]
+- [[コメント(復活！絶氷の大怪物)>#we8cf632]]
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+// &color(red){※};
+// &color(#006600){ユニット名}; (魔導書の種類)
+// ''[[''''''>#]]''
+// |''[[''''''>#]]''|?|?|?|?|火水光闇無?|BGCOLOR(#):属性:? 種族:?&br;攻撃:?/?T&br;|?&br;|?&br;|金:&br;銀:&br;銅:&br;|初期Soul値:?&br;[exp/sta]:?&br;|
+
+
+** クエスト詳細 [#v3e66075]
+----
+*** 超熱戦！！大王種再び！ [#b8de2432]
+&color(black,#eeeeee){基本情報};
+エネミーレベル:6 距離:14 スタミナ:8 獲得PP:500 獲得金額:50000
+助っ人枠:自由
+クリアボーナス:虹色水晶×1
+チャレンジ目標:
+- 金:ソウルが''15''以上の状態でクリア！
+- 銀:ソウルが''10''以上の状態でクリア！
+- 銅:ボスを撃破！
+
+&color(black,#eeeeee){'''ボスエネミー'''};
+|#ref(エネミー一覧/enemy_daiou.jpg,center,nowrap,64x64)|~''属性''|~''攻撃''|~''HP''|~''ソウル''|~''ゴールド''|~''経験値''|~''覚醒ポイント''|~''ドロップ''|
+|~|闇,竜|64064/2T|3,537,473|RIGHT:1|RIGHT:0|RIGHT:45000|RIGHT:24|超悪いよりしろ&br;生命のよりしろ&br;力のよりしろ&br;癒しのよりしろ|
+|~''特性/備考''|>|>|>|>|>|>|>||
+//与ダメージデータ:
+//|~''属性''|~''クラス''|~''攻撃力''|→|~''与ダメージ''|
+//|CENTER:|CENTER:|RIGHT:|RIGHT:|RIGHT:|c
+//||||→||
+
+&color(black,#eeeeee){'''レアエネミー'''};
+-
+
+&color(black,#eeeeee){'''エネミー'''};((属性、個体によってHPに多少の差異あり。))
+-
+
+&color(black,#eeeeee){'''備考'''};
+初期Soul値:15
+各種箱の有無:
+- Gold:× Life:× Power:× Soul:○ Unit:×
+
+パネル特性:なし
+各属性補正マスの有無:
+- 火:○ 水:○ 光:○ 闇:○
+
+注意点:
+- 自力で移動する必要のあるボス直行型クエスト。
+
+Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/復活！絶氷の大怪物 > 超熱戦！！大王種再び！'' - Map|
+|~(x,y)|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|Boss|
+|~+3|||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|Boss|
+|~+2|||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|Boss|
+|~+1|||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|Boss|
+|~±0||||''Sta''||箱S|||箱S|||箱S|||Boss|
+|~-1|||||BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|BGCOLOR(#f1bba6):|Boss|
+|~-2|||||BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|BGCOLOR(#a6f1f1):|Boss|
+|~-3|||||BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|BGCOLOR(#bba6f1):|Boss|
+|~-4|||||BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|BGCOLOR(#f1f1a6):|Boss|
+ -マップの見方-
+ Sta:スタート地点(Start) 箱S:Soul箱
+ ~R:火属性(Red)の~ A:水属性(Aqua)の~ P:光属性(Pure)の~ ~D:闇属性(Dark)の~ ~H:無属性(Hollow)の~
+ ~(数字):エネミーのランク(仮称) 例 → ~2:「ハイ・~」 ~3:「キラー・~」 ~4:「カイザー・~」 ~5:「シャドー・~」
+ 　例:火属性のカイザー・ポイム → 軟4R
+ 
+ 背景色は属性補正マスに対応。数字のみが入っているマスは未確認。
+
+----
+*** 開放履歴(復活！絶氷の大怪物) [#tcf3e17a]
+:2015/03/18(10:00)~2015/03/25(09:59)|
+-- チャレンジ目標達成状況リセット。
+:2014/04/15(10:00)~2014/04/17(09:59)|
+
+----
+* コメント(復活！絶氷の大怪物) [#we8cf632]
+
+#pcomment(reply)
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};
+
+----

@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2015/10/16 12:00:00,2015/10/25 23:59:59);[[ハロウィン＆Amazonアプリアワード受賞記念イベント（前半）:http://pad.gungho.jp/member/151015_event.html]]

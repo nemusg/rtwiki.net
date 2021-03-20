@@ -1,0 +1,105 @@
+#bodycache(enable)
+#norelated
+* スーパーアニマルロワイヤル(アニロイ)Wiki [#h543df1e]
+
+[[Super Animal Royale:https://animalroyale.com/]]のWikiです。&ruby(えいごばん){英語版};の[[公式Wiki:https://animalroyale.gamepedia.com/Super_Animal_Royale_Wiki]]があり、こちらは&ruby(にほんごばん){日本語版};の&ruby(ひこうしき){非公式};なWikiです。
+
+** Super Animal Royaleとは [#vec1db8c]
+
+#ref(gamebox@2x.jpg,nolink,30%);
+//&ref(./gamebox@2x.jpg,nolink,30%);
+//#ref(./gamebox@2x.jpg,nolink,left,30%);
+
+- 最高64匹で参加できるかわいらしい動物のマルチプレイヤーサバイバルシューティングゲームです。&br;PUBGなどに似たルールの動物によるバトルロワイヤルは、FPS/TPS視点の無い2Dのシンプルなゲームです。
+- 食物連鎖の頂点に立つことをモフ勝（ドン勝の&ruby(もじり){捩󠄁り};）と呼びます。
+- 沢山の動物がいますが"チーター"は滅多に見かけないようです。
+
+*** Super Animal Royale Trailer 2 [#nc19674f]
+
+ユーザーからの投稿動画を元にトレーラームービーが新しくなりました。
+日本語字幕もあるので是非視聴してください。
+
+[[Super Animal Royale Trailer 2 - YouTube:https://youtu.be/kWc2iItPNMM]]
+
+//#htmlinsert(search.inc) サイト内検索
+
+//** イベント [#rba79459]
+//#calendar_viewer2(Calendar,1,future,-,3);
+//RIGHT:[[Calendar]]
+
+** クーポンコード（Coupon Code） [#c8e96a4b]
+
+現在有効なクーポンコードは[[公式Wiki - Coupon Codes:https://animalroyale.gamepedia.com/Guides/Coupon_Codes]]で確認できます。
+
+#include2(アップデート情報,6,none)
+//RIGHT:&edit(アップデート情報,noicon){編集};
+
+** プレイするには [#c0614ca6]
+
+- [[Steam：Super Animal Royale:https://store.steampowered.com/app/843380/Super_Animal_Royale/]]
+- 価格：''無料''
+-- v0.96.3から[[Super Animal Royaleは無料になりました:https://store.steampowered.com/newshub/app/843380/view/2934619953213800655]]
+
+//#include2(関連記事,10,none)
+//RIGHT:&edit(関連記事,noicon){編集};
+
+** リンク [#j031982e]
+
+#div(start,cfx)
+#div(start,dvGrid)
+#div(start,dvInner)
+
+*** 公式 [#s88af291]
+
+- [[ニュース - SAR - Steam:https://store.steampowered.com/news/?appids=843380]]
+- [[@AnimalRoyale - Twitter:https://twitter.com/AnimalRoyale]]
+- [[Facebook:https://www.facebook.com/animalroyale]]
+- [[Official Discord server :https://discord.gg/mGBcAgK]]
+
+#div(end)
+#div(end)
+#div(start,dvGrid)
+#div(start,dvInner)
+
+*** コミュニティ [#x0ca56dc]
+
+- [[Steam コミュニティ - SAR Japan:https://steamcommunity.com/groups/SARJapan]]
+
+*** Discord [#g9847fbe]
+
+#style(class=panelInfo){{
+[[Super Animal Royale JP:https://discord.gg/Jj2uZYP]]&br;日本人中心にDUO/SUQADできる
+}}
+
+*** ブログ [#oa1eef32]
+
+- [[もふ勝ガイド:https://steamcommunity.com/sharedfiles/filedetails/?id=1633683651]] つばペンさんの攻略
+- [[初心者ガイド:https://nya-ne.net/post-1864/]] しゅろぐ。さんの攻略
+
+#div(end)
+#div(end)
+#div(start,dvGrid)
+#div(start,dvInner)
+
+*** ツール [#l53dfc54]
+
+- [[SAR Stats:https://royale.pet/]] 戦績の表示, ランキング
+- [[Steam Charts:https://steamcharts.com/app/843380#All]] アクティブユーザー数
+
+*** 配信サイト [#p5d6e42f]
+
+- [[Twitch - SARカテゴリ:https://www.twitch.tv/directory/game/Super%20Animal%20Royale]]
+- [[OPENREC.tv - SARカテゴリ:https://www.openrec.tv/game/animal-royale]]
+
+#div(end)
+#div(end)
+#div(end)
+
+** このWikiについて [#c2af49f4]
+- 当サイトに掲載されている内容はWikiである性質上、必ずしも正確な情報とは限りません。
+//- 詳細は[[このWikiについて]]を参照してください。
+
+//*** rtwikiからのお知らせ [#dc65d17f]
+
+//#showrss2(http://nemusg.com/rss-pad.xml, recent, 3, 1, 1)
+//#showrss2(http://blog.rtwiki.net/category/pad-wiki/feed/, recent, 3, 1, 1)

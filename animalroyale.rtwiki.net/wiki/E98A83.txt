@@ -1,0 +1,405 @@
+* Guns（銃） [#kde39f65]
+
+Guns（銃）は攻撃に [[弾薬>銃/弾薬]] を必要とする遠距離武器です。それらはマップのあちこちに見つけることができます。Guns（銃）には Rarities（レアリティ）があり、レアなものほど性能が高くなります。&color(#dda300){''Legendary Guns''};はDelivery mole（もぐら）からのみ入手可能です。
+
+Rarities（レアリティ）は、コモン &color(#6bbf00){''アンコモン''}; &color(#00b5f2){''レア''}; &color(#8733c6){''エピック''}; &color(#dda300){''レジェンダリー''};の5段階です。
+
+銃には距離減衰が設定されており、敵に当たるまでの距離が長いほど、ダメージが減少します。ピストルやショットガンは距離減衰が大きく、遠くの敵にはほとんどダメージが与えられません。
+
+それぞれの武器にはスキンがあり、さまざまなカラーに変更することができます。
+
+#contents
+
+//- Guns
+//- &color(#6bbf00){''Uncommon Guns''};
+//- &color(#00b5f2){''Rare Guns''};
+//- &color(#8733c6){''Epic Guns''};
+//- &color(#dda300){''Legendary Guns''};
+
+** 一般的なおすすめ武器 [#ida27bf0]
+
+近距離用と遠距離用の両方を持つことをおすすめします。地形などによってどちらを重視するべきかも変わってきます。武器はそれぞれ有利な距離があります
+
+↑近距離重視
+
+- ショットガン + AK
+- AK + スナイパーライフル
+
+↓遠距離重視
+
+ぶっちゃけ、AK（M16） + スナイパーライフルにしておけば間違いはないです。どの距離もこれで対応できます。
+
+** 詳細について [#d88925d3]
+
+- Damage 威力
+- Inaccuracy 不正確さ
+- Range 有効範囲(SAU)
+- Speed 弾速(SAU per second)
+- Armor piercing アーマーに与えるダメージ
+- Spawn ratio 出現率
+- Rate of fire リロード時間を考慮せず、1分間に何発の弾を撃てるか
+- Automatic 自動で連射されるか
+- Magazine size マガジンの弾数
+- Reload time リロードに必要な時間
+- Noisiness 発射時の音量
+- Movement 装備時の移動速度
+- Bullet type 弾薬の種類
+
+** 性能一覧 [#la86478d]
+
+「Damege」などをクリックすると並び替えされます
+
+#style(class=enableFilter){{
+|~名称|~レア度|~Damage|~Inaccuracy|~Range|~Speed|~Automatic|~Magazine size|~Bullet type|h
+//|RIGHT:|||||||||c
+|Pistol|Common|34|8|110|135|No|8|Little Bullets|
+|Pistol|&color(#6bbf00){''Uncommon''};|36|7.5|120|145|No|8|Little Bullets|
+|Pistol|&color(#00b5f2){''Rare''};|38|7|130|155|No|8|Little Bullets|
+|Pistol|&color(#8733c6){''Epic''};|41|6.5|140|165|No|8|Little Bullets|
+|SMG|Common|31|12|141|135|Yes|25|Little Bullets|
+|SMG|&color(#6bbf00){''Uncommon''};|33|11|155|145|Yes|25|Little Bullets|
+|SMG|&color(#00b5f2){''Rare''};|35|10|169|155|Yes|25|Little Bullets|
+|SMG|&color(#8733c6){''Epic''};|37|9|183|165|Yes|25|Little Bullets|
+|Silenced Pistol|&color(#8733c6){''Epic''};|38|6|150|155|No|12|Little Bullets|
+|Silenced Pistol|&color(#dda300){''Legendary''};|40|5.5|160|155|No|12|Little Bullets|
+|Minigun|&color(#8733c6){''Epic''};|33|7|340|217|Yes|100|Little Bullets|
+|Minigun|&color(#dda300){''Legendary''};|35|6.5|370|231|Yes|100|Little Bullets|
+|Thomas Gun|&color(#8733c6){''Epic''};|37|9|183|165|Yes|50|Little Bullets|
+|Thomas Gun|&color(#dda300){''Legendary''};|39|8|197|175|Yes|50|Little Bullets|
+|AK-47|Common|35|5|540|172|Yes|30|Big Bullets|
+|AK-47|&color(#6bbf00){''Uncommon''};|37|4.5|590|186|Yes|30|Big Bullets|
+|AK-47|&color(#00b5f2){''Rare''};|39|4|640|200|Yes|30|Big Bullets|
+|M16|&color(#8733c6){''Epic''};|38|2.5|810|227|Yes|30|Big Bullets|
+|M16|&color(#dda300){''Legendary''};|40|2|860|241|Yes|30|Big Bullets|
+|Magnum|Common|54|4|550|170|No|7|Big Bullets|
+|Magnum|&color(#6bbf00){''Uncommon''};|57|3.5|582|184|No|7|Big Bullets|
+|Magnum|&color(#00b5f2){''Rare''};|60|3|614|170|No|7|Big Bullets|
+//|Magnum|&color(#8733c6){''Epic''};|63|2.5|636|212|No|7|Big Bullets|
+|Deagle|&color(#8733c6){''Epic''};|60|2.5|646|220|No|7|Big Bullets|
+|Deagle|&color(#dda300){''Legendary''};|63|2|678|234|No|7|Big Bullets|
+|Shotgun|Common|29|20|70|105|No|5|Shells|
+|Shotgun|&color(#6bbf00){''Uncommon''};|31|19|74|121|No|5|Shells|
+|Shotgun|&color(#00b5f2){''Rare''};|33|18|78|129|No|5|Shells|
+|JAG-7|&color(#8733c6){''Epic''};|25|16|74|119|No|5|Shells|
+|JAG-7|&color(#dda300){''Legendary''};|27|16|78|127|No|5|Shells|
+|Sniper Rifle|Common|90|3|1100|260|No|5|Sniper Bullets|
+|Sniper Rifle|&color(#6bbf00){''Uncommon''};|95|2.5|1190|280|No|5|Sniper Bullets|
+|Sniper Rifle|&color(#00b5f2){''Rare''};|100|2|1280|300|No|5|Sniper Bullets|
+|Poison Dart Gun|&color(#6bbf00){''Uncommon''};|11|3|120|136|No|5|Poison Darts|
+|Poison Dart Gun|&color(#00b5f2){''Rare''};|13|2.9|120|139|No|5|Poison Drats|
+}}
+
+
+** Little Bullets [#e82fe5a1]
+
+*** ピストル(Pistol) [#w9136a2e]
+
+&ref(./Gun-pistol_grey.png,50%);
+
+ピストルは弱い武器です。一般的にゲームで最も弱い銃と見なされますが、何もないよりはましです。
+装備時の移動スピードはとても速く、近接武器とほぼ（？）同じです。
+
+|~Damage|34 / &color(#6bbf00){''36''}; / &color(#00b5f2){''38''}; / &color(#8733c6){''41''};|
+|~Inaccuracy|8° / &color(#6bbf00){''7.5°''}; / &color(#00b5f2){''7°''}; / &color(#8733c6){''6.5°''};|
+|~Range|110 / &color(#6bbf00){''120''}; / &color(#00b5f2){''130''}; / &color(#8733c6){''140''};|
+|~Speed|135 / &color(#6bbf00){''145''}; / &color(#00b5f2){''155''}; / &color(#8733c6){''165''};|
+|~Armor piercing|1|
+|~Spawn ratio||
+|~Rate of fire|375 RPM|
+|~Automatic|No|
+|~Magazine size|8|
+|~Reload time|1 sec|
+|~Noisiness|185 SAU|
+|~Movement speed|+11%|
+|~Bullet type|Little Bullets|
+
+*** サブマシンガン(SMG) [#i5839801]
+
+&ref(./Gun-smg_grey.png,50%);
+
+SMGは速射近距離武器です。近距離で威力を発揮しますが、遠距離では大きく苦しみます。
+これもAKを入手するまでのつなぎですが、近距離でAKと勝負した場合は連射速度が速いのでSMGが有利です。
+弾丸が手に入りやすいので、AKの弾が不安な場合はSMGに持ち替える選択もありえます。
+マガジンサイズがAKと同等かそれ以上になってもいいのではという声もある。
+
+|~Damage|31 / &color(#6bbf00){''33''}; / &color(#00b5f2){''35''}; / &color(#8733c6){''37''};|
+|~Inaccuracy|12° / &color(#6bbf00){''11°''}; / &color(#00b5f2){''10°''}; / &color(#8733c6){''9°''};|
+|~Range|141 / &color(#6bbf00){''155''}; / &color(#00b5f2){''169''}; / &color(#8733c6){''183''};|
+|~Speed|135 / &color(#6bbf00){''145''}; / &color(#00b5f2){''155''}; / &color(#8733c6){''165''};|
+|~Armor piercing|1|
+|~Spawn ratio|11.62%|
+|~Rate of fire|428 RPM|
+|~Automatic|Yes|
+|~Magazine size|25|
+|~Reload time|1.35 sec|
+|~Noisiness|200 SAU|
+|~Movement speed|+8%|
+|~Bullet type|Little Bullets|
+
+*** サイレントピストル(Silenced Pistol) [#m13a8e21]
+
+&ref(./Gun-silenced-pistol_grey.png,50%);
+
+レア度の高いピストルで連射性能が高いためプレイヤーがクリックするのと同じくらい速く発砲でき、発砲時に発生するノイズも比較的少なくなります。これにより、至近距離でプレイヤーを非常に素早く殺すことができます。遠距離では少し不正確です。
+連射しながらの射撃が上手い人が持つととても強い武器です。敵が多い場合は使いにくいです。
+
+- Founder's Edition を購入したプレイヤーは Golden Silenced Pistol スキンを受け取ることができます。
+
+|~Damage|&color(#8733c6){''38''}; / &color(#dda300){''40''};|
+|~Inaccuracy|&color(#8733c6){''6°''}; / &color(#dda300){''5.5°''};|
+|~Range|&color(#8733c6){''150''}; / &color(#dda300){''160''};|
+|~Speed|&color(#8733c6){''155''}; / &color(#dda300){''155''};|
+|~Armor piercing|1|
+|~Spawn ratio|1.16%|
+|~Rate of fire|460 RPM|
+|~Automatic|No|
+|~Magazine size|12|
+|~Reload time|1.1 sec|
+|~Noisiness|145 SAU|
+|~Movement speed|+9%|
+|~Bullet type|Little Bullets|
+
+*** ミニガン(Minigun) [#pb16e65d]
+
+&ref(./Gun-minigun_grey.png,50%);
+
+このゲームのユニークな武器です。ショットの弾幕を発射する前に小さなスピンアップ時間が必要で素早い反応は難しいですが、発射すると高い威力とマガジンサイズで隙が少ない武器です。
+地形や状況によって強さにばらつきがある武器です。敵に使われた場合は、無理に撃ち合わずにスナイパーライフルやグレネードで対応するとよいです。
+
+|~Damage|&color(#8733c6){''33''}; / &color(#dda300){''35''};|
+|~Inaccuracy|&color(#8733c6){''7°''}; / &color(#dda300){''6.5°''};|
+|~Range|&color(#8733c6){''340''}; / &color(#dda300){''370''};|
+|~Speed|&color(#8733c6){''217''}; / &color(#dda300){''231''};|
+|~Armor piercing|1|
+|~Spawn ratio||
+|~Rate of fire|545 RPM|
+|~Automatic|Yes|
+|~Magazine size|100|
+|~Reload time|2.1 sec|
+|~Noisiness|250 SAU|
+|~Movement speed|-0.04%|
+|~Bullet type|Little Bullets|
+
+*** トーマスガン(Thomas Gun) [#m13a8e21]
+
+&ref(./Gun-thomas_gun_grey.png,50%);
+
+トーマスガンは、高速射撃の近距離武器です。トーマスガンはヘルスとアーマーを素早く切り刻むことができますが、長距離で苦しみます。
+トーマスガンにはエピックとレジェンダリーの2つのバリエーションがあり、レジェンダリーはデリバリーモールからのみ入手できます。
+
+|~Damage|&color(#8733c6){''37''}; / &color(#dda300){''39''};|
+|~Inaccuracy|&color(#8733c6){''9°''}; / &color(#dda300){''8°''};|
+|~Range|&color(#8733c6){''183''}; / &color(#dda300){''197''};|
+|~Speed|&color(#8733c6){''165''}; / &color(#dda300){''175''};|
+|~Armor piercing|1|
+|~Spawn ratio||
+|~Rate of fire|428 RPM|
+|~Automatic|Yes|
+|~Magazine size|50|
+|~Reload time|1.517 sec|
+|~Noisiness|200 SAU|
+|~Movement speed||
+|~Bullet type|Little Bullets|
+
+
+** Big Bullets [#b8af50d0]
+
+*** AK(AK-47) [#sad677a8]
+
+&ref(./Gun-ak_grey.png,50%);
+
+AKはオートマチックアサルトライフルです。それは中程度の発砲速度を持ち、ほとんどの距離で効果的です。
+間違いなくこのゲームの主力武器です。生き残るためには、この銃と弾の入手がとても重要になります。弾が不足しがちなので、敵を倒すか芝や木箱を破壊して集めましょう。
+
+|~Damage|35 / &color(#6bbf00){''37''}; / &color(#00b5f2){''39''};|
+|~Inaccuracy|5° / &color(#6bbf00){''4.5°''}; / &color(#00b5f2){''4°''};|
+|~Range|540 / &color(#6bbf00){''590''}; / &color(#00b5f2){''640''};|
+|~Speed|172 / &color(#6bbf00){''186''}; / &color(#00b5f2){''200''};|
+|~Armor piercing|1|
+|~Spawn ratio||
+|~Rate of fire|333 RPM|
+|~Automatic|Yes|
+|~Magazine size|30|
+|~Reload time|1.35 sec|
+|~Noisiness|250 SAU|
+|~Movement speed|-2%|
+|~Bullet type|Big Bullets|
+
+*** M16 [#r633f4ff]
+
+&ref(./Gun-m16_grey.png,50%);
+
+レア度の高いライフルです。それは中程度のダメージと雑誌の大きさで任意の範囲で役に立ちます。その優れた統計と汎用性のおかげで、それは通常最高の武器と見なされています。Delivery mole（もぐら）からのみ入手可能です。
+便利なAKをさらに強化した上位互換武器です。欠点はありません。
+
+- Founder's Edition を購入したプレイヤーは Golden M16 スキンを受け取ることができます。
+
+|~Damage|&color(#8733c6){''38''}; / &color(#dda300){''40''};|
+|~Inaccuracy|&color(#8733c6){''2.5°''}; / &color(#dda300){''2°''};|
+|~Range|&color(#8733c6){''810''}; / &color(#dda300){''860''};|
+|~Speed|&color(#8733c6){''227''}; / &color(#dda300){''241''};|
+|~Armor piercing||
+|~Spawn ratio||
+|~Rate of fire|333 RPM|
+|~Automatic|Yes|
+|~Magazine size|30|
+|~Reload time|1.25 sec|
+|~Noisiness||
+|~Movement speed||
+|~Bullet type|Big Bullets|
+
+*** マグナム(Magnum) [#kde17d00]
+
+&ref(./Gun-magnum_grey.png,50%);
+
+マグナムは発砲速度が遅くダメージが大きいリボルバーです。長距離でも正確に射撃することができますが、マガジンサイズは小さいです。
+スナイパーライフルを入手するまでのつなぎとして使われることが多いです。
+
+|~Damage|54 / &color(#6bbf00){''57''}; / &color(#00b5f2){''60''}; / &color(#8733c6){''63''};|
+|~Inaccuracy|4° / &color(#6bbf00){''3.5°''}; / &color(#00b5f2){''3°''}; / &color(#8733c6){''2.5°''};|
+|~Range|550 / &color(#6bbf00){''582''}; / &color(#00b5f2){''614''}; / &color(#8733c6){''636''};|
+|~Speed|170 / &color(#6bbf00){''184''}; / &color(#00b5f2){''198''}; / &color(#8733c6){''212''};|
+|~Armor piercing||
+|~Spawn ratio||
+|~Rate of fire|162 RPM|
+|~Automatic|No|
+|~Magazine size|7|
+|~Reload time|1.4 sec|
+|~Noisiness||
+|~Movement||
+|~Bullet type|Big Bullets|
+
+*** ディーグル(Deagle) [#vd3364f0]
+
+&ref(./250px-Gun_deagle_grey.png,50%);
+
+2019/05/31 v0.87.8 に追加された新しい武器。
+レジェンダリーはデリバリーモールから出現します。 エピックは、以前のエピックマグナムと置き換えられて出現します。そしてマグナムとの重要な違いは、それがショットあたり2ゲージ分のアーマーを破壊することができるということです。ディーグルはスナイパーに代わるより機動的な武器で、走っていてもローリングしてもより正確な射撃を行うことができます。
+
+|~Damage|&color(#8733c6){''60''}; / &color(#dda300){''63''};|
+|~Inaccuracy|&color(#8733c6){''2.5°''}; / &color(#dda300){''2°''};|
+|~Range|&color(#8733c6){''646''}; / &color(#dda300){''678''};|
+|~Speed|&color(#8733c6){''220''}; / &color(#dda300){''234''};|
+|~Armor piercing|2|
+|~Spawn ratio||
+|~Rate of fire|154 RPM|
+|~Automatic|No|
+|~Magazine size|7|
+|~Reload time|1.4 sec|
+|~Noisiness|270 SAU|
+|~Movement speed|-6.25%|
+|~Bullet type|Big Bullets|
+
+
+** Shells [#oeb0f534]
+
+*** ショットガン(Shotgun) [#c3d8707c]
+
+&ref(./Gun-shotgun_grey.png,50%);
+
+ショットガンは1発で5個のペレットからなる砲弾を発射し、それぞれが少量のダメージを与えます。これはプレイヤーのヘルスバー全体を超えるものになります。それは近距離では非常に効果的ですが、遠くでは苦しみます。ペレットの性質はそれを防具に対して非常に効果的にします。
+至近距離で使えば相手を1発で葬ることは難しくありません。特にゲーム開始直後や乱戦で強く、ただ距離を詰めてくるだけのBOTの処理も簡単です。リロードなしで多くの敵を倒せるため、most killsの記録を狙うときの重要武器。
+
+|~Damage(per pellet)|29 / &color(#6bbf00){''31''}; / &color(#00b5f2){''33''};|
+|~Inaccuracy|20° / &color(#6bbf00){''19°''}; / &color(#00b5f2){''18°''};|
+|~Range|70 / &color(#6bbf00){''74''}; / &color(#00b5f2){''78''};|
+|~Speed|105 / &color(#6bbf00){''121''}; / &color(#00b5f2){''129''};|
+|~Armor piercing||
+|~Spawn ratio||
+|~Rate of fire|150 RPM|
+|~Automatic|No|
+|~Magazine size|5|
+|~Reload time|1 sec|
+|~Noisiness||
+|~Movement speed||
+|~Bullet type|Shells|
+
+*** JAG-7(JAG-7) [#c3d8707c]
+
+&ref(./Gun_jag7.png,50%);
+
+JAG-7は1発で7個のペレットを発射し、個々に少量のダメージを与え合計するとプレイヤーのヘルスバー全体になります。近距離では非常に効果的ですが遠くでは苦しみます。
+十分なペレットがターゲットに接続されている限り、ショットガンブラストはすべてのアーマーを取り除くことができます。ただし、1つのショットガンブラストでは、アーマーとHPの両方を一度に損傷することはできません。つまり、7つのペレットすべてがレベル1のアーマーを身に着けている動物に接続しても、アーマーは失われますがHPダメージは受けません。
+JAG-7にはエピックとレジェンダリーの2つのバリエーションがあり、レジェンダリーはデリバリーモールからのみ入手できます。
+
+|~Damage|&color(#8733c6){''25''}; / &color(#dda300){''27''};|
+|~Inaccuracy|16°|
+|~Range|&color(#8733c6){''74''}; / &color(#dda300){''78''};|
+|~Speed|&color(#8733c6){''119''}; / &color(#dda300){''127''};|
+|~Armor piercing|1|
+|~Spawn ratio|1.16%|
+|~Rate of fire||
+|~Automatic|No|
+|~Magazine size|5|
+|~Reload time|1.1 sec|
+|~Noisiness|235 SAU|
+|~Movement speed|-3.57%|
+|~Bullet type|Shells|
+
+
+** Sniper Bullets [#t4e5cf73]
+
+*** スナイパーライフル(Sniper Rifle) [#l689a263]
+
+&ref(./Gun-sniper_grey.png,50%);
+
+スナイパーライフルは非常に遅い発射速度を持つ威力の高い武器です。その弾丸は速い速度を持ち、すべての鎧を取り除きます。ハムスターボールの1発で壊します。
+有効範囲が長いので見えない敵にも弾が当たります。最初は扱いづらいと感じるかもしれませんが、勝つためには重要な武器です。
+
+|~Damage|90 / &color(#6bbf00){''95''}; / &color(#00b5f2){''100''};|
+|~Inaccuracy|3° / &color(#6bbf00){''2.5°''}; / &color(#00b5f2){''2°''};|
+|~Range|1100 / &color(#6bbf00){''1190''}; / &color(#00b5f2){''1280''};|
+|~Speed|260 / &color(#6bbf00){''280''}; / &color(#00b5f2){''300''};|
+|~Armor piercing|3|
+|~Spawn ratio||
+|~Rate of fire|75 RPM|
+|~Automatic|No|
+|~Magazine size|5|
+|~Reload time|1.80 sec|
+|~Noisiness||
+|~Movement speed||
+|~Bullet type|Sniper Bullets|
+
+** Poison Darts [#t4e5cf73]
+
+*** 毒ダーツガン(Poison Dart Gun) [#l689a263]
+
+&ref(./Gun_dart_grey-resources.assets-5316.png,50%);
+
+毒ダーツガンは敵に毒（経時ダメージ効果）を与える中距離武器です。アーマーを貫通してダメージを与えます。
+
+|~Damage|&color(#6bbf00){''11''}; / &color(#00b5f2){''13''};|
+|~Poison damage|9 / 0.6s, 4 ticks|
+|~Inaccuracy|&color(#6bbf00){''3°''}; / &color(#00b5f2){''2.9°''};|
+|~Range|&color(#6bbf00){''120''}; / &color(#00b5f2){''120''};|
+|~Speed|&color(#6bbf00){''136''}; / &color(#00b5f2){''139''};|
+|~Armor piercing|0|
+|~Spawn ratio||
+|~Rate of fire||
+|~Automatic|No|
+|~Magazine size|5|
+|~Reload time|1.7 sec|
+|~Noisiness|135 SAU|
+|~Movement speed|-6.25%|
+|~Bullet type|Poison Darts|
+
+
+//** コピペ用
+//
+//|~Damage|■ / &color(#6bbf00){''■''}; / &color(#00b5f2){''■''}; / &color(#8733c6){''■''}; / &color(#dda300){''■''};|
+//|~Inaccuracy|■° / &color(#6bbf00){''■°''}; / &color(#00b5f2){''■°''}; / &color(#8733c6){''■°''}; / &color(#dda300){''■°''};|
+//|~Range|■ / &color(#6bbf00){''■''}; / &color(#00b5f2){''■''}; / &color(#8733c6){''■''}; / &color(#dda300){''■''};|
+//|~Speed|■ / &color(#6bbf00){''■''}; / &color(#00b5f2){''■''}; / &color(#8733c6){''■''}; / &color(#dda300){''■''};|
+//|~Armor piercing|■|
+//|~Spawn ratio|■|
+//|~Rate of fire|■ RPM|
+//|~Automatic|■|
+//|~Magazine size|■|
+//|~Reload time|■ sec|
+//|~Noisiness|■ SAU|
+//|~Movement speed|■%|
+//|~Bullet type|■|
+
+* コメント [#t430b455]
+
+#pcomment

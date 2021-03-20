@@ -1,0 +1,64 @@
+* 女の子ガチャ [#l13be712]
+
+- 不定期に開催される特別なレアガチャ
+- 特定の「女の子モンスター」だけが出現する
+
+** 女の子ガチャ5 [#uf564a01]
+
+|CENTER:|||c
+|~レア|~女の子ガチャ限定|~特別セレクト|
+|>|>|BGCOLOR(#ffffff):[[2014/10/23～2014/10/26:http://mobile.gungho.jp/news/pad/141022_girls.html]]（[[3100万DL達成記念:http://mobile.gungho.jp/news/pad/3100m.html]]同時開催）|
+|★7|&mons1518;||
+|★6|&mons416; &mons419; &mons422; &mons425; &mons428;| &mons972; &mons982; &mons1270; &mons1516;|
+|★5|&mons415; &mons418; &mons421; &mons424; &mons427;|&mons799;|
+|★4|&mons414; &mons417; &mons420; &mons423; &mons426;|&mons1412; &mons1414; &mons1416; &mons1418; &mons1420;|
+
+** 女の子ガチャ4 [#e3d76000]
+
+|CENTER:|||c
+|~レア|~女の子ガチャ限定|~特別セレクト|
+|>|>|BGCOLOR(#ffffff):[[夏休みスペシャル:http://mobile.gungho.jp/news/pad/140807_summer.html]]|
+|★7|&mons1518;||
+|★6|&mons416; &mons419; &mons422; &mons425; &mons428;| &mons972; &mons982; &mons1270; &mons1516;|
+|★5|&mons415; &mons418; &mons421; &mons424; &mons427;||
+|★4|&mons414; &mons417; &mons420; &mons423; &mons426;|&mons1412; &mons1414; &mons1416; &mons1418; &mons1420;|
+
+- 女の子ガチャに夏休み仕様の白メタトロンが追加
+
+** 女の子ガチャ3 [#pb03355a]
+
+|CENTER:|||c
+|~レア|~女の子ガチャ限定|~特別セレクト|
+|>|>|BGCOLOR(#ffffff):[[国内2500万DL達成記念:http://mobile.gungho.jp/news/pad/2500m.html]]|
+|★6||&mons972; &mons982; &mons1270;|
+|★5|&mons415; &mons418; &mons421; &mons424; &mons427;|&mons555; &mons557;|
+|★4|&mons414; &mons417; &mons420; &mons423; &mons426;||
+
+- 女の子ガチャに新色のヴァルキリー等が追加
+
+
+** 女の子ガチャ2 [#xdc4aea4]
+
+|CENTER:|||c
+|~レア|~女の子ガチャ限定|~特別セレクト|
+|>|>|BGCOLOR(#ffffff):[[日経トレンディ「2013年ヒット商品ベスト30」2位獲得記念:http://mobile.gungho.jp/news/pad/131108_trendy.html]]|
+|★5||&mons745; &mons747; &mons749; &mons751; &mons753;|
+|★4|&mons414; &mons417; &mons420; &mons423; &mons426;||
+
+- 女の子ガチャに四神が追加
+
+** 女の子ガチャ [#mb2ddbe6]
+
+|CENTER:|||c
+|~レア|~女の子ガチャ限定|~特別セレクト|
+|>|>|BGCOLOR(#ffffff):[[1700万DL達成記念＆夏休みスペシャル:http://mobile.gungho.jp/news/pad/1700m.html]]|
+|★4|&mons414; &mons417; &mons420; &mons423; &mons426;||
+
+- パズドラステッカーの購入特典でしか入手できなかったモンスターがレアガチャに登場
+
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

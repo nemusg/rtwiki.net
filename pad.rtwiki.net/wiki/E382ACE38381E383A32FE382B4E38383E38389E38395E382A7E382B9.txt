@@ -1,0 +1,148 @@
+* ゴッドフェス [#y7bdf82b]
+
+#contents
+
+- レアガチャで神が出る確率が大幅アップするイベント
+- 普段のレアガチャは[[入手方法]]を参照。
+
+
+** シリーズ定義 [#z7e6e6d1]
+
+#div(start,cfx)
+#div(start,dvGrid)
+#div(start,dvInner)
+
+|CENTER:||c
+|~西洋神|&mons122; &mons124; &mons126; &mons128; &mons130;|
+|~和神|&mons132; &mons134; &mons136; &mons138; &mons140;|
+|~東洋神|&mons236; &mons238; &mons240; &mons242; &mons244;|
+|~北欧神|&mons368; &mons370; &mons372; &mons374; &mons376;|
+|~エジプト神|&mons490; &mons492; &mons494; &mons496; &mons498;|
+|~新西洋神|&mons567; &mons569; &mons571; &mons573; &mons575;|
+|~天使|&mons620; &mons622; &mons624; &mons626; &mons628;|
+|~悪魔|&mons630; &mons632; &mons634; &mons636; &mons638;|
+|~四獣神|&mons745; &mons747; &mons749; &mons751; &mons753;|
+|~新和神|&mons799; &mons801; &mons803; &mons805; &mons807;|
+|~英雄神|&mons1065; &mons1067; &mons1069; &mons1071; &mons1073;|
+|~三国神|&mons1231; &mons1233; &mons1235; &mons1237; &mons1239;|
+|~新東洋神|&mons1330; &mons1332; &mons1334; &mons1336; &mons1338;|
+|~新エジプト神|&mons1659; &mons1661; &mons1663; &mons1665; &mons1667;|
+|~新天使|&mons1826; &mons1828; &mons1830; &mons1832; &mons1834;|
+|~戦国神|&mons2264; &mons2266; &mons2268; &mons2270; &mons2272;|
+
+#div(end)
+#div(end)
+#div(start,dvGrid)
+#div(start,dvInner)
+
+|BGCOLOR(#ffffff):CENTER:|CENTER:||c
+|~フ&br;ェ&br;ス&br;限&br;定|~オーディン|&mons362; &mons364; &mons1107;|
+|~|~メタトロン|&mons640; &mons642;|
+|~|~ソニア|&mons911; &mons913; &mons1088;|
+|~|~カーリー|&mons1585; &mons1587;|
+|~|~時女神|&mons1669; &mons1671; &mons1673;|
+|~|~龍契士|&mons1946; &mons1948;|
+|~|~幻魔|&mons1950; &mons1952;|
+|~|~和龍喚士|&mons2141; &mons2143; &mons2145; &mons2147; &mons2149;|
+|~元&br;フ&br;ェ&br;ス&br;限|~関羽|&mons1241; &mons1243;|
+|~|~諸葛亮|&mons1372; &mons1374;|
+|~|~アポカリプス|&mons1359;|
+
+#div(end)
+#div(end)
+#div(end)
+
+
+** 過去のゴッドフェス [#obe216af]
+
+|~イベント|~概要|~備考|
+|[[Android版リリース3周年記念:http://pad.gungho.jp/member/150910_and3rd.html]]|[Part1] 三国神 戦国神 フェス限定&br;[Part2] エジプト神 新エジプト神 フェス限定||
+|[[ムラコフォロワー200万人達成記念:http://pad.gungho.jp/member/150820_muraco200m.html]]|ゴッドフェスアンケート上位30種||
+|[[夏休みスペシャル（前半）:http://pad.gungho.jp/member/150806_summer.html]]&br;※後半はゴッドフェスなし|[Part1] 四獣神 戦国神 フェス限定&br;[Part2] 新エジプト神 戦国神 フェス限定||
+|[[3700万DL達成記念:http://pad.gungho.jp/member/3700m.html]]|[Part1] 三国神 戦国神 フェス限定&br;[Part2] 新東洋神 戦国神 フェス限定||
+|[[Android版サービス開始1000日記念:http://pad.gungho.jp/member/150709_event.html]]|[Part1] 四獣神 英雄神 フェス限定&br;[Part2] エジプト神 新西洋神 フェス限定|※和龍喚士（光闇）初登場|
+|[[ランク999初到達記念:http://pad.gungho.jp/member/150625_rank999.html]]|[Part1] 東洋神 新エジプト神 フェス限定&br;[Part2] 新和神 三国神 フェス限定||
+|[[3600万DL達成記念:http://pad.gungho.jp/member/3600m.html]]|[Part1] エジプト神 四獣神 フェス限定&br;[Part2] 英雄神 新東洋神 フェス限定|※和龍喚士（火水木）初登場&br;※関羽・諸葛亮・アポカリプス除外|
+|[[『ガンホーフェスティバル2015』開催記念（前半）:http://pad.gungho.jp/member/150528_gunfes2015.html]]&br;※後半はゴッドフェスなし|ゴッドフェスアンケート上位30種||
+|[[『ファミ通アワード2014』受賞記念:http://pad.gungho.jp/member/150514_famitu_award2014.html]]|[Part1] 天使 新天使 フェス限定&br;[Part2] 新東洋神 新エジプト神 フェス限定||
+|ゴールデンウィークイベント [[（前半）:http://pad.gungho.jp/member/150423_gw.html]][[（後半）:http://pad.gungho.jp/member/150428_gw2.html]]|[Part1] 北欧神 英雄神 フェス限定&br;[Part2] 東洋神 三国神 フェス限定&br;[Part3] 四獣神 新エジプト神 フェス限定||
+|[[3500万DL達成記念:http://mobile.gungho.jp/news/pad/3500m.html]]|[Part1] 新和神 三国神 フェス限定&br;[Part2] 東洋神 四獣神 フェス限定||
+|[[春休みスペシャル（後半）:http://pad.gungho.jp/member/150326_spring_special2.html]]&br;※前半はゴッドフェスなし|[Part1] 三国神 新東洋神 フェス限定&br;[Part2] エジプト神 新エジプト神 フェス限定||
+|[[3400万DL達成記念:http://mobile.gungho.jp/news/pad/3400m.html]]|[Part1] 東洋神 英雄神 フェス限定&br;[Part2] 三国神 新エジプト神 フェス限定|※龍契士・幻魔初登場|
+|[[リリース3周年記念:http://mobile.gungho.jp/news/pad/3rd_anniv_event.html]]|ゴッドフェスアンケート上位30種||
+|[[ムラコフォロワー150万人達成記念:http://mobile.gungho.jp/news/pad/150205_muraco150m.html]]|[Part1] 東洋神 新エジプト神 フェス限定&br;[Part2] 三国神 新天使 フェス限定||
+|[[3300万DL達成記念:http://mobile.gungho.jp/news/pad/3300m.html]]|[Part1] 天使 新天使 フェス限定&br;[Part2] 悪魔 新天使 フェス限定||
+|[[『BEST OF 2014』受賞記念:http://mobile.gungho.jp/news/pad/150108_bestof2014.html]]|[Part1] 新東洋神 新エジプト神 フェス限定&br;[Part2] 新西洋神 英雄洋神 フェス限定||
+|[[年末年始イベント:http://mobile.gungho.jp/news/pad/2014_2015.html]]|[Part1] 北欧神 エジプト神 フェス限定&br;[Part2] 新和神 三国神 フェス限定&br;[Part3] 英雄神 新エジプト神 フェス限定||
+|[[クリスマスイベント:http://mobile.gungho.jp/news/pad/xmas2014.html]]|[Part1] 和神 エジプト神 フェス限定&br;[Part2] 西洋神 新東洋神 フェス限定||
+|[[3200万DL達成記念:http://mobile.gungho.jp/news/pad/3200m.html]]|[Part1] 東洋神 英雄神 フェス限定&br;[Part2] 新西洋神 新エジプト神 フェス限定||
+|[[サービス開始1000日記念:http://mobile.gungho.jp/news/pad/141113_1000days.html]]|[Part1] 北欧神 三国神 フェス限定&br;[Part2] 四獣神 新和新 フェス限定|※時女神初登場|
+|[[全世界4000万DL達成記念:http://mobile.gungho.jp/news/pad/ww4000m.html]]|エジプト神 新エジプト神 新東洋神 フェス限定||
+|3000万DL達成記念 [[（前半）:http://mobile.gungho.jp/news/pad/3000m.html]][[（後半）:http://mobile.gungho.jp/news/pad/3000m2.html]]|[前半] 和神 英雄神 新東洋神 フェス限定&br;[後半] ゴッドフェスアンケート上位30種|※カーリー初登場|
+|[[Android版リリース2周年記念:http://mobile.gungho.jp/news/pad/140911_and2nd.html]]|西洋神 四獣神 新和神 フェス限定||
+|[[ガンホースマホアプリ5000万DL突破記念:http://mobile.gungho.jp/news/pad/140821_g5000m.html]]|エジプト神 三国神 新東洋神 フェス限定||
+|[[夏休みスペシャル:http://mobile.gungho.jp/news/pad/140807_summer.html]]|北欧神 天使 悪魔 フェス限定||
+|[[国内2900万DL＆パズドラＺ150万本突破記念（後半）:http://mobile.gungho.jp/news/pad/2900m_2.html]]&br;※前半はゴッドフェスなし|東洋神 新東洋神 フェス限定&br;パズドラＺコラボモンスター3種|※アポカリプス初登場|
+|ムラコフォロワー100万人突破記念&br;[[（前半）:http://mobile.gungho.jp/news/pad/140626_muraco100m.html]][[（後半）:http://mobile.gungho.jp/news/pad/140704_muraco100m2.html]]|[前半] 和神 新和新 英雄神 フェス限定&br;[後半] ゴッドフェスアンケート上位15種＋フェス限定||
+|[[国内2800万DL達成記念:http://mobile.gungho.jp/news/pad/2800m.html]]|西洋神 新西洋神 フェス限定||
+|[[国内2700万DL達成記念:http://mobile.gungho.jp/news/pad/2700m.html]]|北欧神 四獣神 三国神 フェス限定|※諸葛亮初登場|
+|[[国内2600万DL達成記念:http://mobile.gungho.jp/news/pad/2600m.html]]|エジプト神 英雄神 フェス限定||
+|[[ファミ通アワード受賞＆パズバトリリース記念（前半）:http://mobile.gungho.jp/news/pad/140424_event.html]]&br;※後半はゴッドフェスなし|天使 悪魔 三国神 フェス限定||
+|[[国内2500万DL達成記念:http://mobile.gungho.jp/news/pad/2500m.html]]|エジプト神 新和神 フェス限定||
+|[[全世界3000万DL達成記念:http://mobile.gungho.jp/news/pad/ww3000m.html]]|新西洋神 四獣神 三国神 フェス限定|※関羽初登場|
+|[[2400万DL達成記念:http://mobile.gungho.jp/news/pad/2400m.html]]|北欧神 新和神 フェス限定||
+|リリース2周年記念 [[（前半）:http://mobile.gungho.jp/news/pad/2nd_event.html]][[（後半）:http://mobile.gungho.jp/news/pad/2nd_event2.html]]|[前半] 西洋神 和神 四獣神 フェス限定&br;[後半] ゴッドフェスアンケート上位20種||
+|[[2200万＆2300万DL達成記念:http://mobile.gungho.jp/news/pad/2200_2300m.html]]|東洋神 英雄神 フェス限定||
+|[[『パズドラＺ』100万本突破記念:http://mobile.gungho.jp/news/pad/140109_paz100m.html]]|エジプト神 新西洋神 フェス限定|※赤オーディン初登場|
+|[[年末年始イベント:http://mobile.gungho.jp/news/pad/131219_nensi.html]]|英雄神 天使 悪魔 フェス限定|※青ソニア初登場|
+|[[『パズドラＺ』発売記念:http://mobile.gungho.jp/news/pad/131205_paz.html]]|エジプト神 新和神 フェス限定||
+|[[2100万DL達成＆&br;「ベストチーム・オブ・ザ・イヤー2013」受賞記念:http://mobile.gungho.jp/news/pad/2100m.html]]|西洋神 エジプト神 フェス限定||
+|[[日経トレンディ&br;「2013年ヒット商品ベスト30」2位獲得記念:http://mobile.gungho.jp/news/pad/131108_trendy.html]]|和神 新和神 フェス限定|※ソニア（赤・緑）初登場|
+|[[2000万DL達成記念:http://mobile.gungho.jp/news/pad/2000m.html]]|ゴッドフェスアンケート上位15種||
+|[[1900万DL達成記念:http://mobile.gungho.jp/news/pad/1900m.html]]|新西洋神 新和神 フェス限定||
+|[[『日本ゲーム大賞2013』経済産業大臣賞 受賞記念:http://mobile.gungho.jp/news/pad/130927_gameaw.html]]|エジプト神 天使 悪魔 フェス限定||
+|[[Android版リリース1周年記念:http://mobile.gungho.jp/news/pad/130913_and1st.html]]|四獣神 新和神 フェス限定||
+|[[国内1800万DL達成＆全世界2000万DL達成記念:http://mobile.gungho.jp/news/pad/1800m_ww.html]]|和神 新和神 フェス限定||
+|[[1700万DL達成記念＆夏休みスペシャル:http://mobile.gungho.jp/news/pad/1700m.html]]|天使 悪魔 フェス限定||
+|[[ムラコフォロワー50万人突破記念:http://mobile.gungho.jp/news/pad/m50man.html]]|東洋神 北欧神 フェス限定||
+|[[1600万DL達成記念:http://mobile.gungho.jp/news/pad/1600m.html]]|エジプト神 新西洋神 フェス限定||
+|[[1500万DL達成記念:http://mobile.gungho.jp/news/pad/1500m.html]]|和神 四獣神 フェス限定|※メタトロン初登場|
+|[[日経トレンディ&br;「2013年上半期ヒット商品ベスト30」2位獲得記念:http://mobile.gungho.jp/news/pad/130613_trendy.html]]|西洋神 悪魔 フェス限定||
+|[[1400万DL達成記念:http://mobile.gungho.jp/news/pad/1400m.html]]|北欧神 天使 フェス限定||
+|[[『ファミ通アワード2012』6冠受賞記念:http://mobile.gungho.jp/news/pad/130517_award6.html]]|東洋神 エジプト神 フェス限定||
+|[[1300万DL達成記念:http://mobile.gungho.jp/news/pad/1300m.html]]|西洋神 新西洋神 フェス限定||
+|[[1200万DL達成記念:http://mobile.gungho.jp/news/pad/1200m.html]]|和神 エジプト神 フェス限定||
+|[[1100万DL達成記念:http://mobile.gungho.jp/news/pad/1100m.html]]|天使 悪魔 フェス限定||
+|[[1000万DL達成記念:http://mobile.gungho.jp/news/pad/1000m.html]]|北欧神 エジプト神 フェス限定||
+|[[1周年＆900万DL達成記念:http://mobile.gungho.jp/news/pad/1th_900m.html]]|西洋神 新西洋神 エジプト神 フェス限定||
+|[[800万DL達成記念:http://mobile.gungho.jp/news/pad/800m.html]]|和神 新西洋神 フェス限定||
+|[[700万DL達成記念:http://mobile.gungho.jp/news/pad/700m.html]]|北欧神 東洋神 フェス限定||
+|[[600万DL達成記念:http://mobile.gungho.jp/news/pad/600m.html]]|和神 西洋神 フェス限定||
+|[[年末年始イベント:http://mobile.gungho.jp/news/pad/130101.html]]|西洋神 エジプト神 フェス限定||
+|[[500万DL達成記念:http://mobile.gungho.jp/news/pad/500m.html]]|和神 東洋神 フェス限定||
+|[[400万DL達成記念:http://mobile.gungho.jp/news/pad/400m.html]]|西洋神 北欧神 フェス限定||
+|[[300万DL達成記念:http://mobile.gungho.jp/news/pad/300m.html]]|「ムラコフェス」|究極西洋神など|
+|[[200万DL達成記念:http://mobile.gungho.jp/news/pad/200m.html]]|[Part1] 西洋神 和神 フェス限定&br;[Part2] 東洋神 北欧神 フェス限定||
+|[[150万DL達成記念:http://mobile.gungho.jp/news/pad/150m.html]]|西洋神 和神 東洋神 北欧神 フェス限定||
+|[[Android版リリース記念:http://mobile.gungho.jp/news/pad/and_cp.html]]|西洋神 和神 東洋神 フェス限定|※オーディン（緑・青）初登場|
+|[[120万DL達成記念:http://mobile.gungho.jp/news/pad/120m.html]]|「ドラフェス」|究極晩成龍 玩具龍|
+|[[『CEDEC AWARDS 2012』&br;ゲームデザイン部門 最優秀賞 受賞記念:http://mobile.gungho.jp/news/pad/cedec_event.html]]|西洋神 和神 東洋神||
+|[[『CEDEC AWARDS 2012』&br;ゲームデザイン部門 優秀賞 受賞記念:http://mobile.gungho.jp/news/pad/120820.html]]|アマテラス シヴァ ネプチューン||
+|[[110万DL達成記念:http://mobile.gungho.jp/news/pad/110_m.html]]|西洋神 和神 東洋神||
+|[[100万DL達成記念:http://mobile.gungho.jp/news/pad/100_m.html]]|[Part1] 西洋神&br;[Part2] 和神&br;[Part3] 東洋神||
+|[[90万DL達成記念:http://mobile.gungho.jp/news/pad/90_m.html]]|西洋神 和神 東洋神 ヴァーチェ||
+|[[80万DL達成記念:http://mobile.gungho.jp/news/pad/80_m.html]]|西洋神 和神 ヴァーチェ|※ゴッドフェス初回|
+|[[『モバイルプロジェクト・アワード2012』&br;モバイルコンテンツ部門 最優秀賞 受賞記念:http://mobile.gungho.jp/news/pad/120530.html]]|「女神たちの祝福」|☆5☆6女性モンスター|
+|[[70万DL達成記念:http://mobile.gungho.jp/news/pad/70_m.html]]|西洋神 和神||
+|[[GWキャンペーン:http://mobile.gungho.jp/news/pad/gw.html]]|「☆4モンスター大放出祭り」|晩成龍など|
+|[[60万DL達成記念:http://mobile.gungho.jp/news/pad/60_m.html]]|西洋神 和神||
+|[[50万DL達成記念:http://mobile.gungho.jp/news/pad/half_m.html]]|「☆5モンスター大放出祭り」|西洋神など|
+|[[40万DL達成記念:http://mobile.gungho.jp/news/pad/120329.html]]|「☆4モンスター大放出祭り」|晩成龍など|
+
+- 進化後は省略
+
+* コメント [#y5a5e83c]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

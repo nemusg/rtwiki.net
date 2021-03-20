@@ -1,0 +1,10 @@
+** 関連記事・ブログ [#m9a42560]
+
+//負荷軽減目的でトップページのキャッシュを有効化しました。（表示速度が速くなりました）
+//このページの更新がトップページに反映されるのが毎時0分になります。放っておけば反映されるはずです。
+
+- 2019/01/25 [[Super Animal Royale 目指せ食物連鎖の頂点！もふ勝ガイド - Steam コミュニティ:https://steamcommunity.com/sharedfiles/filedetails/?id=1633683651]]
+- 2019/01/10 [[SUPER ANIMAL ROYALE 初心者ガイド【攻略】- しゅろぐ。:https://nya-ne.net/post-1864/]]
+- 2019/01/07 [[動物バトロワ『Super Animal Royale』オンライン対戦を楽しめるスーパーなデモ版がSteamで配信！ | Game*Spark:https://www.gamespark.jp/article/2019/01/07/86451.html]]
+- 2018/12/13 [[動物たちが「銃」で殺し合う新作バトロワ『Super Animal Royale』早期アクセス開始！ 週末無料プレイも開催中 | Game*Spark:https://www.gamespark.jp/article/2018/12/13/86028.html]]
+- 2018/09/20 [[銃使うんかい！動物バトルロイヤル『Super Animal Royale』が10月にSteam配信 | Game*Spark:https://www.gamespark.jp/article/2018/09/20/83929.html]]

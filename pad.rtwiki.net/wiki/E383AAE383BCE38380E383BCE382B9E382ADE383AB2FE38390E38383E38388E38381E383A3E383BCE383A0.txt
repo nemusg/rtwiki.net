@@ -1,0 +1,3 @@
+|~リーダースキル	|>|~属|~効果|~所有モンスター|~管理&aname(lskill,full,super){ls};|h
+||CENTER:|CENTER:||||c
+|バットチャーム		|>|BGCOLOR(#bba6f1):闇|闇属性の攻撃力と回復力が1.5倍。&br;闇を4個以上つなげて消すと攻撃力が2倍。|[[シーン>モンスター図鑑/2673]]以降|&aname(leader,full,super){leader};|

@@ -1,0 +1,33 @@
+* バットマンコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+悪魔タイプが付く水バットマンが当たり。
+}}
+
+** バットマン コラボガチャ4 [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/09/14～2015/09/20:http://pad.gungho.jp/member/150909_batman_list.html]]|
+|★5|&mons930; &mons934;|
+|★4|&mons932; &mons926; &mons928; &mons2135;|
+
+- ハーレークインが追加
+
+** バットマン コラボガチャ1～3 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/08/04～2015/08/10:http://pad.gungho.jp/member/140725_batman_list.html]]|
+|>|BGCOLOR(#ffffff):[[2014/03/17～2015/03/30:http://pad.gungho.jp/member/140312_batman_list.html]]|
+|>|BGCOLOR(#ffffff):[[2013/10/30～2013/11/13:http://pad.gungho.jp/member/131029_batman_list.html]]|
+|★5|&mons930; &mons934;|
+|★4|&mons932; &mons926; &mons928;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

@@ -1,0 +1,68 @@
+#title(モンスター図鑑/覚醒アテナ)
+* &font2(60%){かくせいあてな};覚醒アテナ [#cf5c0e58]
+
+&mons649;
+
+** ステータス [#f1c4feb9]
+
+//iPhoneで横スクロールが出ないようにしています。
+
+#style(class=monsTable){{
+|~No|~名称			|~☆|~タイプ|~属性|~コスト|
+|RIGHT:||CENTER:||CENTER:|RIGHT:|c
+|649|覚醒アテナ			|7|神|BGCOLOR(#f1f1a6):光木|60|
+
+#ginclude(スキル,notitle,or,s,s0648)
+
+#ginclude(リーダースキル,notitle,or,ls,ls0648)
+
+|~最大Lv|~必要経験値|
+|RIGHT:|RIGHT:|c
+|99(500)|5000000|
+
+|~ |~HP|~攻撃|~回復|~合計|~+卵換算|
+||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|c
+|初期値|1225|1267|0|||
+|最大値|2818|1901|0|''4719''|''662.00''|
+
+|~[[覚醒スキル]]|
+|&ks026; &ks014; &ks026;|
+}}
+
+** 進化素材 [#rf6d5f34]
+
+** 究極進化素材 [#eab3f2bb]
+
+#ginclude(究極進化,notitle,or,ul,ulc,ul1422)
+
+** 入手方法 [#k86b36b0]
+
+- [[アテナ>モンスター図鑑/0648]]の進化
+//- [[ダンジョン名>スペシャルダンジョン/ダンジョン名]]
+//- 友情ガチャ
+//- レアガチャ
+//- プレゼントガチャ
+
+//|BGCOLOR(#f1bba6):火|
+//|BGCOLOR(#a6f1f1):水|
+//|BGCOLOR(#bbf1a6):木|
+//|BGCOLOR(#f1f1a6):光|
+//|BGCOLOR(#bba6f1):闇|
+//&br;
+
+** 備考 [#u45961e0]
+
+//この備考は他のページと共有しています。共有したくない場合は//で非表示にできます。
+#ginclude(モンスター図鑑/0648,notitle,or,note)
+
+***PT編成例 [#pc3024f4]
+
+|Ver|リーダー|サブ確定|サブ候補|フレ候補|
+|v6.0|&mons649;|&mons651; &mons241;|&mons750; &mons572; &mons804;&br;&mons137; &mons625; &mons654; |&mons649;|
+|v6.0|&mons649;|&mons232;|&mons574; &mons655; &mons241;&br;&mons137; &mons135; &mons396; |&mons649;&br;&mons806;|
+
+* コメント [#s9859273]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

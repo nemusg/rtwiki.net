@@ -1,0 +1,79 @@
+* 早期アクセス版 [#m99b81c2]
+
+#style(class=panelInfo){{
+[[Steam：Super Animal Royale:https://store.steampowered.com/app/843380/Super_Animal_Royale/?l=japanese]]に掲載されている早期アクセスゲームについての開発者からの注意書き。公式ページが日本語化されたため、このページは不要になりました。
+}}
+
+
+** 早期アクセスにした理由 [#j4331b1e]
+
+// “We've been working closely with our alpha/beta community to help us make this the best game it can be, and Early Access is a chance bring even more Super Animal players into the fold and get their feedback!”
+
+//私たちはこれを可能な限り最高のゲームにするためにアルファ/ベータコミュニティと緊密に協力してきました。アーリーアクセスはさらに多くのスーパーアニマルプレイヤーを巻き込んでフィードバックを得るチャンスです
+
+私たちはこれを可能な限り最高のゲームにするためにアルファ/ベータコミュニティと緊密に協力してきました。早期アクセスはさらに多くのスーパーアニマルプレイヤーを巻き込んでフィードバックを得るチャンスです！
+
+** このゲームは大体どのくらいの期間早期アクセスですか？ [#c3eb970d]
+
+// “We’d like to complete the full game before the end of 2019 and we’re pushing to get it completed within the next ~6 months, but we’re going to take all the time we need in Early Access to learn from our community and make use of those lessons before putting out the full release.”
+
+//2019年末までに完全なゲームを完成させたいと思っています。そして、今後6か月以内に完成させることを推進していますが、アーリーアクセスで必要なすべての時間をかけて学習することにします。 完全なリリースを出す前に、これらのレッスンを活用してください。
+
+2019年末までにゲームの完全版を目指してます。今後6か月以内に完成させることを推進していますが、完全なリリースを出す前に早期アクセスでゲーム改善に必要な情報を十分得てしっかり手掛ける予定です
+
+** 早期アクセスバージョンと計画されているフルバージョンの違いは？ [#t3bf605a]
+
+// “Our Early Access version provides a solid, polished foundation to build on. With the full release, we plan to add more content and features including weapons, vehicles, animals, cosmetics. We also plan to increase the density of unique points of interest on the island, and these new map features will help players discover the twisted history of Super Animals. We’ll also be evolving the game’s progression systems and adding new quality of life features.”
+
+//当社のアーリーアクセス版は、その上に構築するための強固で磨かれた基盤を提供します。 フルリリースでは、武器、自動車、動物、コスメティックなどのコンテンツと機能を追加する予定です。 私たちはまた、島のユニークな興味のある場所の密度を増やすことを計画しています、そしてこれらの新しい地図機能はプレイヤーがスーパーアニマルのねじれた歴史を発見するのを助けるでしょう。 また、ゲームの進行システムを進化させ、新しい生活の質の機能を追加する予定です。
+
+早期アクセス版は製品版に向けて洗練された基盤として提供してます。 製品版では、武器、自動車、動物、衣装などのコンテンツと機能を追加する予定です。また今後島のユニークポイントとなる場所の密度を高めることを計画しています。これらの新しい地図機能でプレイヤーがスーパーアニマルのねじれた歴史を発見することになるでしょう！そしてゲームのプログレッションシステムを進化させ、操作機能を改善する予定です。
+
+** 早期アクセスバージョンの現状はどうなっていますか？ [#z52791d2]
+
+//- All the core mechanics are implemented and a lot of balancing work has been done, but we’ll continue to take more feedback and refine everything throughout Early Access.
+//- There is a full island to explore that supports 64 player online multiplayer. If player populations are low at certain times of day, we have bots that can fill up the remaining slots in games as necessary.
+//- Solos, Duos and Squads are implemented and support both team text chat and all text chat.
+//- The island has multiple biomes including evergreen forest, deciduous forest, swamp, desert, and a snowy north. It also has some of its first story-related points of interest including the S.A.W. Research Labs, with more coming soon.
+//- 12 weapons (including your starting melee weapon) are implemented in the game with 5 different levels of rarity.
+//- 16 core Super Animals are available to unlock with more than 50 unique breeds (ex. Super Shiba Inu, Super Pug, Super Boston Terrier, Super Lab, and Super Husky are all unlockable breeds after you unlock the core Super Dog).
+//- We have over 100 cosmetics already in the game to unlock, and will be adding more throughout Early Access. Cosmetics include outfits, hats, glasses, beards, melee weapon skins, gun skins, umbrellas, tombstones, death explosions, and emotes/dances, which can be combined to create your own distinct Super Animal.
+//- Our core progression system is implemented with account leveling, as well as Animal DNA, Super Serum, and cosmetic drops at the end of games. Animal DNA is collected and combined with Super Serum to create new Super Animals and breeds.
+
+//- すべてのコアメカニズムが実装され、多くのバランス調整作業が行われていますが、アーリーアクセス全体を通して、引き続きフィードバックを増やし、すべてを改良していきます。
+//- 64プレーヤーのオンラインマルチプレイヤーをサポートする探索するための完全な島があります。 一日の特定の時間帯にプレーヤーの人口が少ない場合、必要に応じてゲーム内の残りのスロットを埋めることができるボットがあります。
+//- Solos、Duos、Squadsが実装され、チームテキストチャットとすべてのテキストチャットの両方をサポートしています。
+//- 島は常緑樹林、落葉樹林、湿地、砂漠、そして雪に覆われた北を含む複数のバイオームを持っています。 それはまたS.A.Wを含む興味のその最初の物語関連のポイントのいくつかがあります。 Research Labsは、もうすぐ登場する予定です。
+//- 12個の武器（あなたの最初の近接武器を含む）が5つの異なるレベルの希少性でゲームに実装されています。
+//- 16コアのスーパーアニマルは50以上のユニークな品種でロックを解除することができます（例：スーパー柴犬、スーパーパグ、スーパーボストンテリア、スーパーラボ、スーパーハスキーはすべてスーパー犬のコアをアンロックした後ロック解除可能な品種です）。
+//- 私達はロックを解除するためにすでにゲームに100以上のコスメティックを持っていて、そしてEarly Accessを通してもっと多くを追加するでしょう。 コスメティックには、衣装、帽子、メガネ、あごひげ、近接武器の皮、銃の皮、傘、墓石、死の爆発、および感情/踊りが含まれ、それらを組み合わせて独自のスーパーアニマルを作成することができます。
+//- 私たちの中核となるプログレッションシステムは、アカウントレベリング、そしてゲーム終了時のアニマルDNA、スーパーセラム、コスメティックドロップで実装されています。 動物のDNAを集めてスーパー血清と混ぜ合わせると、新しいスーパーアニマルや品種が生まれます。
+
+- すべてのコアメカニズムが実装されていてバランスよく作られてますが、早期アクセス全体を通してより多くのフィードバックを取り入れ全体を改良していきます。
+- 64人でオンラインマルチプレイヤーをサポートしてます。 一日の特定の時間帯にプレーヤーの人口が少ない場合、必要に応じてゲーム内の残りのスロットを埋めるボットがあります。
+- ソロ、デュオ、スクワッドが実装され、チームテキストチャットとすべてのテキストチャットの両方をサポートしています。
+- 島は常緑樹林、落葉樹林、湿地、砂漠、そして雪に覆われた北を含む複数の自然を持っています。 それはまたS.A.Wを含む興味のその最初の物語関連のポイントのいくつかがあります。 研究所は、もうすぐ登場する予定です。
+- 12個の武器（あなたの最初の近接武器を含む）が5つの異なるレベルのレアリティでゲームに実装されています。
+- 16種類のスーパーアニマルは50以上のユニークな品種でロックを解除することができます（例：スーパー柴犬、スーパーパグ、スーパーボストンテリア、スーパーラブラドール、スーパーハスキーはスーパードッグをアンロックした後ロック解除可能な品種です）。
+- ロックを解除するためにすでにゲームに100以上の衣装を持っており、早期アクセスを通してもっと追加されるでしょう。 衣装には、衣装、帽子、メガネ、あごひげ、近接武器の皮、銃の皮、傘、墓石、死の爆発、および感情/ダンスが含まれ、それらを組み合わせて独自のスーパーアニマルを作成することができます。
+- 中核となるプログレッションシステムは、アカウントレベリング、およびゲーム終了時のアニマルDNA、スーパー血清、衣装ドロップで実装されています。 動物のDNAを集めてスーパー血清と混ぜ合わせると、新しいスーパーアニマルや品種が生まれます。
+
+** 早期アクセス期間中と期間後ではゲームの価格は変わりますか？ [#n5f22dac]
+
+// “The price will not go up after Early Access. Instead, we will be adding new optional cosmetic items (that don’t have any gameplay effects) throughout Early Access and experimenting with player friendly IAP approaches to prepare us for full launch. These systems and items will fund the game’s continued development after Early Access and potentially allow us to offer lower upfront prices in the future to open the game up to more and more players. We take the design of these systems very seriously, so we’ll be looking for player feedback all the way through Early Access on them to make sure they’re a positive (pawsitive?) and fun addition to the game!”
+
+//アーリーアクセス後に価格が上がることはありません。 代わりに、アーリーアクセス全体に新しいオプションの化粧品アイテム（ゲームプレイ効果はありません）を追加し、プレーヤーに優しいIAPアプローチを試して、完全な発売に向けて準備します。 これらのシステムとアイテムは、アーリーアクセス後のゲームの継続的な開発の資金となり、将来的により低い前払い価格でより多くのプレイヤーにゲームを公開することを可能にします。 私たちはこれらのシステムの設計を非常に真剣に考えているので、アーリーアクセスを通じてプレイヤーからのフィードバックを探していて、それらがゲームにポジティブで（楽観的）かつ楽しいものであることを確認します。
+
+早期アクセス後は価格は上がりません。 代わりに、早期アクセス全体に新しいオプションの衣装アイテム（ゲームプレイ効果はありません）を追加し、プレーヤーに優しいIAPアプローチを試して、完全な発売に備えることを目指します。 これらのシステムとアイテムは、早期アクセス後のゲームの継続的な開発の資金となり、将来的にはより低い前払い価格でより多くのプレイヤーにゲームを公開することを可能にします。 私たちはこれらのシステムの設計を非常に真剣に考えているので、早期アクセスを通じてプレイヤーからのフィードバックを求めていて、より楽しくてポジティブなゲームになるでしょう！
+
+** どうやって開発プロセスにコミュニティを参加させる予定ですか？ [#j0e3bd1c]
+
+// “We’ve already been very active in our dialogue with our alpha/beta community through development and it’s one of the big reasons the game is what it is today! We plan to continue that throughout Early Access so players can be open with us about what’s working and what isn’t, new features or balancing tweaks they’d like to see and new animals, weapons or other content ideas that they think would be fun! We also appreciate all the animal pics and artwork. Can’t have enough cat gifs.” 
+
+//私たちはすでに開発を通してアルファ/ベータコミュニティとの対話に非常に積極的に取り組んできましたが、それが今日のゲームの主な理由の1つです。 機能していることとしていないこと、新しい機能や見やすいバランス調整、そして楽しいと思う新しい動物、武器、その他のコンテンツのアイデアについて、プレーヤーが私たちと一緒にオープンにできるようにするつもりです！ 動物の写真やアートワークにも感謝しています。 十分な数の猫のGIFがありません。」
+
+開発を通じて、アルファ/ベータコミュニティとの対話にはすでに非常に積極的に取り組んできました。それが今日のゲームの主な魅力の1つです。 機能していることとしていないこと、新機能や見やすい調整、そして楽しいと思われる新しい動物、武器、その他のコンテンツのアイデアについて、プレーヤーが私たちと一緒にオープンにできるようにするつもりです！ 動物の写真やアートワークにも感謝しています。猫のGIFは何個あっても足りませんね。
+
+* コメント [#t430b455]
+
+#pcomment

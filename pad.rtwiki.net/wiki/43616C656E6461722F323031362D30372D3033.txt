@@ -1,0 +1,3 @@
+#bodycache(disable)
+
+&ctimer2(2016/06/24 12:00:00,2016/07/03 23:59:59);[[パズル＆ドラゴンズ『4200万DL達成記念イベント』:http://pad.gungho.jp/member/event/160623_4200m.html]]

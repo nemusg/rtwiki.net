@@ -1,0 +1,18 @@
+* 公式Twitterまとめ [#m33c86eb]
+
+** アカウント [#e5587959]
+
+- [[@pad_sexy:https://twitter.com/#!/pad_sexy]] 公式Twitter
+- [[@DaikeYamamoto:https://twitter.com/#!/DaikeYamamoto]] プロデューサー
+
+** ウィジェット [#wdf82f5a]
+
+#htmlinsert(twitter.inc)
+
+新しいTwitterウィジェットに更新しました。スマホでも正常に動作するようになりました。
+
+* コメント [#vcc527c5]
+
+#pcomment
+
+RIGHT:&color(#dc143c){コメントを書く前に[[コメントポリシー]]を参照してください。};

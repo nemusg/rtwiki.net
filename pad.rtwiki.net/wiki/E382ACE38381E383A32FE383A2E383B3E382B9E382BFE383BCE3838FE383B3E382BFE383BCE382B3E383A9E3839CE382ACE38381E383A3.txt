@@ -1,0 +1,54 @@
+* モンスターハンターコラボガチャ [#pdda7e01]
+
+- 期間限定の特別なレアガチャ
+
+#style(class=panelInfo){{
+★4の中ではバディネコが当たりだが活用できるかは編成次第。
+}}
+
+** ぽかぽかアイルー村DX コラボガチャ [#kb9d184d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2015/09/07～2015/09/13:http://pad.gungho.jp/member/150903_airou_list.html]]|
+|★6|&mons1198; &mons2341; &mons2339;|
+|★5|&mons866; &mons868; &mons880; &mons1611; &mons1607;|
+|★4|&mons856; &mons858; &mons862; &mons860; &mons864; &mons854; &mons1605; &mons1609;|
+
+- オウガネコ、ナルガネコが追加
+
+** モンスターハンター4G コラボガチャ [#uf564a01]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/10/06～2014/10/12:http://pad.gungho.jp/member/141002_4g_list.html]]|
+|★6|&mons1198;|
+|★5|&mons866; &mons868; &mons880; &mons1611; &mons1607;|
+|★4|&mons856; &mons858; &mons862; &mons860; &mons864; &mons854; &mons1605; &mons1609;|
+
+- レックスネコ、ゴアネコ、クックネコ、フルフルネコが追加
+
+** アイルーでバザール コラボガチャ2 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2014/02/17～2014/02/23:http://pad.gungho.jp/member/140213_airou_list.html]]|
+|★6|&mons1198;|
+|★5|&mons866; &mons868; &mons880;|
+|★4|&mons856; &mons858; &mons862; &mons860; &mons864; &mons854;|
+
+- 覚醒秘神オーディンネコが追加
+
+** アイルーでバザール コラボガチャ1 [#g8eb722d]
+
+|CENTER:||c
+|~レア|~ラインナップ|
+|>|BGCOLOR(#ffffff):[[2013/09/30～2013/10/13:http://pad.gungho.jp/member/130927_airou_list.html]]|
+|★5|&mons866; &mons868; &mons880;|
+|★4|&mons856; &mons858; &mons862; &mons860; &mons864; &mons854;|
+
+* コメント [#n107ef80]
+
+#pcomment
+
+RIGHT:&color(#dc143c){事前に[[コメントポリシー]]を参照してください。};

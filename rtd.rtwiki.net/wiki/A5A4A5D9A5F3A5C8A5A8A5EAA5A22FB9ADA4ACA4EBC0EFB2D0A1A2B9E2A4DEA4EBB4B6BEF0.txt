@@ -1,0 +1,306 @@
+* イベントエリア/広がる戦火、高まる感情 [#xc810bc6]
+#contents
+
+** 広がる戦火、高まる感情 [#we832a3b]
+ 広がる戦火、高まる感情 - 4ユニットPTクエストエリア
+ 
+ エリア説明文:
+ 最後の仕事を果たすため動き出すキヌガサ。 弓術の達人である彼に近づく事が出来るか！？
+ 
+ エリア目標:
+ 12:[四天王]キヌガサ
+
+// 属性背景など
+// &color(black,#f1bba6){火};
+// &color(black,#a6f1f1){水};
+// &color(black,#f1f1a6){光};
+// &color(black,#bba6f1){闇};
+// &color(black,#ffffff){無};
+
+// 注意点: &color(red){※};
+// ドロップ強調: &color(#006600){ユニット名}; (魔導書の種類)
+
+----
+*** 射抜くべき敵 [#z0b47d23]
+&color(black,#eeeeee){基本情報};
+:|
+距離:30 スタミナ:15 獲得EXP:500 獲得金額:15,000
+クリアボーナス:なし
+チャレンジ目標:
+-- 金:''弓ユニット''のみでクリア
+-- 銀:''ザコ兵士''を''6体以上''撃破してクリア
+-- 銅:残りSoulが''35以上''でクリア
+:|解放条件:
+-- 「''[['''弓術王の間合い'''>#a1bd9db6]]''」と「''[['''手荒な歓迎'''>#p461f801]]''」をクリア。
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[白天王]キヌガサ''
+属性:&color(black,#f1f1a6){光}; 種族:人類
+攻撃:16440/4T HP:約881,000 獲得Soul:10 獲得Gold:0
+有効特効:対光属性
+ドロップ:生命のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|なし
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''ドラン''
+攻撃:6900/3T HP:42,899(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:600
+ドロップ:光のよりしろ
+
+:|''ハイ・ドラン''
+攻撃:8050/3T HP:47,999(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:700
+ドロップ:?
+
+:|''キラー・ドラン''
+攻撃:?/3T HP:60,264(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:800
+ドロップ:光のよりしろ
+
+:|''カイザー・ドラン''
+攻撃:12950/3T HP:78,497(&color(black,#f1f1a6){光};) 獲得Soul:3 獲得Gold:900
+ドロップ:光のよりしろ
+
+:|''光杖縞魔導書(ちとせ)''
+攻撃:11170/3T HP:194,063(&color(black,#f1f1a6){光};) 獲得Soul:5 獲得Gold:0
+ドロップ:光輝のよりしろ , 光のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:33.3
+獲得覚醒pt:?pt/1体
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/広がる戦火、高まる感情 > 射抜くべき敵'' - 簡易Map|
+|~y\x|~30　|~29　|~28　|~27　|~26　|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:30|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4|||||||||||BGCOLOR(#f1f1a6):卵βP|||||||||BGCOLOR(#f1f1a6):卵βP|||BGCOLOR(#f1f1a6):卵δP|||||||BGCOLOR(#f1f1a6):卵P|B|
+|~+3||||||BGCOLOR(#f1f1a6):卵P||||||魔P||||BGCOLOR(#f1f1a6):卵βP|||||魔P||||||BGCOLOR(#f1f1a6):卵δP||魔P||B|
+|~+2|||||||魔P||||BGCOLOR(#f1f1a6):卵βP||BGCOLOR(#f1f1a6):卵γP||BGCOLOR(#f1f1a6):卵δP||魔P|||BGCOLOR(#f1f1a6):卵βP|箱|BGCOLOR(#f1f1a6):卵γP|||BGCOLOR(#f1f1a6):卵γP|||BGCOLOR(#f1f1a6):卵γP||BGCOLOR(#f1f1a6):卵P|B|
+|~+1||||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵P|||箱||||BGCOLOR(#f1f1a6):卵βP||BGCOLOR(#f1f1a6):卵P|||箱|箱|BGCOLOR(#f1f1a6):卵δP|魔P|||BGCOLOR(#f1f1a6):卵δP||||B|
+|~±0||||Sta||||||||箱|||BGCOLOR(#f1f1a6):卵δP||箱|||BGCOLOR(#f1f1a6):卵βP|箱|BGCOLOR(#f1f1a6):卵γP|||BGCOLOR(#f1f1a6):卵γP|||BGCOLOR(#f1f1a6):卵γP|||B|
+|~-1|||||||||||BGCOLOR(#f1f1a6):卵βP||BGCOLOR(#f1f1a6):卵γP||||箱||||魔P|||||||||BGCOLOR(#f1f1a6):卵P|B|
+|~-2||||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵P|||魔P||||BGCOLOR(#f1f1a6):卵βP||BGCOLOR(#f1f1a6):卵P||BGCOLOR(#f1f1a6):卵βP||BGCOLOR(#f1f1a6):卵γP|||BGCOLOR(#f1f1a6):卵γP||BGCOLOR(#f1f1a6):卵δP||魔P||B|
+|~-3|||||||魔P||||BGCOLOR(#f1f1a6):卵βP||||BGCOLOR(#f1f1a6):卵δP||魔P||||||BGCOLOR(#f1f1a6):卵δP|魔P||||BGCOLOR(#f1f1a6):卵γP||BGCOLOR(#f1f1a6):卵P|B|
+|~-4||||||BGCOLOR(#f1f1a6):卵P||||||||||BGCOLOR(#f1f1a6):卵βP|||||||||BGCOLOR(#f1f1a6):卵γP||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 卵:竜卵種(ドラン系) 魔:魔導書型エネミーシンボル
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜β:「ハイ・〜」 〜γ:「キラー・〜」 〜δ:「カイザー・〜 」 〜ε:「シャドー・〜」
+ 　例:火属性のカイザー・ポイム → 軟δR
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 弓術王の間合い [#a1bd9db6]
+&color(black,#eeeeee){基本情報};
+:|
+距離:25 スタミナ:10 獲得EXP:300 獲得金額:12,000
+クリアボーナス:なし
+チャレンジ目標:
+-- 金:''ザコ兵士''を''5体以上''撃破してクリア
+-- 銀:残りSoulが''20以上''でクリア
+-- 銅:''コンティニューなし''でクリア
+
+&color(black,#eeeeee){ボスエネミー};
+:|''[四天王]キヌガサ''
+属性:&color(black,#f1f1a6){光}; 種族:人類
+攻撃:12080/T HP:約700,000 獲得Soul:10 獲得Gold:0
+有効特効:対光属性
+ドロップ:光輝のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|なし
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''ドラン''
+攻撃:4600/3T HP:24,647(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300
+ドロップ:光のよりしろ
+
+:|''ハイ・ドラン''
+攻撃:?/3T HP:35,199(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350
+ドロップ:光のよりしろ
+
+:|''光杖縞魔導書(ちとせ)''
+攻撃:8560/3T HP:138,083(&color(black,#f1f1a6){光};) 獲得Soul:5 獲得Gold:0
+ドロップ:光のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:30.0
+獲得覚醒pt:?pt/1体
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/広がる戦火、高まる感情 > 弓術王の間合い'' - 簡易Map|
+|~y\x|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||BGCOLOR(#f1f1a6):卵P||||||||||BGCOLOR(#f1f1a6):卵βP||||||||||B|
+|~+3|||||||魔P||BGCOLOR(#f1f1a6):卵P||||BGCOLOR(#f1f1a6):卵P||||魔P||BGCOLOR(#f1f1a6):卵βP|||||||B|
+|~+2||||||BGCOLOR(#f1f1a6):卵P||||魔P||||箱||BGCOLOR(#f1f1a6):卵βP||箱||魔P|||BGCOLOR(#f1f1a6):卵βP|||B|
+|~+1|||||||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵βP||箱|||||BGCOLOR(#f1f1a6):卵βP|||||魔P|BGCOLOR(#f1f1a6):卵P|B|
+|~±0||||Sta|||魔P||||箱||魔P|||BGCOLOR(#f1f1a6):卵βP|魔P|||||||||B|
+|~-1||||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵βP||箱|||||BGCOLOR(#f1f1a6):卵βP|||||魔P|BGCOLOR(#f1f1a6):卵P|B|
+|~-2||||||||||魔P||||箱||BGCOLOR(#f1f1a6):卵βP||箱||魔P|||BGCOLOR(#f1f1a6):卵βP|||B|
+|~-3||||||BGCOLOR(#f1f1a6):卵P|魔P||BGCOLOR(#f1f1a6):卵P||||BGCOLOR(#f1f1a6):卵P||||魔P|||魔P||||||B|
+|~-4|||||||||||||||||||BGCOLOR(#f1f1a6):卵βP|||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 卵:竜卵種(ドラン系) 魔:魔導書型エネミーシンボル
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜β:「ハイ・〜」 〜γ:「キラー・〜」 〜δ:「カイザー・〜 」 〜ε:「シャドー・〜」
+ 　例:火属性のカイザー・ポイム → 軟δR
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+:|注意点:
+-- 初回は「''[['''挨拶は抜き'''>#c87e97eb]]''」の階段より挑戦。
+
+----
+*** 手荒な歓迎 [#p461f801]
+&color(black,#eeeeee){基本情報};
+:|
+距離:25 スタミナ:8 獲得EXP:200 獲得金額:8,000
+クリアボーナス:なし
+チャレンジ目標:
+-- 金:''ザコ兵士''を''5体以上''撃破してクリア
+-- 銀:残りSoulが''20以上''でクリア
+-- 銅:''コンティニューなし''でクリア
+
+&color(black,#eeeeee){ボスエネミー};
+:|''和竜参号''(仮)
+属性:&color(black,#f1f1a6){光}; 種族:ドラゴン
+攻撃:12410/3T HP:約180,000 獲得Soul:3 獲得Gold:0
+有効特効:対龍 , 対光属性
+ドロップ:光輝のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|なし
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''ドラン''
+攻撃:4270/3T HP:27,455(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300
+ドロップ:光のよりしろ
+
+:|''ハイ・ドラン''
+攻撃:4750/3T HP:27,187(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:350
+ドロップ:光輝のよりしろ , 光のよりしろ
+
+:|''光杖縞魔導書(ちとせ)''
+攻撃:8240/3T HP:82,103(&color(black,#f1f1a6){光};) 獲得Soul:5 獲得Gold:0
+ドロップ:光のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:37.5
+獲得覚醒pt:?pt/1体
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/広がる戦火、高まる感情 > 手荒な歓迎'' - 簡易Map|
+|~y\x|~25　|~24　|~23　|~22　|~21　|~20　|~19　|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:25|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:20|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:15|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:10|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:5|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:0|c
+|~+4||||||BGCOLOR(#f1f1a6):卵P|||||||||||||BGCOLOR(#f1f1a6):卵βP|||||||B|
+|~+3|||||||魔P||BGCOLOR(#f1f1a6):卵P||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵βP|魔P|||||||||B|
+|~+2||||||BGCOLOR(#f1f1a6):卵P||||魔P||||箱||||箱|BGCOLOR(#f1f1a6):卵βP|魔P|||BGCOLOR(#f1f1a6):卵βP||BGCOLOR(#f1f1a6):卵P|B|
+|~+1|||||||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵βP||箱||BGCOLOR(#f1f1a6):卵βP||||||||||B|
+|~±0||||Sta|||魔P||||箱||魔P||||魔P||BGCOLOR(#f1f1a6):卵βP||魔P|||魔P||B|
+|~-1||||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵βP||箱||BGCOLOR(#f1f1a6):卵βP||||||||||B|
+|~-2||||||||||魔P||||箱|||魔P|箱|BGCOLOR(#f1f1a6):卵βP|魔P|||BGCOLOR(#f1f1a6):卵βP||BGCOLOR(#f1f1a6):卵P|B|
+|~-3||||||BGCOLOR(#f1f1a6):卵P|魔P||BGCOLOR(#f1f1a6):卵P||||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵βP||||||||||B|
+|~-4|||||||||||||||||||BGCOLOR(#f1f1a6):卵βP|||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 卵:竜卵種(ドラン系) 魔:魔導書型エネミーシンボル
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜β:「ハイ・〜」 〜γ:「キラー・〜」 〜δ:「カイザー・〜 」 〜ε:「シャドー・〜」
+ 　例:火属性のカイザー・ポイム → 軟δR
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+:|注意点:
+-- 初回は「''[['''挨拶は抜き'''>#c87e97eb]]''」の階段より挑戦。
+
+----
+*** 挨拶は抜き [#c87e97eb]
+&color(black,#eeeeee){基本情報};
+:|
+距離:18 スタミナ:8 獲得EXP:200 獲得金額:8,000
+クリアボーナス:なし
+チャレンジ目標:
+-- 金:''ザコ兵士''を''3体以上''撃破してクリア
+-- 銀:残りSoulが''10以上''でクリア
+-- 銅:''コンティニューなし''でクリア
+
+&color(black,#eeeeee){ボスエネミー};
+:|''和竜参号''(仮)
+属性:&color(black,#f1f1a6){光}; 種族:ドラゴン
+攻撃:8830/3T HP:約100,000 獲得Soul:3 獲得Gold:0
+有効特効:対龍 , 対光属性
+ドロップ:光輝のよりしろ
+
+&color(black,#eeeeee){レアエネミー};
+:|なし
+
+&color(black,#eeeeee){エネミー};((属性、個体によってHPに多少の差異あり。))
+:|
+出現属性:&color(black,#f1f1a6){光};
+
+:|''ドラン''
+攻撃:?/3T HP:7,799(&color(black,#f1f1a6){光};) 獲得Soul:2 獲得Gold:300
+ドロップ:光輝のよりしろ , 光のよりしろ
+
+:|''光杖縞魔導書(ちとせ)''
+攻撃:?/3T HP:37,319(&color(black,#f1f1a6){光};) 獲得Soul:5 獲得Gold:0
+ドロップ:光のよりしろ
+
+&color(black,#eeeeee){備考};
+:|
+初期Soul値:15
+[exp/sta]:25.0
+獲得覚醒pt:?pt/1体
+:|各種箱の有無:
+-- Gold:- Life:あり Power:あり Soul:あり Unit:-
+:|簡易Map:
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|BGCOLOR(silver):''イベントエリア/広がる戦火、高まる感情 > 挨拶は抜き'' - 簡易Map|
+|~y\x|~18　|~17　|~16　|~15　|~14　|~13　|~12　|~11　|~10　|~09　|~08　|~07　|~06　|~05　|~04　|~03　|~02　|~01　|~00|
+||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|0CENTER:|c
+|~+4||||||||||BGCOLOR(#f1f1a6):卵P|||||||||B|
+|~+3||||||BGCOLOR(#f1f1a6):卵P|||||魔P|箱||BGCOLOR(#f1f1a6):卵P|魔P||BGCOLOR(#f1f1a6):卵P||B|
+|~+2|||||||魔P|||BGCOLOR(#f1f1a6):卵P||||BGCOLOR(#f1f1a6):卵P|''階2''|箱||魔P|B|
+|~+1||||||BGCOLOR(#f1f1a6):卵P||箱||||BGCOLOR(#f1f1a6):卵P||BGCOLOR(#f1f1a6):卵P|魔P||BGCOLOR(#f1f1a6):卵P||B|
+|~±0||||Sta||||||||||||箱|||B|
+|~-1||||||BGCOLOR(#f1f1a6):卵P||箱||BGCOLOR(#f1f1a6):卵P|魔P|BGCOLOR(#f1f1a6):卵P||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵P||B|
+|~-2|||||||魔P|||BGCOLOR(#f1f1a6):卵P|''階1''|箱|||魔P|箱||魔P|B|
+|~-3||||||BGCOLOR(#f1f1a6):卵P||||BGCOLOR(#f1f1a6):卵P|魔P|箱||BGCOLOR(#f1f1a6):卵P|||BGCOLOR(#f1f1a6):卵P||B|
+|~-4|||||||||||||||||||B|
+ -マップの見方-
+ Sta:スタート地点(Start)
+ 階1:「手荒な歓迎」(難易度★2)への階段。 階2:「弓術王の間合い」(難易度★2)への階段。
+ 卵:竜卵種(ドラン系) 魔:魔導書型エネミーシンボル
+ 〜R:火属性の〜(Red) 〜A:水属性の〜(Aqua) P:光属性の〜(Pure) 〜D:闇属性の〜(Dark) 〜H:無属性の〜(Hollow)
+ 〜β:「ハイ・〜」 〜γ:「キラー・〜」 〜δ:「カイザー・〜 」 〜ε:「シャドー・〜」
+ 　例:火属性のカイザー・ポイム → 軟δR
+ 
+ 背景色は属性パネルに対応。数字のみが入っているマスは未確認。
+
+----
+*** 開放履歴(広がる戦火、高まる感情) [#vf1e0e81]
+:2014/01/15(10:00)〜2014/01/17(10:00)|
+
+:2013/07/28〜2013/07/29|
+
+:2013/07/20〜2013/07/21|
+
+----
